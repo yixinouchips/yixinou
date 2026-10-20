@@ -560,7 +560,7 @@ export const COMPANY = {
   homeVideo: '/assets/videos/promo-30s.mp4',
   homeVideoPoster: '/assets/images/promo-poster.jpg',
   subscribeBg: '/assets/images/subscribe-bg.webp',
-  qr: '/assets/qr-yixinou.svg',
+  qr: '/assets/images/jessie-wechat-qrcode.jpg',
 };
 
 // ---------------- About us ----------------

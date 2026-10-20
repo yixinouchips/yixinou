@@ -21,7 +21,15 @@ export function SideBar() {
         <QrCode size={20} strokeWidth={2} />
         <div className="wx-box">
           <div className="box">
-            <img src={COMPANY.qr} alt="YIXINOU WeChat QR code" />
+            <img
+              src={COMPANY.qr || '/assets/images/jessie-wechat-qrcode.jpg'}
+              alt="Jessie WeChat QR code - Shenzhen Yixinou Electronic Co., Ltd."
+              title="Scan QR code to connect with Jessie on WeChat"
+              width="150"
+              height="150"
+              loading="lazy"
+              decoding="async"
+            />
           </div>
           <div className="arrowPanel">
             <div className="arrow01" />
