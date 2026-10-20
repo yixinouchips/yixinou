@@ -1582,7 +1582,8 @@ h1, h2, h3, h4, h5, h6 {
   #footer { grid-template-columns: 1fr; gap: 32px; }
   .foot-top { flex-direction: column; gap: 18px; }
   .derun-side-bar { top: auto; bottom: 70px; right: 8px; }
-  .derun-side-bar > a { width: 42px; height: 42px; }
+  .derun-side-bar > a,
+  .derun-side-bar > button { width: 42px; height: 42px; }
   .banner-copy { padding: 0 18px; }
   .banner-cta { margin-top: 16px; padding: 10px 22px; font-size: 13px; }
   .banner-nav button { width: 40px; height: 40px; }

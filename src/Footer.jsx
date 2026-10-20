@@ -7,18 +7,18 @@ import { useI18n } from './i18n';
 export function SideBar() {
   const { company: COMPANY } = useConfig();
   return (
-    <div className="derun-side-bar">
-      <a href={COMPANY.telHref} aria-label="tel">
-        <Phone size={20} />
+    <div className="derun-side-bar" role="complementary" aria-label="Quick contact sidebar">
+      <a href={COMPANY.telHref} aria-label="Phone" title="Phone">
+        <Phone size={20} strokeWidth={2} />
       </a>
-      <a href={COMPANY.whatsapp} target="_blank" rel="noreferrer" aria-label="whatsapp">
-        <MessageCircle size={20} />
+      <a href={COMPANY.whatsapp} target="_blank" rel="noreferrer" aria-label="WhatsApp" title="WhatsApp">
+        <MessageCircle size={20} strokeWidth={2} />
       </a>
-      <a href={COMPANY.email} aria-label="email">
-        <Mail size={20} />
+      <a href={COMPANY.email} aria-label="Email" title="Email">
+        <Mail size={20} strokeWidth={2} />
       </a>
-      <button type="button" aria-label="weixin" className="wx-trigger">
-        <QrCode size={20} />
+      <button type="button" aria-label="WeChat" title="WeChat" className="wx-trigger">
+        <QrCode size={20} strokeWidth={2} />
         <div className="wx-box">
           <div className="box">
             <img src={COMPANY.qr} alt="YIXINOU WeChat QR code" />
