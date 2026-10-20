@@ -1,0 +1,39 @@
+# YIXINOU
+
+> Shenzhen-based electronic component supplier and independent distributor. YIXINOU supplies ICs, transistors, connectors, capacitors, resistors, sensors, switches, LEDs and modules, verifies incoming orders, and quotes individual parts or complete bills of materials.
+
+## Products
+
+- [All products](https://yixinouchips.com/all-products): Searchable catalogue of the published component categories and part records.
+
+## Industries
+
+- [Industries overview](https://yixinouchips.com/industries): Overview of the industries served by YIXINOU.
+- [Aerospace](https://yixinouchips.com/industries/aerospace): Components for avionics, flight control and ground support equipment, including discontinued and hard-to-find references.
+- [Automotive](https://yixinouchips.com/industries/automotive): Components for ADAS, infotainment, lighting, body control and electric-vehicle power systems.
+- [Consumer Electronics](https://yixinouchips.com/industries/consumer-electronics): Components for phones, wearables, audio, smart home and small appliances, where cost and lead time decide the order.
+- [Contract Manufacturing](https://yixinouchips.com/industries/contract-manufacturing): Line-down and volume support for EMS and contract manufacturers, quoted against your bill of materials.
+- [Energy](https://yixinouchips.com/industries/energy): Components for solar, storage, grid and power-conversion equipment.
+- [Enterprise Computing & Servers](https://yixinouchips.com/industries/enterprise-computing): Components for servers, storage systems, networking appliances and data-centre hardware.
+- [Gaming](https://yixinouchips.com/industries/gaming): Components for gaming hardware, amusement, lottery and point-of-sale machines.
+- [Healthcare](https://yixinouchips.com/industries/healthcare): Components for patient monitoring, diagnostic imaging and laboratory equipment, where traceability matters.
+- [Industrial Automation](https://yixinouchips.com/industries/industrial-automation): Components for robotics, drives, PLCs, sensors and power electronics on the factory floor.
+- [Personal Computing](https://yixinouchips.com/industries/personal-computing): Components for laptops, desktops, peripherals and their accessory supply chain.
+- [Semiconductor Manufacturing](https://yixinouchips.com/industries/semiconductor-manufacturing): Support components and spares for fabrication, test and packaging operations.
+- [Telecom & Networking](https://yixinouchips.com/industries/telecom-networking): Components for base stations, routers, switches, optical transport and access equipment.
+
+## Quality and company
+
+- [Quality process](https://yixinouchips.com/quality): Incoming inspection, barcode review, visual checks, partner-laboratory analysis and electrical testing.
+- [About us](https://yixinouchips.com/about-us): Company profile, supply scope, team and facility information.
+- [Blogs](https://yixinouchips.com/blogs800): Electronic-component market information and company news.
+- [Contact us](https://yixinouchips.com/Contact): Send a part number or BOM for a quotation.
+- [Privacy policy](https://yixinouchips.com/privacy): Site privacy and cookie information.
+
+## Languages
+
+- [German](https://yixinouchips.com/de/), [French](https://yixinouchips.com/fr/), [Spanish](https://yixinouchips.com/es/), [Arabic](https://yixinouchips.com/ar/), [Russian](https://yixinouchips.com/ru/), [Japanese](https://yixinouchips.com/ja/), [Korean](https://yixinouchips.com/ko/), [Traditional Chinese](https://yixinouchips.com/zh/), [Bulgarian](https://yixinouchips.com/bg/), [Croatian](https://yixinouchips.com/hr/), [Czech](https://yixinouchips.com/cs/), [Danish](https://yixinouchips.com/da/), [Dutch](https://yixinouchips.com/nl/)
+
+## Machine-readable indexes
+
+- [XML sitemap](https://yixinouchips.com/sitemap.xml): Canonical public URLs for the English and enabled locale route trees.
