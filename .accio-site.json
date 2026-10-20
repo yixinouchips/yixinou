@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "siteId": "yixinou-b864e5cd",
+  "name": "yixinou",
+  "kind": "react-vite",
+  "devCommand": "vite",
+  "buildCommand": "vite build",
+  "outputDir": "dist",
+  "entry": "index.html",
+  "createdBy": "accio-site-builder",
+  "createdAt": "2026-09-01T04:24:04.932Z",
+  "siteIdSyncStatus": "synced",
+  "installedAt": "2026-09-01T05:31:57.928Z",
+  "databaseUrl": "https://supabase.com/dashboard/project/macoezmaiqhzhxjveyxl",
+  "integrations": {
+    "supabase": {
+      "projectUrl": "https://macoezmaiqhzhxjveyxl.supabase.co",
+      "projectRef": "macoezmaiqhzhxjveyxl",
+      "connectedAt": "2026-09-01T13:28:41.652Z"
+    }
+  },
+  "subdomain": "yixinou-okkishops",
+  "publishedUrl": "https://yixinou-okkishops.site.accio.ai",
+  "publishedAt": "2026-10-07T17:18:38.234Z",
+  "deployId": "dep_1791393520977_a608faf8"
+}

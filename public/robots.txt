@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+
+# LLM / AI crawler guidance
+# Structured site summary for language models: https://www.yixinou.com/llms.txt
+Sitemap: https://www.yixinou.com/sitemap.xml

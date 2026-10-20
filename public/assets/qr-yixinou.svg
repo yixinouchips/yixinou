@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 260" width="260" height="260">
+  <rect width="260" height="260" rx="14" fill="#FFFFFF"/>
+  <g fill="#002A6C">
+    <!-- decorative QR-style grid (placeholder pattern, not a scannable code) -->
+    <rect x="18" y="18" width="56" height="56" rx="6" fill="none" stroke="#002A6C" stroke-width="8"/>
+    <rect x="30" y="30" width="12" height="12"/>
+    <rect x="30" y="50" width="12" height="12"/>
+    <rect x="50" y="30" width="12" height="12"/>
+    <rect x="186" y="18" width="56" height="56" rx="6" fill="none" stroke="#002A6C" stroke-width="8"/>
+    <rect x="198" y="30" width="12" height="12"/>
+    <rect x="198" y="50" width="12" height="12"/>
+    <rect x="218" y="30" width="12" height="12"/>
+    <rect x="18" y="186" width="56" height="56" rx="6" fill="none" stroke="#002A6C" stroke-width="8"/>
+    <rect x="30" y="198" width="12" height="12"/>
+    <rect x="30" y="218" width="12" height="12"/>
+    <rect x="50" y="198" width="12" height="12"/>
+    <rect x="84" y="24" width="10" height="10"/>
+    <rect x="84" y="44" width="10" height="10"/>
+    <rect x="104" y="24" width="10" height="10"/>
+    <rect x="124" y="44" width="10" height="10"/>
+    <rect x="144" y="24" width="10" height="10"/>
+    <rect x="164" y="44" width="10" height="10"/>
+    <rect x="84" y="64" width="10" height="10"/>
+    <rect x="124" y="64" width="10" height="10"/>
+    <rect x="164" y="64" width="10" height="10"/>
+    <rect x="104" y="84" width="10" height="10"/>
+    <rect x="144" y="84" width="10" height="10"/>
+    <rect x="84" y="104" width="10" height="10"/>
+    <rect x="124" y="104" width="10" height="10"/>
+    <rect x="164" y="104" width="10" height="10"/>
+    <rect x="104" y="124" width="10" height="10"/>
+    <rect x="144" y="124" width="10" height="10"/>
+    <rect x="84" y="144" width="10" height="10"/>
+    <rect x="124" y="144" width="10" height="10"/>
+    <rect x="164" y="144" width="10" height="10"/>
+    <rect x="104" y="164" width="10" height="10"/>
+    <rect x="144" y="164" width="10" height="10"/>
+    <rect x="84" y="184" width="10" height="10"/>
+    <rect x="124" y="184" width="10" height="10"/>
+    <rect x="164" y="184" width="10" height="10"/>
+    <rect x="184" y="84" width="10" height="10"/>
+    <rect x="204" y="104" width="10" height="10"/>
+    <rect x="184" y="124" width="10" height="10"/>
+    <rect x="204" y="144" width="10" height="10"/>
+    <rect x="184" y="164" width="10" height="10"/>
+    <rect x="204" y="184" width="10" height="10"/>
+    <rect x="84" y="204" width="10" height="10"/>
+    <rect x="104" y="224" width="10" height="10"/>
+    <rect x="144" y="224" width="10" height="10"/>
+    <rect x="164" y="204" width="10" height="10"/>
+  </g>
+  <rect x="78" y="98" width="104" height="64" rx="8" fill="#002A6C"/>
+  <text x="130" y="122" text-anchor="middle" font-family="Montserrat_Bold, Montserrat, sans-serif" font-weight="800" font-size="18" fill="#FFFFFF">YIXINOU</text>
+  <text x="130" y="141" text-anchor="middle" font-family="Montserrat, sans-serif" font-size="12" fill="#C9DBF5">WeChat</text>
+  <text x="130" y="158" text-anchor="middle" font-family="Montserrat, sans-serif" font-size="11" fill="#C9DBF5">18516133798</text>
+</svg>

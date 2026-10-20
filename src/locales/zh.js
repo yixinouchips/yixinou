@@ -1,0 +1,902 @@
+/*
+ * Traditional Chinese page copy and page-level TDK.
+ *
+ * The UI dictionary (137 keys) already ships inline in src/i18n.jsx as the `zh` block, so this
+ * module deliberately carries no `ui` key — only the long-form page copy and the per-page TDK.
+ *
+ * Written as native Taiwanese/Hong Kong B2B technical copy, not a character-level conversion of
+ * the Simplified text: vocabulary follows the conventions already in use in i18n.jsx
+ * (積體電路、電晶體、連接器、模組、料號、庫存、報價、交期、品質), and the wording is idiomatic
+ * for a technical procurement audience.
+ *
+ * EEAT: nothing beyond the English source is claimed. Laboratory analysis — X-ray, XRF,
+ * decapsulation, solderability and electrical testing — is carried out by our partner
+ * laboratories (第三方合作實驗室). YIXINOU operates no testing laboratory of its own, and the
+ * copy says so, in the same places the English says so.
+ *
+ * Paths are locale-relative: '/' is the Traditional Chinese home page.
+ */
+const zh = {
+  copy: {
+    nav: [
+      {
+        label: '首頁',
+        href: '/',
+        active: true,
+      },
+      {
+        label: '關於我們',
+        href: '/about-us',
+      },
+      {
+        label: '全部產品',
+        href: '/all-products',
+        children: [
+          {
+            label: '積體電路（ICS）',
+            href: '/integrated-circuitsics',
+          },
+          {
+            label: '電晶體',
+            href: '/transistors',
+          },
+          {
+            label: '連接器',
+            href: '/connector',
+          },
+          {
+            label: '其他',
+            href: '/others',
+          },
+          {
+            label: '模組',
+            href: '/module',
+          },
+          {
+            label: '電容器',
+            href: '/capacitors805',
+          },
+          {
+            label: '電阻器',
+            href: '/resistor',
+          },
+          {
+            label: '感測器',
+            href: '/sensor',
+          },
+          {
+            label: '開關',
+            href: '/switch',
+          },
+          {
+            label: 'LED',
+            href: '/led',
+          },
+        ],
+      },
+      {
+        label: '應用行業',
+        href: '/industries',
+        mega: true,
+        children: [
+          {
+            slug: 'aerospace',
+            icon: 'rocket',
+            title: '航太',
+            href: '/industries/aerospace',
+            desc: '航電、飛控與地面支援設備所需的元件，包含已停產與不易尋獲的料號。',
+            items: [
+              '航電、飛控與儀表板件',
+              '已停產、最後採購（LTB）與停用料號',
+              '連接器、繼電器、振盪器與被動元件',
+            ],
+          },
+          {
+            slug: 'automotive',
+            icon: 'car',
+            title: '汽車',
+            href: '/industries/automotive',
+            desc: 'ADAS、車用資訊娛樂、照明、車身控制與電動車電力系統所需的元件。',
+            items: [
+              'ADAS、感測與攝影機元件',
+              '資訊娛樂、顯示與音訊料件',
+              '照明、車身控制與電源管理料件',
+            ],
+          },
+          {
+            slug: 'consumer-electronics',
+            icon: 'monitor',
+            title: '消費性電子',
+            href: '/industries/consumer-electronics',
+            desc: '手機、穿戴裝置、音訊、智慧家庭與小家電所需的元件，這類產品往往由成本與交期決定訂單。',
+            items: [
+              '顯示、觸控與攝影機元件',
+              '電源管理與充電 IC',
+              '無線、音訊與被動元件',
+            ],
+          },
+          {
+            slug: 'contract-manufacturing',
+            icon: 'factory',
+            title: '委外代工',
+            href: '/industries/contract-manufacturing',
+            desc: '為 EMS 與代工廠提供停線急件與量產支援，依您的 BOM 報價。',
+            items: [
+              'BOM 報價與一站式採購',
+              '停線急料與缺料調度',
+              '第二料源驗證與庫存調節',
+            ],
+          },
+          {
+            slug: 'energy',
+            icon: 'zap',
+            title: '能源',
+            href: '/industries/energy',
+            desc: '太陽能、儲能、電網與電力轉換設備所需的元件。',
+            items: [
+              '逆變器與電力轉換料件',
+              '閘極驅動器、IGBT 與電源模組',
+              '控制、監測與磁性元件',
+            ],
+          },
+          {
+            slug: 'enterprise-computing',
+            icon: 'server',
+            title: '企業運算與伺服器',
+            href: '/industries/enterprise-computing',
+            desc: '伺服器、儲存系統、網通設備與資料中心硬體所需的元件。',
+            items: [
+              '伺服器、儲存與介面控制器',
+              '電源供應器與穩壓器',
+              '散熱、連接器與線材',
+            ],
+          },
+          {
+            slug: 'gaming',
+            icon: 'gamepad',
+            title: '遊戲機台',
+            href: '/industries/gaming',
+            desc: '遊戲硬體、娛樂、彩券與 POS 機台所需的元件。',
+            items: [
+              '顯示與控制器料件',
+              '電源、介面與照明元件',
+              '舊型機台的長效替代料',
+            ],
+          },
+          {
+            slug: 'healthcare',
+            icon: 'heart-pulse',
+            title: '醫療器材',
+            href: '/industries/healthcare',
+            desc: '病患監測、診斷影像與實驗室設備所需的元件，可追溯性尤其關鍵。',
+            items: [
+              '監測與診斷電路板',
+              '感測器與訊號調理料件',
+              '電源、隔離與已停產料號',
+            ],
+          },
+          {
+            slug: 'industrial-automation',
+            icon: 'cog',
+            title: '工業自動化',
+            href: '/industries/industrial-automation',
+            desc: '工廠現場的機器人、驅動器、PLC、感測器與電力電子所需的元件。',
+            items: [
+              'PLC、驅動與運動控制料件',
+              '感測器與介面 IC',
+              '電力電子、繼電器與端子',
+            ],
+          },
+          {
+            slug: 'personal-computing',
+            icon: 'keyboard',
+            title: '個人電腦',
+            href: '/industries/personal-computing',
+            desc: '筆記型電腦、桌上型電腦、周邊設備及其零配件供應鏈所需的元件。',
+            items: [
+              '電源管理與充電 IC',
+              '介面、USB 與顯示控制器',
+              '維修與售後服務所需的舊款料號',
+            ],
+          },
+          {
+            slug: 'semiconductor-manufacturing',
+            icon: 'cpu',
+            title: '半導體製造',
+            href: '/industries/semiconductor-manufacturing',
+            desc: '晶圓製造、測試與封裝作業所需的支援元件與備品。',
+            items: [
+              '測試機與 Handler 介面料件',
+              '電源供應器與控制電子',
+              '感測器、運動元件與舊機備品',
+            ],
+          },
+          {
+            slug: 'telecom-networking',
+            icon: 'network',
+            title: '電信與網路',
+            href: '/industries/telecom-networking',
+            desc: '基地台、路由器、交換器、光傳輸與接取設備所需的元件。',
+            items: [
+              '射頻、光通訊與介面元件',
+              '電源與電路保護料件',
+              '濾波器、連接器與線卡支援',
+            ],
+          },
+        ],
+      },
+      {
+        label: '品質保證',
+        href: '/quality',
+      },
+      {
+        label: '部落格',
+        href: '/blogs800',
+        children: [
+          {
+            label: '產業資訊',
+            href: '/industry-information',
+          },
+          {
+            label: '公司新聞',
+            href: '/company-news',
+          },
+        ],
+      },
+      {
+        label: '聯繫我們',
+        href: '/Contact',
+      },
+    ],
+    categories: [
+      {
+        img: '/assets/images/cat-ics.jpg',
+        label: '積體電路（ICS）',
+        href: '/integrated-circuitsics',
+      },
+      {
+        img: '/assets/images/cat-transistors.jpg',
+        label: '電晶體',
+        href: '/transistors',
+      },
+      {
+        img: '/assets/images/cat-connector.jpg',
+        label: '連接器',
+        href: '/connector',
+      },
+      {
+        img: '/assets/images/cat-others.jpg',
+        label: '其他',
+        href: '/others',
+      },
+    ],
+    pageBanners: {
+      '/about-us': {
+        title: '深耕深圳八年的電子元件採購',
+        sub: 'Shenzhen Yixinou Electronic Co., Ltd. 為五大洲客戶供應積體電路、電晶體、連接器、電容器與模組 —— 每一筆訂單出貨前都經過檢驗。',
+        cta: {
+          label: '與我們的團隊聊聊',
+          href: '/Contact',
+        },
+        micro: '每筆訂單皆執行進料檢驗 · 實驗室分析由第三方合作實驗室執行',
+      },
+      '/industries': {
+        title: '一家供應商，滿足十二大行業',
+        sub: '從航太到汽車，從醫療器材到電信 —— 我們供應您所在行業賴以運作的料件，到貨即檢驗，並依您的 BOM 報價。',
+        cta: {
+          label: '洽詢您所在的行業',
+          href: '/Contact',
+        },
+        micro: '12 大行業 · 10 個產品分類 · 客戶遍及五大洲',
+      },
+      '/all-products': {
+        title: '積體電路、電晶體、連接器、電容器等元件',
+        sub: '把您的 BOM 寄給我們，我們整單報價，而不是一次只報一顆料。每筆訂單都含進料檢驗。',
+        cta: {
+          label: '取得免費報價',
+          href: '/Contact',
+        },
+        micro: 'BOM 與一站式採購 · 停線急料調度 · 出口五大洲',
+      },
+    },
+    industriesPage: {
+      eyebrow: '應用行業',
+      title: '我們服務的行業',
+      lead: '我們為十二大行業的製造商、代工廠與貿易商供應電子元件。每筆訂單出貨前都會檢驗，任何需要內部結構分析的料件，一律送交第三方合作實驗室。',
+      menuDesc: '我們為各行各業的眾多企業提供服務，並與他們建立長期合作關係。',
+      ctaLabel: '查看全部行業',
+      ctaHref: '/industries',
+      items: [
+        {
+          slug: 'aerospace',
+          icon: 'rocket',
+          title: '航太',
+          href: '/industries/aerospace',
+          desc: '航電、飛控與地面支援設備所需的元件，包含已停產與不易尋獲的料號。',
+          items: [
+            '航電、飛控與儀表板件',
+            '已停產、最後採購（LTB）與停用料號',
+            '連接器、繼電器、振盪器與被動元件',
+          ],
+        },
+        {
+          slug: 'automotive',
+          icon: 'car',
+          title: '汽車',
+          href: '/industries/automotive',
+          desc: 'ADAS、車用資訊娛樂、照明、車身控制與電動車電力系統所需的元件。',
+          items: [
+            'ADAS、感測與攝影機元件',
+            '資訊娛樂、顯示與音訊料件',
+            '照明、車身控制與電源管理料件',
+          ],
+        },
+        {
+          slug: 'consumer-electronics',
+          icon: 'monitor',
+          title: '消費性電子',
+          href: '/industries/consumer-electronics',
+          desc: '手機、穿戴裝置、音訊、智慧家庭與小家電所需的元件，這類產品往往由成本與交期決定訂單。',
+          items: [
+            '顯示、觸控與攝影機元件',
+            '電源管理與充電 IC',
+            '無線、音訊與被動元件',
+          ],
+        },
+        {
+          slug: 'contract-manufacturing',
+          icon: 'factory',
+          title: '委外代工',
+          href: '/industries/contract-manufacturing',
+          desc: '為 EMS 與代工廠提供停線急件與量產支援，依您的 BOM 報價。',
+          items: [
+            'BOM 報價與一站式採購',
+            '停線急料與缺料調度',
+            '第二料源驗證與庫存調節',
+          ],
+        },
+        {
+          slug: 'energy',
+          icon: 'zap',
+          title: '能源',
+          href: '/industries/energy',
+          desc: '太陽能、儲能、電網與電力轉換設備所需的元件。',
+          items: [
+            '逆變器與電力轉換料件',
+            '閘極驅動器、IGBT 與電源模組',
+            '控制、監測與磁性元件',
+          ],
+        },
+        {
+          slug: 'enterprise-computing',
+          icon: 'server',
+          title: '企業運算與伺服器',
+          href: '/industries/enterprise-computing',
+          desc: '伺服器、儲存系統、網通設備與資料中心硬體所需的元件。',
+          items: [
+            '伺服器、儲存與介面控制器',
+            '電源供應器與穩壓器',
+            '散熱、連接器與線材',
+          ],
+        },
+        {
+          slug: 'gaming',
+          icon: 'gamepad',
+          title: '遊戲機台',
+          href: '/industries/gaming',
+          desc: '遊戲硬體、娛樂、彩票與 POS 機台所需的元件。',
+          items: [
+            '顯示與控制器料件',
+            '電源、介面與照明元件',
+            '舊型機台的長效替代料',
+          ],
+        },
+        {
+          slug: 'healthcare',
+          icon: 'heart-pulse',
+          title: '醫療器材',
+          href: '/industries/healthcare',
+          desc: '病患監測、診斷影像與實驗室設備所需的元件，可追溯性尤其關鍵。',
+          items: [
+            '監測與診斷電路板',
+            '感測器與訊號調理料件',
+            '電源、隔離與已停產料號',
+          ],
+        },
+        {
+          slug: 'industrial-automation',
+          icon: 'cog',
+          title: '工業自動化',
+          href: '/industries/industrial-automation',
+          desc: '工廠現場的機器人、驅動器、PLC、感測器與電力電子所需的元件。',
+          items: [
+            'PLC、驅動與運動控制料件',
+            '感測器與介面 IC',
+            '電力電子、繼電器與端子',
+          ],
+        },
+        {
+          slug: 'personal-computing',
+          icon: 'keyboard',
+          title: '個人電腦',
+          href: '/industries/personal-computing',
+          desc: '筆記型電腦、桌上型電腦、周邊設備及其零配件供應鏈所需的元件。',
+          items: [
+            '電源管理與充電 IC',
+            '介面、USB 與顯示控制器',
+            '維修與售後服務所需的舊款料號',
+          ],
+        },
+        {
+          slug: 'semiconductor-manufacturing',
+          icon: 'cpu',
+          title: '半導體製造',
+          href: '/industries/semiconductor-manufacturing',
+          desc: '晶圓製造、測試與封裝作業所需的支援元件與備品。',
+          items: [
+            '測試機與 Handler 介面料件',
+            '電源供應器與控制電子',
+            '感測器、運動元件與舊機備品',
+          ],
+        },
+        {
+          slug: 'telecom-networking',
+          icon: 'network',
+          title: '電信與網路',
+          href: '/industries/telecom-networking',
+          desc: '基地台、路由器、交換器、光傳輸與接取設備所需的元件。',
+          items: [
+            '射頻、光通訊與介面元件',
+            '電源與電路保護料件',
+            '濾波器、連接器與線卡支援',
+          ],
+        },
+      ],
+    },
+    quality: {
+      banner: '/assets/images/quality-banner.jpg',
+      hero: {
+        eyebrow: '品質保證',
+        title: '每一筆訂單，出貨前都經過檢驗',
+        lead: 'YIXINOU 為無法承受一顆不良品的買主供應積體電路、電晶體、連接器、電容器、電阻器、感測器、開關、LED 與模組。料件送達我們位於深圳的作業場地後即逐批查驗，任何需要內部結構分析的料件，則交由第三方合作實驗室處理。',
+        points: [
+          '我們收到的每一筆訂單都執行進料檢驗',
+          '以數位顯微鏡進行外觀檢驗',
+          '內部結構分析與電氣測試由第三方合作實驗室執行',
+          '我們出貨的批次都留有檢驗紀錄',
+        ],
+        ctaLabel: '聯繫我們的品保團隊',
+        ctaHref: '/Contact',
+        img: '/assets/images/quality-hero-inspection.jpg',
+        alt: '一位 YIXINOU 檢驗員在工作站操作數位檢驗顯微鏡，身旁的螢幕顯示著放大後的元件影像',
+      },
+      checks: {
+        eyebrow: '我們檢驗什麼',
+        title: '每筆訂單都會做的四件事',
+        items: [
+          {
+            icon: 'sampling',
+            title: '約定抽樣',
+            text: '我們在開始前先與您議定抽樣計畫，並依料件、數量與您自己的允收標準調整。',
+          },
+          {
+            icon: 'visual',
+            title: '外觀檢驗',
+            text: '以數位顯微鏡檢查外觀，確認是否有破損、遭重新印字或料件不符的情形，並進行接腳檢查、刮痕測試、丙酮測試與印字耐久性測試。',
+          },
+          {
+            icon: 'records',
+            title: '檢驗紀錄',
+            text: '每一批出貨我們都保留檢驗結果、照片以及批號與日期碼，讓您可以追溯當時檢驗了哪些項目。',
+          },
+          {
+            icon: 'reporting',
+            title: '依您的格式出具報告',
+            text: '告訴我們您的報告需要包含哪些內容，我們會將檢驗結果隨貨附上。',
+          },
+        ],
+      },
+      process: {
+        eyebrow: '我們的流程',
+        title: '我們的品質流程',
+        statement: '以務實的檢驗設備把關我們經手的每一筆訂單 —— 當料件需要更深入的分析時，交由第三方合作實驗室。',
+        note: '第 1 至第 3 步在我們位於深圳的作業場地完成；第 4 與第 5 步由第三方合作實驗室執行 —— YIXINOU 本身並不設置測試實驗室，我們據實說明，讓您清楚知道是誰在檢測您的料件。',
+        steps: [
+          {
+            title: '拍照建檔與核對',
+            text: [
+              '我們依料號與序號清點並整理您的元件，並在收料當下拍照存證。',
+              '我們記錄數量與原產地，再為每個批次編列專屬的批號與日期碼。',
+            ],
+            img: '/assets/images/quality-step-1-photography.jpg',
+            alt: '電子元件捲帶、托盤與防靜電袋，在 YIXINOU 場地的分揀區依標籤排成一列',
+            inhouse: true,
+          },
+          {
+            title: '條碼掃描與覆核',
+            text: [
+              '由第二道程序再次確認數量與規格，與您的訂單完全一致。',
+              '標籤掃描後建入我們的紀錄，讓每個料件都能追溯回它所屬的批次。',
+            ],
+            img: '/assets/images/quality-step-2-barcode.jpg',
+            alt: '示意圖：手持條碼掃描器在工作檯上方讀取密封防靜電袋的標籤',
+            inhouse: true,
+            illustrative: true,
+          },
+          {
+            title: '外觀檢驗',
+            text: [
+              '我們的檢驗員以數位檢驗顯微鏡逐件檢查元件外觀。',
+              '我們檢查是否有破損、遭重新印字或料件不符的情形，並執行接腳檢查、刮痕測試、丙酮測試與印字耐久性測試。',
+            ],
+            img: '/assets/images/quality-step-3-visual.jpg',
+            alt: '一位 YIXINOU 檢驗員將元件置於數位檢驗顯微鏡下，後方螢幕顯示著元件表面的放大影像',
+            inhouse: true,
+          },
+          {
+            title: '實驗室分析與測試',
+            text: [
+              '需要內部結構分析的料件會送往第三方合作實驗室，由該實驗室的工程師以 X 光、X 射線螢光分析（XRF）與高倍率顯微鏡進行進階檢測。',
+              '該實驗室也會以加熱與化學開蓋方式驗證料件真偽，並透過可焊性測試確認接腳或端子能穩定焊接。',
+            ],
+            img: '/assets/images/quality-step-4-laboratory.jpg',
+            alt: '示意圖：第三方合作實驗室工作檯上的 X 光檢測箱、XRF 分析儀與檢驗顯微鏡，旁側放著一座元件樣品托盤',
+            inhouse: false,
+            illustrative: true,
+          },
+          {
+            title: '電氣測試',
+            text: [
+              '電氣特性由第三方合作實驗室依料件資料表的規格實測。',
+              '該實驗室的工程師使用曲線追蹤儀、功能測試，或電感、電容與電阻（LCR）量測，來驗證主動與被動元件的特性。',
+            ],
+            img: '/assets/images/quality-step-5-electrical.jpg',
+            alt: '示意圖：曲線追蹤儀與 LCR 測試檯，元件固定於測試夾具中，螢幕上顯示量測曲線',
+            inhouse: false,
+            illustrative: true,
+          },
+        ],
+      },
+      midCta: {
+        title: '告訴我們您的料件必須通過哪些條件',
+        text: '把您的允收標準寄給我們 —— 抽樣水準、需要的測試項目與報告格式 —— 我們會在料件送達您手上之前，明確確認將如何檢驗您的訂單。',
+        ctaLabel: '送出您的需求',
+        ctaHref: '/Contact',
+      },
+      standard: {
+        eyebrow: '為什麼選擇 YIXINOU',
+        title: '卓越，是我們的標準',
+        blocks: [
+          {
+            eyebrow: '供應商資格',
+            title: '我們敢背書的供應商',
+            text: '我們向通過評鑑的供應商採購，並保留表現穩定者。曾出現品質問題的供應商，會被限制往來或移出我們的名單。當一顆料件的來源履歷無法驗證時，我們會直接告訴您，而不是當作確定品出貨。',
+            img: '/assets/images/quality-standard-vendors.jpg',
+            alt: 'YIXINOU 倉庫中堆放棧板化電子元件的高架貨架',
+          },
+          {
+            eyebrow: '可追溯性',
+            title: '每個批次都有紀錄',
+            text: '每一批出貨都登錄檢驗結果、照片以及批號與日期碼。如果您想知道某一批次當時檢驗了什麼，我們可以調出紀錄寄給您。',
+            img: '/assets/images/quality-standard-records.jpg',
+            alt: 'YIXINOU 員工在工作站維護檢驗與出貨紀錄',
+          },
+        ],
+      },
+      stats: {
+        eyebrow: '數字實績',
+        title: 'YIXINOU 的優勢',
+        items: [
+          {
+            value: '8+',
+            label: '元件產業深耕年數',
+          },
+          {
+            value: '10',
+            label: '供應的產品分類',
+          },
+          {
+            value: '20+',
+            label: '全球合作夥伴',
+          },
+          {
+            value: '5',
+            label: '出貨涵蓋的洲別',
+          },
+        ],
+      },
+      services: {
+        eyebrow: '品質服務',
+        title: '為品質立下標準',
+        items: [
+          {
+            icon: 'process',
+            title: '進料檢驗',
+            text: '了解我們對您的元件執行哪五道檢驗，以及每道檢驗在何處進行。',
+            href: '/quality#quality-process',
+          },
+          {
+            icon: 'report',
+            title: '檢驗報告',
+            text: '依您團隊需要的格式，索取您這批出貨的檢驗結果、照片與批次紀錄。',
+            href: '/Contact',
+          },
+          {
+            icon: 'shield',
+            title: '供應商評鑑',
+            text: '我們如何篩選採購來源，以及當供應商表現不如預期時我們怎麼處理。',
+            href: '/quality#quality-standard',
+          },
+          {
+            icon: 'testing',
+            title: '元件測試',
+            text: '透過第三方合作實驗室安排 X 光、XRF、開蓋、可焊性或電氣測試。',
+            href: '/Contact',
+          },
+          {
+            icon: 'team',
+            title: '品保團隊',
+            text: '認識為您檢驗元件，並代為協調測試的檢驗人員。',
+            href: '/about-us',
+          },
+          {
+            icon: 'award',
+            title: '認證',
+            text: '瀏覽支持我們品質服務的認證與跨行業會員資格。',
+            href: '/about-us',
+          },
+        ],
+      },
+      faq: {
+        eyebrow: '常見問題',
+        title: '買主最常問我們的品質問題',
+        items: [
+          {
+            q: '你們會自行檢測元件嗎？',
+            a: '有一部分是。進料檢驗、拍照建檔、條碼覆核，以及以數位顯微鏡進行的外觀檢驗，都在我們位於深圳的作業場地自行完成；內部結構分析 —— X 光、XRF、開蓋、可焊性與電氣測試 —— 則由第三方合作實驗室執行。',
+          },
+          {
+            q: '你們的實驗室檢測是由誰執行？',
+            a: '由我們的第三方合作實驗室執行。YIXINOU 本身並不設置測試實驗室，我們據實說明，讓您清楚知道是誰在檢測您的料件。',
+          },
+          {
+            q: '訂單可以附檢驗報告嗎？',
+            a: '可以。告訴我們您的報告需要包含哪些內容，我們會將檢驗結果、照片與批次紀錄隨貨附上。',
+          },
+          {
+            q: '如果發現問題，你們會怎麼處理？',
+            a: '我們會先攔下該批次，帶著發現的結果與佐證資料回報給您，而不是先出貨、再賭它會通過您的進料檢驗。',
+          },
+          {
+            q: '你們會抽驗多少比例的訂單數量？',
+            a: '抽樣計畫我們會在開始前與您議定。數量較大、批次混雜與來源未經驗證的料件，會以更嚴格的標準檢驗。',
+          },
+        ],
+      },
+      closing: {
+        title: '品質管理',
+        text: '每一顆料件都經過檢驗。看看有哪些現貨。',
+        primary: {
+          label: '聯繫我們',
+          href: '/Contact',
+        },
+        secondary: {
+          label: '瀏覽全部產品',
+          href: '/all-products',
+        },
+      },
+    },
+    about: {
+      text: [
+        'Shenzhen Yixinou Electronic Co., Ltd. 是一家電子元件供應商，據點設於中國深圳福田區。我們採購、驗證並出貨客戶維持產線運作所需的料件 —— 從單一捲帶到整份 BOM 物料清單都能處理。',
+        '多數客戶找上我們，是因為產線突然缺料、BOM 必須盡快報出價格，或是一批料在投入生產前需要檢驗。這正是我們擅長的工作：確認真正可供應的庫存、檢驗到貨的料件，並在料件無法驗證時坦白告訴您。',
+        '我們供應積體電路、電晶體、連接器、電容器、電阻器、感測器、開關、LED 與模組。我們的元件應用於消費性電子、物聯網、新能源、通訊、工業與汽車等領域，客戶遍及亞洲、歐洲、非洲與美洲。',
+      ],
+      factory: [
+        {
+          img: '/assets/images/team-group.jpg',
+          alt: 'YIXINOU 團隊在深圳辦公室合影',
+        },
+        {
+          img: '/assets/images/gallery-01.jpg',
+          alt: '為分揀作業攤開排列的元件捲帶與托盤',
+        },
+        {
+          img: '/assets/images/gallery-02.jpg',
+          alt: '出貨前的出貨倉作業區',
+        },
+        {
+          img: '/assets/images/gallery-03.jpg',
+          alt: '深圳場地的倉庫走道',
+        },
+        {
+          img: '/assets/images/gallery-04.jpg',
+          alt: '作業人員在 SMT 產線上的工作情形',
+        },
+        {
+          img: '/assets/images/gallery-05.jpg',
+          alt: 'SMT 產線上的精密組裝設備',
+        },
+        {
+          img: '/assets/images/gallery-06.jpg',
+          alt: '倉庫中的元件儲位貨架',
+        },
+        {
+          img: '/assets/images/gallery-07.jpg',
+          alt: '已貼標、準備出貨的包裝完成訂單',
+        },
+      ],
+      certificates: [
+        '/assets/images/verpackg-registration-certificate.webp',
+        '/assets/images/epr-leko-membership-certificate.webp',
+        '/assets/images/sgs-verified-supplier-assessment.webp',
+        '/assets/images/yixinou-class-9-trademark-registration.webp',
+      ],
+    },
+    aboutPage: {
+      hero: {
+        eyebrow: '我們的故事',
+        title: '八年來，為您的產線採購最關鍵的元件',
+        statement: 'Shenzhen Yixinou Electronic Co., Ltd. 是一家獨立電子元件分銷商。我們從深圳供應積體電路、電晶體、連接器、電容器、電阻器、感測器、開關、LED 與模組，客戶遍及五大洲。',
+        ctaLabel: '與我們的團隊聊聊',
+        ctaHref: '/Contact',
+        img: '/assets/images/about-hero.jpg',
+        alt: 'YIXINOU 團隊在深圳業務辦公室座位上工作的情形',
+      },
+      cards: [
+        {
+          icon: 'sourcing',
+          title: '元件採購',
+          text: '依您的 BOM 物料清單採購積體電路、電晶體、連接器、電容器、電阻器、感測器、開關、LED 與模組。',
+        },
+        {
+          icon: 'bom',
+          title: 'BOM 與一站式採購',
+          text: '把 BOM 物料清單寄給我們，我們整單報價，而不是一顆一顆報。',
+        },
+        {
+          icon: 'inspection',
+          title: '進料檢驗',
+          text: '每一筆訂單到貨後，都先在我們位於深圳的作業場地完成檢驗，才為您包裝出貨。',
+        },
+        {
+          icon: 'export',
+          title: '出口與物流',
+          text: '備妥文件、包裝並出貨至五大洲的客戶。',
+        },
+      ],
+      facts: {
+        eyebrow: '快速總覽',
+        title: 'YIXINOU 一眼看盡',
+        items: [
+          {
+            value: '8+',
+            label: '元件產業深耕年數',
+          },
+          {
+            value: '10',
+            label: '供應的產品分類',
+          },
+          {
+            value: '5',
+            label: '出貨涵蓋的洲別',
+          },
+          {
+            value: '深圳',
+            label: '登記註冊地與倉庫',
+          },
+        ],
+      },
+      values: {
+        eyebrow: '我們的價值觀',
+        title: '推動我們前進的信念。',
+        items: [
+          {
+            title: '準確優先',
+            text: '我們寧可告訴您一顆料件無法驗證，也不願先出貨，讓您在進料檢驗時才發現問題。',
+          },
+          {
+            title: '可追溯性',
+            text: '批號、日期碼與檢驗紀錄都會保留，當您問起當初檢驗了哪些項目，我們答得出來。',
+          },
+          {
+            title: '據實以告',
+            text: '這也包括由誰檢測您的料件：實驗室分析交由第三方合作實驗室執行，我們也據實說明。',
+          },
+          {
+            title: '即時回應',
+            text: '報價與庫存查詢，我們會用最快的速度回覆。',
+          },
+          {
+            title: '關係重於訂單',
+            text: '我們寧可留住一位長年客戶，也不願只做一筆訂單。',
+          },
+          {
+            title: '持續改善',
+            text: '每一次客訴都會被記錄與檢討，並實際改變我們採購與檢驗的方式。',
+          },
+        ],
+      },
+      team: {
+        eyebrow: '我們的團隊',
+        title: '您會接觸到的人',
+        lead: '由同一組團隊負責您的詢價、報價與檢驗紀錄，不必在各個窗口之間被轉來轉去。',
+      },
+      video: {
+        eyebrow: '更近距離的了解',
+        title: '走進我們的深圳作業現場',
+        text: '在我們的場地實地拍攝 —— 工作站、檢驗檯，以及我們每天經手的元件。',
+      },
+      related: {
+        eyebrow: '關於我們',
+        title: '進一步了解我們。',
+        items: [
+          {
+            title: '品質流程',
+            text: '我們對您的元件執行的五道檢驗，以及每道檢驗在哪裡進行。',
+            href: '/quality',
+          },
+          {
+            title: '全部產品',
+            text: '積體電路、電晶體、連接器、電容器、電阻器、感測器、開關、LED 與模組。',
+            href: '/all-products',
+          },
+          {
+            title: '部落格',
+            text: '元件市場的產業資訊與公司動態。',
+            href: '/blogs800',
+          },
+          {
+            title: '聯繫我們',
+            text: '把您的 BOM 或需求寄給我們，我們會盡快回覆。',
+            href: '/Contact',
+          },
+        ],
+      },
+    },
+  },
+  tdk: {
+    '/': {
+      title: '電子零件供應商｜積體電路、電晶體、電容器現貨供應 | YIXINOU',
+      description: 'YIXINOU 是位於中國深圳福田區的電子元件供應商，供應積體電路、電晶體、連接器、電容器、電阻器、感測器、開關、LED 與模組，支援 BOM 整單報價與一站式採購，每筆訂單出貨前均執行進料檢驗。',
+      keywords: '電子零件,積體電路,被動元件,電子元件供應商,現貨供應,BOM 報價,深圳電子元件,IC 現貨',
+    },
+    '/about-us': {
+      title: '關於我們｜深耕深圳八年的電子元件分銷商 | YIXINOU',
+      description: 'Shenzhen Yixinou Electronic Co., Ltd. 自深圳福田供應積體電路、電晶體、連接器、電容器、電阻器、感測器、開關、LED 與模組至五大洲客戶，每筆訂單皆執行進料檢驗。',
+      keywords: '深圳電子元件,電子元件分銷商,IC 供應商,中國電子零件,BOM 採購,關於 YIXINOU,元件現貨',
+    },
+    '/all-products': {
+      title: '全部產品｜依料號、品牌搜尋電子元件現貨 | YIXINOU',
+      description: '依料號、品牌或規格搜尋 YIXINOU 的電子元件 —— 積體電路、記憶體、電晶體、電容器與連接器，並可依您的 BOM 需求取得整單報價。',
+      keywords: '料號搜尋,電子元件查詢,積體電路,DDR5 記憶體,BGA-96,電容器,電晶體,連接器,BOM 報價',
+    },
+    '/quality': {
+      title: '品質流程｜電子元件進料檢驗與實驗室分析 | YIXINOU',
+      description: 'YIXINOU 如何為電子元件把關：議定抽樣、進料檢驗、以數位顯微鏡進行外觀檢驗，以及由第三方合作實驗室執行的 X 光、XRF、開蓋、可焊性與電氣測試。',
+      keywords: '電子元件檢驗,進料檢驗,元件測試,防偽料,IC 檢驗,第三方合作實驗室,品質管理,YIXINOU 品質',
+    },
+    '/blogs800': {
+      title: '電子元件產業資訊、市場趨勢與公司動態 | YIXINOU',
+      description: 'YIXINOU 部落格提供電子元件產業的最新消息、市場趨勢與專業觀點，涵蓋元件採購、品質檢驗與供應鏈動態。',
+      keywords: '電子元件部落格,IC 產業新聞,深圳電子零件,市場趨勢,供應鏈資訊,產業資訊',
+    },
+    '/Contact': {
+      title: '聯繫我們｜深圳電子元件報價與交期洽詢 | YIXINOU',
+      description: '聯繫位於深圳的電子元件供應商 YIXINOU，洽詢積體電路、電晶體、連接器、電容器與電阻器的庫存、報價與交期，並支援 BOM 整單報價與一站式採購。',
+      keywords: '聯繫電子元件供應商,IC 供應商,深圳電子零件,BOM 詢價,電子元件報價,交期查詢',
+    },
+    '/privacy': {
+      title: '隱私權政策｜Cookie 與資料保護說明 | YIXINOU',
+      description: '了解 YIXINOU 如何收集、使用與保護您的個人資料，以及您對 Cookie 與網站流量分析所擁有的權利。',
+      keywords: '隱私權政策,個人資料保護,Cookie 政策,資料安全,YIXINOU 隱私權',
+    },
+    '/industries': {
+      title: '應用行業｜航太、汽車、醫療等十二大行業元件供應 | YIXINOU',
+      description: 'YIXINOU 為航太、汽車、消費性電子、委外代工、能源、醫療器材、工業自動化與電信等十二大行業供應電子元件，並依您的 BOM 報價。',
+      keywords: '行業應用,電子元件應用,航太元件,汽車電子元件,工業自動化元件,電信網通元件,深圳電子零件',
+    },
+  },
+};
+
+export default zh;

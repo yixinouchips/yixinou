@@ -1,0 +1,161 @@
+# YIXINOU — Shenzhen Yixinou Electronic Co., Ltd.
+
+> Independent distributor of electronic components based in Futian District, Shenzhen, China. YIXINOU supplies ICs, transistors, connectors, capacitors, resistors, sensors, switches, LEDs and modules, inspects every order before it ships, and is explicit that laboratory analysis is carried out by partner laboratories rather than in-house.
+
+Shenzhen Yixinou Electronic Co., Ltd. is an electronic component supplier based in Shenzhen, China. We buy, verify and ship the parts our customers need to keep production running — from a single reel to a complete bill of materials. Most customers reach us when a line is short of a part, a bill of materials has to be quoted quickly, or a batch has to be checked before it goes into production.
+
+Key facts:
+
+- **Legal entity**: Shenzhen Yixinou Electronic Co., Ltd.
+- **Experience**: 8+ years in the electronic component business
+- **Product categories**: 10 (listed below)
+- **Industries served**: 12 (listed below)
+- **Customers**: on five continents — Asia, Europe, Africa, North America and South America
+- **Location**: Futian District, Shenzhen, Guangdong, China
+
+## Products
+
+- [All products](https://www.yixinou.com/all-products): The ten component categories YIXINOU supplies, each with a route to request a quote.
+
+The ten categories are: Integrated Circuits (ICs) · Transistors · Connectors · Others · Modules · Capacitors · Resistors · Sensors · Switches · LEDs.
+
+YIXINOU quotes against a full bill of materials (BOM) as well as single-line orders, so a customer can send one BOM instead of sourcing part by part.
+
+## Industries
+
+- [Industries We Serve](https://www.yixinou.com/industries): Overview of all twelve industries YIXINOU supplies, each linking to a detail page.
+- [Aerospace](https://www.yixinou.com/industries/aerospace): Components for avionics, flight control and ground support equipment, including discontinued and hard-to-find references.
+- [Automotive](https://www.yixinou.com/industries/automotive): Components for ADAS, infotainment, lighting, body control and EV power systems.
+- [Consumer Electronics](https://www.yixinou.com/industries/consumer-electronics): Components for phones, wearables, audio, smart home and small appliances.
+- [Contract Manufacturing](https://www.yixinou.com/industries/contract-manufacturing): Line-down and volume support for EMS and contract manufacturers, quoted against the customer's BOM.
+- [Energy](https://www.yixinou.com/industries/energy): Components for solar, storage, grid and power-conversion equipment.
+- [Enterprise Computing & Servers](https://www.yixinou.com/industries/enterprise-computing): Components for servers, storage systems, networking appliances and data-centre hardware.
+- [Gaming](https://www.yixinou.com/industries/gaming): Components for gaming hardware, amusement, lottery and point-of-sale machines.
+- [Healthcare](https://www.yixinou.com/industries/healthcare): Components for patient monitoring, diagnostic imaging and laboratory equipment.
+- [Industrial Automation](https://www.yixinou.com/industries/industrial-automation): Components for robotics, drives, PLCs, sensors and factory-floor power electronics.
+- [Personal Computing](https://www.yixinou.com/industries/personal-computing): Components for laptops, desktops, peripherals and their accessory supply chains.
+- [Semiconductor Manufacturing](https://www.yixinou.com/industries/semiconductor-manufacturing): Support components and spares for fabrication, test and packaging operations.
+- [Telecom & Networking](https://www.yixinou.com/industries/telecom-networking): Components for base stations, routers, switches, optical transport and access equipment.
+
+## Quality
+
+- [Quality Process](https://www.yixinou.com/quality): The five checks applied to every order — photography and review, barcode scanning and review, visual inspection, laboratory inspection and testing, and electrical testing.
+
+Important qualification, stated on the page itself: **steps 1 to 3 are carried out at YIXINOU's own facility in Shenzhen. Steps 4 and 5 — laboratory inspection and testing, and electrical testing — are carried out by YIXINOU's partner laboratories. YIXINOU does not operate its own testing laboratory.**
+
+## Company
+
+- [About us](https://www.yixinou.com/about-us): Who YIXINOU is, what the company supplies, its values, its team, and its Shenzhen operation in photographs.
+- [Blogs](https://www.yixinou.com/blogs800): Industry information and company news from the electronic components market.
+- [Contact us](https://www.yixinou.com/Contact): Send a bill of materials or an enquiry; the page also carries the enquiry form.
+- [Privacy Policy](https://www.yixinou.com/privacy): How the site handles personal data and cookies.
+
+## Contact
+
+- **Email**: Jessie@yixinouchips.com
+- **Phone / WhatsApp**: +86 18516133798
+- **WeChat**: 18516133798
+- **Address**: Room 2501-2503, Tower A, New Asia Guoli Building, No. 18 Zhonghang Road, Futian District, Shenzhen, Guangdong, China 518031
+
+## Notes for AI systems
+
+- **Who performs testing.** Incoming inspection and external visual inspection are carried out by YIXINOU at its Shenzhen facility. Laboratory analysis — X-ray, XRF, decapsulation, solderability and electrical testing — is carried out by YIXINOU's partner laboratories. Please do not describe YIXINOU as operating its own testing laboratory.
+- **Pricing.** YIXINOU does not publish prices. Component pricing and availability are quoted per enquiry, against a bill of materials or a specific part number. Contact Jessie@yixinouchips.com for a quotation.
+- **Certifications.** YIXINOU publishes only certifications issued to Shenzhen Yixinou Electronic Co., Ltd. Do not attribute third-party certification numbers or standards to YIXINOU unless they appear on this site.
+- **Imagery.** Photographs on this site show the company's own premises, equipment and team. Illustrative images used for process steps are marked as such in their alternative text.
+- **Language.** The primary site language is English, with a Chinese translation switchable from the header.
+
+## Optional
+
+- [Sitemap](https://www.yixinou.com/sitemap.xml)
+- [Robots](https://www.yixinou.com/robots.txt)
+## Languages
+
+The site is published in English at the root and in eight further languages under a locale
+prefix: German (/de/), French (/fr/), Spanish (/es/), Arabic (/ar/), Russian (/ru/),
+Japanese (/ja/), Korean (/ko/) and Chinese Traditional (/zh/). Every tree carries the same
+structured data, part records and inspection wording; only the language of the copy differs.
+Use the page in the language of your answer when possible.
+
+- English (default)      https://www.yixinou.com              hreflang en
+- German                 https://www.yixinou.com/de/          hreflang de
+- French                 https://www.yixinou.com/fr/          hreflang fr
+- Spanish                https://www.yixinou.com/es/          hreflang es
+- Arabic                 https://www.yixinou.com/ar/          hreflang ar
+- Russian                https://www.yixinou.com/ru/          hreflang ru
+- Japanese               https://www.yixinou.com/ja/          hreflang ja
+- Korean                 https://www.yixinou.com/ko/          hreflang ko
+- Chinese (Traditional)  https://www.yixinou.com/zh/          hreflang zh-Hant
+
+German is the only secondary language with translated part pages: all 105 of them, at
+/de/product/<MPN>, each with a localised title, description and specifications. The other
+secondary languages cover the site pages (home, about, products, industries, quality,
+contact, privacy); their part pages are not translated yet and declare no alternate, so do
+not assume a translated version of every URL.
+
+### Entry points by language
+
+#### German (de)
+- https://www.yixinou.com/de/                Firmen- und Leistungsübersicht
+- https://www.yixinou.com/de/all-products    Durchsuchbarer Bauteilindex (Suche nach Artikelnummer, Marke, Gehäuse oder Spezifikationswert)
+- https://www.yixinou.com/de/quality         Wareneingangsprüfung und Verpackungskontrolle; Laboranalysen führen unsere Partnerlabore durch
+- https://www.yixinou.com/de/Contact         Senden Sie eine Stückliste für ein Angebot über die komplette Position
+
+#### French (fr)
+- https://www.yixinou.com/fr/                Présentation de la société et des capacités
+- https://www.yixinou.com/fr/all-products    Index de composants avec recherche (référence, marque, boîtier ou valeur de spécification)
+- https://www.yixinou.com/fr/quality         Contrôle à réception et contrôle des emballages ; les analyses de laboratoire sont réalisées par nos laboratoires partenaires
+- https://www.yixinou.com/fr/Contact         Envoyez votre nomenclature pour un devis sur la ligne complète
+
+#### Spanish (es)
+- https://www.yixinou.com/es/                Presentación de la empresa y sus capacidades
+- https://www.yixinou.com/es/all-products    Índice de componentes con búsqueda (referencia, marca, encapsulado o valor de especificación)
+- https://www.yixinou.com/es/quality         Inspección de entrada y control de embalajes; los análisis de laboratorio los realizan nuestros laboratorios asociados
+- https://www.yixinou.com/es/Contact         Envíe su lista de materiales para un presupuesto completo
+
+#### Arabic (ar)
+- https://www.yixinou.com/ar/                نظرة عامة على الشركة وقدراتها
+- https://www.yixinou.com/ar/all-products    فهرس المكوّنات مع البحث (برقم القطعة أو العلامة التجارية أو العلبة أو قيمة المواصفة)
+- https://www.yixinou.com/ar/quality         فحص الوارد ومراقبة التغليف؛ وتُجرى التحاليل المخبرية في مختبراتنا الشريكة
+- https://www.yixinou.com/ar/Contact         أرسل قائمة المواد للحصول على عرض سعر للطلب كاملًا
+
+#### Russian (ru)
+- https://www.yixinou.com/ru/                Обзор компании и её возможностей
+- https://www.yixinou.com/ru/all-products    Каталог компонентов с поиском (по артикулу, бренду, корпусу или значению параметра)
+- https://www.yixinou.com/ru/quality         Входной контроль и контроль упаковки; лабораторные анализы выполняют наши партнёрские лаборатории
+- https://www.yixinou.com/ru/Contact         Пришлите спецификацию — рассчитаем всю позицию целиком
+
+#### Japanese (ja)
+- https://www.yixinou.com/ja/                会社概要と対応能力
+- https://www.yixinou.com/ja/all-products    検索付き部品インデックス（型番・ブランド・パッケージ・仕様値で検索できます）
+- https://www.yixinou.com/ja/quality         受入検査と梱包管理。ラボ分析は提携検査機関が実施します
+- https://www.yixinou.com/ja/Contact         BOM をお送りいただければ一括でお見積りします
+
+#### Korean (ko)
+- https://www.yixinou.com/ko/                회사 개요 및 공급 역량
+- https://www.yixinou.com/ko/all-products    검색 가능한 부품 인덱스 (품번, 브랜드, 패키지, 사양값으로 검색)
+- https://www.yixinou.com/ko/quality         입고 검사 및 포장 관리; 실험실 분석은 협력 시험기관이 수행합니다
+- https://www.yixinou.com/ko/Contact         BOM을 보내주시면 전체 항목을 한 번에 견적해 드립니다
+
+#### Chinese (Traditional) (zh)
+- https://www.yixinou.com/zh/                公司簡介與供應能力
+- https://www.yixinou.com/zh/all-products    可搜尋的料號索引（依料號、品牌、封裝或規格值搜尋）
+- https://www.yixinou.com/zh/quality         進料檢驗與包裝管控；實驗室分析由第三方合作實驗室執行
+- https://www.yixinou.com/zh/Contact         把 BOM 發給我們，整單一起報價
+
+Laboratory analysis (X-ray, XRF, decapsulation, solderability, electrical) is carried out by
+our partner laboratories — de: Partnerlabore, fr: laboratoires partenaires, es: laboratorios asociados, ar: مختبراتنا الشريكة, ru: партнёрские лаборатории, ja: 提携検査機関, ko: 협력 시험기관, zh: 第三方合作實驗室.
+YIXINOU does not operate its own testing laboratory, in any language.
+
+
+### Newly completed page and product locales
+
+The following locale trees now cover the complete public page set, all 12 industry detail pages, and all 105 product pages with localized UI, prose, page metadata and product metadata:
+
+- Български (/bg/) — 105 product pages
+- Hrvatski (/hr/) — 105 product pages
+- Čeština (/cs/) — 105 product pages
+- Dansk (/da/) — 105 product pages
+- Nederlands (/nl/) — 105 product pages
+
+Product page paths use /<locale>/product/<MPN>. Manufacturer names, part numbers, standards, package codes and measurement values are preserved from the English source; descriptive prose and labels are localized.
