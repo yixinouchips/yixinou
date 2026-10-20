@@ -1,7 +1,7 @@
 import { Field } from './ListEditor';
 
 function buildJsonLd(draft) {
-  const siteUrl = draft.site.url || 'https://www.yixinou.com';
+  const siteUrl = draft.site.url || 'https://yixinouchips.com';
   const org = {
     '@context': 'https://schema.org',
     '@type': 'Organization',
@@ -31,7 +31,7 @@ function buildJsonLd(draft) {
 }
 
 function buildSitemap(draft) {
-  const siteUrl = (draft.site.url || 'https://www.yixinou.com').replace(/\/$/, '');
+  const siteUrl = (draft.site.url || 'https://yixinouchips.com').replace(/\/$/, '');
   const urls = Object.keys(draft.tdk || {}).map((p) => siteUrl + p);
   draft.products?.items?.forEach((p) => urls.push(siteUrl + p.href));
   draft.blogs?.forEach((b) => urls.push(siteUrl + b.href));
@@ -42,7 +42,7 @@ function buildSitemap(draft) {
 }
 
 function buildRobots(draft) {
-  const siteUrl = draft.site.url || 'https://www.yixinou.com';
+  const siteUrl = draft.site.url || 'https://yixinouchips.com';
   return `User-agent: *\nAllow: /\nDisallow: /admin\n\nSitemap: ${siteUrl.replace(/\/$/, '')}/sitemap.xml\n`;
 }
 

@@ -83,7 +83,7 @@ function isTranslated(bare, code) {
 
 function useLocaleLinks(pathname) {
   const { site } = useConfig();
-  const siteUrl = site?.url || 'https://www.yixinou.com';
+  const siteUrl = site?.url || 'https://yixinouchips.com';
   const bare = stripLocale(pathname);
   const code = localeOfPath(pathname) || 'en';
 
@@ -162,7 +162,7 @@ export function ProductsItemList({ products }) {
 // claim the site cannot evidence.
 export function ProductJsonLd({ part }) {
   const { site } = useConfig();
-  const siteUrl = site.url || 'https://www.yixinou.com';
+  const siteUrl = site.url || 'https://yixinouchips.com';
   const data = {
     '@context': 'https://schema.org',
     '@type': 'Product',
@@ -185,7 +185,7 @@ export function ProductJsonLd({ part }) {
 
 export function CertificateImageListJsonLd() {
   const { site } = useConfig();
-  const siteUrl = site?.url || 'https://www.yixinou.com';
+  const siteUrl = site?.url || 'https://yixinouchips.com';
   const data = {
     '@context': 'https://schema.org',
     '@type': 'ItemList',
@@ -209,7 +209,7 @@ export function CertificateImageListJsonLd() {
 export default function Seo() {
   const { pathname } = useLocation();
   const { company, site } = useConfig();
-  const siteUrl = site.url || 'https://www.yixinou.com';
+  const siteUrl = site.url || 'https://yixinouchips.com';
 
   const org = {
     '@context': 'https://schema.org',

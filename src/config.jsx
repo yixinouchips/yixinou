@@ -5,7 +5,7 @@ import { useI18n } from './i18n';
 // ---- build the default config from content.js (fallback when no published config) ----
 export const DEFAULT_CONFIG = {
   version: 1,
-  site: { name: D.COMPANY.name, url: 'https://www.yixinou.com', adminPin: '', socials: { facebook: '#', linkedin: '#', youtube: '#' } },
+  site: { name: D.COMPANY.name, url: 'https://yixinouchips.com', adminPin: '', socials: { facebook: '#', linkedin: '#', youtube: '#' } },
   company: { ...D.COMPANY },
   nav: D.NAV,
   banners: D.BANNERS,

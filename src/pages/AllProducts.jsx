@@ -30,7 +30,7 @@ export default function AllProducts() {
   useScrollTop();
   const listRef = useReveal('fadeInUp', 0.2);
 
-  const siteUrl = site?.url || 'https://www.yixinou.com';
+  const siteUrl = site?.url || 'https://yixinouchips.com';
 
   const query = params.get('q') || '';
   const category = params.get('category') || '';
