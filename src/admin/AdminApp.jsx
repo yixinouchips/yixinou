@@ -33,6 +33,10 @@ export default function AdminApp() {
     if (authed && !draft) setDraft(loadDraft() || config);
   }, [authed, config, draft]);
 
+  if (!config.site.adminPin) {
+    return <div className="admin-login"><p>后台管理未启用。请在受保护的部署环境中配置后台认证后再使用 CMS。</p></div>;
+  }
+
   if (!authed) {
     return (
       <Login

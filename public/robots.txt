@@ -3,5 +3,5 @@ Allow: /
 Disallow: /admin
 
 # LLM / AI crawler guidance
-# Structured site summary for language models: https://www.yixinou.com/llms.txt
-Sitemap: https://www.yixinou.com/sitemap.xml
+# Structured site summary for language models: https://yixinouchips.com/llms.txt
+Sitemap: https://yixinouchips.com/sitemap.xml
