@@ -1,6 +1,8 @@
-# YIXINOU
+﻿# YIXINOU
 
 > Shenzhen-based electronic component supplier and independent distributor. YIXINOU supplies ICs, transistors, connectors, capacitors, resistors, sensors, switches, LEDs and modules, verifies incoming orders, and quotes individual parts or complete bills of materials.
+
+- [Full Context & Knowledge Base](https://yixinouchips.com/llms-full.txt): Complete product catalogue, quality assurance tiers, RFQ procedures, and verified company details for LLM ingestion.
 
 ## Products
 

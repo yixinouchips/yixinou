@@ -1,7 +1,26 @@
-User-agent: *
+﻿User-agent: *
 Allow: /
 Disallow: /admin
 
-# LLM / AI crawler guidance
+# Allow AI Search Crawlers (GEO Optimization)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
 # Structured site summary for language models: https://yixinouchips.com/llms.txt
+# Full contextual documentation for language models: https://yixinouchips.com/llms-full.txt
 Sitemap: https://yixinouchips.com/sitemap.xml

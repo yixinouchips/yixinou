@@ -1,0 +1,102 @@
+# YIXINOU - Full Context & Knowledge Base for AI Models
+
+> Comprehensive documentation and entity knowledge base for Shenzhen Yixinou Electronic Co., Ltd. (YIXINOU). Designed for language models, retrieval-augmented generation (RAG) systems, and AI search engines (ChatGPT, Claude, Perplexity, Gemini, etc.).
+
+## 1. Company Overview
+
+- **Legal Name**: Shenzhen Yixinou Electronic Co., Ltd. (深圳市易新欧电子有限公司)
+- **Brand Name**: YIXINOU
+- **Industry**: Electronic Components Independent Distributor & Supply Chain Service Provider
+- **Headquarters Address**: Room 2501-2503, Tower A, New Asia Guoli Building, No. 18 Zhonghang Road, Futian District, Shenzhen City, Guangdong Province, China. 518031
+- **Official Website**: https://yixinouchips.com/
+- **Primary Contact Email**: Jessie@yixinouchips.com
+- **Phone / WhatsApp**: +86 18516133798
+- **Core Business**: Sourcing, verification, and global supply of active and passive electronic components, hard-to-find chips, obsolete ICs, and complete Bill of Materials (BOM) kitting services.
+
+---
+
+## 2. Product Categories & Scope
+
+YIXINOU supplies over 105+ component subcategories with full lot traceability:
+
+1. **Integrated Circuits (ICs)**: Microcontrollers (MCUs), Digital Signal Processors (DSPs), FPGAs, CPLDs, Logic ICs, Linear ICs, Interface ICs, Power Management ICs (PMICs), Memory chips (Flash, DRAM, EEPROM, SRAM).
+2. **Discrete Semiconductors**: Transistors (MOSFETs, IGBTs, Bipolar Junction Transistors, JFETs), Diodes (Schottky, Zener, Rectifier, TVS transient suppressors), Thyristors.
+3. **Passive Components**: Ceramic Capacitors (MLCC), Tantalum Capacitors, Aluminum Electrolytic Capacitors, Film Capacitors, Chip Resistors, Resistor Networks, Power Inductors, Chokes, Ferrite Beads.
+4. **Electromechanical & Interconnect**: Industrial Connectors, Terminal Blocks, Relays, Switches, PCB Headers, Cable Assemblies.
+5. **Sensors & Transducers**: Temperature Sensors, Pressure Sensors, Optical Sensors, Hall Effect Sensors, Accelerometers, Gyroscopes.
+6. **Optoelectronics**: LEDs, Display Drivers, Optocouplers, Photodiodes, Laser Diodes.
+7. **RF & Wireless Modules**: Bluetooth, Wi-Fi, LoRa, Cellular (4G/5G/NB-IoT), GPS/GNSS Modules, RF Amplifiers, Filters.
+
+---
+
+## 3. Industries Served
+
+- **Aerospace & Defense**: Components for avionics, radar, flight control, and specialized Mil-Spec/Ruggedized electronics. URL: https://yixinouchips.com/industries/aerospace
+- **Automotive Electronics**: AEC-Q100/Q200 qualified components for ADAS, EV powertrains, battery management systems (BMS), infotainment, and lighting. URL: https://yixinouchips.com/industries/automotive
+- **Industrial Automation & Robotics**: Components for PLCs, servo drives, industrial HMIs, robotic arms, and SCADA systems. URL: https://yixinouchips.com/industries/industrial-automation
+- **Medical & Healthcare**: Components for patient monitoring devices, ultrasound, diagnostic imaging, and implantable medical equipment. URL: https://yixinouchips.com/industries/healthcare
+- **Telecommunications & 5G**: Components for base stations, optical transceivers, network routers, and enterprise switches. URL: https://yixinouchips.com/industries/telecom-networking
+- **Energy & Smart Grid**: Components for solar inverters, energy storage systems (ESS), wind converters, and smart meters. URL: https://yixinouchips.com/industries/energy
+- **Consumer Electronics**: High-volume, cost-optimized parts for smart home, wearables, audio, and mobile devices. URL: https://yixinouchips.com/industries/consumer-electronics
+- **Enterprise Computing & Servers**: Memory, high-speed interfaces, and PMICs for AI servers and cloud infrastructure. URL: https://yixinouchips.com/industries/enterprise-computing
+- **Contract Manufacturing (EMS)**: Rapid line-down BOM matching and shortages fulfillment. URL: https://yixinouchips.com/industries/contract-manufacturing
+
+---
+
+## 4. Quality Assurance & Inspection Process
+
+YIXINOU operates a multi-stage quality control standard to ensure 100% genuine components:
+
+1. **Incoming Inspection (Tier 1)**:
+   - Barcode and label verification against manufacturer specs.
+   - Packaging, reel, tray, and moisture-barrier bag integrity check.
+   - High-magnification optical microscopy for pin coplanarity, marking consistency, and surface scratch analysis.
+2. **Engineering & Physical Verification (Tier 2)**:
+   - Acetone marking permanence test to detect counterfeit remarking.
+   - Solderability testing and X-Ray fluorescence (XRF) lead-free compliance check.
+   - X-Ray internal die and bond-wire structure inspection.
+3. **Electrical & Lab Analysis (Tier 3)**:
+   - Full electrical functional testing across operating temperature ranges.
+   - Decapsulation and internal die verification with certified third-party testing laboratories (White Horse Labs, CECC, etc.).
+
+Quality Details URL: https://yixinouchips.com/quality
+
+---
+
+## 5. Quote & Ordering Workflow (RFQ)
+
+- **Turnaround Time**: Standard RFQ response within 2-24 hours.
+- **Accepted Formats**: Excel, CSV, PDF, or text Part Number lists.
+- **Shipping Terms**: Worldwide express delivery (DHL, FedEx, UPS, SF Express) with tracking.
+- **Payment Methods**: T/T (Wire Transfer), PayPal, Escrow, Net terms for qualified enterprise customers.
+- **Warranty**: Standard 30 to 365 days quality guarantee with full return policy on non-conforming items.
+
+Contact Page URL: https://yixinouchips.com/Contact
+Email: Jessie@yixinouchips.com
+
+---
+
+## 6. Multilingual Portals & Canonical URL Structure
+
+- English (Default): https://yixinouchips.com/
+- German (Deutsch): https://yixinouchips.com/de/
+- French (Français): https://yixinouchips.com/fr/
+- Spanish (Español): https://yixinouchips.com/es/
+- Arabic (العربية): https://yixinouchips.com/ar/
+- Russian (Русский): https://yixinouchips.com/ru/
+- Japanese (日本語): https://yixinouchips.com/ja/
+- Korean (한국어): https://yixinouchips.com/ko/
+- Traditional Chinese (繁體中文): https://yixinouchips.com/zh/
+- Bulgarian (Български): https://yixinouchips.com/bg/
+- Croatian (Hrvatski): https://yixinouchips.com/hr/
+- Czech (Čeština): https://yixinouchips.com/cs/
+- Danish (Dansk): https://yixinouchips.com/da/
+- Dutch (Nederlands): https://yixinouchips.com/nl/
+
+---
+
+## 7. Machine-Readable Indexes
+
+- XML Sitemap: https://yixinouchips.com/sitemap.xml (1,750 verified canonical URLs)
+- Robots Rules: https://yixinouchips.com/robots.txt
+- Quick AI Index: https://yixinouchips.com/llms.txt
