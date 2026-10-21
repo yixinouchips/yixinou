@@ -21,6 +21,10 @@ Allow: /
 User-agent: Applebot-Extended
 Allow: /
 
+# Agentic Resource Discovery (ARD) / AI Catalog
+Agentmap: https://yixinouchips.com/.well-known/ard.json
+Agentmap: https://yixinouchips.com/.well-known/ai-catalog.json
+
 # Structured site summary for language models: https://yixinouchips.com/llms.txt
 # Full contextual documentation for language models: https://yixinouchips.com/llms-full.txt
 Sitemap: https://yixinouchips.com/sitemap.xml

@@ -1,0 +1,41 @@
+﻿{
+  "@context": "https://agenticresourcediscovery.org/context/v1",
+  "entries": [
+    {
+      "identifier": "urn:air:yixinouchips.com:agent:sourcing-assistant",
+      "displayName": "YIXINOU Electronic Component Sourcing & RFQ Assistant",
+      "type": "application/agent-card+json",
+      "url": "https://yixinouchips.com/Contact",
+      "description": "Enterprise electronic component sourcing, BOM kitting quotation, and inventory inquiry service for Integrated Circuits (ICs), transistors, diodes, connectors, capacitors, and sensors from Shenzhen Yixinou Electronic Co., Ltd.",
+      "capabilities": [
+        "ComponentSourcing",
+        "BOMQuotation",
+        "PartVerification",
+        "InventoryInquiry"
+      ],
+      "representativeQueries": [
+        "quote electronic components BOM list",
+        "find hard to find IC semiconductor chips",
+        "electronic component supplier Shenzhen Yixinou",
+        "buy genuine microcontrollers MOSFETs connectors",
+        "electronic components independent distributor China"
+      ]
+    },
+    {
+      "identifier": "urn:air:yixinouchips.com:catalog:products",
+      "displayName": "YIXINOU Electronic Component Catalogue",
+      "type": "application/ai-catalog+json",
+      "url": "https://yixinouchips.com/all-products",
+      "description": "Full product catalogue covering 105+ categories of semiconductors, passive components, electromechanical parts, and interconnects.",
+      "capabilities": [
+        "ProductCatalogue",
+        "ComponentSearch"
+      ],
+      "representativeQueries": [
+        "search electronic component part numbers",
+        "electronic component product catalog YIXINOU",
+        "browse ICs and semiconductor inventory"
+      ]
+    }
+  ]
+}
