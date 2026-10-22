@@ -39,7 +39,7 @@ export default function HotProducts() {
                   tabIndex={-1}
                   aria-hidden="true"
                 >
-                  <img src={p.img} alt={p.alt} loading="lazy" decoding="async" />
+                  <img src={p.img.replace(/\.(jpg|png)$/i, '.webp')} alt={p.alt} width="240" height="180" loading="lazy" decoding="async" style={{ objectFit: "contain", aspectRatio: "4 / 3" }} />
                 </Link>
                 <p className="brand">{p.brand}</p>
                 <h4>

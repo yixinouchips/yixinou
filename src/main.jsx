@@ -14,18 +14,21 @@ import Banner from './Banner';
 import Advantages from './Advantages';
 import Categories from './Categories';
 import HotProducts from './HotProducts';
-import Industries from './Industries';
-import VideoSection from './VideoSection';
-import Factory from './Factory';
-import Team from './Team';
-import Subscribe from './Subscribe';
-import News from './News';
-import Partners from './Partners';
-import RelatedSearch from './RelatedSearch';
+import LazySection from './LazySection';
 import Footer, { SideBar } from './Footer';
 import './styles.css';
 
-// Lazy-load all non-home pages
+// Below-the-fold home sections (Lazy loaded)
+const Industries = lazy(() => import('./Industries'));
+const VideoSection = lazy(() => import('./VideoSection'));
+const Factory = lazy(() => import('./Factory'));
+const Team = lazy(() => import('./Team'));
+const Subscribe = lazy(() => import('./Subscribe'));
+const News = lazy(() => import('./News'));
+const Partners = lazy(() => import('./Partners'));
+const RelatedSearch = lazy(() => import('./RelatedSearch'));
+
+// Subpage routes (Lazy loaded)
 const AboutUs = lazy(() => import('./pages/AboutUs'));
 const AllProducts = lazy(() => import('./pages/AllProducts'));
 const Blogs = lazy(() => import('./pages/Blogs'));
@@ -43,19 +46,22 @@ const PageLoader = () => (
   </div>
 );
 
-const SECTION_COMPONENTS = {
+const SYNC_SECTIONS = {
   banner: Banner,
   advantages: Advantages,
   categories: Categories,
   hotProducts: HotProducts,
-  industries: Industries,
-  video: VideoSection,
-  factory: Factory,
-  team: Team,
-  subscribe: Subscribe,
-  news: News,
-  partners: Partners,
-  related: RelatedSearch,
+};
+
+const LAZY_SECTIONS = {
+  industries: { Comp: Industries, minHeight: '380px' },
+  video: { Comp: VideoSection, minHeight: '320px' },
+  factory: { Comp: Factory, minHeight: '340px' },
+  team: { Comp: Team, minHeight: '340px' },
+  subscribe: { Comp: Subscribe, minHeight: '180px' },
+  news: { Comp: News, minHeight: '340px' },
+  partners: { Comp: Partners, minHeight: '240px' },
+  related: { Comp: RelatedSearch, minHeight: '180px' },
 };
 
 function Home() {
@@ -64,8 +70,21 @@ function Home() {
   return (
     <main>
       {sections.map((s) => {
-        const Comp = SECTION_COMPONENTS[s.key];
-        return Comp ? <Comp key={s.key} /> : null;
+        if (SYNC_SECTIONS[s.key]) {
+          const Comp = SYNC_SECTIONS[s.key];
+          return <Comp key={s.key} />;
+        }
+        if (LAZY_SECTIONS[s.key]) {
+          const { Comp, minHeight } = LAZY_SECTIONS[s.key];
+          return (
+            <LazySection key={s.key} minHeight={minHeight}>
+              <Suspense fallback={<div style={{ minHeight }} />}>
+                <Comp />
+              </Suspense>
+            </LazySection>
+          );
+        }
+        return null;
       })}
     </main>
   );

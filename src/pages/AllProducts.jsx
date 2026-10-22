@@ -1,3 +1,4 @@
+import ALL_PRODUCT_PARTS from '../data/allProductsData';
 import { ChevronRight, Search, X } from 'lucide-react';
 import { useEffect, useMemo, useRef } from 'react';
 import { Link, useLocation, useSearchParams } from '../router';
@@ -24,7 +25,8 @@ const tight = (v) => loose(v).replace(/[^a-z0-9]/g, '');
 
 export default function AllProducts() {
   const { t } = useI18n();
-  const { productParts, pageBanners: PB, site } = useConfig();
+  const { productParts: configParts, pageBanners: PB, site } = useConfig();
+  const productParts = { ...ALL_PRODUCT_PARTS, ...(configParts || {}) };
   const [params, setParams] = useSearchParams();
   const { pathname } = useLocation();
   useScrollTop();
