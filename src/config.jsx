@@ -1,8 +1,8 @@
 import { createContext, useContext, useEffect, useMemo, useState } from 'react';
 import * as D from './content';
 import { useI18n } from './i18n';
+import { loadLocalePack } from './localeLoader';
 
-// ---- build the default config from content.js (fallback when no published config) ----
 export const DEFAULT_CONFIG = {
   version: 1,
   site: { name: D.COMPANY.name, url: 'https://yixinouchips.com', adminPin: '', socials: { facebook: '#', linkedin: '#', youtube: '#' } },
@@ -20,8 +20,6 @@ export const DEFAULT_CONFIG = {
   industries: D.INDUSTRIES,
   about: { text: D.ABOUT_TEXT, factory: D.ABOUT_FACTORY, certificates: D.CERTIFICATES },
   aboutPage: D.ABOUT_EXTRA,
-  // items now come from the real part records, so the listing and the part pages
-  // can never disagree. The placeholder catalogue that used to live here was removed.
   products: { categories: D.PRODUCT_CATEGORIES, items: Object.values(D.PRODUCT_PARTS) },
   blogs: D.BLOG_POSTS,
   quality: D.QUALITY,
@@ -60,7 +58,6 @@ function isObj(v) {
   return v && typeof v === 'object' && !Array.isArray(v);
 }
 
-// arrays replace, objects merge (published config wins over defaults)
 export function deepMerge(base, override) {
   if (Array.isArray(base) || Array.isArray(override)) return override ?? base;
   if (isObj(base) && isObj(override)) {
@@ -101,6 +98,7 @@ const ConfigContext = createContext({ config: DEFAULT_CONFIG, ready: false });
 export function ConfigProvider({ children }) {
   const [published, setPublished] = useState(null);
   const [ready, setReady] = useState(false);
+  const [localePack, setLocalePack] = useState(null);
 
   useEffect(() => {
     let alive = true;
@@ -121,14 +119,22 @@ export function ConfigProvider({ children }) {
 
   const { lang } = useI18n();
 
+  useEffect(() => {
+    if (lang && lang !== 'en') {
+      loadLocalePack(lang).then((p) => {
+        if (p) setLocalePack({ lang, pack: p });
+      });
+    } else {
+      setLocalePack(null);
+    }
+  }, [lang]);
+
   const config = useMemo(() => {
     const base = published ? deepMerge(DEFAULT_CONFIG, published) : DEFAULT_CONFIG;
-    // The locale pack is merged last so translated copy wins over the English defaults and the
-    // published configuration. deepMerge replaces arrays wholesale, which is what the copy
-    // structures need (a paragraph list must not be merged element by element).
-    const locale = D.LOCALE_COPY[lang];
+    if (!localePack || localePack.lang !== lang) return base;
+
+    const { copy: locale, industry: industryLocale, tdk: localeTdk, parts: localeParts } = localePack.pack;
     const withCopy = locale ? deepMerge(base, locale) : base;
-    const industryLocale = D.LOCALE_INDUSTRIES?.[lang];
     const withIndustry = industryLocale
       ? deepMerge(withCopy, {
           industryDetails: industryLocale.industries,
@@ -146,11 +152,6 @@ export function ConfigProvider({ children }) {
         })
       : withCopy;
 
-    // Per-locale page metadata ships in the bundle (see LOCALE_TDK). public/site-config.json is
-    // only refreshed by the admin workbench's own publish action, so relying on it alone lets a
-    // localised page keep a stale title long after the code around it shipped. Keys are expanded
-    // to their full localised path, which is what TdkApplier looks up before the bare path.
-    const localeTdk = D.LOCALE_TDK?.[lang];
     let out = withIndustry;
     if (localeTdk) {
       const prefixed = {};
@@ -160,21 +161,15 @@ export function ConfigProvider({ children }) {
       out = deepMerge(out, { tdk: prefixed });
     }
 
-    // Localized part records are overlaid field by field, so a part without a translation keeps
-    // its English record instead of rendering empty space.
-    const localeParts = D.LOCALE_PARTS?.[lang];
     if (!localeParts) return out;
     const productParts = { ...out.productParts };
     for (const [id, overlay] of Object.entries(localeParts)) {
       const en = productParts[id];
       if (!en) continue;
-      // `category` is translated for the breadcrumb, but the listing filter and every nav link
-      // address a part by its English taxonomy group, so the original value is preserved
-      // alongside it. Without this the category rail would offer labels no link can reach.
       productParts[id] = { ...en, ...overlay, categoryEn: en.categoryEn || en.category };
     }
     return { ...out, productParts };
-  }, [published, lang]);
+  }, [published, lang, localePack]);
 
   return <ConfigContext.Provider value={{ config, ready }}>{children}</ConfigContext.Provider>;
 }

@@ -6,6 +6,8 @@ export default defineConfig({
   build: {
     target: 'es2020',
     cssCodeSplit: true,
+    minify: 'esbuild',
+    chunkSizeWarningLimit: 600,
     rollupOptions: {
       output: {
         manualChunks(id) {
@@ -18,18 +20,9 @@ export default defineConfig({
             }
             return 'vendor-libs';
           }
-          if (id.includes('src/locales/parts')) {
-            const match = id.match(/src\/locales\/parts\/([a-z]{2})/i);
-            return match ? `parts-${match[1]}` : 'parts-misc';
-          }
-          if (id.includes('src/locales')) {
-            const match = id.match(/src\/locales\/(industry\/)?([a-z]{2})\.js/i);
-            return match ? `locale-${match[2]}` : 'data-locales';
-          }
         },
       },
     },
-    chunkSizeWarningLimit: 2500,
   },
   server: {
     proxy: {
