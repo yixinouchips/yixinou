@@ -40,7 +40,7 @@ export default function Partners() {
                         <div className="col-md-4 col-sm-6 col-6 p-0 grid-item" key={p.name}>
                           <div className="bixol-pt-item">
                             <div className="item-img">
-                              <img src={p.img} alt={p.name} loading="lazy" />
+                              <img src={p.img} alt={p.name} width="120" height="40" loading="lazy" decoding="async" style={{ objectFit: "contain", aspectRatio: "3 / 1" }} />
                             </div>
                           </div>
                         </div>
