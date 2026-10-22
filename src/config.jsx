@@ -1,6 +1,7 @@
 import { createContext, useContext, useEffect, useMemo, useState } from 'react';
 import * as D from './content';
 import { useI18n } from './i18n';
+import { useLocation } from 'react-router-dom';
 import { loadLocalePack } from './localeLoader';
 
 export const DEFAULT_CONFIG = {
@@ -99,6 +100,7 @@ export function ConfigProvider({ children }) {
   const [published, setPublished] = useState(null);
   const [ready, setReady] = useState(false);
   const [localePack, setLocalePack] = useState(null);
+  const [routeData, setRouteData] = useState(null);
 
   useEffect(() => {
     let alive = true;
@@ -117,7 +119,19 @@ export function ConfigProvider({ children }) {
     };
   }, []);
 
+
   const { lang } = useI18n();
+  const { pathname } = useLocation();
+  const needsProductData = pathname === '/all-products' || pathname.startsWith('/product/');
+  useEffect(() => {
+    if (!needsProductData) return;
+    let alive = true;
+    fetch('/assets/data/products.json')
+      .then((r) => (r.ok ? r.json() : null))
+      .then((parts) => { if (alive && parts) setRouteData({ productParts: parts, products: { items: Object.values(parts) } }); })
+      .catch(() => {});
+    return () => { alive = false; };
+  }, [needsProductData, pathname]);
 
   useEffect(() => {
     if (lang && lang !== 'en') {
@@ -130,7 +144,8 @@ export function ConfigProvider({ children }) {
   }, [lang]);
 
   const config = useMemo(() => {
-    const base = published ? deepMerge(DEFAULT_CONFIG, published) : DEFAULT_CONFIG;
+    const publishedBase = published ? deepMerge(DEFAULT_CONFIG, published) : DEFAULT_CONFIG;
+    const base = routeData ? deepMerge(publishedBase, routeData) : publishedBase;
     if (!localePack || localePack.lang !== lang) return base;
 
     const { copy: locale, industry: industryLocale, tdk: localeTdk, parts: localeParts } = localePack.pack;
@@ -169,7 +184,7 @@ export function ConfigProvider({ children }) {
       productParts[id] = { ...en, ...overlay, categoryEn: en.categoryEn || en.category };
     }
     return { ...out, productParts };
-  }, [published, lang, localePack]);
+  }, [published, lang, localePack, routeData]);
 
   return <ConfigContext.Provider value={{ config, ready }}>{children}</ConfigContext.Provider>;
 }

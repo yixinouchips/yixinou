@@ -31,9 +31,12 @@ export default function Banner() {
             <div
               key={b.img}
               className={`swiper-slide ${i === idx ? 'active' : ''}`}
-              style={{ backgroundImage: `url(${b.img})` }}
             >
-              <Link to={b.href} className="slide-link" aria-label={b.alt}>
+              <picture className="banner-picture">
+                {b.mobileImg && <source media="(max-width: 768px)" srcSet={b.mobileImg} type="image/webp" />}
+                <img src={b.img} alt={b.alt || ''} width="1920" height="864" fetchPriority={i === 0 ? 'high' : 'auto'} loading={i === 0 ? 'eager' : 'lazy'} decoding="async" />
+              </picture>
+              <Link to={b.href} className="slide-link">
                 {hasCopy && (
                   <div className="banner-copy">
                     <h2 className="banner-title">

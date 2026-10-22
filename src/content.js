@@ -1,4 +1,4 @@
-// YIXINOU site content
+﻿// YIXINOU site content
 import { GROUPS as DEFAULT_INDUSTRY_GROUPS, INSPECT as DEFAULT_INDUSTRY_INSPECT, INDUSTRY_DETAILS as DEFAULT_INDUSTRY_DETAILS } from './industryDetails.js';
 
 export const LOCALE_INDUSTRIES = {};

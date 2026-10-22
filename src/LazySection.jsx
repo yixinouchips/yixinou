@@ -28,7 +28,7 @@ export default function LazySection({ children, minHeight = '300px' }) {
   }, []);
 
   return (
-    <div ref={containerRef} style={{ minHeight: isVisible ? 'auto' : minHeight }}>
+    <div ref={containerRef} style={{ minHeight, contentVisibility: 'auto', containIntrinsicSize: `auto ${minHeight}` }}>
       {isVisible ? children : null}
     </div>
   );
