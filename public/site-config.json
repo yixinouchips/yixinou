@@ -1373,6 +1373,106 @@
       "title": "TPS63070RNMR | Texas Instruments Synchronous buck-boost DC-DC converter",
       "description": "TPS63070RNMR from Texas Instruments: Synchronous buck-boost DC-DC converter with 2.0V-16V input, 2.5V-9V output, up to 2A switch current and 2.4MHz frequency. Request stock, pricing, MOQ, lead time, lot photos and traceability documents.",
       "keywords": "TPS63070RNMR, TPS63070RNMR datasheet TI, TPS63070 数据手册 德州仪器, TPS63070RNMR VQFN-15 pinout, TPS63070 2A buck-boost 2.4MHz, TPS63070RNMR price, TPS63070RNMR 现货库存, TPS63070RNMR alternative"
+    },
+    "/product/R9A08G045S15GBG%23BC0": {
+      "title": "R9A08G045S15GBG#BC0 瑞萨(Renesas) 处理器与控制器 | YIXINOU",
+      "description": "R9A08G045S15GBG#BC0 是 瑞萨(Renesas) 的 RZ/G3S 通用微处理器，归属于集成电路(IC) / 处理器与控制器 / 微处理器 (MPU)。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+      "keywords": "R9A08G045S15GBG#BC0, 瑞萨(Renesas), 集成电路(IC), 处理器与控制器, 微处理器 (MPU), 单核 Cortex-A55 (1.1GHz) + 双核 Cortex-M33 (250MHz), 1MB内置RAM, 361引脚 LFBGA (13x13 mm)"
+    },
+    "/product/STM32G0B1VCI6TR": {
+      "title": "STM32G0B1VCI6TR 意法半导体(STMicroelectronics) 处理器与控制器 | YIXINOU",
+      "description": "STM32G0B1VCI6TR 是 意法半导体(STMicroelectronics) 的 STM32G0 32位微控制器，归属于集成电路(IC) / 处理器与控制器 / MCU（32位 ARM Cortex-M0+）。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+      "keywords": "STM32G0B1VCI6TR, 意法半导体(STMicroelectronics), 集成电路(IC), 处理器与控制器, MCU（32位 ARM Cortex-M0+）, 256KB Flash, 144KB RAM, 主频 64MHz, 100引脚 UFBGA (7x7 mm)"
+    },
+    "/product/RAA2214904GNP%23HBB": {
+      "title": "RAA2214904GNP#HBB 瑞萨(Renesas) 电源管理芯片 | YIXINOU",
+      "description": "RAA2214904GNP#HBB 是 瑞萨(Renesas) 的 高效率同步整流降压稳压器IC，归属于集成电路(IC) / 电源管理芯片 / DC-DC降压转换器。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+      "keywords": "RAA2214904GNP#HBB, 瑞萨(Renesas), 集成电路(IC), 电源管理芯片, DC-DC降压转换器, 输入电压4.5V至18V, 输出电流达4A, 开关频率500kHz, QFN封装"
+    },
+    "/product/FS32K148UAT0VLQR": {
+      "title": "FS32K148UAT0VLQR 恩智浦(NXP) 处理器与控制器 | YIXINOU",
+      "description": "FS32K148UAT0VLQR 是 恩智浦(NXP) 的 S32K1 车规级微控制器，归属于集成电路(IC) / 处理器与控制器 / MCU（32位 ARM Cortex-M4F）。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+      "keywords": "FS32K148UAT0VLQR, 恩智浦(NXP), 集成电路(IC), 处理器与控制器, MCU（32位 ARM Cortex-M4F）, 2MB Flash, 主频 112MHz, 144引脚 LQFP (20x20 mm)"
+    },
+    "/product/LT4256-2IS8%23TRPBF": {
+      "title": "LT4256-2IS8#TRPBF 亚德诺(ADI/Linear Tech) 电源管理芯片 | YIXINOU",
+      "description": "LT4256-2IS8#TRPBF 是 亚德诺(ADI/Linear Tech) 的 高电压热插拔控制器IC，归属于集成电路(IC) / 电源管理芯片 / 热插拔控制器。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+      "keywords": "LT4256-2IS8#TRPBF, 亚德诺(ADI/Linear Tech), 集成电路(IC), 电源管理芯片, 热插拔控制器, 工作电压10.8V至80V, 外部N-Channel MOSFET驱动, 8引脚 SOIC"
+    },
+    "/product/R9A07G044L13GBG%23BC0": {
+      "title": "R9A07G044L13GBG#BC0 瑞萨(Renesas) 处理器与控制器 | YIXINOU",
+      "description": "R9A07G044L13GBG#BC0 是 瑞萨(Renesas) 的 RZ/G2LC 通用微处理器，归属于集成电路(IC) / 处理器与控制器 / 微处理器 (MPU)。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+      "keywords": "R9A07G044L13GBG#BC0, 瑞萨(Renesas), 集成电路(IC), 处理器与控制器, 微处理器 (MPU), Cortex-A55 (1.2GHz) CPU, Mali-G31 3D图形引擎, 16位 DDR3L/DDR4 接口, 456引脚 BGA"
+    },
+    "/product/AD622ARZ-R7": {
+      "title": "AD622ARZ-R7 亚德诺(ADI) 模拟芯片 | YIXINOU",
+      "description": "AD622ARZ-R7 是 亚德诺(ADI) 的 单通道低功耗仪表放大器，归属于集成电路(IC) / 模拟芯片 / 仪表放大器。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+      "keywords": "AD622ARZ-R7, 亚德诺(ADI), 集成电路(IC), 模拟芯片, 仪表放大器, 带宽 1MHz, 压摆率 1.2 V/µs, 供电电压 ±2.3V 至 ±18V 或单电源, 8引脚 SOIC"
+    },
+    "/product/MX25L25645GXDI-10G": {
+      "title": "MX25L25645GXDI-10G 旺宏(Macronix) 存储芯片 | YIXINOU",
+      "description": "MX25L25645GXDI-10G 是 旺宏(Macronix) 的 串行闪存芯片，归属于集成电路(IC) / 存储芯片 / SPI NOR Flash。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+      "keywords": "MX25L25645GXDI-10G, 旺宏(Macronix), 集成电路(IC), 存储芯片, SPI NOR Flash, 容量 256Mbit (32MB), SPI / Quad I/O 接口, 最高速率 104MHz, 24引脚 CSPBGA"
+    },
+    "/product/R7F701304EAFP-C%23BA1": {
+      "title": "R7F701304EAFP-C#BA1 瑞萨(Renesas) 处理器与控制器 | YIXINOU",
+      "description": "R7F701304EAFP-C#BA1 是 瑞萨(Renesas) 的 RH850/F1K 车规级微控制器，归属于集成电路(IC) / 处理器与控制器 / MCU（32位 RH850）。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+      "keywords": "R7F701304EAFP-C#BA1, 瑞萨(Renesas), 集成电路(IC), 处理器与控制器, MCU（32位 RH850）, 2MB Flash, 100引脚 LFQFP"
+    },
+    "/product/TDA88240": {
+      "title": "TDA88240 英飞凌(Infineon) 电源管理芯片 | YIXINOU",
+      "description": "TDA88240 是 英飞凌(Infineon) 的 Power Stage / Gate Driver IC，归属于集成电路(IC) / 电源管理芯片 / 栅极驱动器 / 电源级驱动。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+      "keywords": "TDA88240, 英飞凌(Infineon), 集成电路(IC), 电源管理芯片, 栅极驱动器 / 电源级驱动, 集成DC-DC开关稳压与栅极驱动, 30引脚 QFN"
+    },
+    "/product/ACPL-C87BT-500E": {
+      "title": "ACPL-C87BT-500E 博通(Broadcom) 隔离器 | YIXINOU",
+      "description": "ACPL-C87BT-500E 是 博通(Broadcom) 的 车规级高精度直流电压隔离传感器，归属于集成电路(IC) / 隔离器 / 高精度隔离放大器 / 电压传感器。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+      "keywords": "ACPL-C87BT-500E, 博通(Broadcom), 集成电路(IC), 隔离器, 高精度隔离放大器 / 电压传感器, 带宽 100kHz, 非线性度 0.05%, 高共模抑制比 (CMRR), 8引脚 Stretched SOIC"
+    },
+    "/product/NX20P0407UKAZ": {
+      "title": "NX20P0407UKAZ 恩智浦(NXP) 电源管理芯片 | YIXINOU",
+      "description": "NX20P0407UKAZ 是 恩智浦(NXP) 的 高电压输入侧过压/浪涌保护开关IC，归属于集成电路(IC) / 电源管理芯片 / 过压保护芯片 (OVP)。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+      "keywords": "NX20P0407UKAZ, 恩智浦(NXP), 集成电路(IC), 电源管理芯片, 过压保护芯片 (OVP), 耐压高达28V, 内置低导通电阻开关, 12引脚 WLCSP (1.67x1.27 mm)"
+    },
+    "/product/NT5CC256M16ER-EKH": {
+      "title": "NT5CC256M16ER-EKH 南亚科技(Nanya) 存储芯片 | YIXINOU",
+      "description": "NT5CC256M16ER-EKH 是 南亚科技(Nanya) 的 4Gb DDR3L 内存颗粒，归属于集成电路(IC) / 存储芯片 / DDR3L SDRAM。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+      "keywords": "NT5CC256M16ER-EKH, 南亚科技(Nanya), 集成电路(IC), 存储芯片, DDR3L SDRAM, 容量 4Gb (256M x 16bit), 速率 1866MHz (DDR3L-1866), 工作电压 1.35V, 96引脚 TFBGA"
+    },
+    "/product/AM29F800BB-55EF": {
+      "title": "AM29F800BB-55EF 飞索半导体(Spansion/AMD) 存储芯片 | YIXINOU",
+      "description": "AM29F800BB-55EF 是 飞索半导体(Spansion/AMD) 的 5V Boot Sector 闪存芯片，归属于集成电路(IC) / 存储芯片 / 并行 NOR Flash。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+      "keywords": "AM29F800BB-55EF, 飞索半导体(Spansion/AMD), 集成电路(IC), 存储芯片, 并行 NOR Flash, 容量 8Mbit (1M x 8-bit / 512K x 16-bit), 访问时间 55ns, 5V供电, 48引脚 TSOP"
+    },
+    "/product/AM29F800BB-70EF": {
+      "title": "AM29F800BB-70EF 飞索半导体(Spansion/AMD) 存储芯片 | YIXINOU",
+      "description": "AM29F800BB-70EF 是 飞索半导体(Spansion/AMD) 的 5V Boot Sector 闪存芯片，归属于集成电路(IC) / 存储芯片 / 并行 NOR Flash。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+      "keywords": "AM29F800BB-70EF, 飞索半导体(Spansion/AMD), 集成电路(IC), 存储芯片, 并行 NOR Flash, 容量 8Mbit (1M x 8-bit / 512K x 16-bit), 访问时间 70ns, 5V供电, 48引脚 TSOP"
+    },
+    "/product/AM29F800BB-90EF": {
+      "title": "AM29F800BB-90EF 飞索半导体(Spansion/AMD) 存储芯片 | YIXINOU",
+      "description": "AM29F800BB-90EF 是 飞索半导体(Spansion/AMD) 的 5V Boot Sector 闪存芯片，归属于集成电路(IC) / 存储芯片 / 并行 NOR Flash。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+      "keywords": "AM29F800BB-90EF, 飞索半导体(Spansion/AMD), 集成电路(IC), 存储芯片, 并行 NOR Flash, 容量 8Mbit (1M x 8-bit / 512K x 16-bit), 访问时间 90ns, 5V供电, 48引脚 TSOP"
+    },
+    "/product/BSS314PEH6327XTSA1": {
+      "title": "BSS314PEH6327XTSA1 英飞凌(Infineon) 场效应管(MOSFET) | YIXINOU",
+      "description": "BSS314PEH6327XTSA1 是 英飞凌(Infineon) 的 P-Channel 功率场效应晶体管，归属于半导体分立器件 / 场效应管(MOSFET) / P沟道 MOSFET。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+      "keywords": "BSS314PEH6327XTSA1, 英飞凌(Infineon), 半导体分立器件, 场效应管(MOSFET), P沟道 MOSFET, 耐压 -30V, 连续漏极电流 -1.5A, 功耗 500mW, PG-SOT23 封装"
+    },
+    "/product/NM1482KSLAXCL-3BE": {
+      "title": "NM1482KSLAXCL-3BE 未知厂商 电源管理芯片 | YIXINOU",
+      "description": "NM1482KSLAXCL-3BE 是 未知厂商 的 同步降压稳压器IC，归属于- / 电源管理芯片 / DC-DC降压转换器。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+      "keywords": "NM1482KSLAXCL-3BE, 未知厂商, -, 电源管理芯片, DC-DC降压转换器, 引脚及命名规则指向模拟电源芯片, 具体参数无法完全闭环核对"
+    },
+    "/product/S25FL064LABMFI013": {
+      "title": "S25FL064LABMFI013 英飞凌/赛普拉斯(Infineon/Cypress) 存储芯片 | YIXINOU",
+      "description": "S25FL064LABMFI013 是 英飞凌/赛普拉斯(Infineon/Cypress) 的 串行闪存芯片 (SPI Flash)，归属于集成电路(IC) / 存储芯片 / SPI NOR Flash。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+      "keywords": "S25FL064LABMFI013, 英飞凌/赛普拉斯(Infineon/Cypress), 集成电路(IC), 存储芯片, SPI NOR Flash, 容量 64Mbit (8MB), 支持 Quad I/O / QPI, 最高速率 108MHz, 8引脚 SOIC"
+    },
+    "/product/UPD720115K8-711-BAK-A": {
+      "title": "UPD720115K8-711-BAK-A 瑞萨(Renesas) 接口芯片 | YIXINOU",
+      "description": "UPD720115K8-711-BAK-A 是 瑞萨(Renesas) 的 USB 2.0 4端口集线器控制器IC，归属于集成电路(IC) / 接口芯片 / USB 集线器控制器 (USB Hub)。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+      "keywords": "UPD720115K8-711-BAK-A, 瑞萨(Renesas), 集成电路(IC), 接口芯片, USB 集线器控制器 (USB Hub), 支持 USB 2.0/1.1, 内置稳压器, 40引脚 QFN (6x6 mm)"
     }
   },
   "layout": {

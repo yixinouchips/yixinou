@@ -173,7 +173,7 @@ export function ProductJsonLd({ part }) {
     category: part.category,
     description: part.summary,
     image: `${siteUrl}${part.img}`,
-    url: `${siteUrl}/product/${part.mpn}`,
+    url: `${siteUrl}/product/${encodeURIComponent(part.mpn)}`,
     additionalProperty: part.specs.map(([name, value]) => ({
       '@type': 'PropertyValue',
       name,

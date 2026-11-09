@@ -2,6 +2,7 @@ import ALL_PRODUCT_PARTS from '../data/allProductsData';
 import { TARGET_PRODUCT_PARTS } from '../data/targetProductParts';
 import { ChevronDown, ChevronRight, Home } from 'lucide-react';
 import { Link, useParams } from '../router';
+import { useLocation } from 'react-router-dom';
 import { ProductJsonLd } from '../Seo';
 import { useConfig } from '../config';
 import { useI18n } from '../i18n';
@@ -32,7 +33,9 @@ function Section({ index, title, children, open = false }) {
 }
 
 export default function ProductDetail() {
-  const { mpn } = useParams();
+  const { mpn: routeMpn } = useParams();
+  const { pathname } = useLocation();
+  const mpn = decodeURIComponent(routeMpn || pathname.split('/').pop() || '');
   const { productParts: configParts, contact } = useConfig();
   const productParts = { ...ALL_PRODUCT_PARTS, ...TARGET_PRODUCT_PARTS, ...(configParts || {}) };
   const { t } = useI18n();
