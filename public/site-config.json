@@ -1323,6 +1323,56 @@
       "title": "Sectores que atendemos - Componentes por aplicación | YIXINOU",
       "description": "YIXINOU suministra componentes electrónicos a doce sectores, entre ellos aeronáutica, automoción, energía, sanidad y automatización industrial.",
       "keywords": "componentes por sector, componentes automoción, componentes aeronáutica, componentes industriales, distribuidor componentes Shenzhen"
+    },
+    "/product/STM32G474VET6": {
+      "title": "STM32G474VET6 | STMicroelectronics Microcontroller",
+      "description": "STM32G474VET6 from STMicroelectronics: 170MHz STM32G4 MCU with 512KB Flash, 128KB RAM and LQFP-100 package. Request stock, pricing, MOQ, lead time, lot photos and traceability documents.",
+      "keywords": "STM32G474VET6, STM32G474VET6 datasheet pdf, STM32G474VET6 规格书 意法半导体, STM32G474VET6 LQFP-100 pinout, STM32G474VET6 170MHz Cortex-M4, STM32G474VET6 price, STM32G474VET6 in stock, STM32G474VET6 alternative"
+    },
+    "/product/STM32G071RBT6": {
+      "title": "STM32G071RBT6 | STMicroelectronics Microcontroller",
+      "description": "STM32G071RBT6 from STMicroelectronics: 64MHz STM32G0 MCU with 128KB Flash, 36KB RAM and LQFP-64 package. Request stock, pricing, MOQ, lead time, lot photos and traceability documents.",
+      "keywords": "STM32G071RBT6, STM32G071RBT6 datasheet, STM32G071RBT6 数据手册 ST, STM32G071RBT6 LQFP-64 引脚图, STM32G071RBT6 Cortex-M0+ specs, STM32G071RBT6 报价, STM32G071RBT6 现货库存, STM32G071RBT6 replacement"
+    },
+    "/product/TCPP02-M18": {
+      "title": "TCPP02-M18 | STMicroelectronics USB Type-C port protection IC",
+      "description": "TCPP02-M18 from STMicroelectronics: USB Type-C protection IC with VBUS/CC high-voltage short-circuit protection, ESD protection and overvoltage protection. Request stock, pricing, MOQ, lead time, lot photos and traceability documents.",
+      "keywords": "TCPP02-M18, TCPP02-M18 datasheet ST, TCPP02-M18 规格书 pdf, TCPP02-M18 QFN-12 pinout, TCPP02-M18 Type-C 保护IC 特性, TCPP02-M18 price, TCPP02-M18 现货, TCPP02-M18 alternative"
+    },
+    "/product/LM51772RHAR": {
+      "title": "LM51772RHAR | Texas Instruments Synchronous buck-boost DC-DC controller",
+      "description": "LM51772RHAR from Texas Instruments: Synchronous buck-boost controller with 0V-55V input, 1V-55V output, I2C programming and VQFN-28 package. Request stock, pricing, MOQ, lead time, lot photos and traceability documents.",
+      "keywords": "LM51772RHAR, LM51772RHAR datasheet TI, LM51772RHAR 数据手册 德州仪器, LM51772RHAR VQFN-28 引脚定义, LM51772 0V-55V I2C buck-boost, LM51772RHAR price, LM51772RHAR 现货库存, LM51772RHAR alternative"
+    },
+    "/product/BQ25756RRVR": {
+      "title": "BQ25756RRVR | Texas Instruments Bidirectional synchronous buck-boost battery charger controller",
+      "description": "BQ25756RRVR from Texas Instruments: Bidirectional synchronous buck-boost battery charger controller for up to 70V and 1-14 series lithium-ion batteries, with MPPT and I2C. Request stock, pricing, MOQ, lead time, lot photos and traceability documents.",
+      "keywords": "BQ25756RRVR, BQ25756RRVR datasheet TI, BQ25756 70V 1-14S 充电芯片规格书, BQ25756RRVR WQFN-36 pinout, BQ25756 MPPT USB-PD EPR, BQ25756RRVR price, BQ25756RRVR 现货供应商, BQ25756 alternative"
+    },
+    "/product/LM74800QDRRRQ1": {
+      "title": "LM74800QDRRRQ1 | Texas Instruments Automotive-grade ideal diode controller",
+      "description": "LM74800QDRRRQ1 from Texas Instruments: Automotive-grade ideal diode controller with 3V-65V operating voltage, -65V withstand rating and integrated drive with overvoltage shutdown/clamp. Request stock, pricing, MOQ, lead time, lot photos and traceability documents.",
+      "keywords": "LM74800QDRRRQ1, LM74800QDRRRQ1 datasheet TI, LM74800-Q1 数据手册 德州仪器, LM74800QDRRRQ1 AEC-Q100 ISO 7637-2, LM74800QDRRRQ1 65V 理想二极管, LM74800QDRRRQ1 price, LM74800QDRRRQ1 车规现货, LM74800QDRRRQ1 alternative"
+    },
+    "/product/TPS259470LRPWR": {
+      "title": "TPS259470LRPWR | Texas Instruments Smart eFuse and overcurrent protection IC",
+      "description": "TPS259470LRPWR from Texas Instruments: Smart eFuse with 2.7V-23V operating voltage, integrated back-to-back FET, 28.3mΩ resistance and adjustable 0.5A-6A current limit. Request stock, pricing, MOQ, lead time, lot photos and traceability documents.",
+      "keywords": "TPS259470LRPWR, TPS259470LRPWR datasheet TI, TPS259470L 数据手册 德州仪器, TPS259470LRPWR UL 2367 IEC 62368-1, TPS259470L VQFN-10 电子保险丝, TPS259470LRPWR price, TPS259470LRPWR 现货, TPS259470LRPWR alternative"
+    },
+    "/product/BQ28Z610DRZR-R1": {
+      "title": "BQ28Z610DRZR-R1 | Texas Instruments 1-2 series lithium battery fuel gauge and protection IC",
+      "description": "BQ28Z610DRZR-R1 from Texas Instruments: Battery fuel gauge and protection IC for 1-2 series lithium-ion/lithium-polymer batteries with Impedance Track™ algorithm, I2C/HDQ and VSON-12. Request stock, pricing, MOQ, lead time, lot photos and traceability documents.",
+      "keywords": "BQ28Z610DRZR-R1, BQ28Z610DRZR-R1 datasheet, BQ28Z610-R1 规格书 德州仪器, BQ28Z610 Impedance Track 算法, BQ28Z610DRZR-R1 VSON-12 pinout, BQ28Z610DRZR-R1 price, BQ28Z610DRZR-R1 现货, BQ28Z610 alternative"
+    },
+    "/product/INA226AIDGSR": {
+      "title": "INA226AIDGSR | Texas Instruments High-side/low-side current and voltage monitor",
+      "description": "INA226AIDGSR from Texas Instruments: High-side/low-side current and voltage monitor with 0V-36V bus voltage, 16-bit ADC, I2C interface and up to 10uV offset voltage. Request stock, pricing, MOQ, lead time, lot photos and traceability documents.",
+      "keywords": "INA226AIDGSR, INA226AIDGSR datasheet TI, INA226 规格书 德州仪器, INA226AIDGSR VSSOP-10 pinout, INA226 0V-36V 16-bit I2C monitor, INA226AIDGSR price, INA226AIDGSR 现货库存, INA226AIDGSR alternative"
+    },
+    "/product/TPS63070RNMR": {
+      "title": "TPS63070RNMR | Texas Instruments Synchronous buck-boost DC-DC converter",
+      "description": "TPS63070RNMR from Texas Instruments: Synchronous buck-boost DC-DC converter with 2.0V-16V input, 2.5V-9V output, up to 2A switch current and 2.4MHz frequency. Request stock, pricing, MOQ, lead time, lot photos and traceability documents.",
+      "keywords": "TPS63070RNMR, TPS63070RNMR datasheet TI, TPS63070 数据手册 德州仪器, TPS63070RNMR VQFN-15 pinout, TPS63070 2A buck-boost 2.4MHz, TPS63070RNMR price, TPS63070RNMR 现货库存, TPS63070RNMR alternative"
     }
   },
   "layout": {

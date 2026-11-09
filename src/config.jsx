@@ -122,13 +122,21 @@ export function ConfigProvider({ children }) {
 
   const { lang } = useI18n();
   const { pathname } = useLocation();
-  const needsProductData = pathname === '/all-products' || pathname.startsWith('/product/');
+  const needsProductData =
+    pathname === '/all-products' ||
+    pathname.startsWith('/product/') ||
+    pathname.includes('/all-products') ||
+    pathname.includes('/product/');
   useEffect(() => {
     if (!needsProductData) return;
     let alive = true;
     fetch('/assets/data/products.json')
       .then((r) => (r.ok ? r.json() : null))
-      .then((parts) => { if (alive && parts) setRouteData({ productParts: parts, products: { items: Object.values(parts) } }); })
+      .then((parts) => {
+        if (!alive || !parts) return;
+        const mergedParts = { ...DEFAULT_CONFIG.productParts, ...parts };
+        setRouteData({ productParts: mergedParts, products: { items: Object.values(mergedParts) } });
+      })
       .catch(() => {});
     return () => { alive = false; };
   }, [needsProductData, pathname]);
