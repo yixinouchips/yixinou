@@ -6,7 +6,7 @@ export const TARGET_PRODUCT_PARTS = {
     "category": "处理器与控制器",
     "categoryHref": "/all-products",
     "summary": "R9A08G045S15GBG#BC0 是 瑞萨(Renesas) 的 RZ/G3S 通用微处理器，归属于集成电路(IC) / 处理器与控制器 / 微处理器 (MPU)。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
-    "img": "/assets/images/R9A08G045S15GBG#BC0.jpg",
+    "img": "/assets/images/R9A08G045S15GBG%23BC0.jpg",
     "alt": "瑞萨(Renesas) R9A08G045S15GBG#BC0 product image",
     "imageNote": "图片为当前产品素材中的处理后图片；如为Logo占位图或未验证封装图，采购前请索取实际批次照片。",
     "specs": [
@@ -155,7 +155,7 @@ export const TARGET_PRODUCT_PARTS = {
     "category": "电源管理芯片",
     "categoryHref": "/all-products",
     "summary": "RAA2214904GNP#HBB 是 瑞萨(Renesas) 的 高效率同步整流降压稳压器IC，归属于集成电路(IC) / 电源管理芯片 / DC-DC降压转换器。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
-    "img": "/assets/images/RAA2214904GNP#HBB.jpg",
+    "img": "/assets/images/RAA2214904GNP%23HBB.jpg",
     "alt": "瑞萨(Renesas) RAA2214904GNP#HBB product image",
     "imageNote": "图片为当前产品素材中的处理后图片；如为Logo占位图或未验证封装图，采购前请索取实际批次照片。",
     "specs": [
@@ -304,7 +304,7 @@ export const TARGET_PRODUCT_PARTS = {
     "category": "电源管理芯片",
     "categoryHref": "/all-products",
     "summary": "LT4256-2IS8#TRPBF 是 亚德诺(ADI/Linear Tech) 的 高电压热插拔控制器IC，归属于集成电路(IC) / 电源管理芯片 / 热插拔控制器。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
-    "img": "/assets/images/LT4256-2IS8#TRPBF.jpg",
+    "img": "/assets/images/LT4256-2IS8%23TRPBF.jpg",
     "alt": "亚德诺(ADI/Linear Tech) LT4256-2IS8#TRPBF product image",
     "imageNote": "图片为当前产品素材中的处理后图片；如为Logo占位图或未验证封装图，采购前请索取实际批次照片。",
     "specs": [
@@ -378,7 +378,7 @@ export const TARGET_PRODUCT_PARTS = {
     "category": "处理器与控制器",
     "categoryHref": "/all-products",
     "summary": "R9A07G044L13GBG#BC0 是 瑞萨(Renesas) 的 RZ/G2LC 通用微处理器，归属于集成电路(IC) / 处理器与控制器 / 微处理器 (MPU)。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
-    "img": "/assets/images/R9A07G044L13GBG#BC0.jpg",
+    "img": "/assets/images/R9A07G044L13GBG%23BC0.jpg",
     "alt": "瑞萨(Renesas) R9A07G044L13GBG#BC0 product image",
     "imageNote": "图片为当前产品素材中的处理后图片；如为Logo占位图或未验证封装图，采购前请索取实际批次照片。",
     "specs": [
@@ -603,7 +603,7 @@ export const TARGET_PRODUCT_PARTS = {
     "category": "处理器与控制器",
     "categoryHref": "/all-products",
     "summary": "R7F701304EAFP-C#BA1 是 瑞萨(Renesas) 的 RH850/F1K 车规级微控制器，归属于集成电路(IC) / 处理器与控制器 / MCU（32位 RH850）。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
-    "img": "/assets/images/R7F701304EAFP-C#BA1.jpg",
+    "img": "/assets/images/R7F701304EAFP-C%23BA1.jpg",
     "alt": "瑞萨(Renesas) R7F701304EAFP-C#BA1 product image",
     "imageNote": "图片为当前产品素材中的处理后图片；如为Logo占位图或未验证封装图，采购前请索取实际批次照片。",
     "specs": [
