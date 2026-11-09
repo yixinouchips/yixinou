@@ -448,7 +448,7 @@ export const COMPANY = {
   homeVideo: '/assets/videos/promo-30s.mp4',
   homeVideoPoster: '/assets/images/promo-poster.jpg',
   subscribeBg: '/assets/images/subscribe-bg.webp',
-  qr: '/assets/images/jessie-wechat-qrcode.jpg',
+  qr: '/assets/images/jessie-wechat-qrcode.webp',
 };
 
 // ---------------- About us ----------------
