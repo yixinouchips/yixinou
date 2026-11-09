@@ -1,4 +1,5 @@
 import ALL_PRODUCT_PARTS from '../data/allProductsData';
+import { TARGET_PRODUCT_PARTS } from '../data/targetProductParts';
 import { ChevronDown, ChevronRight, Home } from 'lucide-react';
 import { Link, useParams } from '../router';
 import { ProductJsonLd } from '../Seo';
@@ -33,7 +34,7 @@ function Section({ index, title, children, open = false }) {
 export default function ProductDetail() {
   const { mpn } = useParams();
   const { productParts: configParts, contact } = useConfig();
-  const productParts = { ...ALL_PRODUCT_PARTS, ...(configParts || {}) };
+  const productParts = { ...ALL_PRODUCT_PARTS, ...TARGET_PRODUCT_PARTS, ...(configParts || {}) };
   const { t } = useI18n();
   useScrollTop();
   const mainRef = useReveal('fadeInUp', 0);

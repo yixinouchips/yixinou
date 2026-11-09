@@ -1,5 +1,6 @@
 import { createContext, useContext, useEffect, useMemo, useState } from 'react';
 import * as D from './content';
+import { TARGET_PRODUCT_PARTS } from './data/targetProductParts';
 import { useI18n } from './i18n';
 import { useLocation } from 'react-router-dom';
 import { loadLocalePack } from './localeLoader';
@@ -26,7 +27,7 @@ export const DEFAULT_CONFIG = {
   quality: D.QUALITY,
   industriesPage: D.INDUSTRIES_PAGE,
   pageBanners: D.PAGE_BANNERS,
-  productParts: D.PRODUCT_PARTS,
+  productParts: { ...D.PRODUCT_PARTS, ...TARGET_PRODUCT_PARTS },
   contact: { info: D.CONTACT_INFO, mapEmbed: D.MAP_EMBED },
   tdk: {
     '/': { title: document?.title || 'YIXINOU', description: '', keywords: '' },
