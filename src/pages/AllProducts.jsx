@@ -1,9 +1,12 @@
 import ALL_PRODUCT_PARTS from '../data/allProductsData';
+
+import { CHIPS32 } from '../data/chips32';
 import { ChevronRight, Search, X } from 'lucide-react';
 import { useEffect, useMemo, useRef } from 'react';
 import { Link, useLocation, useSearchParams } from '../router';
 import PageBanner from '../PageBanner';
 import { ProductsItemList } from '../Seo';
+
 import { useConfig } from '../config';
 import { useI18n } from '../i18n';
 import { useCanonical, useReveal, useScrollTop } from '../hooks';
@@ -26,6 +29,7 @@ const tight = (v) => loose(v).replace(/[^a-z0-9]/g, '');
 export default function AllProducts() {
   const { t } = useI18n();
   const { productParts: configParts, pageBanners: PB, site } = useConfig();
+
   const productParts = { ...ALL_PRODUCT_PARTS, ...(configParts || {}) };
   const [params, setParams] = useSearchParams();
   const { pathname } = useLocation();
@@ -45,6 +49,7 @@ export default function AllProducts() {
     () =>
       Object.entries(productParts || {}).map(([id, p]) => ({
         id,
+
         mpn: p.mpn,
         brand: p.brand,
         title: p.title,

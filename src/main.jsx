@@ -8,6 +8,8 @@ import ErrorBoundary from './ErrorBoundary';
 import { initAnalytics } from './analytics';
 import { usePageMeta, usePageTracking } from './hooks';
 import Seo from './Seo';
+
+import { CHIPS32 } from './data/chips32';
 import CookieConsent from './CookieConsent';
 import Header from './Header';
 import Banner from './Banner';
@@ -106,6 +108,7 @@ function TdkApplier() {
 
   let { title, description } = tdk;
   if (!title && bare.startsWith('/product/')) {
+
     const mpn = decodeURIComponent(bare.slice('/product/'.length));
     if (mpn) {
       title = `${mpn} - Request Price and Availability | ${siteName}`;
@@ -116,6 +119,7 @@ function TdkApplier() {
   usePageMeta(
     title || DEFAULT_TITLE,
     description || DEFAULT_DESCRIPTION,
+
     tdk.keywords || DEFAULT_KEYWORDS
   );
   return null;

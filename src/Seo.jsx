@@ -2,6 +2,8 @@ import { useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
 import { useConfig } from './config';
 import { CERTIFICATE_METADATA, LOCALES, defaultLocale, localeOfPath, stripLocale, withLocale } from './content';
+
+import { CHIPS32 } from './data/chips32';
 import { useCanonical } from './hooks';
 
 /*
@@ -52,6 +54,11 @@ const TRANSLATED_PARTS = {
 };
 
 const hasTranslatedPart = (bare, code) => {
+
+  if (bare.startsWith('/product/')) {
+    const model = decodeURIComponent(bare.slice('/product/'.length));
+    if (CHIPS32[model]) return code === 'en';
+  }
   if (!bare.startsWith('/product/')) return false;
   const set = TRANSLATED_PARTS[code];
   if (set === null) return true;   // every published part has a record in this language

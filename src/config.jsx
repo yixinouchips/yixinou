@@ -1,6 +1,8 @@
 import { createContext, useContext, useEffect, useMemo, useState } from 'react';
 import * as D from './content';
 import { TARGET_PRODUCT_PARTS } from './data/targetProductParts';
+
+import { CHIPS32 } from './data/chips32';
 import { useI18n } from './i18n';
 import { useLocation } from 'react-router-dom';
 import { loadLocalePack } from './localeLoader';
@@ -27,6 +29,7 @@ export const DEFAULT_CONFIG = {
   quality: D.QUALITY,
   industriesPage: D.INDUSTRIES_PAGE,
   pageBanners: D.PAGE_BANNERS,
+
   productParts: { ...D.PRODUCT_PARTS, ...TARGET_PRODUCT_PARTS },
   contact: { info: D.CONTACT_INFO, mapEmbed: D.MAP_EMBED },
   tdk: {
@@ -103,6 +106,9 @@ export function ConfigProvider({ children }) {
   const [localePack, setLocalePack] = useState(null);
   const [routeData, setRouteData] = useState(null);
 
+  const [productDataLoaded, setProductDataLoaded] = useState(false);
+  const [publishedConfigLoaded, setPublishedConfigLoaded] = useState(false);
+
   useEffect(() => {
     let alive = true;
     fetch('/site-config.json', { cache: 'no-store' })
@@ -110,6 +116,7 @@ export function ConfigProvider({ children }) {
       .then((cfg) => {
         if (!alive) return;
         if (cfg) setPublished(cfg);
+
         setReady(true);
       })
       .catch(() => {
@@ -134,6 +141,7 @@ export function ConfigProvider({ children }) {
     fetch('/assets/data/products.json')
       .then((r) => (r.ok ? r.json() : null))
       .then((parts) => {
+
         if (!alive || !parts) return;
         const mergedParts = { ...DEFAULT_CONFIG.productParts, ...parts };
         setRouteData({ productParts: mergedParts, products: { items: Object.values(mergedParts) } });
@@ -194,6 +202,7 @@ export function ConfigProvider({ children }) {
     }
     return { ...out, productParts };
   }, [published, lang, localePack, routeData]);
+
 
   return <ConfigContext.Provider value={{ config, ready }}>{children}</ConfigContext.Provider>;
 }

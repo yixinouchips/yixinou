@@ -4,6 +4,7 @@ import { ChevronDown, ChevronRight, Home } from 'lucide-react';
 import { Link, useParams } from '../router';
 import { useLocation } from 'react-router-dom';
 import { ProductJsonLd } from '../Seo';
+
 import { useConfig } from '../config';
 import { useI18n } from '../i18n';
 import { useReveal, useScrollTop } from '../hooks';
@@ -35,6 +36,7 @@ function Section({ index, title, children, open = false }) {
 export default function ProductDetail() {
   const { mpn: routeMpn } = useParams();
   const { pathname } = useLocation();
+
   const mpn = decodeURIComponent(routeMpn || pathname.split('/').pop() || '');
   const { productParts: configParts, contact } = useConfig();
   const productParts = { ...ALL_PRODUCT_PARTS, ...TARGET_PRODUCT_PARTS, ...(configParts || {}) };
@@ -49,6 +51,7 @@ export default function ProductDetail() {
   // so a number only ever has to be maintained in one place.
   const whatsapp = findInfo(/whatsapp/i);
   const wechat = findInfo(/wechat/i);
+
 
   const part = productParts && mpn ? productParts[mpn] : null;
 
