@@ -1088,7 +1088,7 @@ export const HOT_PRODUCT_PARTS = {
     img: '/assets/images/h5cgd8mgbdx021n-bga-96-package.webp',
   },
   'ESP32-S3R8': {
-    brand: 'Espressif Systems',
+    brand: 'Espressif',
     mpn: 'ESP32-S3R8',
     category: 'ICs',
     title: 'Dual-core 32-bit MCU with 2.4 GHz Wi-Fi and Bluetooth 5 (LE), 8 MB octal PSRAM in QFN-56',
@@ -1104,7 +1104,7 @@ export const HOT_PRODUCT_PARTS = {
     img: '/assets/images/fs100r12kt4g-package.webp',
   },
   'ATMega328P-AU': {
-    brand: 'Microchip',
+    brand: 'Microchip Technology',
     mpn: 'ATMega328P-AU',
     category: 'ICs',
     title: '8-bit AVR microcontroller with 32 KB flash, 20 MHz, 32-pin TQFP',

@@ -1,7 +1,7 @@
 export const TARGET_PRODUCT_PARTS = {
   "R9A08G045S15GBG#BC0": {
     "mpn": "R9A08G045S15GBG#BC0",
-    "brand": "瑞萨(Renesas)",
+    "brand": "Renesas",
     "title": "R9A08G045S15GBG#BC0 | 瑞萨(Renesas) RZ/G3S 通用微处理器 | YIXINOU",
     "category": "处理器与控制器",
     "categoryHref": "/all-products",
@@ -75,7 +75,7 @@ export const TARGET_PRODUCT_PARTS = {
   },
   "STM32G0B1VCI6TR": {
     "mpn": "STM32G0B1VCI6TR",
-    "brand": "意法半导体(STMicroelectronics)",
+    "brand": "STMicroelectronics",
     "title": "STM32G0B1VCI6TR | 意法半导体(STMicroelectronics) STM32G0 32位微控制器 | YIXINOU",
     "category": "处理器与控制器",
     "categoryHref": "/all-products",
@@ -150,7 +150,7 @@ export const TARGET_PRODUCT_PARTS = {
   },
   "RAA2214904GNP#HBB": {
     "mpn": "RAA2214904GNP#HBB",
-    "brand": "瑞萨(Renesas)",
+    "brand": "Renesas",
     "title": "RAA2214904GNP#HBB | 瑞萨(Renesas) 高效率同步整流降压稳压器IC | YIXINOU",
     "category": "电源管理芯片",
     "categoryHref": "/all-products",
@@ -225,7 +225,7 @@ export const TARGET_PRODUCT_PARTS = {
   },
   "FS32K148UAT0VLQR": {
     "mpn": "FS32K148UAT0VLQR",
-    "brand": "恩智浦(NXP)",
+    "brand": "NXP Semiconductors",
     "title": "FS32K148UAT0VLQR | 恩智浦(NXP) S32K1 车规级微控制器 | YIXINOU",
     "category": "处理器与控制器",
     "categoryHref": "/all-products",
@@ -299,7 +299,7 @@ export const TARGET_PRODUCT_PARTS = {
   },
   "LT4256-2IS8#TRPBF": {
     "mpn": "LT4256-2IS8#TRPBF",
-    "brand": "亚德诺(ADI/Linear Tech)",
+    "brand": "Analog Devices",
     "title": "LT4256-2IS8#TRPBF | 亚德诺(ADI/Linear Tech) 高电压热插拔控制器IC | YIXINOU",
     "category": "电源管理芯片",
     "categoryHref": "/all-products",
@@ -373,7 +373,7 @@ export const TARGET_PRODUCT_PARTS = {
   },
   "R9A07G044L13GBG#BC0": {
     "mpn": "R9A07G044L13GBG#BC0",
-    "brand": "瑞萨(Renesas)",
+    "brand": "Renesas",
     "title": "R9A07G044L13GBG#BC0 | 瑞萨(Renesas) RZ/G2LC 通用微处理器 | YIXINOU",
     "category": "处理器与控制器",
     "categoryHref": "/all-products",
@@ -448,7 +448,7 @@ export const TARGET_PRODUCT_PARTS = {
   },
   "AD622ARZ-R7": {
     "mpn": "AD622ARZ-R7",
-    "brand": "亚德诺(ADI)",
+    "brand": "Analog Devices",
     "title": "AD622ARZ-R7 | 亚德诺(ADI) 单通道低功耗仪表放大器 | YIXINOU",
     "category": "模拟芯片",
     "categoryHref": "/all-products",
@@ -523,7 +523,7 @@ export const TARGET_PRODUCT_PARTS = {
   },
   "MX25L25645GXDI-10G": {
     "mpn": "MX25L25645GXDI-10G",
-    "brand": "旺宏(Macronix)",
+    "brand": "Macronix",
     "title": "MX25L25645GXDI-10G | 旺宏(Macronix) 串行闪存芯片 | YIXINOU",
     "category": "存储芯片",
     "categoryHref": "/all-products",
@@ -598,7 +598,7 @@ export const TARGET_PRODUCT_PARTS = {
   },
   "R7F701304EAFP-C#BA1": {
     "mpn": "R7F701304EAFP-C#BA1",
-    "brand": "瑞萨(Renesas)",
+    "brand": "Renesas",
     "title": "R7F701304EAFP-C#BA1 | 瑞萨(Renesas) RH850/F1K 车规级微控制器 | YIXINOU",
     "category": "处理器与控制器",
     "categoryHref": "/all-products",
@@ -671,7 +671,7 @@ export const TARGET_PRODUCT_PARTS = {
   },
   "TDA88240": {
     "mpn": "TDA88240",
-    "brand": "英飞凌(Infineon)",
+    "brand": "Infineon",
     "title": "TDA88240 | 英飞凌(Infineon) Power Stage / Gate Driver IC | YIXINOU",
     "category": "电源管理芯片",
     "categoryHref": "/all-products",
@@ -744,7 +744,7 @@ export const TARGET_PRODUCT_PARTS = {
   },
   "ACPL-C87BT-500E": {
     "mpn": "ACPL-C87BT-500E",
-    "brand": "博通(Broadcom)",
+    "brand": "Broadcom",
     "title": "ACPL-C87BT-500E | 博通(Broadcom) 车规级高精度直流电压隔离传感器 | YIXINOU",
     "category": "隔离器",
     "categoryHref": "/all-products",
@@ -819,7 +819,7 @@ export const TARGET_PRODUCT_PARTS = {
   },
   "NX20P0407UKAZ": {
     "mpn": "NX20P0407UKAZ",
-    "brand": "恩智浦(NXP)",
+    "brand": "NXP Semiconductors",
     "title": "NX20P0407UKAZ | 恩智浦(NXP) 高电压输入侧过压/浪涌保护开关IC | YIXINOU",
     "category": "电源管理芯片",
     "categoryHref": "/all-products",
@@ -893,7 +893,7 @@ export const TARGET_PRODUCT_PARTS = {
   },
   "NT5CC256M16ER-EKH": {
     "mpn": "NT5CC256M16ER-EKH",
-    "brand": "南亚科技(Nanya)",
+    "brand": "Nanya",
     "title": "NT5CC256M16ER-EKH | 南亚科技(Nanya) 4Gb DDR3L 内存颗粒 | YIXINOU",
     "category": "存储芯片",
     "categoryHref": "/all-products",
@@ -968,7 +968,7 @@ export const TARGET_PRODUCT_PARTS = {
   },
   "AM29F800BB-55EF": {
     "mpn": "AM29F800BB-55EF",
-    "brand": "飞索半导体(Spansion/AMD)",
+    "brand": "Spansion",
     "title": "AM29F800BB-55EF | 飞索半导体(Spansion/AMD) 5V Boot Sector 闪存芯片 | YIXINOU",
     "category": "存储芯片",
     "categoryHref": "/all-products",
@@ -1043,7 +1043,7 @@ export const TARGET_PRODUCT_PARTS = {
   },
   "AM29F800BB-70EF": {
     "mpn": "AM29F800BB-70EF",
-    "brand": "飞索半导体(Spansion/AMD)",
+    "brand": "Spansion",
     "title": "AM29F800BB-70EF | 飞索半导体(Spansion/AMD) 5V Boot Sector 闪存芯片 | YIXINOU",
     "category": "存储芯片",
     "categoryHref": "/all-products",
@@ -1118,7 +1118,7 @@ export const TARGET_PRODUCT_PARTS = {
   },
   "AM29F800BB-90EF": {
     "mpn": "AM29F800BB-90EF",
-    "brand": "飞索半导体(Spansion/AMD)",
+    "brand": "Spansion",
     "title": "AM29F800BB-90EF | 飞索半导体(Spansion/AMD) 5V Boot Sector 闪存芯片 | YIXINOU",
     "category": "存储芯片",
     "categoryHref": "/all-products",
@@ -1193,7 +1193,7 @@ export const TARGET_PRODUCT_PARTS = {
   },
   "BSS314PEH6327XTSA1": {
     "mpn": "BSS314PEH6327XTSA1",
-    "brand": "英飞凌(Infineon)",
+    "brand": "Infineon",
     "title": "BSS314PEH6327XTSA1 | 英飞凌(Infineon) P-Channel 功率场效应晶体管 | YIXINOU",
     "category": "场效应管(MOSFET)",
     "categoryHref": "/all-products",
@@ -1341,7 +1341,7 @@ export const TARGET_PRODUCT_PARTS = {
   },
   "S25FL064LABMFI013": {
     "mpn": "S25FL064LABMFI013",
-    "brand": "英飞凌/赛普拉斯(Infineon/Cypress)",
+    "brand": "Infineon",
     "title": "S25FL064LABMFI013 | 英飞凌/赛普拉斯(Infineon/Cypress) 串行闪存芯片 (SPI Flash) | YIXINOU",
     "category": "存储芯片",
     "categoryHref": "/all-products",
@@ -1416,7 +1416,7 @@ export const TARGET_PRODUCT_PARTS = {
   },
   "UPD720115K8-711-BAK-A": {
     "mpn": "UPD720115K8-711-BAK-A",
-    "brand": "瑞萨(Renesas)",
+    "brand": "Renesas",
     "title": "UPD720115K8-711-BAK-A | 瑞萨(Renesas) USB 2.0 4端口集线器控制器IC | YIXINOU",
     "category": "接口芯片",
     "categoryHref": "/all-products",

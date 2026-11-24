@@ -18,6 +18,22 @@ const LABELS = {
   'ams OSRAM': 'AMS OSRAM',
   'Lattice Semiconductor': 'LATTICE',
   'Cirrus Logic': 'CIRRUS LOGIC',
+  Spansion: 'SPANSION',
+  Macronix: 'MACRONIX',
+  Renesas: 'RENESAS',
+  Nanya: 'NANYA',
+  Infineon: 'INFINEON',
+  Broadcom: 'BROADCOM',
+  Samsung: 'SAMSUNG',
+  Micron: 'MICRON',
+  Espressif: 'ESPRESSIF',
+  Hongfa: 'HONGFA',
+  Intel: 'INTEL',
+  InvenSense: 'INVENSENSE',
+  Quectel: 'QUECTEL',
+  Foresee: 'FORESEE',
+  onsemi: 'ONSEMI',
+  '未知厂商': 'OTHERS',
 };
 
 export function brandLabel(brand) {
