@@ -116,11 +116,16 @@ function TdkApplier() {
     }
   }
 
+  const productKeywords = bare.startsWith('/product/') ? (() => {
+    const mpn = decodeURIComponent(bare.slice('/product/'.length));
+    const part = cfg.productParts?.[mpn] || CHIPS32[mpn];
+    return part?.keywords || tdk.keywords;
+  })() : tdk.keywords;
+
   usePageMeta(
     title || DEFAULT_TITLE,
     description || DEFAULT_DESCRIPTION,
-
-    tdk.keywords || DEFAULT_KEYWORDS
+    productKeywords || DEFAULT_KEYWORDS
   );
   return null;
 }

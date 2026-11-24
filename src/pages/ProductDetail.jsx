@@ -1,5 +1,6 @@
 import ALL_PRODUCT_PARTS from '../data/allProductsData';
 import { TARGET_PRODUCT_PARTS } from '../data/targetProductParts';
+import { CHIPS32 } from '../data/chips32';
 import { ChevronDown, ChevronRight, Home } from 'lucide-react';
 import { Link, useParams } from '../router';
 import { useLocation } from 'react-router-dom';
@@ -39,7 +40,7 @@ export default function ProductDetail() {
 
   const mpn = decodeURIComponent(routeMpn || pathname.split('/').pop() || '');
   const { productParts: configParts, contact } = useConfig();
-  const productParts = { ...ALL_PRODUCT_PARTS, ...TARGET_PRODUCT_PARTS, ...(configParts || {}) };
+  const productParts = { ...ALL_PRODUCT_PARTS, ...TARGET_PRODUCT_PARTS, ...CHIPS32, ...(configParts || {}) };
   const { t } = useI18n();
   useScrollTop();
   const mainRef = useReveal('fadeInUp', 0);

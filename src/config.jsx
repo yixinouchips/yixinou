@@ -30,7 +30,7 @@ export const DEFAULT_CONFIG = {
   industriesPage: D.INDUSTRIES_PAGE,
   pageBanners: D.PAGE_BANNERS,
 
-  productParts: { ...D.PRODUCT_PARTS, ...TARGET_PRODUCT_PARTS },
+  productParts: { ...D.PRODUCT_PARTS, ...TARGET_PRODUCT_PARTS, ...CHIPS32 },
   contact: { info: D.CONTACT_INFO, mapEmbed: D.MAP_EMBED },
   tdk: {
     '/': { title: document?.title || 'YIXINOU', description: '', keywords: '' },

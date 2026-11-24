@@ -30,7 +30,7 @@ export default function AllProducts() {
   const { t } = useI18n();
   const { productParts: configParts, pageBanners: PB, site } = useConfig();
 
-  const productParts = { ...ALL_PRODUCT_PARTS, ...(configParts || {}) };
+  const productParts = { ...ALL_PRODUCT_PARTS, ...CHIPS32, ...(configParts || {}) };
   const [params, setParams] = useSearchParams();
   const { pathname } = useLocation();
   useScrollTop();
@@ -63,7 +63,7 @@ export default function AllProducts() {
         group: String(p.categoryEn || p.category || '').split('/')[0].trim() || 'Other',
         img: p.img,
         alt: p.alt,
-        href: `/product/${id}`,
+        href: `/product/${encodeURIComponent(id)}`,
         // keep the label alongside the value: two specs can share a value (a 1T1R radio has
         // "1" for both transmit and receive channels), and a React keyed on the value alone
         // would collide
