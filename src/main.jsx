@@ -134,6 +134,7 @@ const PAGES = [
   ['/', Home],
   ['/about-us', AboutUs],
   ['/all-products', AllProducts],
+  ['/search', AllProducts],
   ['/blogs800', Blogs],
   ['/quality', Quality],
   ['/industries', IndustriesPage],

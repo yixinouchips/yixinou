@@ -248,7 +248,10 @@ export default function Header() {
                   name="search"
                   onSubmit={(e) => {
                     e.preventDefault();
-                    if (query.trim()) window.location.href = `/search?q=${encodeURIComponent(query.trim())}`;
+                    if (query.trim()) {
+                      setSearchOpen(false);
+                      window.location.href = `/all-products?q=${encodeURIComponent(query.trim())}`;
+                    }
                   }}
                 >
                   <input type="hidden" name="type" value="product" />
