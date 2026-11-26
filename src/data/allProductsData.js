@@ -10261,12 +10261,12 @@ export const PRODUCT_PARTS = {
   "INA226AIDGSR": {
     "mpn": "INA226AIDGSR",
     "brand": "Texas Instruments",
-    "title": "INA226AIDGSR | Texas Instruments 数字电流/功率监控器 原装现货与规格参数 | YIXINOU",
+    "title": "INA226AIDGSR | Texas Instruments digital current/power monitor Genuine stock and specifications | YIXINOU",
     "metaTitle": "INA226AIDGSR Texas Instruments (TI) 数字电流/功率监控器 - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Texas Instruments (TI) INA226AIDGSR 数字电流/功率监控器 原装芯片现货供应与技术资料。核心规格：共模总线电压0V至36V、16位ADC、最大增益误差0.1%、最大失调10μV、I2C/SMBus接口、VSSOP-10(MSOP-10)封装、工作温度-40°C至+125°C；工作温度：-40°C至+125°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 模拟芯片 / 数字电流/功率监控器",
     "categoryHref": "/all-products",
-    "summary": "INA226AIDGSR 是 Texas Instruments (TI) 推出的高可靠性 数字电流/功率监控器，归属于 集成电路(IC) / 模拟芯片 / 数字电流/功率监控器。器件核心功能：36V双向高/低侧电流与功率监控器。主要技术规格：共模总线电压0V至36V、16位ADC、最大增益误差0.1%、最大失调10μV、I2C/SMBus接口、VSSOP-10(MSOP-10)封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "INA226AIDGSR  is  Texas Instruments (TI) introduced byhigh-reliability digital current/power monitor，classified under integrated circuits(IC) / analog ICs / digital current/power monitor. Core device function: 36Vbidirectional high-/low-side current and power monitor. Key technical specifications: common-mode bus voltage0Vto36V, 16-bitADC, maximum gain error0.1%, maximum offset10μV, I2C/SMBusinterface, VSSOP-10(MSOP-10)package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/INA226AIDGSR.jpg",
     "alt": "Texas Instruments (TI) INA226AIDGSR 数字电流/功率监控器 产品图片",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出INA226AIDGSR为VSSOP (DGS), 10 pins；页面提供TI官方DGS封装图片。图片文件通过该官方TI页面所列Image地址下载。",
@@ -10312,7 +10312,7 @@ export const PRODUCT_PARTS = {
         "TI经典16位数字功率计芯片，AIDGSR为VSSOP-10封装"
       ]
     ],
-    "about": "INA226AIDGSR 是 Texas Instruments (TI) 推出的高可靠性 数字电流/功率监控器，归属于 集成电路(IC) / 模拟芯片 / 数字电流/功率监控器。器件核心功能：36V双向高/低侧电流与功率监控器。主要技术规格：共模总线电压0V至36V、16位ADC、最大增益误差0.1%、最大失调10μV、I2C/SMBus接口、VSSOP-10(MSOP-10)封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "INA226AIDGSR  is  Texas Instruments (TI) introduced byhigh-reliability digital current/power monitor，classified under integrated circuits(IC) / analog ICs / digital current/power monitor. Core device function: 36Vbidirectional high-/low-side current and power monitor. Key technical specifications: common-mode bus voltage0Vto36V, 16-bitADC, maximum gain error0.1%, maximum offset10μV, I2C/SMBusinterface, VSSOP-10(MSOP-10)package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -10446,10 +10446,10 @@ export const PRODUCT_PARTS = {
   "R9A08G045S15GBG#BC0": {
     "mpn": "R9A08G045S15GBG#BC0",
     "brand": "Renesas",
-    "title": "R9A08G045S15GBG#BC0 | 瑞萨(Renesas) RZ/G3S 通用微处理器 | YIXINOU",
+    "title": "R9A08G045S15GBG#BC0 | Renesas(Renesas) RZ/G3S general-purpose microprocessor | YIXINOU",
     "category": "处理器与控制器",
     "categoryHref": "/all-products",
-    "summary": "R9A08G045S15GBG#BC0 是 瑞萨(Renesas) 的 RZ/G3S 通用微处理器，归属于集成电路(IC) / 处理器与控制器 / 微处理器 (MPU)。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+    "summary": "R9A08G045S15GBG#BC0  is  Renesas(Renesas) of RZ/G3S general-purpose microprocessor，classified underintegrated circuits(IC) / processors and controllers / microprocessor (MPU). This page lists only the model, category, function, specifications, operating temperature, and certification information currently provided; For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation. ",
     "img": "/assets/images/R9A08G045S15GBG%23BC0.jpg",
     "alt": "瑞萨(Renesas) R9A08G045S15GBG#BC0 product image",
     "imageNote": "图片为当前产品素材中的处理后图片；如为Logo占位图或未验证封装图，采购前请索取实际批次照片。",
@@ -10487,7 +10487,7 @@ export const PRODUCT_PARTS = {
         "RoHS"
       ]
     ],
-    "about": "瑞萨(Renesas) R9A08G045S15GBG#BC0，产品大类为集成电路(IC)，产品分类为处理器与控制器，产品子类为微处理器 (MPU)。已提供功能描述：RZ/G3S 通用微处理器。",
+    "about": "Renesas(Renesas) R9A08G045S15GBG#BC0，the product category isintegrated circuits(IC)，the product class isprocessors and controllers，the product subclass ismicroprocessor (MPU). Available function description: RZ/G3S general-purpose microprocessor. ",
     "standards": [
       "RoHS"
     ],
@@ -10520,10 +10520,10 @@ export const PRODUCT_PARTS = {
   "STM32G0B1VCI6TR": {
     "mpn": "STM32G0B1VCI6TR",
     "brand": "STMicroelectronics",
-    "title": "STM32G0B1VCI6TR | 意法半导体(STMicroelectronics) STM32G0 32位微控制器 | YIXINOU",
+    "title": "STM32G0B1VCI6TR | STMicroelectronics(STMicroelectronics) STM32G0 32-bitmicrocontroller | YIXINOU",
     "category": "处理器与控制器",
     "categoryHref": "/all-products",
-    "summary": "STM32G0B1VCI6TR 是 意法半导体(STMicroelectronics) 的 STM32G0 32位微控制器，归属于集成电路(IC) / 处理器与控制器 / MCU（32位 ARM Cortex-M0+）。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+    "summary": "STM32G0B1VCI6TR  is  STMicroelectronics(STMicroelectronics) of STM32G0 32-bitmicrocontroller，classified underintegrated circuits(IC) / processors and controllers / MCU (32-bit ARM Cortex-M0+). This page lists only the model, category, function, specifications, operating temperature, and certification information currently provided; For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation. ",
     "img": "/assets/images/STM32G0B1VCI6TR.jpg",
     "alt": "意法半导体(STMicroelectronics) STM32G0B1VCI6TR product image",
     "imageNote": "图片为当前产品素材中的处理后图片；如为Logo占位图或未验证封装图，采购前请索取实际批次照片。",
@@ -10561,7 +10561,7 @@ export const PRODUCT_PARTS = {
         "RoHS"
       ]
     ],
-    "about": "意法半导体(STMicroelectronics) STM32G0B1VCI6TR，产品大类为集成电路(IC)，产品分类为处理器与控制器，产品子类为MCU（32位 ARM Cortex-M0+）。已提供功能描述：STM32G0 32位微控制器。",
+    "about": "STMicroelectronics(STMicroelectronics) STM32G0B1VCI6TR，the product category isintegrated circuits(IC)，the product class isprocessors and controllers，the product subclass isMCU (32-bit ARM Cortex-M0+). Available function description: STM32G0 32-bitmicrocontroller. ",
     "standards": [
       "RoHS"
     ],
@@ -10595,10 +10595,10 @@ export const PRODUCT_PARTS = {
   "RAA2214904GNP#HBB": {
     "mpn": "RAA2214904GNP#HBB",
     "brand": "Renesas",
-    "title": "RAA2214904GNP#HBB | 瑞萨(Renesas) 高效率同步整流降压稳压器IC | YIXINOU",
+    "title": "RAA2214904GNP#HBB | Renesas(Renesas) high-efficiency synchronous-rectification buck regulator IC | YIXINOU",
     "category": "电源管理芯片",
     "categoryHref": "/all-products",
-    "summary": "RAA2214904GNP#HBB 是 瑞萨(Renesas) 的 高效率同步整流降压稳压器IC，归属于集成电路(IC) / 电源管理芯片 / DC-DC降压转换器。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+    "summary": "RAA2214904GNP#HBB  is  Renesas(Renesas) of high-efficiency synchronous-rectification buck regulator IC，classified underintegrated circuits(IC) / power management IC / DC-DCbuck convert  switch  device . This page lists only the model, category, function, specifications, operating temperature, and certification information currently provided; For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation. ",
     "img": "/assets/images/RAA2214904GNP%23HBB.jpg",
     "alt": "瑞萨(Renesas) RAA2214904GNP#HBB product image",
     "imageNote": "图片为当前产品素材中的处理后图片；如为Logo占位图或未验证封装图，采购前请索取实际批次照片。",
@@ -10636,7 +10636,7 @@ export const PRODUCT_PARTS = {
         "RoHS"
       ]
     ],
-    "about": "瑞萨(Renesas) RAA2214904GNP#HBB，产品大类为集成电路(IC)，产品分类为电源管理芯片，产品子类为DC-DC降压转换器。已提供功能描述：高效率同步整流降压稳压器IC。",
+    "about": "Renesas(Renesas) RAA2214904GNP#HBB，the product category isintegrated circuits(IC)，the product class ispower management IC，the product subclass isDC-DCbuck convert  switch  device . Available function description: high-efficiency synchronous-rectification buck regulator IC. ",
     "standards": [
       "RoHS"
     ],
@@ -10670,10 +10670,10 @@ export const PRODUCT_PARTS = {
   "FS32K148UAT0VLQR": {
     "mpn": "FS32K148UAT0VLQR",
     "brand": "NXP Semiconductors",
-    "title": "FS32K148UAT0VLQR | 恩智浦(NXP) S32K1 车规级微控制器 | YIXINOU",
+    "title": "FS32K148UAT0VLQR | NXP(NXP) S32K1 automotive-grademicrocontroller | YIXINOU",
     "category": "处理器与控制器",
     "categoryHref": "/all-products",
-    "summary": "FS32K148UAT0VLQR 是 恩智浦(NXP) 的 S32K1 车规级微控制器，归属于集成电路(IC) / 处理器与控制器 / MCU（32位 ARM Cortex-M4F）。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+    "summary": "FS32K148UAT0VLQR  is  NXP(NXP) of S32K1 automotive-grademicrocontroller，classified underintegrated circuits(IC) / processors and controllers / MCU (32-bit ARM Cortex-M4F). This page lists only the model, category, function, specifications, operating temperature, and certification information currently provided; For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation. ",
     "img": "/assets/images/FS32K148UAT0VLQR.jpg",
     "alt": "恩智浦(NXP) FS32K148UAT0VLQR product image",
     "imageNote": "图片为当前产品素材中的处理后图片；如为Logo占位图或未验证封装图，采购前请索取实际批次照片。",
@@ -10711,7 +10711,7 @@ export const PRODUCT_PARTS = {
         "AEC-Q100, RoHS"
       ]
     ],
-    "about": "恩智浦(NXP) FS32K148UAT0VLQR，产品大类为集成电路(IC)，产品分类为处理器与控制器，产品子类为MCU（32位 ARM Cortex-M4F）。已提供功能描述：S32K1 车规级微控制器。",
+    "about": "NXP(NXP) FS32K148UAT0VLQR，the product category isintegrated circuits(IC)，the product class isprocessors and controllers，the product subclass isMCU (32-bit ARM Cortex-M4F). Available function description: S32K1 automotive-grademicrocontroller. ",
     "standards": [
       "AEC-Q100, RoHS"
     ],
@@ -10744,10 +10744,10 @@ export const PRODUCT_PARTS = {
   "LT4256-2IS8#TRPBF": {
     "mpn": "LT4256-2IS8#TRPBF",
     "brand": "Analog Devices",
-    "title": "LT4256-2IS8#TRPBF | 亚德诺(ADI/Linear Tech) 高电压热插拔控制器IC | YIXINOU",
+    "title": "LT4256-2IS8#TRPBF | Analog Devices(ADI/Linear Tech) high-voltage hot-swap controller IC | YIXINOU",
     "category": "电源管理芯片",
     "categoryHref": "/all-products",
-    "summary": "LT4256-2IS8#TRPBF 是 亚德诺(ADI/Linear Tech) 的 高电压热插拔控制器IC，归属于集成电路(IC) / 电源管理芯片 / 热插拔控制器。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+    "summary": "LT4256-2IS8#TRPBF  is  Analog Devices(ADI/Linear Tech) of high-voltage hot-swap controller IC，classified underintegrated circuits(IC) / power management IC / hot-swapcontroller. This page lists only the model, category, function, specifications, operating temperature, and certification information currently provided; For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation. ",
     "img": "/assets/images/LT4256-2IS8%23TRPBF.jpg",
     "alt": "亚德诺(ADI/Linear Tech) LT4256-2IS8#TRPBF product image",
     "imageNote": "图片为当前产品素材中的处理后图片；如为Logo占位图或未验证封装图，采购前请索取实际批次照片。",
@@ -10785,7 +10785,7 @@ export const PRODUCT_PARTS = {
         "RoHS"
       ]
     ],
-    "about": "亚德诺(ADI/Linear Tech) LT4256-2IS8#TRPBF，产品大类为集成电路(IC)，产品分类为电源管理芯片，产品子类为热插拔控制器。已提供功能描述：高电压热插拔控制器IC。",
+    "about": "Analog Devices(ADI/Linear Tech) LT4256-2IS8#TRPBF，the product category isintegrated circuits(IC)，the product class ispower management IC，the product subclass ishot-swapcontroller. Available function description: high-voltage hot-swap controller IC. ",
     "standards": [
       "RoHS"
     ],
@@ -10818,10 +10818,10 @@ export const PRODUCT_PARTS = {
   "R9A07G044L13GBG#BC0": {
     "mpn": "R9A07G044L13GBG#BC0",
     "brand": "Renesas",
-    "title": "R9A07G044L13GBG#BC0 | 瑞萨(Renesas) RZ/G2LC 通用微处理器 | YIXINOU",
+    "title": "R9A07G044L13GBG#BC0 | Renesas(Renesas) RZ/G2LC general-purpose microprocessor | YIXINOU",
     "category": "处理器与控制器",
     "categoryHref": "/all-products",
-    "summary": "R9A07G044L13GBG#BC0 是 瑞萨(Renesas) 的 RZ/G2LC 通用微处理器，归属于集成电路(IC) / 处理器与控制器 / 微处理器 (MPU)。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+    "summary": "R9A07G044L13GBG#BC0  is  Renesas(Renesas) of RZ/G2LC general-purpose microprocessor，classified underintegrated circuits(IC) / processors and controllers / microprocessor (MPU). This page lists only the model, category, function, specifications, operating temperature, and certification information currently provided; For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation. ",
     "img": "/assets/images/R9A07G044L13GBG%23BC0.jpg",
     "alt": "瑞萨(Renesas) R9A07G044L13GBG#BC0 product image",
     "imageNote": "图片为当前产品素材中的处理后图片；如为Logo占位图或未验证封装图，采购前请索取实际批次照片。",
@@ -10859,7 +10859,7 @@ export const PRODUCT_PARTS = {
         "RoHS"
       ]
     ],
-    "about": "瑞萨(Renesas) R9A07G044L13GBG#BC0，产品大类为集成电路(IC)，产品分类为处理器与控制器，产品子类为微处理器 (MPU)。已提供功能描述：RZ/G2LC 通用微处理器。",
+    "about": "Renesas(Renesas) R9A07G044L13GBG#BC0，the product category isintegrated circuits(IC)，the product class isprocessors and controllers，the product subclass ismicroprocessor (MPU). Available function description: RZ/G2LC general-purpose microprocessor. ",
     "standards": [
       "RoHS"
     ],
@@ -10893,10 +10893,10 @@ export const PRODUCT_PARTS = {
   "AD622ARZ-R7": {
     "mpn": "AD622ARZ-R7",
     "brand": "Analog Devices",
-    "title": "AD622ARZ-R7 | 亚德诺(ADI) 单通道低功耗仪表放大器 | YIXINOU",
+    "title": "AD622ARZ-R7 | Analog Devices(ADI) single-channel low-power instrumentation amplifier | YIXINOU",
     "category": "模拟芯片",
     "categoryHref": "/all-products",
-    "summary": "AD622ARZ-R7 是 亚德诺(ADI) 的 单通道低功耗仪表放大器，归属于集成电路(IC) / 模拟芯片 / 仪表放大器。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+    "summary": "AD622ARZ-R7  is  Analog Devices(ADI) of single-channel low-power instrumentation amplifier，classified underintegrated circuits(IC) / analog ICs / instrumentationamplifier. This page lists only the model, category, function, specifications, operating temperature, and certification information currently provided; For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation. ",
     "img": "/assets/images/AD622ARZ-R7.jpg",
     "alt": "亚德诺(ADI) AD622ARZ-R7 product image",
     "imageNote": "图片为当前产品素材中的处理后图片；如为Logo占位图或未验证封装图，采购前请索取实际批次照片。",
@@ -10934,7 +10934,7 @@ export const PRODUCT_PARTS = {
         "RoHS"
       ]
     ],
-    "about": "亚德诺(ADI) AD622ARZ-R7，产品大类为集成电路(IC)，产品分类为模拟芯片，产品子类为仪表放大器。已提供功能描述：单通道低功耗仪表放大器。",
+    "about": "Analog Devices(ADI) AD622ARZ-R7，the product category isintegrated circuits(IC)，the product class isanalog ICs，the product subclass isinstrumentationamplifier. Available function description: single-channel low-power instrumentation amplifier. ",
     "standards": [
       "RoHS"
     ],
@@ -10968,10 +10968,10 @@ export const PRODUCT_PARTS = {
   "MX25L25645GXDI-10G": {
     "mpn": "MX25L25645GXDI-10G",
     "brand": "Macronix",
-    "title": "MX25L25645GXDI-10G | 旺宏(Macronix) 串行闪存芯片 | YIXINOU",
+    "title": "MX25L25645GXDI-10G | Macronix(Macronix) serial flash memory IC | YIXINOU",
     "category": "存储芯片",
     "categoryHref": "/all-products",
-    "summary": "MX25L25645GXDI-10G 是 旺宏(Macronix) 的 串行闪存芯片，归属于集成电路(IC) / 存储芯片 / SPI NOR Flash。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+    "summary": "MX25L25645GXDI-10G  is  Macronix(Macronix) of serial flash memory IC，classified underintegrated circuits(IC) / memory ICs / SPI NOR Flash. This page lists only the model, category, function, specifications, operating temperature, and certification information currently provided; For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation. ",
     "img": "/assets/images/MX25L25645GXDI-10G.jpg",
     "alt": "旺宏(Macronix) MX25L25645GXDI-10G product image",
     "imageNote": "图片为当前产品素材中的处理后图片；如为Logo占位图或未验证封装图，采购前请索取实际批次照片。",
@@ -11009,7 +11009,7 @@ export const PRODUCT_PARTS = {
         "RoHS"
       ]
     ],
-    "about": "旺宏(Macronix) MX25L25645GXDI-10G，产品大类为集成电路(IC)，产品分类为存储芯片，产品子类为SPI NOR Flash。已提供功能描述：串行闪存芯片。",
+    "about": "Macronix(Macronix) MX25L25645GXDI-10G，the product category isintegrated circuits(IC)，the product class ismemory ICs，the product subclass isSPI NOR Flash. Available function description: serial flash memory IC. ",
     "standards": [
       "RoHS"
     ],
@@ -11043,10 +11043,10 @@ export const PRODUCT_PARTS = {
   "R7F701304EAFP-C#BA1": {
     "mpn": "R7F701304EAFP-C#BA1",
     "brand": "Renesas",
-    "title": "R7F701304EAFP-C#BA1 | 瑞萨(Renesas) RH850/F1K 车规级微控制器 | YIXINOU",
+    "title": "R7F701304EAFP-C#BA1 | Renesas(Renesas) RH850/F1K automotive-grademicrocontroller | YIXINOU",
     "category": "处理器与控制器",
     "categoryHref": "/all-products",
-    "summary": "R7F701304EAFP-C#BA1 是 瑞萨(Renesas) 的 RH850/F1K 车规级微控制器，归属于集成电路(IC) / 处理器与控制器 / MCU（32位 RH850）。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+    "summary": "R7F701304EAFP-C#BA1  is  Renesas(Renesas) of RH850/F1K automotive-grademicrocontroller，classified underintegrated circuits(IC) / processors and controllers / MCU (32-bit RH850). This page lists only the model, category, function, specifications, operating temperature, and certification information currently provided; For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation. ",
     "img": "/assets/images/R7F701304EAFP-C%23BA1.jpg",
     "alt": "瑞萨(Renesas) R7F701304EAFP-C#BA1 product image",
     "imageNote": "图片为当前产品素材中的处理后图片；如为Logo占位图或未验证封装图，采购前请索取实际批次照片。",
@@ -11084,7 +11084,7 @@ export const PRODUCT_PARTS = {
         "AEC-Q100, RoHS"
       ]
     ],
-    "about": "瑞萨(Renesas) R7F701304EAFP-C#BA1，产品大类为集成电路(IC)，产品分类为处理器与控制器，产品子类为MCU（32位 RH850）。已提供功能描述：RH850/F1K 车规级微控制器。",
+    "about": "Renesas(Renesas) R7F701304EAFP-C#BA1，the product category isintegrated circuits(IC)，the product class isprocessors and controllers，the product subclass isMCU (32-bit RH850). Available function description: RH850/F1K automotive-grademicrocontroller. ",
     "standards": [
       "AEC-Q100, RoHS"
     ],
@@ -11116,10 +11116,10 @@ export const PRODUCT_PARTS = {
   "TDA88240": {
     "mpn": "TDA88240",
     "brand": "Infineon",
-    "title": "TDA88240 | 英飞凌(Infineon) Power Stage / Gate Driver IC | YIXINOU",
+    "title": "TDA88240 | Infineon(Infineon) Power Stage / Gate Driver IC | YIXINOU",
     "category": "电源管理芯片",
     "categoryHref": "/all-products",
-    "summary": "TDA88240 是 英飞凌(Infineon) 的 Power Stage / Gate Driver IC，归属于集成电路(IC) / 电源管理芯片 / 栅极驱动器 / 电源级驱动。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+    "summary": "TDA88240  is  Infineon(Infineon) of Power Stage / Gate Driver IC，classified underintegrated circuits(IC) / power management IC / gate driver / power-stage driver. This page lists only the model, category, function, specifications, operating temperature, and certification information currently provided; For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation. ",
     "img": "/assets/images/TDA88240.jpg",
     "alt": "英飞凌(Infineon) TDA88240 product image",
     "imageNote": "图片为当前产品素材中的处理后图片；如为Logo占位图或未验证封装图，采购前请索取实际批次照片。",
@@ -11157,7 +11157,7 @@ export const PRODUCT_PARTS = {
         "RoHS"
       ]
     ],
-    "about": "英飞凌(Infineon) TDA88240，产品大类为集成电路(IC)，产品分类为电源管理芯片，产品子类为栅极驱动器 / 电源级驱动。已提供功能描述：Power Stage / Gate Driver IC。",
+    "about": "Infineon(Infineon) TDA88240，the product category isintegrated circuits(IC)，the product class ispower management IC，the product subclass isgate driver / power-stage driver. Available function description: Power Stage / Gate Driver IC. ",
     "standards": [
       "RoHS"
     ],
@@ -11189,10 +11189,10 @@ export const PRODUCT_PARTS = {
   "ACPL-C87BT-500E": {
     "mpn": "ACPL-C87BT-500E",
     "brand": "Broadcom",
-    "title": "ACPL-C87BT-500E | 博通(Broadcom) 车规级高精度直流电压隔离传感器 | YIXINOU",
+    "title": "ACPL-C87BT-500E | Broadcom(Broadcom) automotive-gradehigh-accuracy isolated DC voltage sensor | YIXINOU",
     "category": "隔离器",
     "categoryHref": "/all-products",
-    "summary": "ACPL-C87BT-500E 是 博通(Broadcom) 的 车规级高精度直流电压隔离传感器，归属于集成电路(IC) / 隔离器 / 高精度隔离放大器 / 电压传感器。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+    "summary": "ACPL-C87BT-500E  is  Broadcom(Broadcom) of automotive-gradehigh-accuracy isolated DC voltage sensor，classified underintegrated circuits(IC) / isolated device  / high-accuracyisolatedamplifier / voltagesensor. This page lists only the model, category, function, specifications, operating temperature, and certification information currently provided; For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation. ",
     "img": "/assets/images/ACPL-C87BT-500E.jpg",
     "alt": "博通(Broadcom) ACPL-C87BT-500E product image",
     "imageNote": "图片为当前产品素材中的处理后图片；如为Logo占位图或未验证封装图，采购前请索取实际批次照片。",
@@ -11230,7 +11230,7 @@ export const PRODUCT_PARTS = {
         "AEC-Q100, RoHS"
       ]
     ],
-    "about": "博通(Broadcom) ACPL-C87BT-500E，产品大类为集成电路(IC)，产品分类为隔离器，产品子类为高精度隔离放大器 / 电压传感器。已提供功能描述：车规级高精度直流电压隔离传感器。",
+    "about": "Broadcom(Broadcom) ACPL-C87BT-500E，the product category isintegrated circuits(IC)，the product class isisolated device ，the product subclass ishigh-accuracyisolatedamplifier / voltagesensor. Available function description: automotive-gradehigh-accuracy isolated DC voltage sensor. ",
     "standards": [
       "AEC-Q100, RoHS"
     ],
@@ -11264,10 +11264,10 @@ export const PRODUCT_PARTS = {
   "NX20P0407UKAZ": {
     "mpn": "NX20P0407UKAZ",
     "brand": "NXP Semiconductors",
-    "title": "NX20P0407UKAZ | 恩智浦(NXP) 高电压输入侧过压/浪涌保护开关IC | YIXINOU",
+    "title": "NX20P0407UKAZ | NXP(NXP) highvoltageinputsideovervoltage/surge protection switch IC | YIXINOU",
     "category": "电源管理芯片",
     "categoryHref": "/all-products",
-    "summary": "NX20P0407UKAZ 是 恩智浦(NXP) 的 高电压输入侧过压/浪涌保护开关IC，归属于集成电路(IC) / 电源管理芯片 / 过压保护芯片 (OVP)。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+    "summary": "NX20P0407UKAZ  is  NXP(NXP) of highvoltageinputsideovervoltage/surge protection switch IC，classified underintegrated circuits(IC) / power management IC / overvoltageprotectionIC (OVP). This page lists only the model, category, function, specifications, operating temperature, and certification information currently provided; For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation. ",
     "img": "/assets/images/NX20P0407UKAZ.jpg",
     "alt": "恩智浦(NXP) NX20P0407UKAZ product image",
     "imageNote": "图片为当前产品素材中的处理后图片；如为Logo占位图或未验证封装图，采购前请索取实际批次照片。",
@@ -11305,7 +11305,7 @@ export const PRODUCT_PARTS = {
         "RoHS"
       ]
     ],
-    "about": "恩智浦(NXP) NX20P0407UKAZ，产品大类为集成电路(IC)，产品分类为电源管理芯片，产品子类为过压保护芯片 (OVP)。已提供功能描述：高电压输入侧过压/浪涌保护开关IC。",
+    "about": "NXP(NXP) NX20P0407UKAZ，the product category isintegrated circuits(IC)，the product class ispower management IC，the product subclass isovervoltageprotectionIC (OVP). Available function description: highvoltageinputsideovervoltage/surge protection switch IC. ",
     "standards": [
       "RoHS"
     ],
@@ -11338,10 +11338,10 @@ export const PRODUCT_PARTS = {
   "NT5CC256M16ER-EKH": {
     "mpn": "NT5CC256M16ER-EKH",
     "brand": "Nanya",
-    "title": "NT5CC256M16ER-EKH | 南亚科技(Nanya) 4Gb DDR3L 内存颗粒 | YIXINOU",
+    "title": "NT5CC256M16ER-EKH | Nanya(Nanya) 4Gb DDR3L memory die | YIXINOU",
     "category": "存储芯片",
     "categoryHref": "/all-products",
-    "summary": "NT5CC256M16ER-EKH 是 南亚科技(Nanya) 的 4Gb DDR3L 内存颗粒，归属于集成电路(IC) / 存储芯片 / DDR3L SDRAM。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+    "summary": "NT5CC256M16ER-EKH  is  Nanya(Nanya) of 4Gb DDR3L memory die，classified underintegrated circuits(IC) / memory ICs / DDR3L SDRAM. This page lists only the model, category, function, specifications, operating temperature, and certification information currently provided; For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation. ",
     "img": "/assets/images/NT5CC256M16ER-EKH.jpg",
     "alt": "南亚科技(Nanya) NT5CC256M16ER-EKH product image",
     "imageNote": "图片为当前产品素材中的处理后图片；如为Logo占位图或未验证封装图，采购前请索取实际批次照片。",
@@ -11379,7 +11379,7 @@ export const PRODUCT_PARTS = {
         "JEDEC, RoHS"
       ]
     ],
-    "about": "南亚科技(Nanya) NT5CC256M16ER-EKH，产品大类为集成电路(IC)，产品分类为存储芯片，产品子类为DDR3L SDRAM。已提供功能描述：4Gb DDR3L 内存颗粒。",
+    "about": "Nanya(Nanya) NT5CC256M16ER-EKH，the product category isintegrated circuits(IC)，the product class ismemory ICs，the product subclass isDDR3L SDRAM. Available function description: 4Gb DDR3L memory die. ",
     "standards": [
       "JEDEC, RoHS"
     ],
@@ -11413,10 +11413,10 @@ export const PRODUCT_PARTS = {
   "AM29F800BB-55EF": {
     "mpn": "AM29F800BB-55EF",
     "brand": "Spansion",
-    "title": "AM29F800BB-55EF | 飞索半导体(Spansion/AMD) 5V Boot Sector 闪存芯片 | YIXINOU",
+    "title": "AM29F800BB-55EF | Spansion(Spansion/AMD) 5V Boot Sector flash memoryIC | YIXINOU",
     "category": "存储芯片",
     "categoryHref": "/all-products",
-    "summary": "AM29F800BB-55EF 是 飞索半导体(Spansion/AMD) 的 5V Boot Sector 闪存芯片，归属于集成电路(IC) / 存储芯片 / 并行 NOR Flash。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+    "summary": "AM29F800BB-55EF  is  Spansion(Spansion/AMD) of 5V Boot Sector flash memoryIC，classified underintegrated circuits(IC) / memory ICs / parallel NOR Flash. This page lists only the model, category, function, specifications, operating temperature, and certification information currently provided; For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation. ",
     "img": "/assets/images/AM29F800BB-55EF.jpg",
     "alt": "飞索半导体(Spansion/AMD) AM29F800BB-55EF product image",
     "imageNote": "图片为当前产品素材中的处理后图片；如为Logo占位图或未验证封装图，采购前请索取实际批次照片。",
@@ -11454,7 +11454,7 @@ export const PRODUCT_PARTS = {
         "RoHS"
       ]
     ],
-    "about": "飞索半导体(Spansion/AMD) AM29F800BB-55EF，产品大类为集成电路(IC)，产品分类为存储芯片，产品子类为并行 NOR Flash。已提供功能描述：5V Boot Sector 闪存芯片。",
+    "about": "Spansion(Spansion/AMD) AM29F800BB-55EF，the product category isintegrated circuits(IC)，the product class ismemory ICs，the product subclass isparallel NOR Flash. Available function description: 5V Boot Sector flash memoryIC. ",
     "standards": [
       "RoHS"
     ],
@@ -11488,10 +11488,10 @@ export const PRODUCT_PARTS = {
   "AM29F800BB-70EF": {
     "mpn": "AM29F800BB-70EF",
     "brand": "Spansion",
-    "title": "AM29F800BB-70EF | 飞索半导体(Spansion/AMD) 5V Boot Sector 闪存芯片 | YIXINOU",
+    "title": "AM29F800BB-70EF | Spansion(Spansion/AMD) 5V Boot Sector flash memoryIC | YIXINOU",
     "category": "存储芯片",
     "categoryHref": "/all-products",
-    "summary": "AM29F800BB-70EF 是 飞索半导体(Spansion/AMD) 的 5V Boot Sector 闪存芯片，归属于集成电路(IC) / 存储芯片 / 并行 NOR Flash。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+    "summary": "AM29F800BB-70EF  is  Spansion(Spansion/AMD) of 5V Boot Sector flash memoryIC，classified underintegrated circuits(IC) / memory ICs / parallel NOR Flash. This page lists only the model, category, function, specifications, operating temperature, and certification information currently provided; For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation. ",
     "img": "/assets/images/AM29F800BB-70EF.jpg",
     "alt": "飞索半导体(Spansion/AMD) AM29F800BB-70EF product image",
     "imageNote": "图片为当前产品素材中的处理后图片；如为Logo占位图或未验证封装图，采购前请索取实际批次照片。",
@@ -11529,7 +11529,7 @@ export const PRODUCT_PARTS = {
         "RoHS"
       ]
     ],
-    "about": "飞索半导体(Spansion/AMD) AM29F800BB-70EF，产品大类为集成电路(IC)，产品分类为存储芯片，产品子类为并行 NOR Flash。已提供功能描述：5V Boot Sector 闪存芯片。",
+    "about": "Spansion(Spansion/AMD) AM29F800BB-70EF，the product category isintegrated circuits(IC)，the product class ismemory ICs，the product subclass isparallel NOR Flash. Available function description: 5V Boot Sector flash memoryIC. ",
     "standards": [
       "RoHS"
     ],
@@ -11563,10 +11563,10 @@ export const PRODUCT_PARTS = {
   "AM29F800BB-90EF": {
     "mpn": "AM29F800BB-90EF",
     "brand": "Spansion",
-    "title": "AM29F800BB-90EF | 飞索半导体(Spansion/AMD) 5V Boot Sector 闪存芯片 | YIXINOU",
+    "title": "AM29F800BB-90EF | Spansion(Spansion/AMD) 5V Boot Sector flash memoryIC | YIXINOU",
     "category": "存储芯片",
     "categoryHref": "/all-products",
-    "summary": "AM29F800BB-90EF 是 飞索半导体(Spansion/AMD) 的 5V Boot Sector 闪存芯片，归属于集成电路(IC) / 存储芯片 / 并行 NOR Flash。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+    "summary": "AM29F800BB-90EF  is  Spansion(Spansion/AMD) of 5V Boot Sector flash memoryIC，classified underintegrated circuits(IC) / memory ICs / parallel NOR Flash. This page lists only the model, category, function, specifications, operating temperature, and certification information currently provided; For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation. ",
     "img": "/assets/images/AM29F800BB-90EF.jpg",
     "alt": "飞索半导体(Spansion/AMD) AM29F800BB-90EF product image",
     "imageNote": "图片为当前产品素材中的处理后图片；如为Logo占位图或未验证封装图，采购前请索取实际批次照片。",
@@ -11604,7 +11604,7 @@ export const PRODUCT_PARTS = {
         "RoHS"
       ]
     ],
-    "about": "飞索半导体(Spansion/AMD) AM29F800BB-90EF，产品大类为集成电路(IC)，产品分类为存储芯片，产品子类为并行 NOR Flash。已提供功能描述：5V Boot Sector 闪存芯片。",
+    "about": "Spansion(Spansion/AMD) AM29F800BB-90EF，the product category isintegrated circuits(IC)，the product class ismemory ICs，the product subclass isparallel NOR Flash. Available function description: 5V Boot Sector flash memoryIC. ",
     "standards": [
       "RoHS"
     ],
@@ -11638,10 +11638,10 @@ export const PRODUCT_PARTS = {
   "BSS314PEH6327XTSA1": {
     "mpn": "BSS314PEH6327XTSA1",
     "brand": "Infineon",
-    "title": "BSS314PEH6327XTSA1 | 英飞凌(Infineon) P-Channel 功率场效应晶体管 | YIXINOU",
+    "title": "BSS314PEH6327XTSA1 | Infineon(Infineon) P-Channel power MOSFET | YIXINOU",
     "category": "场效应管(MOSFET)",
     "categoryHref": "/all-products",
-    "summary": "BSS314PEH6327XTSA1 是 英飞凌(Infineon) 的 P-Channel 功率场效应晶体管，归属于半导体分立器件 / 场效应管(MOSFET) / P沟道 MOSFET。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+    "summary": "BSS314PEH6327XTSA1  is  Infineon(Infineon) of P-Channel power MOSFET，classified underdiscrete semiconductor devices / field-effect transistors(MOSFET) / P-channel MOSFET. This page lists only the model, category, function, specifications, operating temperature, and certification information currently provided; For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation. ",
     "img": "/assets/images/BSS314PEH6327XTSA1.jpg",
     "alt": "英飞凌(Infineon) BSS314PEH6327XTSA1 product image",
     "imageNote": "图片为当前产品素材中的处理后图片；如为Logo占位图或未验证封装图，采购前请索取实际批次照片。",
@@ -11679,7 +11679,7 @@ export const PRODUCT_PARTS = {
         "RoHS"
       ]
     ],
-    "about": "英飞凌(Infineon) BSS314PEH6327XTSA1，产品大类为半导体分立器件，产品分类为场效应管(MOSFET)，产品子类为P沟道 MOSFET。已提供功能描述：P-Channel 功率场效应晶体管。",
+    "about": "Infineon(Infineon) BSS314PEH6327XTSA1，the product category isdiscrete semiconductor devices，the product class isfield-effect transistors(MOSFET)，the product subclass isP-channel MOSFET. Available function description: P-Channel power MOSFET. ",
     "standards": [
       "RoHS"
     ],
@@ -11713,10 +11713,10 @@ export const PRODUCT_PARTS = {
   "NM1482KSLAXCL-3BE": {
     "mpn": "NM1482KSLAXCL-3BE",
     "brand": "未知厂商",
-    "title": "NM1482KSLAXCL-3BE | 未知厂商 同步降压稳压器IC | YIXINOU",
+    "title": "NM1482KSLAXCL-3BE | Unknown manufacturer synchronous buck regulator IC | YIXINOU",
     "category": "电源管理芯片",
     "categoryHref": "/all-products",
-    "summary": "NM1482KSLAXCL-3BE 是 未知厂商 的 同步降压稳压器IC，归属于- / 电源管理芯片 / DC-DC降压转换器。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+    "summary": "NM1482KSLAXCL-3BE  is  Unknown manufacturer of synchronous buck regulator IC，classified under- / power management IC / DC-DCbuck convert  switch  device . This page lists only the model, category, function, specifications, operating temperature, and certification information currently provided; For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation. ",
     "img": "/assets/images/NM1482KSLAXCL-3BE.jpg",
     "alt": "未知厂商 NM1482KSLAXCL-3BE product image",
     "imageNote": "图片为当前产品素材中的处理后图片；如为Logo占位图或未验证封装图，采购前请索取实际批次照片。",
@@ -11754,7 +11754,7 @@ export const PRODUCT_PARTS = {
         "未提供"
       ]
     ],
-    "about": "未知厂商 NM1482KSLAXCL-3BE，产品大类为-，产品分类为电源管理芯片，产品子类为DC-DC降压转换器。已提供功能描述：同步降压稳压器IC。",
+    "about": "Unknown manufacturer NM1482KSLAXCL-3BE，the product category is-，the product class ispower management IC，the product subclass isDC-DCbuck convert  switch  device . Available function description: synchronous buck regulator IC. ",
     "standards": [
       "未提供"
     ],
@@ -11786,10 +11786,10 @@ export const PRODUCT_PARTS = {
   "S25FL064LABMFI013": {
     "mpn": "S25FL064LABMFI013",
     "brand": "Infineon",
-    "title": "S25FL064LABMFI013 | 英飞凌/赛普拉斯(Infineon/Cypress) 串行闪存芯片 (SPI Flash) | YIXINOU",
+    "title": "S25FL064LABMFI013 | Infineon/Cypress(Infineon/Cypress) serial flash memory IC (SPI Flash) | YIXINOU",
     "category": "存储芯片",
     "categoryHref": "/all-products",
-    "summary": "S25FL064LABMFI013 是 英飞凌/赛普拉斯(Infineon/Cypress) 的 串行闪存芯片 (SPI Flash)，归属于集成电路(IC) / 存储芯片 / SPI NOR Flash。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+    "summary": "S25FL064LABMFI013  is  Infineon/Cypress(Infineon/Cypress) of serial flash memory IC (SPI Flash)，classified underintegrated circuits(IC) / memory ICs / SPI NOR Flash. This page lists only the model, category, function, specifications, operating temperature, and certification information currently provided; For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation. ",
     "img": "/assets/images/S25FL064LABMFI013.jpg",
     "alt": "英飞凌/赛普拉斯(Infineon/Cypress) S25FL064LABMFI013 product image",
     "imageNote": "图片为当前产品素材中的处理后图片；如为Logo占位图或未验证封装图，采购前请索取实际批次照片。",
@@ -11827,7 +11827,7 @@ export const PRODUCT_PARTS = {
         "RoHS"
       ]
     ],
-    "about": "英飞凌/赛普拉斯(Infineon/Cypress) S25FL064LABMFI013，产品大类为集成电路(IC)，产品分类为存储芯片，产品子类为SPI NOR Flash。已提供功能描述：串行闪存芯片 (SPI Flash)。",
+    "about": "Infineon/Cypress(Infineon/Cypress) S25FL064LABMFI013，the product category isintegrated circuits(IC)，the product class ismemory ICs，the product subclass isSPI NOR Flash. Available function description: serial flash memory IC (SPI Flash). ",
     "standards": [
       "RoHS"
     ],
@@ -11861,10 +11861,10 @@ export const PRODUCT_PARTS = {
   "UPD720115K8-711-BAK-A": {
     "mpn": "UPD720115K8-711-BAK-A",
     "brand": "Renesas",
-    "title": "UPD720115K8-711-BAK-A | 瑞萨(Renesas) USB 2.0 4端口集线器控制器IC | YIXINOU",
+    "title": "UPD720115K8-711-BAK-A | Renesas(Renesas) USB 2.0 4-port hub controller IC | YIXINOU",
     "category": "接口芯片",
     "categoryHref": "/all-products",
-    "summary": "UPD720115K8-711-BAK-A 是 瑞萨(Renesas) 的 USB 2.0 4端口集线器控制器IC，归属于集成电路(IC) / 接口芯片 / USB 集线器控制器 (USB Hub)。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
+    "summary": "UPD720115K8-711-BAK-A  is  Renesas(Renesas) of USB 2.0 4-port hub controller IC，classified underintegrated circuits(IC) / interface ICs / USB hubcontroller (USB Hub). This page lists only the model, category, function, specifications, operating temperature, and certification information currently provided; For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation. ",
     "img": "/assets/images/UPD720115K8-711-BAK-A.jpg",
     "alt": "瑞萨(Renesas) UPD720115K8-711-BAK-A product image",
     "imageNote": "图片为当前产品素材中的处理后图片；如为Logo占位图或未验证封装图，采购前请索取实际批次照片。",
@@ -11902,7 +11902,7 @@ export const PRODUCT_PARTS = {
         "USB 2.0, RoHS"
       ]
     ],
-    "about": "瑞萨(Renesas) UPD720115K8-711-BAK-A，产品大类为集成电路(IC)，产品分类为接口芯片，产品子类为USB 集线器控制器 (USB Hub)。已提供功能描述：USB 2.0 4端口集线器控制器IC。",
+    "about": "Renesas(Renesas) UPD720115K8-711-BAK-A，the product category isintegrated circuits(IC)，the product class isinterface ICs，the product subclass isUSB hubcontroller (USB Hub). Available function description: USB 2.0 4-port hub controller IC. ",
     "standards": [
       "USB 2.0, RoHS"
     ],
@@ -11935,10 +11935,10 @@ export const PRODUCT_PARTS = {
   "ATL431BQDBZR": {
     "mpn": "ATL431BQDBZR",
     "brand": "Texas Instruments",
-    "title": "ATL431BQDBZR | Texas Instruments 可调精密并联稳压器/电压基准 | YIXINOU",
+    "title": "ATL431BQDBZR | Texas Instruments adjustable precision shunt regulator/voltage reference | YIXINOU",
     "category": "集成电路(IC) / 电源管理芯片 / 可调精密并联稳压器/电压基准",
     "categoryHref": "/all-products",
-    "summary": "ATL431BQDBZR 是 Texas Instruments 的可调精密并联稳压器/电压基准，归属于集成电路(IC) / 电源管理芯片 / 可调精密并联稳压器/电压基准。已提供功能描述：2.5V低静态电流可调精密并联稳压器。主要规格：输出可调2.5V~36V，最小阴极电流35μA，最大100mA，精度±0.5%，SOT-23-3封装，-40°C~125°C。工作温度：-40°C~125°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "ATL431BQDBZR  is  Texas Instruments ofadjustable precision shunt regulator/voltage reference，classified underintegrated circuits(IC) / power management IC / adjustable precision shunt regulator/voltage reference. Available function description: 2.5Vlowquiescent currentadjustableprecisionand contact regulator. Key specifications: outputadjustable2.5V~36V， maximum  small cathodecurrent35μA，maximum100mA，accuracy±0.5%，SOT-23-3package，-40°C~125°C. operating temperature: -40°C~125°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/ATL431BQDBZR.jpg",
     "alt": "Texas Instruments ATL431BQDBZR 可调精密并联稳压器/电压基准 product image",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出ATL431BQDBZR为SOT-23 (DBZ), 3 pins；页面提供TI官方DBZ封装图片。 图片文件通过该官方TI页面所列Image地址下载。",
@@ -11984,7 +11984,7 @@ export const PRODUCT_PARTS = {
         "TI官方Datasheet明确对应SOT-23-3封装、0.5%精度及-40°C~125°C温区"
       ]
     ],
-    "about": "ATL431BQDBZR 是 Texas Instruments 的可调精密并联稳压器/电压基准，归属于集成电路(IC) / 电源管理芯片 / 可调精密并联稳压器/电压基准。已提供功能描述：2.5V低静态电流可调精密并联稳压器。主要规格：输出可调2.5V~36V，最小阴极电流35μA，最大100mA，精度±0.5%，SOT-23-3封装，-40°C~125°C。工作温度：-40°C~125°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "ATL431BQDBZR  is  Texas Instruments ofadjustable precision shunt regulator/voltage reference，classified underintegrated circuits(IC) / power management IC / adjustable precision shunt regulator/voltage reference. Available function description: 2.5Vlowquiescent currentadjustableprecisionand contact regulator. Key specifications: outputadjustable2.5V~36V， maximum  small cathodecurrent35μA，maximum100mA，accuracy±0.5%，SOT-23-3package，-40°C~125°C. operating temperature: -40°C~125°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "RoHS"
     ],
@@ -12026,10 +12026,10 @@ export const PRODUCT_PARTS = {
   "ADS1271IBPWR": {
     "mpn": "ADS1271IBPWR",
     "brand": "Texas Instruments",
-    "title": "ADS1271IBPWR | Texas Instruments Δ-Σ模数转换器(ADC) | YIXINOU",
+    "title": "ADS1271IBPWR | Texas Instruments Δ-Σanalog-to-digital converter(ADC) | YIXINOU",
     "category": "集成电路(IC) / 数据转换器 / Δ-Σ模数转换器(ADC)",
     "categoryHref": "/all-products",
-    "summary": "ADS1271IBPWR 是 Texas Instruments 的Δ-Σ模数转换器(ADC)，归属于集成电路(IC) / 数据转换器 / Δ-Σ模数转换器(ADC)。已提供功能描述：24位105kSPS单通道宽带宽Δ-Σ ADC。主要规格：24位分辨率，采样率105kSPS，单通道，TSSOP-16(PW)封装，-40°C~105°C。工作温度：-40°C~105°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "ADS1271IBPWR  is  Texas Instruments ofΔ-Σanalog-to-digital converter(ADC)，classified underintegrated circuits(IC) / data converters / Δ-Σanalog-to-digital converter(ADC). Available function description: 24-bit105kSPSsingle-channel wide bandwidthΔ-Σ ADC. Key specifications: 24-bitresolution，sampling rate105kSPS，single-channel，TSSOP-16(PW)package，-40°C~105°C. operating temperature: -40°C~105°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/ADS1271IBPWR.jpg",
     "alt": "Texas Instruments ADS1271IBPWR Δ-Σ模数转换器(ADC) product image",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出ADS1271IBPWR为TSSOP (PW), 16 pins；页面提供TI官方PW封装图片。 图片文件通过该官方TI页面所列Image地址下载。",
@@ -12075,7 +12075,7 @@ export const PRODUCT_PARTS = {
         "TI官方器件详情页确认24位、105kSPS、16引脚TSSOP封装及工业温区"
       ]
     ],
-    "about": "ADS1271IBPWR 是 Texas Instruments 的Δ-Σ模数转换器(ADC)，归属于集成电路(IC) / 数据转换器 / Δ-Σ模数转换器(ADC)。已提供功能描述：24位105kSPS单通道宽带宽Δ-Σ ADC。主要规格：24位分辨率，采样率105kSPS，单通道，TSSOP-16(PW)封装，-40°C~105°C。工作温度：-40°C~105°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "ADS1271IBPWR  is  Texas Instruments ofΔ-Σanalog-to-digital converter(ADC)，classified underintegrated circuits(IC) / data converters / Δ-Σanalog-to-digital converter(ADC). Available function description: 24-bit105kSPSsingle-channel wide bandwidthΔ-Σ ADC. Key specifications: 24-bitresolution，sampling rate105kSPS，single-channel，TSSOP-16(PW)package，-40°C~105°C. operating temperature: -40°C~105°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "RoHS"
     ],
@@ -12117,10 +12117,10 @@ export const PRODUCT_PARTS = {
   "ATL431LIBQDBZR": {
     "mpn": "ATL431LIBQDBZR",
     "brand": "Texas Instruments",
-    "title": "ATL431LIBQDBZR | Texas Instruments 可调精密并联稳压器/电压基准 | YIXINOU",
+    "title": "ATL431LIBQDBZR | Texas Instruments adjustable precision shunt regulator/voltage reference | YIXINOU",
     "category": "集成电路(IC) / 电源管理芯片 / 可调精密并联稳压器/电压基准",
     "categoryHref": "/all-products",
-    "summary": "ATL431LIBQDBZR 是 Texas Instruments 的可调精密并联稳压器/电压基准，归属于集成电路(IC) / 电源管理芯片 / 可调精密并联稳压器/电压基准。已提供功能描述：2.5V低静态电流可调精密并联稳压器。主要规格：输出可调2.5V~36V，精度±0.5%，SOT-23-3(DBZ)封装，-40°C~85°C。工作温度：-40°C~85°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "ATL431LIBQDBZR  is  Texas Instruments ofadjustable precision shunt regulator/voltage reference，classified underintegrated circuits(IC) / power management IC / adjustable precision shunt regulator/voltage reference. Available function description: 2.5Vlowquiescent currentadjustableprecisionand contact regulator. Key specifications: outputadjustable2.5V~36V，accuracy±0.5%，SOT-23-3(DBZ)package，-40°C~85°C. operating temperature: -40°C~85°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/ATL431LIBQDBZR.jpg",
     "alt": "Texas Instruments ATL431LIBQDBZR 可调精密并联稳压器/电压基准 product image",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出ATL431LIBQDBZR为SOT-23 (DBZ), 3 pins；页面提供TI官方DBZ封装图片。 图片文件通过该官方TI页面所列Image地址下载。",
@@ -12166,7 +12166,7 @@ export const PRODUCT_PARTS = {
         "TI ATL43x系列命名规则中LI表示低电流工业级(-40°C~85°C)，DBZR为SOT-23-3卷带"
       ]
     ],
-    "about": "ATL431LIBQDBZR 是 Texas Instruments 的可调精密并联稳压器/电压基准，归属于集成电路(IC) / 电源管理芯片 / 可调精密并联稳压器/电压基准。已提供功能描述：2.5V低静态电流可调精密并联稳压器。主要规格：输出可调2.5V~36V，精度±0.5%，SOT-23-3(DBZ)封装，-40°C~85°C。工作温度：-40°C~85°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "ATL431LIBQDBZR  is  Texas Instruments ofadjustable precision shunt regulator/voltage reference，classified underintegrated circuits(IC) / power management IC / adjustable precision shunt regulator/voltage reference. Available function description: 2.5Vlowquiescent currentadjustableprecisionand contact regulator. Key specifications: outputadjustable2.5V~36V，accuracy±0.5%，SOT-23-3(DBZ)package，-40°C~85°C. operating temperature: -40°C~85°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "RoHS"
     ],
@@ -12208,10 +12208,10 @@ export const PRODUCT_PARTS = {
   "UCC28019ADR": {
     "mpn": "UCC28019ADR",
     "brand": "Texas Instruments",
-    "title": "UCC28019ADR | Texas Instruments PFC功率因数校正控制器 | YIXINOU",
+    "title": "UCC28019ADR | Texas Instruments PFCpower factor correction controller | YIXINOU",
     "category": "集成电路(IC) / 电源管理芯片 / PFC功率因数校正控制器",
     "categoryHref": "/all-products",
-    "summary": "UCC28019ADR 是 Texas Instruments 的PFC功率因数校正控制器，归属于集成电路(IC) / 电源管理芯片 / PFC功率因数校正控制器。已提供功能描述：8引脚连续导通模式(CCM) PFC控制器。主要规格：VCC供电10V~21V，固定开关频率65kHz，SOIC-8(D)封装，-40°C~125°C。工作温度：-40°C~125°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "UCC28019ADR  is  Texas Instruments ofPFCpower factor correction controller，classified underintegrated circuits(IC) / power management IC / PFCpower factor correction controller. Available function description: 8-pin continuous-conduction analog-type (CCM) PFCcontroller. Key specifications: VCCsupply10V~21V，fixedswitching frequency65kHz，SOIC-8(D)package，-40°C~125°C. operating temperature: -40°C~125°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/UCC28019ADR.jpg",
     "alt": "Texas Instruments UCC28019ADR PFC功率因数校正控制器 product image",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出UCC28019ADR为SOIC (D), 8 pins；页面提供TI官方D封装图片。 图片文件通过该官方TI页面所列Image地址下载。",
@@ -12257,7 +12257,7 @@ export const PRODUCT_PARTS = {
         "TI官方UCC28019A规格书确认SOIC-8封装及-40°C~125°C工作温度范围"
       ]
     ],
-    "about": "UCC28019ADR 是 Texas Instruments 的PFC功率因数校正控制器，归属于集成电路(IC) / 电源管理芯片 / PFC功率因数校正控制器。已提供功能描述：8引脚连续导通模式(CCM) PFC控制器。主要规格：VCC供电10V~21V，固定开关频率65kHz，SOIC-8(D)封装，-40°C~125°C。工作温度：-40°C~125°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "UCC28019ADR  is  Texas Instruments ofPFCpower factor correction controller，classified underintegrated circuits(IC) / power management IC / PFCpower factor correction controller. Available function description: 8-pin continuous-conduction analog-type (CCM) PFCcontroller. Key specifications: VCCsupply10V~21V，fixedswitching frequency65kHz，SOIC-8(D)package，-40°C~125°C. operating temperature: -40°C~125°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "RoHS"
     ],
@@ -12299,10 +12299,10 @@ export const PRODUCT_PARTS = {
   "TCA8418RTWR": {
     "mpn": "TCA8418RTWR",
     "brand": "Texas Instruments",
-    "title": "TCA8418RTWR | Texas Instruments I²C键盘扫描与GPIO扩展器 | YIXINOU",
+    "title": "TCA8418RTWR | Texas Instruments I²Ckeyboard scanner and GPIO expander | YIXINOU",
     "category": "集成电路(IC) / 接口芯片 / I²C键盘扫描与GPIO扩展器",
     "categoryHref": "/all-products",
-    "summary": "TCA8418RTWR 是 Texas Instruments 的I²C键盘扫描与GPIO扩展器，归属于集成电路(IC) / 接口芯片 / I²C键盘扫描与GPIO扩展器。已提供功能描述：I²C控制键盘扫描IC及18路GPIO扩展器。主要规格：供电1.65V~3.6V，支持多达80键矩阵与18个GPIO，I²C接口，WQFN-24(4×4mm)封装，-40°C~85°C。工作温度：-40°C~85°C。认证/标准：I²C, RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "TCA8418RTWR  is  Texas Instruments ofI²Ckeyboard scanner and GPIO expander，classified underintegrated circuits(IC) / interface ICs / I²Ckeyboard scanner and GPIO expander. Available function description: I²Ckeyboard-scanning IC and 18-GPIO expander. Key specifications: supply1.65V~3.6V，supports up to 80key matrixand18GPIO，I²Cinterface，WQFN-24(4×4mm)package，-40°C~85°C. operating temperature: -40°C~85°C. Certifications/standards: I²C, RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/TCA8418RTWR.jpg",
     "alt": "Texas Instruments TCA8418RTWR I²C键盘扫描与GPIO扩展器 product image",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出TCA8418RTWR为WQFN (RTW), 24 pins；页面提供TI官方RTW封装图片。 图片文件通过该官方TI页面所列Image地址下载。",
@@ -12348,7 +12348,7 @@ export const PRODUCT_PARTS = {
         "TI官方TCA8418RTWR产品页确认1.65V~3.6V、80键/18GPIO及24-WQFN封装"
       ]
     ],
-    "about": "TCA8418RTWR 是 Texas Instruments 的I²C键盘扫描与GPIO扩展器，归属于集成电路(IC) / 接口芯片 / I²C键盘扫描与GPIO扩展器。已提供功能描述：I²C控制键盘扫描IC及18路GPIO扩展器。主要规格：供电1.65V~3.6V，支持多达80键矩阵与18个GPIO，I²C接口，WQFN-24(4×4mm)封装，-40°C~85°C。工作温度：-40°C~85°C。认证/标准：I²C, RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "TCA8418RTWR  is  Texas Instruments ofI²Ckeyboard scanner and GPIO expander，classified underintegrated circuits(IC) / interface ICs / I²Ckeyboard scanner and GPIO expander. Available function description: I²Ckeyboard-scanning IC and 18-GPIO expander. Key specifications: supply1.65V~3.6V，supports up to 80key matrixand18GPIO，I²Cinterface，WQFN-24(4×4mm)package，-40°C~85°C. operating temperature: -40°C~85°C. Certifications/standards: I²C, RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "I²C",
       "RoHS"
@@ -12391,10 +12391,10 @@ export const PRODUCT_PARTS = {
   "LM2576HVSX-12/NOPB": {
     "mpn": "LM2576HVSX-12/NOPB",
     "brand": "Texas Instruments",
-    "title": "LM2576HVSX-12/NOPB | Texas Instruments 降压开关稳压器(Buck) | YIXINOU",
+    "title": "LM2576HVSX-12/NOPB | Texas Instruments buck switching regulator(Buck) | YIXINOU",
     "category": "集成电路(IC) / 电源管理芯片 / 降压开关稳压器(Buck)",
     "categoryHref": "/all-products",
-    "summary": "LM2576HVSX-12/NOPB 是 Texas Instruments 的降压开关稳压器(Buck)，归属于集成电路(IC) / 电源管理芯片 / 降压开关稳压器(Buck)。已提供功能描述：高压12V固定输出3A降压稳压器。主要规格：输入最高60V，固定输出12V，最大输出电流3A，开关频率52kHz，TO-263-5(DDPAK)封装，-40°C~125°C。工作温度：-40°C~125°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "LM2576HVSX-12/NOPB  is  Texas Instruments ofbuck switching regulator(Buck)，classified underintegrated circuits(IC) / power management IC / buck switching regulator(Buck). Available function description: high voltage 12Vfixed output3Abuckregulator. Key specifications: inputmaximum60V，fixed output12V，maximum output current3A，switching frequency52kHz，TO-263-5(DDPAK)package，-40°C~125°C. operating temperature: -40°C~125°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/LM2576HVSX-12／NOPB.jpg",
     "alt": "Texas Instruments LM2576HVSX-12/NOPB 降压开关稳压器(Buck) product image",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出LM2576HVSX-12/NOPB为TO-263 (KTT), 5 pins；页面提供TI官方KTT封装图片。 图片文件通过该官方TI页面所列Image地址下载。",
@@ -12440,7 +12440,7 @@ export const PRODUCT_PARTS = {
         "TI经典HV系列12V固定输出版本，SX对应TO-263-5表面贴装"
       ]
     ],
-    "about": "LM2576HVSX-12/NOPB 是 Texas Instruments 的降压开关稳压器(Buck)，归属于集成电路(IC) / 电源管理芯片 / 降压开关稳压器(Buck)。已提供功能描述：高压12V固定输出3A降压稳压器。主要规格：输入最高60V，固定输出12V，最大输出电流3A，开关频率52kHz，TO-263-5(DDPAK)封装，-40°C~125°C。工作温度：-40°C~125°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "LM2576HVSX-12/NOPB  is  Texas Instruments ofbuck switching regulator(Buck)，classified underintegrated circuits(IC) / power management IC / buck switching regulator(Buck). Available function description: high voltage 12Vfixed output3Abuckregulator. Key specifications: inputmaximum60V，fixed output12V，maximum output current3A，switching frequency52kHz，TO-263-5(DDPAK)package，-40°C~125°C. operating temperature: -40°C~125°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "RoHS"
     ],
@@ -12482,10 +12482,10 @@ export const PRODUCT_PARTS = {
   "TS3DV642A0RUAR": {
     "mpn": "TS3DV642A0RUAR",
     "brand": "Texas Instruments",
-    "title": "TS3DV642A0RUAR | Texas Instruments 高速视频/数据多路复用开关 | YIXINOU",
+    "title": "TS3DV642A0RUAR | Texas Instruments high-speed video/data multiplexing switch | YIXINOU",
     "category": "集成电路(IC) / 接口芯片 / 高速视频/数据多路复用开关",
     "categoryHref": "/all-products",
-    "summary": "TS3DV642A0RUAR 是 Texas Instruments 的高速视频/数据多路复用开关，归属于集成电路(IC) / 接口芯片 / 高速视频/数据多路复用开关。已提供功能描述：12通道1:2双向高速多路复用器/解复用器。主要规格：12通道1:2 MUX/DEMUX，支持HDMI/DVI高速信号切换，WQFN-42(RUA)封装，-40°C~85°C。工作温度：-40°C~85°C。认证/标准：HDMI/DVI, RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "TS3DV642A0RUAR  is  Texas Instruments ofhigh-speed video/data multiplexing switch，classified underintegrated circuits(IC) / interface ICs / high-speed video/data multiplexing switch. Available function description: 12channels1:2 dual  direction high speed multiplexer/demultiplexer. Key specifications: 12channels1:2 MUX/DEMUX，supportsHDMI/DVIhigh speed signalswitching，WQFN-42(RUA)package，-40°C~85°C. operating temperature: -40°C~85°C. Certifications/standards: HDMI/DVI, RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/TS3DV642A0RUAR.jpg",
     "alt": "Texas Instruments TS3DV642A0RUAR 高速视频/数据多路复用开关 product image",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出TS3DV642A0RUAR为WQFN (RUA), 42 pins；页面提供TI官方RUA封装图片。 图片文件通过该官方TI页面所列Image地址下载。",
@@ -12531,7 +12531,7 @@ export const PRODUCT_PARTS = {
         "TI官方及分销商资料确认12Ch 1:2高速开关及RUA封装规格"
       ]
     ],
-    "about": "TS3DV642A0RUAR 是 Texas Instruments 的高速视频/数据多路复用开关，归属于集成电路(IC) / 接口芯片 / 高速视频/数据多路复用开关。已提供功能描述：12通道1:2双向高速多路复用器/解复用器。主要规格：12通道1:2 MUX/DEMUX，支持HDMI/DVI高速信号切换，WQFN-42(RUA)封装，-40°C~85°C。工作温度：-40°C~85°C。认证/标准：HDMI/DVI, RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "TS3DV642A0RUAR  is  Texas Instruments ofhigh-speed video/data multiplexing switch，classified underintegrated circuits(IC) / interface ICs / high-speed video/data multiplexing switch. Available function description: 12channels1:2 dual  direction high speed multiplexer/demultiplexer. Key specifications: 12channels1:2 MUX/DEMUX，supportsHDMI/DVIhigh speed signalswitching，WQFN-42(RUA)package，-40°C~85°C. operating temperature: -40°C~85°C. Certifications/standards: HDMI/DVI, RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "HDMI/DVI",
       "RoHS"
@@ -12574,10 +12574,10 @@ export const PRODUCT_PARTS = {
   "TMP102AIDRLR": {
     "mpn": "TMP102AIDRLR",
     "brand": "Texas Instruments",
-    "title": "TMP102AIDRLR | Texas Instruments 数字温度传感器 | YIXINOU",
+    "title": "TMP102AIDRLR | Texas Instruments digital temperature sensor | YIXINOU",
     "category": "传感器 / 模拟芯片 / 数字温度传感器",
     "categoryHref": "/all-products",
-    "summary": "TMP102AIDRLR 是 Texas Instruments 的数字温度传感器，归属于传感器 / 模拟芯片 / 数字温度传感器。已提供功能描述：低功耗I²C/SMBus数字温度传感器。主要规格：供电1.4V~3.6V，12位分辨率(0.0625°C)，典型精度±0.5°C，SOT-563(DRL-6)封装，-40°C~125°C。工作温度：-40°C~125°C。认证/标准：I²C/SMBus, RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "TMP102AIDRLR  is  Texas Instruments ofdigital temperature sensor，classified undersensor / analog ICs / digital temperature sensor. Available function description: low-powerI²C/SMBusdigital temperature sensor. Key specifications: supply1.4V~3.6V，12-bitresolution(0.0625°C)， typical  type accuracy±0.5°C，SOT-563(DRL-6)package，-40°C~125°C. operating temperature: -40°C~125°C. Certifications/standards: I²C/SMBus, RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/TMP102AIDRLR.jpg",
     "alt": "Texas Instruments TMP102AIDRLR 数字温度传感器 product image",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出TMP102AIDRLR为SOT-5X3 (DRL), 6 pins；页面提供TI官方DRL封装图片。 图片文件通过该官方TI页面所列Image地址下载。",
@@ -12623,7 +12623,7 @@ export const PRODUCT_PARTS = {
         "TI官方TMP102规格书明确1.4V~3.6V、12位ADC及6引脚SOT-563封装"
       ]
     ],
-    "about": "TMP102AIDRLR 是 Texas Instruments 的数字温度传感器，归属于传感器 / 模拟芯片 / 数字温度传感器。已提供功能描述：低功耗I²C/SMBus数字温度传感器。主要规格：供电1.4V~3.6V，12位分辨率(0.0625°C)，典型精度±0.5°C，SOT-563(DRL-6)封装，-40°C~125°C。工作温度：-40°C~125°C。认证/标准：I²C/SMBus, RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "TMP102AIDRLR  is  Texas Instruments ofdigital temperature sensor，classified undersensor / analog ICs / digital temperature sensor. Available function description: low-powerI²C/SMBusdigital temperature sensor. Key specifications: supply1.4V~3.6V，12-bitresolution(0.0625°C)， typical  type accuracy±0.5°C，SOT-563(DRL-6)package，-40°C~125°C. operating temperature: -40°C~125°C. Certifications/standards: I²C/SMBus, RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "I²C/SMBus",
       "RoHS"
@@ -12666,10 +12666,10 @@ export const PRODUCT_PARTS = {
   "TCA6416ARTWR": {
     "mpn": "TCA6416ARTWR",
     "brand": "Texas Instruments",
-    "title": "TCA6416ARTWR | Texas Instruments I²C I/O端口扩展器 | YIXINOU",
+    "title": "TCA6416ARTWR | Texas Instruments I²C I/O port expander | YIXINOU",
     "category": "集成电路(IC) / 接口芯片 / I²C I/O端口扩展器",
     "categoryHref": "/all-products",
-    "summary": "TCA6416ARTWR 是 Texas Instruments 的I²C I/O端口扩展器，归属于集成电路(IC) / 接口芯片 / I²C I/O端口扩展器。已提供功能描述：低电压16位I²C和SMBus I/O扩展器。主要规格：供电1.65V~5.5V，16位双向GPIO带电平转换，I²C/SMBus接口，WQFN-24(RTW)封装，-40°C~85°C。工作温度：-40°C~85°C。认证/标准：I²C/SMBus, RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "TCA6416ARTWR  is  Texas Instruments ofI²C I/O port expander，classified underintegrated circuits(IC) / interface ICs / I²C I/O port expander. Available function description: lowvoltage16-bitI²CandSMBus I/Oexpander. Key specifications: supply1.65V~5.5V，16-bit dual  direction GPIOwith electrical flat convert  switch ，I²C/SMBusinterface，WQFN-24(RTW)package，-40°C~85°C. operating temperature: -40°C~85°C. Certifications/standards: I²C/SMBus, RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/TCA6416ARTWR.jpg",
     "alt": "Texas Instruments TCA6416ARTWR I²C I/O端口扩展器 product image",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出TCA6416ARTWR为WQFN (RTW), 24 pins；页面提供TI官方RTW封装图片。 图片文件通过该官方TI页面所列Image地址下载。",
@@ -12715,7 +12715,7 @@ export const PRODUCT_PARTS = {
         "TI TCA6416A标准型号参数与WQFN-24封装完全匹配"
       ]
     ],
-    "about": "TCA6416ARTWR 是 Texas Instruments 的I²C I/O端口扩展器，归属于集成电路(IC) / 接口芯片 / I²C I/O端口扩展器。已提供功能描述：低电压16位I²C和SMBus I/O扩展器。主要规格：供电1.65V~5.5V，16位双向GPIO带电平转换，I²C/SMBus接口，WQFN-24(RTW)封装，-40°C~85°C。工作温度：-40°C~85°C。认证/标准：I²C/SMBus, RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "TCA6416ARTWR  is  Texas Instruments ofI²C I/O port expander，classified underintegrated circuits(IC) / interface ICs / I²C I/O port expander. Available function description: lowvoltage16-bitI²CandSMBus I/Oexpander. Key specifications: supply1.65V~5.5V，16-bit dual  direction GPIOwith electrical flat convert  switch ，I²C/SMBusinterface，WQFN-24(RTW)package，-40°C~85°C. operating temperature: -40°C~85°C. Certifications/standards: I²C/SMBus, RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "I²C/SMBus",
       "RoHS"
@@ -12758,10 +12758,10 @@ export const PRODUCT_PARTS = {
   "LMC555CMX/NOPB": {
     "mpn": "LMC555CMX/NOPB",
     "brand": "Texas Instruments",
-    "title": "LMC555CMX/NOPB | Texas Instruments CMOS通用定时器 | YIXINOU",
+    "title": "LMC555CMX/NOPB | Texas Instruments CMOSgeneral-purpose timer | YIXINOU",
     "category": "集成电路(IC) / 时钟与定时芯片 / CMOS通用定时器",
     "categoryHref": "/all-products",
-    "summary": "LMC555CMX/NOPB 是 Texas Instruments 的CMOS通用定时器，归属于集成电路(IC) / 时钟与定时芯片 / CMOS通用定时器。已提供功能描述：低功耗CMOS 555定时器。主要规格：供电1.5V~15V，最高工作频率3MHz，静态电流约100μA，SOIC-8(M)封装，-40°C~85°C。工作温度：-40°C~85°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "LMC555CMX/NOPB  is  Texas Instruments ofCMOSgeneral-purpose timer，classified underintegrated circuits(IC) / clock and timing ICs / CMOSgeneral-purpose timer. Available function description: low-powerCMOS 555timer. Key specifications: supply1.5V~15V，maximumoperating frequency3MHz，quiescent currentapproximately100μA，SOIC-8(M)package，-40°C~85°C. operating temperature: -40°C~85°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/LMC555CMX／NOPB.jpg",
     "alt": "Texas Instruments LMC555CMX/NOPB CMOS通用定时器 product image",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出LMC555CMX/NOPB为SOIC (D), 8 pins；页面提供TI官方D封装图片。 图片文件通过该官方TI页面所列Image地址下载。",
@@ -12807,7 +12807,7 @@ export const PRODUCT_PARTS = {
         "TI官方LMC555规格书标准参数，CMX对应SOIC-8卷带无铅封装"
       ]
     ],
-    "about": "LMC555CMX/NOPB 是 Texas Instruments 的CMOS通用定时器，归属于集成电路(IC) / 时钟与定时芯片 / CMOS通用定时器。已提供功能描述：低功耗CMOS 555定时器。主要规格：供电1.5V~15V，最高工作频率3MHz，静态电流约100μA，SOIC-8(M)封装，-40°C~85°C。工作温度：-40°C~85°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "LMC555CMX/NOPB  is  Texas Instruments ofCMOSgeneral-purpose timer，classified underintegrated circuits(IC) / clock and timing ICs / CMOSgeneral-purpose timer. Available function description: low-powerCMOS 555timer. Key specifications: supply1.5V~15V，maximumoperating frequency3MHz，quiescent currentapproximately100μA，SOIC-8(M)package，-40°C~85°C. operating temperature: -40°C~85°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "RoHS"
     ],
@@ -12849,12 +12849,12 @@ export const PRODUCT_PARTS = {
   "LM2576HVT-ADJ/NOPB": {
     "mpn": "LM2576HVT-ADJ/NOPB",
     "brand": "Texas Instruments",
-    "title": "LM2576HVT-ADJ/NOPB | Texas Instruments 降压型开关稳压器 (Buck) 原装现货与规格参数 | YIXINOU",
+    "title": "LM2576HVT-ADJ/NOPB | Texas Instruments buck switching regulator (Buck) Genuine stock and specifications | YIXINOU",
     "metaTitle": "LM2576HVT-ADJ/NOPB Texas Instruments (TI) 降压型开关稳压器 (Buck) - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Texas Instruments (TI) LM2576HVT-ADJ/NOPB 降压型开关稳压器 (Buck) 原装芯片现货供应与技术资料。核心规格：输入电压最高60V(HV版)、输出电流3A、输出1.23V至57V可调、固定开关频率52kHz、TO-220-5直插封装、工作温度-40°C至+125°C；工作温度：-40°C至+125°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 电源管理芯片 / 降压型开关稳压器 (Buck)",
     "categoryHref": "/all-products",
-    "summary": "LM2576HVT-ADJ/NOPB 是 Texas Instruments (TI) 推出的高可靠性 降压型开关稳压器 (Buck)，归属于 集成电路(IC) / 电源管理芯片 / 降压型开关稳压器 (Buck)。器件核心功能：3A高压降压开关稳压器。主要技术规格：输入电压最高60V(HV版)、输出电流3A、输出1.23V至57V可调、固定开关频率52kHz、TO-220-5直插封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "LM2576HVT-ADJ/NOPB  is  Texas Instruments (TI) introduced byhigh-reliability buck switching regulator (Buck)，classified under integrated circuits(IC) / power management IC / buck switching regulator (Buck). Core device function: 3Ahigh voltage buck switching regulator. Key technical specifications: inputvoltagemaximum60V(HVversion), output current3A, output1.23Vto57Vadjustable, fixedswitching frequency52kHz, TO-220-5through-holepackage, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/LM2576HVT-ADJ／NOPB.jpg",
     "alt": "Texas Instruments (TI) LM2576HVT-ADJ/NOPB 降压型开关稳压器 (Buck) 产品图片",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出LM2576HVT-ADJ/NOPB为TO-220 (KC), 5 pins；页面提供TI官方KC封装图片。图片文件通过该官方TI页面所列Image地址下载。",
@@ -12900,7 +12900,7 @@ export const PRODUCT_PARTS = {
         "TI经典SIMPLE SWITCHER高压版3A降压IC，HVT为高压TO-220封装"
       ]
     ],
-    "about": "LM2576HVT-ADJ/NOPB 是 Texas Instruments (TI) 推出的高可靠性 降压型开关稳压器 (Buck)，归属于 集成电路(IC) / 电源管理芯片 / 降压型开关稳压器 (Buck)。器件核心功能：3A高压降压开关稳压器。主要技术规格：输入电压最高60V(HV版)、输出电流3A、输出1.23V至57V可调、固定开关频率52kHz、TO-220-5直插封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "LM2576HVT-ADJ/NOPB  is  Texas Instruments (TI) introduced byhigh-reliability buck switching regulator (Buck)，classified under integrated circuits(IC) / power management IC / buck switching regulator (Buck). Core device function: 3Ahigh voltage buck switching regulator. Key technical specifications: inputvoltagemaximum60V(HVversion), output current3A, output1.23Vto57Vadjustable, fixedswitching frequency52kHz, TO-220-5through-holepackage, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -12944,10 +12944,10 @@ export const PRODUCT_PARTS = {
   "SN65HVD11DR": {
     "mpn": "SN65HVD11DR",
     "brand": "Texas Instruments",
-    "title": "SN65HVD11DR | Texas Instruments RS-485/RS-422收发器 | YIXINOU",
+    "title": "SN65HVD11DR | Texas Instruments RS-485/RS-422transceiver | YIXINOU",
     "category": "集成电路(IC) / 接口芯片 / RS-485/RS-422收发器",
     "categoryHref": "/all-products",
-    "summary": "SN65HVD11DR 是 Texas Instruments 的RS-485/RS-422收发器，归属于集成电路(IC) / 接口芯片 / RS-485/RS-422收发器。已提供功能描述：3.3V低功耗半双工RS-485差分收发器。主要规格：供电3.0V~3.6V，速率10Mbps，1/8单位负载(支持256节点)，16kV HBM ESD，SOIC-8(D)封装，-40°C~85°C。工作温度：-40°C~85°C。认证/标准：ANSI TIA/EIA-485-A, RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "SN65HVD11DR  is  Texas Instruments ofRS-485/RS-422transceiver，classified underintegrated circuits(IC) / interface ICs / RS-485/RS-422transceiver. Available function description: 3.3Vlow-powerhalf- dual  work RS-485differentialtransceiver. Key specifications: supply3.0V~3.6V，rate10Mbps，1/8 single -bit negative  load (supports256nodes)，16kV HBM ESD，SOIC-8(D)package，-40°C~85°C. operating temperature: -40°C~85°C. Certifications/standards: ANSI TIA/EIA-485-A, RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/SN65HVD11DR.jpg",
     "alt": "Texas Instruments SN65HVD11DR RS-485/RS-422收发器 product image",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出SN65HVD11DR为SOIC (D), 8 pins；页面提供TI官方D封装图片。 图片文件通过该官方TI页面所列Image地址下载。",
@@ -12993,7 +12993,7 @@ export const PRODUCT_PARTS = {
         "TI官方SN65HVD11规格书确认10Mbps、3.3V供电及SOIC-8封装"
       ]
     ],
-    "about": "SN65HVD11DR 是 Texas Instruments 的RS-485/RS-422收发器，归属于集成电路(IC) / 接口芯片 / RS-485/RS-422收发器。已提供功能描述：3.3V低功耗半双工RS-485差分收发器。主要规格：供电3.0V~3.6V，速率10Mbps，1/8单位负载(支持256节点)，16kV HBM ESD，SOIC-8(D)封装，-40°C~85°C。工作温度：-40°C~85°C。认证/标准：ANSI TIA/EIA-485-A, RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "SN65HVD11DR  is  Texas Instruments ofRS-485/RS-422transceiver，classified underintegrated circuits(IC) / interface ICs / RS-485/RS-422transceiver. Available function description: 3.3Vlow-powerhalf- dual  work RS-485differentialtransceiver. Key specifications: supply3.0V~3.6V，rate10Mbps，1/8 single -bit negative  load (supports256nodes)，16kV HBM ESD，SOIC-8(D)package，-40°C~85°C. operating temperature: -40°C~85°C. Certifications/standards: ANSI TIA/EIA-485-A, RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "ANSI TIA/EIA-485-A",
       "RoHS"
@@ -13036,10 +13036,10 @@ export const PRODUCT_PARTS = {
   "TPA3116D2DADR": {
     "mpn": "TPA3116D2DADR",
     "brand": "Texas Instruments",
-    "title": "TPA3116D2DADR | Texas Instruments D类音频功率放大器 | YIXINOU",
+    "title": "TPA3116D2DADR | Texas Instruments D type audio power amplifier | YIXINOU",
     "category": "集成电路(IC) / 音频与视频芯片 / D类音频功率放大器",
     "categoryHref": "/all-products",
-    "summary": "TPA3116D2DADR 是 Texas Instruments 的D类音频功率放大器，归属于集成电路(IC) / 音频与视频芯片 / D类音频功率放大器。已提供功能描述：50W立体声/100W单声道模拟输入D类功放。主要规格：供电4.5V~26V，立体声2×50W(4Ω)或单声道100W(2Ω)，HTSSOP-32(DAD)封装，-40°C~85°C。工作温度：-40°C~85°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "TPA3116D2DADR  is  Texas Instruments ofD type audio power amplifier，classified underintegrated circuits(IC) / audio and video ICs / D type audio power amplifier. Available function description: 50Wstereo/100W single-channel  analoginputD type power amplifier . Key specifications: supply4.5V~26V，stereo2×50W(4Ω)or single-channel 100W(2Ω)，HTSSOP-32(DAD)package，-40°C~85°C. operating temperature: -40°C~85°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/TPA3116D2DADR.jpg",
     "alt": "Texas Instruments TPA3116D2DADR D类音频功率放大器 product image",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出TPA3116D2DADR为HTSSOP (DAD), 32 pins；页面提供TI官方DAD封装图片。 图片文件通过该官方TI页面所列Image地址下载。",
@@ -13085,7 +13085,7 @@ export const PRODUCT_PARTS = {
         "TI官方TPA3116D2DADR产品页明确功率、电压及32引脚HTSSOP封装"
       ]
     ],
-    "about": "TPA3116D2DADR 是 Texas Instruments 的D类音频功率放大器，归属于集成电路(IC) / 音频与视频芯片 / D类音频功率放大器。已提供功能描述：50W立体声/100W单声道模拟输入D类功放。主要规格：供电4.5V~26V，立体声2×50W(4Ω)或单声道100W(2Ω)，HTSSOP-32(DAD)封装，-40°C~85°C。工作温度：-40°C~85°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "TPA3116D2DADR  is  Texas Instruments ofD type audio power amplifier，classified underintegrated circuits(IC) / audio and video ICs / D type audio power amplifier. Available function description: 50Wstereo/100W single-channel  analoginputD type power amplifier . Key specifications: supply4.5V~26V，stereo2×50W(4Ω)or single-channel 100W(2Ω)，HTSSOP-32(DAD)package，-40°C~85°C. operating temperature: -40°C~85°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "RoHS"
     ],
@@ -13127,10 +13127,10 @@ export const PRODUCT_PARTS = {
   "TPA3118D2DAPR0": {
     "mpn": "TPA3118D2DAPR0",
     "brand": "Texas Instruments",
-    "title": "TPA3118D2DAPR0 | Texas Instruments D类音频功率放大器 | YIXINOU",
+    "title": "TPA3118D2DAPR0 | Texas Instruments D type audio power amplifier | YIXINOU",
     "category": "集成电路(IC) / 音频与视频芯片 / D类音频功率放大器",
     "categoryHref": "/all-products",
-    "summary": "TPA3118D2DAPR0 是 Texas Instruments 的D类音频功率放大器，归属于集成电路(IC) / 音频与视频芯片 / D类音频功率放大器。已提供功能描述：30W立体声/60W单声道模拟输入D类功放。主要规格：供电4.5V~26V，立体声2×30W(8Ω)或单声道60W(4Ω)，HTSSOP-32(DAP)封装，-40°C~85°C。工作温度：-40°C~85°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "TPA3118D2DAPR0  is  Texas Instruments ofD type audio power amplifier，classified underintegrated circuits(IC) / audio and video ICs / D type audio power amplifier. Available function description: 30Wstereo/60W single-channel  analoginputD type power amplifier . Key specifications: supply4.5V~26V，stereo2×30W(8Ω)or single-channel 60W(4Ω)，HTSSOP-32(DAP)package，-40°C~85°C. operating temperature: -40°C~85°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/TPA3118D2DAPR0.jpg",
     "alt": "Texas Instruments TPA3118D2DAPR0 D类音频功率放大器 product image",
     "imageNote": "图片类型：未找到可靠匹配图片（Logo占位）。本轮检索未取得能同时满足官方来源、该型号/系列对应关系和封装明确性的图片；保留Logo占位，未猜测或伪造来源。",
@@ -13176,7 +13176,7 @@ export const PRODUCT_PARTS = {
         "核心型号TPA3118D2DAP规格明确，末尾后缀0为特定订购包装码"
       ]
     ],
-    "about": "TPA3118D2DAPR0 是 Texas Instruments 的D类音频功率放大器，归属于集成电路(IC) / 音频与视频芯片 / D类音频功率放大器。已提供功能描述：30W立体声/60W单声道模拟输入D类功放。主要规格：供电4.5V~26V，立体声2×30W(8Ω)或单声道60W(4Ω)，HTSSOP-32(DAP)封装，-40°C~85°C。工作温度：-40°C~85°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "TPA3118D2DAPR0  is  Texas Instruments ofD type audio power amplifier，classified underintegrated circuits(IC) / audio and video ICs / D type audio power amplifier. Available function description: 30Wstereo/60W single-channel  analoginputD type power amplifier . Key specifications: supply4.5V~26V，stereo2×30W(8Ω)or single-channel 60W(4Ω)，HTSSOP-32(DAP)package，-40°C~85°C. operating temperature: -40°C~85°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "RoHS"
     ],
@@ -13218,10 +13218,10 @@ export const PRODUCT_PARTS = {
   "INA128UA/2K5": {
     "mpn": "INA128UA/2K5",
     "brand": "Texas Instruments",
-    "title": "INA128UA/2K5 | Texas Instruments 精密仪表放大器 | YIXINOU",
+    "title": "INA128UA/2K5 | Texas Instruments precision instrumentation amplifier | YIXINOU",
     "category": "集成电路(IC) / 模拟芯片 / 精密仪表放大器",
     "categoryHref": "/all-products",
-    "summary": "INA128UA/2K5 是 Texas Instruments 的精密仪表放大器，归属于集成电路(IC) / 模拟芯片 / 精密仪表放大器。已提供功能描述：低功耗通用精密仪表放大器。主要规格：供电±2.25V~±18V，增益1~10000可调，CMRR 130dB，静态电流700μA，SOIC-8(D)封装，-40°C~125°C。工作温度：-40°C~125°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "INA128UA/2K5  is  Texas Instruments ofprecision instrumentation amplifier，classified underintegrated circuits(IC) / analog ICs / precision instrumentation amplifier. Available function description: low-power channel  available precision instrumentation amplifier. Key specifications: supply±2.25V~±18V，gain1~10000adjustable，CMRR 130dB，quiescent current700μA，SOIC-8(D)package，-40°C~125°C. operating temperature: -40°C~125°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/INA128UA／2K5.jpg",
     "alt": "Texas Instruments INA128UA/2K5 精密仪表放大器 product image",
     "imageNote": "图片类型：未找到可靠匹配图片（Logo占位）。本轮检索未取得能同时满足官方来源、该型号/系列对应关系和封装明确性的图片；保留Logo占位，未猜测或伪造来源。",
@@ -13267,7 +13267,7 @@ export const PRODUCT_PARTS = {
         "TI官方INA128UA产品页确认SOIC-8封装、130dB CMRR及-40°C~125°C温区"
       ]
     ],
-    "about": "INA128UA/2K5 是 Texas Instruments 的精密仪表放大器，归属于集成电路(IC) / 模拟芯片 / 精密仪表放大器。已提供功能描述：低功耗通用精密仪表放大器。主要规格：供电±2.25V~±18V，增益1~10000可调，CMRR 130dB，静态电流700μA，SOIC-8(D)封装，-40°C~125°C。工作温度：-40°C~125°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "INA128UA/2K5  is  Texas Instruments ofprecision instrumentation amplifier，classified underintegrated circuits(IC) / analog ICs / precision instrumentation amplifier. Available function description: low-power channel  available precision instrumentation amplifier. Key specifications: supply±2.25V~±18V，gain1~10000adjustable，CMRR 130dB，quiescent current700μA，SOIC-8(D)package，-40°C~125°C. operating temperature: -40°C~125°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "RoHS"
     ],
@@ -13309,10 +13309,10 @@ export const PRODUCT_PARTS = {
   "INA148UA/2K5": {
     "mpn": "INA148UA/2K5",
     "brand": "Texas Instruments",
-    "title": "INA148UA/2K5 | Texas Instruments 高共模电压差分放大器 | YIXINOU",
+    "title": "INA148UA/2K5 | Texas Instruments high-common-mode differential amplifier | YIXINOU",
     "category": "集成电路(IC) / 模拟芯片 / 高共模电压差分放大器",
     "categoryHref": "/all-products",
-    "summary": "INA148UA/2K5 是 Texas Instruments 的高共模电压差分放大器，归属于集成电路(IC) / 模拟芯片 / 高共模电压差分放大器。已提供功能描述：±200V共模电压精密差分放大器。主要规格：供电±2.25V~±18V(或单电源2.7V~36V)，输入共模电压高达±200V，固定增益1V/V，SOIC-8(D)封装，-40°C~125°C。工作温度：-40°C~125°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "INA148UA/2K5  is  Texas Instruments ofhigh-common-mode differential amplifier，classified underintegrated circuits(IC) / analog ICs / high-common-mode differential amplifier. Available function description: ±200Vcommon-modevoltageprecisiondifferentialamplifier. Key specifications: supply±2.25V~±18V(orsingle supply2.7V~36V)，inputcommon-modevoltageup to±200V，fixedgain1V/V，SOIC-8(D)package，-40°C~125°C. operating temperature: -40°C~125°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/INA148UA／2K5.jpg",
     "alt": "Texas Instruments INA148UA/2K5 高共模电压差分放大器 product image",
     "imageNote": "图片类型：未找到可靠匹配图片（Logo占位）。本轮检索未取得能同时满足官方来源、该型号/系列对应关系和封装明确性的图片；保留Logo占位，未猜测或伪造来源。",
@@ -13358,7 +13358,7 @@ export const PRODUCT_PARTS = {
         "TI INA148UA经典高共模差分放大器，UA对应SOIC-8封装"
       ]
     ],
-    "about": "INA148UA/2K5 是 Texas Instruments 的高共模电压差分放大器，归属于集成电路(IC) / 模拟芯片 / 高共模电压差分放大器。已提供功能描述：±200V共模电压精密差分放大器。主要规格：供电±2.25V~±18V(或单电源2.7V~36V)，输入共模电压高达±200V，固定增益1V/V，SOIC-8(D)封装，-40°C~125°C。工作温度：-40°C~125°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "INA148UA/2K5  is  Texas Instruments ofhigh-common-mode differential amplifier，classified underintegrated circuits(IC) / analog ICs / high-common-mode differential amplifier. Available function description: ±200Vcommon-modevoltageprecisiondifferentialamplifier. Key specifications: supply±2.25V~±18V(orsingle supply2.7V~36V)，inputcommon-modevoltageup to±200V，fixedgain1V/V，SOIC-8(D)package，-40°C~125°C. operating temperature: -40°C~125°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "RoHS"
     ],
@@ -13400,10 +13400,10 @@ export const PRODUCT_PARTS = {
   "TCAN1043ADRQ1": {
     "mpn": "TCAN1043ADRQ1",
     "brand": "Texas Instruments",
-    "title": "TCAN1043ADRQ1 | Texas Instruments 汽车级CAN FD收发器 | YIXINOU",
+    "title": "TCAN1043ADRQ1 | Texas Instruments automotive-gradeCAN FDtransceiver | YIXINOU",
     "category": "集成电路(IC) / 接口芯片 / 汽车级CAN FD收发器",
     "categoryHref": "/all-products",
-    "summary": "TCAN1043ADRQ1 是 Texas Instruments 的汽车级CAN FD收发器，归属于集成电路(IC) / 接口芯片 / 汽车级CAN FD收发器。已提供功能描述：带唤醒与休眠功能的汽车级CAN FD收发器。主要规格：支持最高5Mbps/8Mbps CAN FD，总线故障保护±58V，SOIC-14(D)封装，-40°C~150°C。工作温度：-40°C~150°C。认证/标准：AEC-Q100, ISO 11898-2:2016, RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "TCAN1043ADRQ1  is  Texas Instruments ofautomotive-gradeCAN FDtransceiver，classified underintegrated circuits(IC) / interface ICs / automotive-gradeCAN FDtransceiver. Available function description: withwake-upandsleepfunctionofautomotive-gradeCAN FDtransceiver. Key specifications: supportsmaximum5Mbps/8Mbps CAN FD，busfaultprotection±58V，SOIC-14(D)package，-40°C~150°C. operating temperature: -40°C~150°C. Certifications/standards: AEC-Q100, ISO 11898-2:2016, RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/TCAN1043ADRQ1.jpg",
     "alt": "Texas Instruments TCAN1043ADRQ1 汽车级CAN FD收发器 product image",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出TCAN1043ADRQ1为SOIC (D), 14 pins；页面提供TI官方D封装图片。 图片文件通过该官方TI页面所列Image地址下载。",
@@ -13449,7 +13449,7 @@ export const PRODUCT_PARTS = {
         "TI官方TCAN1043A-Q1页面明确SOIC-14封装、车规标准及-40°C~150°C结温/环境温区"
       ]
     ],
-    "about": "TCAN1043ADRQ1 是 Texas Instruments 的汽车级CAN FD收发器，归属于集成电路(IC) / 接口芯片 / 汽车级CAN FD收发器。已提供功能描述：带唤醒与休眠功能的汽车级CAN FD收发器。主要规格：支持最高5Mbps/8Mbps CAN FD，总线故障保护±58V，SOIC-14(D)封装，-40°C~150°C。工作温度：-40°C~150°C。认证/标准：AEC-Q100, ISO 11898-2:2016, RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "TCAN1043ADRQ1  is  Texas Instruments ofautomotive-gradeCAN FDtransceiver，classified underintegrated circuits(IC) / interface ICs / automotive-gradeCAN FDtransceiver. Available function description: withwake-upandsleepfunctionofautomotive-gradeCAN FDtransceiver. Key specifications: supportsmaximum5Mbps/8Mbps CAN FD，busfaultprotection±58V，SOIC-14(D)package，-40°C~150°C. operating temperature: -40°C~150°C. Certifications/standards: AEC-Q100, ISO 11898-2:2016, RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "AEC-Q100",
       "ISO 11898-2:2016",
@@ -13493,10 +13493,10 @@ export const PRODUCT_PARTS = {
   "TMP1075DGKR": {
     "mpn": "TMP1075DGKR",
     "brand": "Texas Instruments",
-    "title": "TMP1075DGKR | Texas Instruments 数字温度传感器 | YIXINOU",
+    "title": "TMP1075DGKR | Texas Instruments digital temperature sensor | YIXINOU",
     "category": "传感器 / 模拟芯片 / 数字温度传感器",
     "categoryHref": "/all-products",
-    "summary": "TMP1075DGKR 是 Texas Instruments 的数字温度传感器，归属于传感器 / 模拟芯片 / 数字温度传感器。已提供功能描述：1°C精度I²C/SMBus数字温度传感器。主要规格：供电1.62V~5.5V(或1.7V~5.5V)，12位分辨率，精度±1°C，VSSOP-8(DGK)封装，-55°C~125°C。工作温度：-55°C~125°C。认证/标准：I²C/SMBus, RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "TMP1075DGKR  is  Texas Instruments ofdigital temperature sensor，classified undersensor / analog ICs / digital temperature sensor. Available function description: 1°CaccuracyI²C/SMBusdigital temperature sensor. Key specifications: supply1.62V~5.5V(or1.7V~5.5V)，12-bitresolution，accuracy±1°C，VSSOP-8(DGK)package，-55°C~125°C. operating temperature: -55°C~125°C. Certifications/standards: I²C/SMBus, RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/TMP1075DGKR.jpg",
     "alt": "Texas Instruments TMP1075DGKR 数字温度传感器 product image",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出TMP1075DGKR为VSSOP (DGK), 8 pins；页面提供TI官方DGK封装图片。 图片文件通过该官方TI页面所列Image地址下载。",
@@ -13542,7 +13542,7 @@ export const PRODUCT_PARTS = {
         "TI官方TMP1075DGKR页面确认8引脚VSSOP封装及-55°C~125°C宽温范围"
       ]
     ],
-    "about": "TMP1075DGKR 是 Texas Instruments 的数字温度传感器，归属于传感器 / 模拟芯片 / 数字温度传感器。已提供功能描述：1°C精度I²C/SMBus数字温度传感器。主要规格：供电1.62V~5.5V(或1.7V~5.5V)，12位分辨率，精度±1°C，VSSOP-8(DGK)封装，-55°C~125°C。工作温度：-55°C~125°C。认证/标准：I²C/SMBus, RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "TMP1075DGKR  is  Texas Instruments ofdigital temperature sensor，classified undersensor / analog ICs / digital temperature sensor. Available function description: 1°CaccuracyI²C/SMBusdigital temperature sensor. Key specifications: supply1.62V~5.5V(or1.7V~5.5V)，12-bitresolution，accuracy±1°C，VSSOP-8(DGK)package，-55°C~125°C. operating temperature: -55°C~125°C. Certifications/standards: I²C/SMBus, RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "I²C/SMBus",
       "RoHS"
@@ -13585,10 +13585,10 @@ export const PRODUCT_PARTS = {
   "TMP1075NDRLR": {
     "mpn": "TMP1075NDRLR",
     "brand": "Texas Instruments",
-    "title": "TMP1075NDRLR | Texas Instruments 数字温度传感器 | YIXINOU",
+    "title": "TMP1075NDRLR | Texas Instruments digital temperature sensor | YIXINOU",
     "category": "传感器 / 模拟芯片 / 数字温度传感器",
     "categoryHref": "/all-products",
-    "summary": "TMP1075NDRLR 是 Texas Instruments 的数字温度传感器，归属于传感器 / 模拟芯片 / 数字温度传感器。已提供功能描述：1°C精度I²C/SMBus数字温度传感器。主要规格：供电1.62V~5.5V，12位分辨率，精度±1°C，SOT-563(DRL-6)封装，-40°C~125°C。工作温度：-40°C~125°C。认证/标准：I²C/SMBus, RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "TMP1075NDRLR  is  Texas Instruments ofdigital temperature sensor，classified undersensor / analog ICs / digital temperature sensor. Available function description: 1°CaccuracyI²C/SMBusdigital temperature sensor. Key specifications: supply1.62V~5.5V，12-bitresolution，accuracy±1°C，SOT-563(DRL-6)package，-40°C~125°C. operating temperature: -40°C~125°C. Certifications/standards: I²C/SMBus, RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/TMP1075NDRLR.jpg",
     "alt": "Texas Instruments TMP1075NDRLR 数字温度传感器 product image",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出TMP1075NDRLR为SOT-5X3 (DRL), 6 pins；页面提供TI官方DRL封装图片。 图片文件通过该官方TI页面所列Image地址下载。",
@@ -13634,7 +13634,7 @@ export const PRODUCT_PARTS = {
         "TI官方TMP1075NDRLR页面明确6引脚SOT-5X3封装及-40°C~125°C温区"
       ]
     ],
-    "about": "TMP1075NDRLR 是 Texas Instruments 的数字温度传感器，归属于传感器 / 模拟芯片 / 数字温度传感器。已提供功能描述：1°C精度I²C/SMBus数字温度传感器。主要规格：供电1.62V~5.5V，12位分辨率，精度±1°C，SOT-563(DRL-6)封装，-40°C~125°C。工作温度：-40°C~125°C。认证/标准：I²C/SMBus, RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "TMP1075NDRLR  is  Texas Instruments ofdigital temperature sensor，classified undersensor / analog ICs / digital temperature sensor. Available function description: 1°CaccuracyI²C/SMBusdigital temperature sensor. Key specifications: supply1.62V~5.5V，12-bitresolution，accuracy±1°C，SOT-563(DRL-6)package，-40°C~125°C. operating temperature: -40°C~125°C. Certifications/standards: I²C/SMBus, RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "I²C/SMBus",
       "RoHS"
@@ -13677,10 +13677,10 @@ export const PRODUCT_PARTS = {
   "TMP112AIDRLR": {
     "mpn": "TMP112AIDRLR",
     "brand": "Texas Instruments",
-    "title": "TMP112AIDRLR | Texas Instruments 高精度数字温度传感器 | YIXINOU",
+    "title": "TMP112AIDRLR | Texas Instruments high-accuracydigital temperature sensor | YIXINOU",
     "category": "传感器 / 模拟芯片 / 高精度数字温度传感器",
     "categoryHref": "/all-products",
-    "summary": "TMP112AIDRLR 是 Texas Instruments 的高精度数字温度传感器，归属于传感器 / 模拟芯片 / 高精度数字温度传感器。已提供功能描述：±0.5°C高精度I²C/SMBus数字温度传感器。主要规格：供电1.4V~3.6V，12位分辨率(0.0625°C)，精度±0.5°C，SOT-563(DRL-6)封装，-40°C~125°C。工作温度：-40°C~125°C。认证/标准：I²C/SMBus, RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "TMP112AIDRLR  is  Texas Instruments ofhigh-accuracydigital temperature sensor，classified undersensor / analog ICs / high-accuracydigital temperature sensor. Available function description: ±0.5°Chigh-accuracyI²C/SMBusdigital temperature sensor. Key specifications: supply1.4V~3.6V，12-bitresolution(0.0625°C)，accuracy±0.5°C，SOT-563(DRL-6)package，-40°C~125°C. operating temperature: -40°C~125°C. Certifications/standards: I²C/SMBus, RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/TMP112AIDRLR.jpg",
     "alt": "Texas Instruments TMP112AIDRLR 高精度数字温度传感器 product image",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出TMP112AIDRLR为SOT-5X3 (DRL), 6 pins；页面提供TI官方DRL封装图片。 图片文件通过该官方TI页面所列Image地址下载。",
@@ -13726,7 +13726,7 @@ export const PRODUCT_PARTS = {
         "TI官方TMP112AIDRLR页面确认±0.5°C精度、1.4V~3.6V及6引脚SOT-5X3封装"
       ]
     ],
-    "about": "TMP112AIDRLR 是 Texas Instruments 的高精度数字温度传感器，归属于传感器 / 模拟芯片 / 高精度数字温度传感器。已提供功能描述：±0.5°C高精度I²C/SMBus数字温度传感器。主要规格：供电1.4V~3.6V，12位分辨率(0.0625°C)，精度±0.5°C，SOT-563(DRL-6)封装，-40°C~125°C。工作温度：-40°C~125°C。认证/标准：I²C/SMBus, RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "TMP112AIDRLR  is  Texas Instruments ofhigh-accuracydigital temperature sensor，classified undersensor / analog ICs / high-accuracydigital temperature sensor. Available function description: ±0.5°Chigh-accuracyI²C/SMBusdigital temperature sensor. Key specifications: supply1.4V~3.6V，12-bitresolution(0.0625°C)，accuracy±0.5°C，SOT-563(DRL-6)package，-40°C~125°C. operating temperature: -40°C~125°C. Certifications/standards: I²C/SMBus, RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "I²C/SMBus",
       "RoHS"
@@ -13769,10 +13769,10 @@ export const PRODUCT_PARTS = {
   "LT3502AEDC#TRPBF": {
     "mpn": "LT3502AEDC#TRPBF",
     "brand": "Analog Devices",
-    "title": "LT3502AEDC#TRPBF | Analog Devices 降压开关稳压器(Buck) | YIXINOU",
+    "title": "LT3502AEDC#TRPBF | Analog Devices buck switching regulator(Buck) | YIXINOU",
     "category": "集成电路(IC) / 电源管理芯片 / 降压开关稳压器(Buck)",
     "categoryHref": "/all-products",
-    "summary": "LT3502AEDC#TRPBF 是 Analog Devices 的降压开关稳压器(Buck)，归属于集成电路(IC) / 电源管理芯片 / 降压开关稳压器(Buck)。已提供功能描述：2.2MHz 500mA单片降压型开关稳压器。主要规格：输入3V~40V，输出电流500mA，开关频率2.2MHz，DFN-8(2×2mm)封装，-40°C~125°C。工作温度：-40°C~125°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "LT3502AEDC#TRPBF  is  Analog Devices ofbuck switching regulator(Buck)，classified underintegrated circuits(IC) / power management IC / buck switching regulator(Buck). Available function description: 2.2MHz 500mA single  image buck switching regulator. Key specifications: input3V~40V，output current500mA，switching frequency2.2MHz，DFN-8(2×2mm)package，-40°C~125°C. operating temperature: -40°C~125°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/LT3502AEDC#TRPBF.jpg",
     "alt": "Analog Devices LT3502AEDC#TRPBF 降压开关稳压器(Buck) product image",
     "imageNote": "图片类型：未找到可靠匹配图片（Logo占位）。本轮检索未取得能同时满足官方来源、该型号/系列对应关系和封装明确性的图片；保留Logo占位，未猜测或伪造来源。",
@@ -13818,7 +13818,7 @@ export const PRODUCT_PARTS = {
         "ADI/Linear官方LT3502A规格书确认2.2MHz、500mA及2×2mm DFN封装"
       ]
     ],
-    "about": "LT3502AEDC#TRPBF 是 Analog Devices 的降压开关稳压器(Buck)，归属于集成电路(IC) / 电源管理芯片 / 降压开关稳压器(Buck)。已提供功能描述：2.2MHz 500mA单片降压型开关稳压器。主要规格：输入3V~40V，输出电流500mA，开关频率2.2MHz，DFN-8(2×2mm)封装，-40°C~125°C。工作温度：-40°C~125°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "LT3502AEDC#TRPBF  is  Analog Devices ofbuck switching regulator(Buck)，classified underintegrated circuits(IC) / power management IC / buck switching regulator(Buck). Available function description: 2.2MHz 500mA single  image buck switching regulator. Key specifications: input3V~40V，output current500mA，switching frequency2.2MHz，DFN-8(2×2mm)package，-40°C~125°C. operating temperature: -40°C~125°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "RoHS"
     ],
@@ -13860,10 +13860,10 @@ export const PRODUCT_PARTS = {
   "LT4363IDE-2#TRPBF": {
     "mpn": "LT4363IDE-2#TRPBF",
     "brand": "Analog Devices",
-    "title": "LT4363IDE-2#TRPBF | Analog Devices 浪涌抑制器/过压过流保护控制器 | YIXINOU",
+    "title": "LT4363IDE-2#TRPBF | Analog Devices surge stopper/overvoltage and overcurrent protection controller | YIXINOU",
     "category": "集成电路(IC) / 电源管理芯片 / 浪涌抑制器/过压过流保护控制器",
     "categoryHref": "/all-products",
-    "summary": "LT4363IDE-2#TRPBF 是 Analog Devices 的浪涌抑制器/过压过流保护控制器，归属于集成电路(IC) / 电源管理芯片 / 浪涌抑制器/过压过流保护控制器。已提供功能描述：带过流保护的高压浪涌抑制器(自动重试型)。主要规格：工作电压4V~80V(承受100V浪涌)，带过流与过压关断保护(-2为自动重试)，DFN-12(4×3mm)封装，-40°C~85°C。工作温度：-40°C~85°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "LT4363IDE-2#TRPBF  is  Analog Devices ofsurge stopper/overvoltage and overcurrent protection controller，classified underintegrated circuits(IC) / power management IC / surge stopper/overvoltage and overcurrent protection controller. Available function description: with overcurrent protectionofhigh voltage surge stopper (auto-retry type ). Key specifications: operatingvoltage4V~80V(withstands100Vsurge)，withovercurrentandovervoltageshutdownprotection(-2isauto-retry)，DFN-12(4×3mm)package，-40°C~85°C. operating temperature: -40°C~85°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/LT4363IDE-2#TRPBF.jpg",
     "alt": "Analog Devices LT4363IDE-2#TRPBF 浪涌抑制器/过压过流保护控制器 product image",
     "imageNote": "图片类型：未找到可靠匹配图片（Logo占位）。本轮检索未取得能同时满足官方来源、该型号/系列对应关系和封装明确性的图片；保留Logo占位，未猜测或伪造来源。",
@@ -13909,7 +13909,7 @@ export const PRODUCT_PARTS = {
         "ADI/Linear LT4363规格书明确-2自动重试版本及I级工业温度范围"
       ]
     ],
-    "about": "LT4363IDE-2#TRPBF 是 Analog Devices 的浪涌抑制器/过压过流保护控制器，归属于集成电路(IC) / 电源管理芯片 / 浪涌抑制器/过压过流保护控制器。已提供功能描述：带过流保护的高压浪涌抑制器(自动重试型)。主要规格：工作电压4V~80V(承受100V浪涌)，带过流与过压关断保护(-2为自动重试)，DFN-12(4×3mm)封装，-40°C~85°C。工作温度：-40°C~85°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "LT4363IDE-2#TRPBF  is  Analog Devices ofsurge stopper/overvoltage and overcurrent protection controller，classified underintegrated circuits(IC) / power management IC / surge stopper/overvoltage and overcurrent protection controller. Available function description: with overcurrent protectionofhigh voltage surge stopper (auto-retry type ). Key specifications: operatingvoltage4V~80V(withstands100Vsurge)，withovercurrentandovervoltageshutdownprotection(-2isauto-retry)，DFN-12(4×3mm)package，-40°C~85°C. operating temperature: -40°C~85°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "RoHS"
     ],
@@ -13951,10 +13951,10 @@ export const PRODUCT_PARTS = {
   "LTC2955CTS8-2#TRPBF": {
     "mpn": "LTC2955CTS8-2#TRPBF",
     "brand": "Analog Devices",
-    "title": "LTC2955CTS8-2#TRPBF | Analog Devices 按钮开关机控制器 | YIXINOU",
+    "title": "LTC2955CTS8-2#TRPBF | Analog Devices pushbutton on/off controller | YIXINOU",
     "category": "集成电路(IC) / 电源管理芯片 / 按钮开关机控制器",
     "categoryHref": "/all-products",
-    "summary": "LTC2955CTS8-2#TRPBF 是 Analog Devices 的按钮开关机控制器，归属于集成电路(IC) / 电源管理芯片 / 按钮开关机控制器。已提供功能描述：带自动开机功能的低功耗按钮通断控制器。主要规格：供电1.5V~36V，静态电流1.2μA，TSOT-23-8封装，0°C~70°C。工作温度：0°C~70°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "LTC2955CTS8-2#TRPBF  is  Analog Devices ofpushbutton on/off controller，classified underintegrated circuits(IC) / power management IC / pushbutton on/off controller. Available function description: withautomaticpower-onfunctionoflow-powerpushbutton channel offcontroller. Key specifications: supply1.5V~36V，quiescent current1.2μA，TSOT-23-8package，0°C~70°C. operating temperature: 0°C~70°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/LTC2955CTS8-2#TRPBF.jpg",
     "alt": "Analog Devices LTC2955CTS8-2#TRPBF 按钮开关机控制器 product image",
     "imageNote": "图片类型：未找到可靠匹配图片（Logo占位）。本轮检索未取得能同时满足官方来源、该型号/系列对应关系和封装明确性的图片；保留Logo占位，未猜测或伪造来源。",
@@ -14000,7 +14000,7 @@ export const PRODUCT_PARTS = {
         "ADI官方LTC2955规格书订购表明确CTS8-2为TSOT-23-8封装及0°C~70°C商业温区"
       ]
     ],
-    "about": "LTC2955CTS8-2#TRPBF 是 Analog Devices 的按钮开关机控制器，归属于集成电路(IC) / 电源管理芯片 / 按钮开关机控制器。已提供功能描述：带自动开机功能的低功耗按钮通断控制器。主要规格：供电1.5V~36V，静态电流1.2μA，TSOT-23-8封装，0°C~70°C。工作温度：0°C~70°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "LTC2955CTS8-2#TRPBF  is  Analog Devices ofpushbutton on/off controller，classified underintegrated circuits(IC) / power management IC / pushbutton on/off controller. Available function description: withautomaticpower-onfunctionoflow-powerpushbutton channel offcontroller. Key specifications: supply1.5V~36V，quiescent current1.2μA，TSOT-23-8package，0°C~70°C. operating temperature: 0°C~70°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "RoHS"
     ],
@@ -14042,10 +14042,10 @@ export const PRODUCT_PARTS = {
   "LT3976EMSE#TRPBF": {
     "mpn": "LT3976EMSE#TRPBF",
     "brand": "Analog Devices",
-    "title": "LT3976EMSE#TRPBF | Analog Devices 降压开关稳压器(Buck) | YIXINOU",
+    "title": "LT3976EMSE#TRPBF | Analog Devices buck switching regulator(Buck) | YIXINOU",
     "category": "集成电路(IC) / 电源管理芯片 / 降压开关稳压器(Buck)",
     "categoryHref": "/all-products",
-    "summary": "LT3976EMSE#TRPBF 是 Analog Devices 的降压开关稳压器(Buck)，归属于集成电路(IC) / 电源管理芯片 / 降压开关稳压器(Buck)。已提供功能描述：40V 5A低静态电流单片降压型开关稳压器。主要规格：输入4.3V~40V，输出电流5A，静态电流3.3μA，开关频率200kHz~2MHz可调，MSOP-16-EP封装，-40°C~125°C。工作温度：-40°C~125°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "LT3976EMSE#TRPBF  is  Analog Devices ofbuck switching regulator(Buck)，classified underintegrated circuits(IC) / power management IC / buck switching regulator(Buck). Available function description: 40V 5Alowquiescent current single  image buck switching regulator. Key specifications: input4.3V~40V，output current5A，quiescent current3.3μA，switching frequency200kHz~2MHzadjustable，MSOP-16-EPpackage，-40°C~125°C. operating temperature: -40°C~125°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/LT3976EMSE#TRPBF.jpg",
     "alt": "Analog Devices LT3976EMSE#TRPBF 降压开关稳压器(Buck) product image",
     "imageNote": "图片类型：未找到可靠匹配图片（Logo占位）。本轮检索未取得能同时满足官方来源、该型号/系列对应关系和封装明确性的图片；保留Logo占位，未猜测或伪造来源。",
@@ -14091,7 +14091,7 @@ export const PRODUCT_PARTS = {
         "ADI/Linear LT3976规格书确认40V/5A、MSOP-16带裸露焊盘及E级温区"
       ]
     ],
-    "about": "LT3976EMSE#TRPBF 是 Analog Devices 的降压开关稳压器(Buck)，归属于集成电路(IC) / 电源管理芯片 / 降压开关稳压器(Buck)。已提供功能描述：40V 5A低静态电流单片降压型开关稳压器。主要规格：输入4.3V~40V，输出电流5A，静态电流3.3μA，开关频率200kHz~2MHz可调，MSOP-16-EP封装，-40°C~125°C。工作温度：-40°C~125°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "LT3976EMSE#TRPBF  is  Analog Devices ofbuck switching regulator(Buck)，classified underintegrated circuits(IC) / power management IC / buck switching regulator(Buck). Available function description: 40V 5Alowquiescent current single  image buck switching regulator. Key specifications: input4.3V~40V，output current5A，quiescent current3.3μA，switching frequency200kHz~2MHzadjustable，MSOP-16-EPpackage，-40°C~125°C. operating temperature: -40°C~125°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "RoHS"
     ],
@@ -14133,10 +14133,10 @@ export const PRODUCT_PARTS = {
   "LT8608IMSE#TRPBF": {
     "mpn": "LT8608IMSE#TRPBF",
     "brand": "Analog Devices",
-    "title": "LT8608IMSE#TRPBF | Analog Devices 同步降压开关稳压器(Buck) | YIXINOU",
+    "title": "LT8608IMSE#TRPBF | Analog Devices synchronous buck switching regulator(Buck) | YIXINOU",
     "category": "集成电路(IC) / 电源管理芯片 / 同步降压开关稳压器(Buck)",
     "categoryHref": "/all-products",
-    "summary": "LT8608IMSE#TRPBF 是 Analog Devices 的同步降压开关稳压器(Buck)，归属于集成电路(IC) / 电源管理芯片 / 同步降压开关稳压器(Buck)。已提供功能描述：42V 1.5A超低静态电流同步降压稳压器。主要规格：输入3V~42V，输出电流1.5A，静态电流2.5μA，频率200kHz~2.2MHz，MSOP-10-EP封装，-40°C~125°C。工作温度：-40°C~125°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "LT8608IMSE#TRPBF  is  Analog Devices ofsynchronous buck switching regulator(Buck)，classified underintegrated circuits(IC) / power management IC / synchronous buck switching regulator(Buck). Available function description: 42V 1.5Aultra-low quiescent currentsynchronous buckregulator. Key specifications: input3V~42V，output current1.5A，quiescent current2.5μA，frequency200kHz~2.2MHz，MSOP-10-EPpackage，-40°C~125°C. operating temperature: -40°C~125°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/LT8608IMSE#TRPBF.jpg",
     "alt": "Analog Devices LT8608IMSE#TRPBF 同步降压开关稳压器(Buck) product image",
     "imageNote": "图片类型：未找到可靠匹配图片（Logo占位）。本轮检索未取得能同时满足官方来源、该型号/系列对应关系和封装明确性的图片；保留Logo占位，未猜测或伪造来源。",
@@ -14182,7 +14182,7 @@ export const PRODUCT_PARTS = {
         "ADI官方及DigiKey/Mouser参数确认42V/1.5A、10-MSOP-EP封装及I级温区"
       ]
     ],
-    "about": "LT8608IMSE#TRPBF 是 Analog Devices 的同步降压开关稳压器(Buck)，归属于集成电路(IC) / 电源管理芯片 / 同步降压开关稳压器(Buck)。已提供功能描述：42V 1.5A超低静态电流同步降压稳压器。主要规格：输入3V~42V，输出电流1.5A，静态电流2.5μA，频率200kHz~2.2MHz，MSOP-10-EP封装，-40°C~125°C。工作温度：-40°C~125°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "LT8608IMSE#TRPBF  is  Analog Devices ofsynchronous buck switching regulator(Buck)，classified underintegrated circuits(IC) / power management IC / synchronous buck switching regulator(Buck). Available function description: 42V 1.5Aultra-low quiescent currentsynchronous buckregulator. Key specifications: input3V~42V，output current1.5A，quiescent current2.5μA，frequency200kHz~2.2MHz，MSOP-10-EPpackage，-40°C~125°C. operating temperature: -40°C~125°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "RoHS"
     ],
@@ -14224,10 +14224,10 @@ export const PRODUCT_PARTS = {
   "LTC3786IMSE#TRPBF": {
     "mpn": "LTC3786IMSE#TRPBF",
     "brand": "Analog Devices",
-    "title": "LTC3786IMSE#TRPBF | Analog Devices 同步升压开关控制器(Boost) | YIXINOU",
+    "title": "LTC3786IMSE#TRPBF | Analog Devices synchronous boost switching controller(Boost) | YIXINOU",
     "category": "集成电路(IC) / 电源管理芯片 / 同步升压开关控制器(Boost)",
     "categoryHref": "/all-products",
-    "summary": "LTC3786IMSE#TRPBF 是 Analog Devices 的同步升压开关控制器(Boost)，归属于集成电路(IC) / 电源管理芯片 / 同步升压开关控制器(Boost)。已提供功能描述：低静态电流同步升压型DC/DC控制器。主要规格：输入4.5V~38V(启动后低至2.5V)，输出最高60V，静态电流55μA，MSOP-16-EP封装，-40°C~125°C。工作温度：-40°C~125°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "LTC3786IMSE#TRPBF  is  Analog Devices ofsynchronous boost switching controller(Boost)，classified underintegrated circuits(IC) / power management IC / synchronous boost switching controller(Boost). Available function description: lowquiescent currentsynchronous boost type DC/DCcontroller. Key specifications: input4.5V~38V(startupafterdown to2.5V)，outputmaximum60V，quiescent current55μA，MSOP-16-EPpackage，-40°C~125°C. operating temperature: -40°C~125°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/LTC3786IMSE#TRPBF.jpg",
     "alt": "Analog Devices LTC3786IMSE#TRPBF 同步升压开关控制器(Boost) product image",
     "imageNote": "图片类型：未找到可靠匹配图片（Logo占位）。本轮检索未取得能同时满足官方来源、该型号/系列对应关系和封装明确性的图片；保留Logo占位，未猜测或伪造来源。",
@@ -14273,7 +14273,7 @@ export const PRODUCT_PARTS = {
         "ADI官方LTC3786规格书明确同步升压控制器及16-MSOP-EP封装"
       ]
     ],
-    "about": "LTC3786IMSE#TRPBF 是 Analog Devices 的同步升压开关控制器(Boost)，归属于集成电路(IC) / 电源管理芯片 / 同步升压开关控制器(Boost)。已提供功能描述：低静态电流同步升压型DC/DC控制器。主要规格：输入4.5V~38V(启动后低至2.5V)，输出最高60V，静态电流55μA，MSOP-16-EP封装，-40°C~125°C。工作温度：-40°C~125°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "LTC3786IMSE#TRPBF  is  Analog Devices ofsynchronous boost switching controller(Boost)，classified underintegrated circuits(IC) / power management IC / synchronous boost switching controller(Boost). Available function description: lowquiescent currentsynchronous boost type DC/DCcontroller. Key specifications: input4.5V~38V(startupafterdown to2.5V)，outputmaximum60V，quiescent current55μA，MSOP-16-EPpackage，-40°C~125°C. operating temperature: -40°C~125°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "RoHS"
     ],
@@ -14315,10 +14315,10 @@ export const PRODUCT_PARTS = {
   "ADG3123BRUZ-REEL7": {
     "mpn": "ADG3123BRUZ-REEL7",
     "brand": "Analog Devices",
-    "title": "ADG3123BRUZ-REEL7 | Analog Devices 四通道电平转换器 | YIXINOU",
+    "title": "ADG3123BRUZ-REEL7 | Analog Devices quad-level translator | YIXINOU",
     "category": "集成电路(IC) / 接口芯片 / 四通道电平转换器",
     "categoryHref": "/all-products",
-    "summary": "ADG3123BRUZ-REEL7 是 Analog Devices 的四通道电平转换器，归属于集成电路(IC) / 接口芯片 / 四通道电平转换器。已提供功能描述：高速低功耗四通道CMOS电平转换器。主要规格：低电压侧1.1V~3.6V，高电压侧1.8V~5.5V，传播延迟低至3.5ns，TSSOP-14(RU-14)封装，-40°C~85°C。工作温度：-40°C~85°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "ADG3123BRUZ-REEL7  is  Analog Devices ofquad-level translator，classified underintegrated circuits(IC) / interface ICs / quad-level translator. Available function description: high speed low-power four channelsCMOSlevel translator. Key specifications: lowvoltageside1.1V~3.6V，highvoltageside1.8V~5.5V，propagation delaydown to3.5ns，TSSOP-14(RU-14)package，-40°C~85°C. operating temperature: -40°C~85°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/ADG3123BRUZ-REEL7.jpg",
     "alt": "Analog Devices ADG3123BRUZ-REEL7 四通道电平转换器 product image",
     "imageNote": "图片类型：未找到可靠匹配图片（Logo占位）。本轮检索未取得能同时满足官方来源、该型号/系列对应关系和封装明确性的图片；保留Logo占位，未猜测或伪造来源。",
@@ -14364,7 +14364,7 @@ export const PRODUCT_PARTS = {
         "ADI ADG3123标准型号为四通道单向电平转换器，BRUZ对应TSSOP-14无铅封装"
       ]
     ],
-    "about": "ADG3123BRUZ-REEL7 是 Analog Devices 的四通道电平转换器，归属于集成电路(IC) / 接口芯片 / 四通道电平转换器。已提供功能描述：高速低功耗四通道CMOS电平转换器。主要规格：低电压侧1.1V~3.6V，高电压侧1.8V~5.5V，传播延迟低至3.5ns，TSSOP-14(RU-14)封装，-40°C~85°C。工作温度：-40°C~85°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "ADG3123BRUZ-REEL7  is  Analog Devices ofquad-level translator，classified underintegrated circuits(IC) / interface ICs / quad-level translator. Available function description: high speed low-power four channelsCMOSlevel translator. Key specifications: lowvoltageside1.1V~3.6V，highvoltageside1.8V~5.5V，propagation delaydown to3.5ns，TSSOP-14(RU-14)package，-40°C~85°C. operating temperature: -40°C~85°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "RoHS"
     ],
@@ -14406,10 +14406,10 @@ export const PRODUCT_PARTS = {
   "MAX17048G+T10": {
     "mpn": "MAX17048G+T10",
     "brand": "Analog Devices",
-    "title": "MAX17048G+T10 | Analog Devices 锂电池电量计(Fuel Gauge) | YIXINOU",
+    "title": "MAX17048G+T10 | Analog Devices lithium battery fuel gauge(Fuel Gauge) | YIXINOU",
     "category": "集成电路(IC) / 电源管理芯片 / 锂电池电量计(Fuel Gauge)",
     "categoryHref": "/all-products",
-    "summary": "MAX17048G+T10 是 Analog Devices 的锂电池电量计(Fuel Gauge)，归属于集成电路(IC) / 电源管理芯片 / 锂电池电量计(Fuel Gauge)。已提供功能描述：超紧凑低功耗单节锂离子电池电量计。主要规格：支持单节锂电池(2.5V~4.5V)，ModelGauge算法无需检流电阻，静态电流3μA，I²C接口，TDFN-8(2×2mm)封装，-40°C~85°C。工作温度：-40°C~85°C。认证/标准：I²C, RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "MAX17048G+T10  is  Analog Devices oflithium battery fuel gauge(Fuel Gauge)，classified underintegrated circuits(IC) / power management IC / lithium battery fuel gauge(Fuel Gauge). Available function description: ultra-compactlow-power single-cell lithiumbatteryfuel gauge. Key specifications: supports single series cellslithium battery(2.5V~4.5V)，ModelGauge algorithm  method without sense resistor，quiescent current3μA，I²Cinterface，TDFN-8(2×2mm)package，-40°C~85°C. operating temperature: -40°C~85°C. Certifications/standards: I²C, RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/MAX17048G+T10.jpg",
     "alt": "Analog Devices MAX17048G+T10 锂电池电量计(Fuel Gauge) product image",
     "imageNote": "图片类型：未找到可靠匹配图片（Logo占位）。本轮检索未取得能同时满足官方来源、该型号/系列对应关系和封装明确性的图片；保留Logo占位，未猜测或伪造来源。",
@@ -14455,7 +14455,7 @@ export const PRODUCT_PARTS = {
         "ADI/Maxim MAX17048G为标准8引脚TDFN封装单节锂电池电量计"
       ]
     ],
-    "about": "MAX17048G+T10 是 Analog Devices 的锂电池电量计(Fuel Gauge)，归属于集成电路(IC) / 电源管理芯片 / 锂电池电量计(Fuel Gauge)。已提供功能描述：超紧凑低功耗单节锂离子电池电量计。主要规格：支持单节锂电池(2.5V~4.5V)，ModelGauge算法无需检流电阻，静态电流3μA，I²C接口，TDFN-8(2×2mm)封装，-40°C~85°C。工作温度：-40°C~85°C。认证/标准：I²C, RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "MAX17048G+T10  is  Analog Devices oflithium battery fuel gauge(Fuel Gauge)，classified underintegrated circuits(IC) / power management IC / lithium battery fuel gauge(Fuel Gauge). Available function description: ultra-compactlow-power single-cell lithiumbatteryfuel gauge. Key specifications: supports single series cellslithium battery(2.5V~4.5V)，ModelGauge algorithm  method without sense resistor，quiescent current3μA，I²Cinterface，TDFN-8(2×2mm)package，-40°C~85°C. operating temperature: -40°C~85°C. Certifications/standards: I²C, RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "I²C",
       "RoHS"
@@ -14498,10 +14498,10 @@ export const PRODUCT_PARTS = {
   "MAX98090AEWJ+T": {
     "mpn": "MAX98090AEWJ+T",
     "brand": "Analog Devices",
-    "title": "MAX98090AEWJ+T | Analog Devices 超低功耗立体声音频编解码器(Codec) | YIXINOU",
+    "title": "MAX98090AEWJ+T | Analog Devices ultra-low-powerstereo audio codec(Codec) | YIXINOU",
     "category": "集成电路(IC) / 音频与视频芯片 / 超低功耗立体声音频编解码器(Codec)",
     "categoryHref": "/all-products",
-    "summary": "MAX98090AEWJ+T 是 Analog Devices 的超低功耗立体声音频编解码器(Codec)，归属于集成电路(IC) / 音频与视频芯片 / 超低功耗立体声音频编解码器(Codec)。已提供功能描述：带Class D/AB功放的超低功耗立体声音频Codec。主要规格：立体声DAC信噪比102dB，ADC 99dB，集成D类扬声器功放与耳机放大器，WLP-49晶圆级封装，-40°C~85°C。工作温度：-40°C~85°C。认证/标准：I²S/I²C, RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "MAX98090AEWJ+T  is  Analog Devices ofultra-low-powerstereo audio codec(Codec)，classified underintegrated circuits(IC) / audio and video ICs / ultra-low-powerstereo audio codec(Codec). Available function description: withClass D/ABpower amplifier ofultra-low-powerstereoaudio Codec. Key specifications: stereoDACsignal-to-noise ratio102dB，ADC 99dB，integratedD type speaker device power amplifier andheadphoneamplifier，WLP-49wafergradepackage，-40°C~85°C. operating temperature: -40°C~85°C. Certifications/standards: I²S/I²C, RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/MAX98090AEWJ+T.jpg",
     "alt": "Analog Devices MAX98090AEWJ+T 超低功耗立体声音频编解码器(Codec) product image",
     "imageNote": "图片类型：未找到可靠匹配图片（Logo占位）。本轮检索未取得能同时满足官方来源、该型号/系列对应关系和封装明确性的图片；保留Logo占位，未猜测或伪造来源。",
@@ -14547,7 +14547,7 @@ export const PRODUCT_PARTS = {
         "ADI/Maxim MAX98090AEWJ为49焊球WLP封装超低功耗音频编解码器"
       ]
     ],
-    "about": "MAX98090AEWJ+T 是 Analog Devices 的超低功耗立体声音频编解码器(Codec)，归属于集成电路(IC) / 音频与视频芯片 / 超低功耗立体声音频编解码器(Codec)。已提供功能描述：带Class D/AB功放的超低功耗立体声音频Codec。主要规格：立体声DAC信噪比102dB，ADC 99dB，集成D类扬声器功放与耳机放大器，WLP-49晶圆级封装，-40°C~85°C。工作温度：-40°C~85°C。认证/标准：I²S/I²C, RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "MAX98090AEWJ+T  is  Analog Devices ofultra-low-powerstereo audio codec(Codec)，classified underintegrated circuits(IC) / audio and video ICs / ultra-low-powerstereo audio codec(Codec). Available function description: withClass D/ABpower amplifier ofultra-low-powerstereoaudio Codec. Key specifications: stereoDACsignal-to-noise ratio102dB，ADC 99dB，integratedD type speaker device power amplifier andheadphoneamplifier，WLP-49wafergradepackage，-40°C~85°C. operating temperature: -40°C~85°C. Certifications/standards: I²S/I²C, RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "I²S/I²C",
       "RoHS"
@@ -14590,10 +14590,10 @@ export const PRODUCT_PARTS = {
   "ADM7155ACPZ-02-R7": {
     "mpn": "ADM7155ACPZ-02-R7",
     "brand": "Analog Devices",
-    "title": "ADM7155ACPZ-02-R7 | Analog Devices 超低噪声LDO线性稳压器 | YIXINOU",
+    "title": "ADM7155ACPZ-02-R7 | Analog Devices ultra-low-noise LDO linear regulator | YIXINOU",
     "category": "集成电路(IC) / 电源管理芯片 / 超低噪声LDO线性稳压器",
     "categoryHref": "/all-products",
-    "summary": "ADM7155ACPZ-02-R7 是 Analog Devices 的超低噪声LDO线性稳压器，归属于集成电路(IC) / 电源管理芯片 / 超低噪声LDO线性稳压器。已提供功能描述：1.8nV/√Hz超低噪声高PSRR 600mA LDO。主要规格：输入2.3V~5.5V，输出电压可调(02子型号对应1.2V~3.3V范围)，最大输出600mA，LFCSP-8(3×3mm)封装，-40°C~125°C。工作温度：-40°C~125°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "ADM7155ACPZ-02-R7  is  Analog Devices ofultra-low-noise LDO linear regulator，classified underintegrated circuits(IC) / power management IC / ultra-low-noise LDO linear regulator. Available function description: 1.8nV/√Hzultra-low-noisehighPSRR 600mA LDO. Key specifications: input2.3V~5.5V，output voltageadjustable(02cellmodelcorresponding1.2V~3.3Vrange)，maximumoutput600mA，LFCSP-8(3×3mm)package，-40°C~125°C. operating temperature: -40°C~125°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/ADM7155ACPZ-02-R7.jpg",
     "alt": "Analog Devices ADM7155ACPZ-02-R7 超低噪声LDO线性稳压器 product image",
     "imageNote": "图片类型：未找到可靠匹配图片（Logo占位）。本轮检索未取得能同时满足官方来源、该型号/系列对应关系和封装明确性的图片；保留Logo占位，未猜测或伪造来源。",
@@ -14639,7 +14639,7 @@ export const PRODUCT_PARTS = {
         "ADI ADM7155系列ACPZ为8引脚LFCSP封装，-02对应特定输出电压调压档位"
       ]
     ],
-    "about": "ADM7155ACPZ-02-R7 是 Analog Devices 的超低噪声LDO线性稳压器，归属于集成电路(IC) / 电源管理芯片 / 超低噪声LDO线性稳压器。已提供功能描述：1.8nV/√Hz超低噪声高PSRR 600mA LDO。主要规格：输入2.3V~5.5V，输出电压可调(02子型号对应1.2V~3.3V范围)，最大输出600mA，LFCSP-8(3×3mm)封装，-40°C~125°C。工作温度：-40°C~125°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "ADM7155ACPZ-02-R7  is  Analog Devices ofultra-low-noise LDO linear regulator，classified underintegrated circuits(IC) / power management IC / ultra-low-noise LDO linear regulator. Available function description: 1.8nV/√Hzultra-low-noisehighPSRR 600mA LDO. Key specifications: input2.3V~5.5V，output voltageadjustable(02cellmodelcorresponding1.2V~3.3Vrange)，maximumoutput600mA，LFCSP-8(3×3mm)package，-40°C~125°C. operating temperature: -40°C~125°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "RoHS"
     ],
@@ -14681,10 +14681,10 @@ export const PRODUCT_PARTS = {
   "AD8630ARUZ": {
     "mpn": "AD8630ARUZ",
     "brand": "Analog Devices",
-    "title": "AD8630ARUZ | Analog Devices 精密自稳零运算放大器 | YIXINOU",
+    "title": "AD8630ARUZ | Analog Devices precision auto-zero operational amplifier | YIXINOU",
     "category": "集成电路(IC) / 模拟芯片 / 精密自稳零运算放大器",
     "categoryHref": "/all-products",
-    "summary": "AD8630ARUZ 是 Analog Devices 的精密自稳零运算放大器，归属于集成电路(IC) / 模拟芯片 / 精密自稳零运算放大器。已提供功能描述：四通道低噪声精密自稳零(零漂移)运放。主要规格：供电2.7V~5.5V，输入失调电压最大5μV，失调漂移0.005μV/°C，带宽2.5MHz，TSSOP-14(RU-14)封装，-40°C~125°C。工作温度：-40°C~125°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "AD8630ARUZ  is  Analog Devices ofprecision auto-zero operational amplifier，classified underintegrated circuits(IC) / analog ICs / precision auto-zero operational amplifier. Available function description:  four channelslow-noiseprecisionauto-zero(zero-drift)op amplify . Key specifications: supply2.7V~5.5V，inputoffset voltagemaximum5μV，offset drift0.005μV/°C，bandwidth2.5MHz，TSSOP-14(RU-14)package，-40°C~125°C. operating temperature: -40°C~125°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/AD8630ARUZ.jpg",
     "alt": "Analog Devices AD8630ARUZ 精密自稳零运算放大器 product image",
     "imageNote": "图片类型：未找到可靠匹配图片（Logo占位）。本轮检索未取得能同时满足官方来源、该型号/系列对应关系和封装明确性的图片；保留Logo占位，未猜测或伪造来源。",
@@ -14730,7 +14730,7 @@ export const PRODUCT_PARTS = {
         "ADI AD8630为四通道自稳零运放(对应双通道AD8629)，ARUZ为TSSOP-14封装"
       ]
     ],
-    "about": "AD8630ARUZ 是 Analog Devices 的精密自稳零运算放大器，归属于集成电路(IC) / 模拟芯片 / 精密自稳零运算放大器。已提供功能描述：四通道低噪声精密自稳零(零漂移)运放。主要规格：供电2.7V~5.5V，输入失调电压最大5μV，失调漂移0.005μV/°C，带宽2.5MHz，TSSOP-14(RU-14)封装，-40°C~125°C。工作温度：-40°C~125°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "AD8630ARUZ  is  Analog Devices ofprecision auto-zero operational amplifier，classified underintegrated circuits(IC) / analog ICs / precision auto-zero operational amplifier. Available function description:  four channelslow-noiseprecisionauto-zero(zero-drift)op amplify . Key specifications: supply2.7V~5.5V，inputoffset voltagemaximum5μV，offset drift0.005μV/°C，bandwidth2.5MHz，TSSOP-14(RU-14)package，-40°C~125°C. operating temperature: -40°C~125°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "RoHS"
     ],
@@ -14772,10 +14772,10 @@ export const PRODUCT_PARTS = {
   "MAX13487EESA+T": {
     "mpn": "MAX13487EESA+T",
     "brand": "Analog Devices",
-    "title": "MAX13487EESA+T | Analog Devices RS-485/RS-422收发器 | YIXINOU",
+    "title": "MAX13487EESA+T | Analog Devices RS-485/RS-422transceiver | YIXINOU",
     "category": "集成电路(IC) / 接口芯片 / RS-485/RS-422收发器",
     "categoryHref": "/all-products",
-    "summary": "MAX13487EESA+T 是 Analog Devices 的RS-485/RS-422收发器，归属于集成电路(IC) / 接口芯片 / RS-485/RS-422收发器。已提供功能描述：带AutoDirection自动流向控制的5V RS-485收发器。主要规格：供电4.75V~5.25V，数据速率500kbps，±15kV ESD保护，半双工，SOIC-8封装，-40°C~85°C。工作温度：-40°C~85°C。认证/标准：TIA/EIA-485-A, RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "MAX13487EESA+T  is  Analog Devices ofRS-485/RS-422transceiver，classified underintegrated circuits(IC) / interface ICs / RS-485/RS-422transceiver. Available function description: withAutoDirectionautomaticcurrent direction controlof5V RS-485transceiver. Key specifications: supply4.75V~5.25V，datarate500kbps，±15kV ESDprotection，half- dual  work ，SOIC-8package，-40°C~85°C. operating temperature: -40°C~85°C. Certifications/standards: TIA/EIA-485-A, RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/MAX13487EESA+T.jpg",
     "alt": "Analog Devices MAX13487EESA+T RS-485/RS-422收发器 product image",
     "imageNote": "图片类型：未找到可靠匹配图片（Logo占位）。本轮检索未取得能同时满足官方来源、该型号/系列对应关系和封装明确性的图片；保留Logo占位，未猜测或伪造来源。",
@@ -14821,7 +14821,7 @@ export const PRODUCT_PARTS = {
         "ADI/Maxim经典带自动方向控制半双工RS-485收发器，ESA为SOIC-8封装"
       ]
     ],
-    "about": "MAX13487EESA+T 是 Analog Devices 的RS-485/RS-422收发器，归属于集成电路(IC) / 接口芯片 / RS-485/RS-422收发器。已提供功能描述：带AutoDirection自动流向控制的5V RS-485收发器。主要规格：供电4.75V~5.25V，数据速率500kbps，±15kV ESD保护，半双工，SOIC-8封装，-40°C~85°C。工作温度：-40°C~85°C。认证/标准：TIA/EIA-485-A, RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "MAX13487EESA+T  is  Analog Devices ofRS-485/RS-422transceiver，classified underintegrated circuits(IC) / interface ICs / RS-485/RS-422transceiver. Available function description: withAutoDirectionautomaticcurrent direction controlof5V RS-485transceiver. Key specifications: supply4.75V~5.25V，datarate500kbps，±15kV ESDprotection，half- dual  work ，SOIC-8package，-40°C~85°C. operating temperature: -40°C~85°C. Certifications/standards: TIA/EIA-485-A, RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "TIA/EIA-485-A",
       "RoHS"
@@ -14864,10 +14864,10 @@ export const PRODUCT_PARTS = {
   "MAX3032EESE+T": {
     "mpn": "MAX3032EESE+T",
     "brand": "Analog Devices",
-    "title": "MAX3032EESE+T | Analog Devices RS-422四通道发送器 | YIXINOU",
+    "title": "MAX3032EESE+T | Analog Devices quad RS-422 transmitter | YIXINOU",
     "category": "集成电路(IC) / 接口芯片 / RS-422四通道发送器",
     "categoryHref": "/all-products",
-    "summary": "MAX3032EESE+T 是 Analog Devices 的RS-422四通道发送器，归属于集成电路(IC) / 接口芯片 / RS-422四通道发送器。已提供功能描述：3.3V ±15kV ESD保护四通道RS-422发送器。主要规格：供电3.0V~3.6V，数据速率20Mbps，4路差分驱动输出，SOIC-16封装，-40°C~85°C。工作温度：-40°C~85°C。认证/标准：TIA/EIA-422-B, RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "MAX3032EESE+T  is  Analog Devices ofquad RS-422 transmitter，classified underintegrated circuits(IC) / interface ICs / quad RS-422 transmitter. Available function description: 3.3V ±15kV ESDprotection four channelsRS-422transmitter. Key specifications: supply3.0V~3.6V，datarate20Mbps，4channelsdifferential drive  drive output，SOIC-16package，-40°C~85°C. operating temperature: -40°C~85°C. Certifications/standards: TIA/EIA-422-B, RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/MAX3032EESE+T.jpg",
     "alt": "Analog Devices MAX3032EESE+T RS-422四通道发送器 product image",
     "imageNote": "图片类型：未找到可靠匹配图片（Logo占位）。本轮检索未取得能同时满足官方来源、该型号/系列对应关系和封装明确性的图片；保留Logo占位，未猜测或伪造来源。",
@@ -14913,7 +14913,7 @@ export const PRODUCT_PARTS = {
         "ADI/Maxim MAX3032E规格书及分销商信息确认3.3V四通道RS-422发送器，ESE为SOIC-16封装"
       ]
     ],
-    "about": "MAX3032EESE+T 是 Analog Devices 的RS-422四通道发送器，归属于集成电路(IC) / 接口芯片 / RS-422四通道发送器。已提供功能描述：3.3V ±15kV ESD保护四通道RS-422发送器。主要规格：供电3.0V~3.6V，数据速率20Mbps，4路差分驱动输出，SOIC-16封装，-40°C~85°C。工作温度：-40°C~85°C。认证/标准：TIA/EIA-422-B, RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "MAX3032EESE+T  is  Analog Devices ofquad RS-422 transmitter，classified underintegrated circuits(IC) / interface ICs / quad RS-422 transmitter. Available function description: 3.3V ±15kV ESDprotection four channelsRS-422transmitter. Key specifications: supply3.0V~3.6V，datarate20Mbps，4channelsdifferential drive  drive output，SOIC-16package，-40°C~85°C. operating temperature: -40°C~85°C. Certifications/standards: TIA/EIA-422-B, RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "TIA/EIA-422-B",
       "RoHS"
@@ -14956,10 +14956,10 @@ export const PRODUCT_PARTS = {
   "MAX11190ATE+T": {
     "mpn": "MAX11190ATE+T",
     "brand": "Analog Devices",
-    "title": "MAX11190ATE+T | Analog Devices 双通道同步采样SAR ADC | YIXINOU",
+    "title": "MAX11190ATE+T | Analog Devices dual-channel simultaneous-sampling SAR ADC | YIXINOU",
     "category": "集成电路(IC) / 数据转换器 / 双通道同步采样SAR ADC",
     "categoryHref": "/all-products",
-    "summary": "MAX11190ATE+T 是 Analog Devices 的双通道同步采样SAR ADC，归属于集成电路(IC) / 数据转换器 / 双通道同步采样SAR ADC。已提供功能描述：双通道2Msps 12位同步采样SAR模数转换器。主要规格：12位分辨率，采样率2Msps，双通道同步采样，SPI接口，TQFN-16(3×3mm)封装，-40°C~125°C。工作温度：-40°C~125°C。认证/标准：SPI, RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "MAX11190ATE+T  is  Analog Devices ofdual-channel simultaneous-sampling SAR ADC，classified underintegrated circuits(IC) / data converters / dual-channel simultaneous-sampling SAR ADC. Available function description: dual-channel2Msps 12-bitsimultaneous samplingSARanalog-to-digital converter. Key specifications: 12-bitresolution，sampling rate2Msps，dual-channelsimultaneous sampling，SPIinterface，TQFN-16(3×3mm)package，-40°C~125°C. operating temperature: -40°C~125°C. Certifications/standards: SPI, RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/MAX11190ATE+T.jpg",
     "alt": "Analog Devices MAX11190ATE+T 双通道同步采样SAR ADC product image",
     "imageNote": "图片类型：未找到可靠匹配图片（Logo占位）。本轮检索未取得能同时满足官方来源、该型号/系列对应关系和封装明确性的图片；保留Logo占位，未猜测或伪造来源。",
@@ -15005,7 +15005,7 @@ export const PRODUCT_PARTS = {
         "ADI/Maxim MAX11190ATE+T规格确认12位双通道SAR ADC及16-TQFN封装"
       ]
     ],
-    "about": "MAX11190ATE+T 是 Analog Devices 的双通道同步采样SAR ADC，归属于集成电路(IC) / 数据转换器 / 双通道同步采样SAR ADC。已提供功能描述：双通道2Msps 12位同步采样SAR模数转换器。主要规格：12位分辨率，采样率2Msps，双通道同步采样，SPI接口，TQFN-16(3×3mm)封装，-40°C~125°C。工作温度：-40°C~125°C。认证/标准：SPI, RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "MAX11190ATE+T  is  Analog Devices ofdual-channel simultaneous-sampling SAR ADC，classified underintegrated circuits(IC) / data converters / dual-channel simultaneous-sampling SAR ADC. Available function description: dual-channel2Msps 12-bitsimultaneous samplingSARanalog-to-digital converter. Key specifications: 12-bitresolution，sampling rate2Msps，dual-channelsimultaneous sampling，SPIinterface，TQFN-16(3×3mm)package，-40°C~125°C. operating temperature: -40°C~125°C. Certifications/standards: SPI, RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "SPI",
       "RoHS"
@@ -15048,10 +15048,10 @@ export const PRODUCT_PARTS = {
   "ADM2587EBRWZ": {
     "mpn": "ADM2587EBRWZ",
     "brand": "Analog Devices",
-    "title": "ADM2587EBRWZ | Analog Devices 隔离式RS-485/RS-422收发器 | YIXINOU",
+    "title": "ADM2587EBRWZ | Analog Devices isolated RS-485/RS-422 transceiver | YIXINOU",
     "category": "集成电路(IC) / 隔离器 / 隔离式RS-485/RS-422收发器",
     "categoryHref": "/all-products",
-    "summary": "ADM2587EBRWZ 是 Analog Devices 的隔离式RS-485/RS-422收发器，归属于集成电路(IC) / 隔离器 / 隔离式RS-485/RS-422收发器。已提供功能描述：集成隔离DC-DC的2.5kV信号与电源隔离RS-485收发器。主要规格：隔离耐压2.5kV rms，集成isoPower隔离电源，速率500kbps，±15kV ESD保护，SOIC-20宽体封装，-40°C~85°C。工作温度：-40°C~85°C。认证/标准：UL 1577, VDE 0884-10, TIA/EIA-485-A, RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "ADM2587EBRWZ  is  Analog Devices ofisolated RS-485/RS-422 transceiver，classified underintegrated circuits(IC) / isolated device  / isolated RS-485/RS-422 transceiver. Available function description: integratedisolatedDC-DCof2.5kVsignalandpowerisolatedRS-485transceiver. Key specifications: isolation withstand voltage2.5kV rms，integratedisoPowerisolatedpower，rate500kbps，±15kV ESDprotection，SOIC-20wide-bodypackage，-40°C~85°C. operating temperature: -40°C~85°C. Certifications/standards: UL 1577, VDE 0884-10, TIA/EIA-485-A, RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/ADM2587EBRWZ.jpg",
     "alt": "Analog Devices ADM2587EBRWZ 隔离式RS-485/RS-422收发器 product image",
     "imageNote": "图片类型：未找到可靠匹配图片（Logo占位）。本轮检索未取得能同时满足官方来源、该型号/系列对应关系和封装明确性的图片；保留Logo占位，未猜测或伪造来源。",
@@ -15097,7 +15097,7 @@ export const PRODUCT_PARTS = {
         "ADI官方ADM2587EBRWZ产品资料明确2.5kV隔离、500kbps及20引脚宽体SOIC封装"
       ]
     ],
-    "about": "ADM2587EBRWZ 是 Analog Devices 的隔离式RS-485/RS-422收发器，归属于集成电路(IC) / 隔离器 / 隔离式RS-485/RS-422收发器。已提供功能描述：集成隔离DC-DC的2.5kV信号与电源隔离RS-485收发器。主要规格：隔离耐压2.5kV rms，集成isoPower隔离电源，速率500kbps，±15kV ESD保护，SOIC-20宽体封装，-40°C~85°C。工作温度：-40°C~85°C。认证/标准：UL 1577, VDE 0884-10, TIA/EIA-485-A, RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "ADM2587EBRWZ  is  Analog Devices ofisolated RS-485/RS-422 transceiver，classified underintegrated circuits(IC) / isolated device  / isolated RS-485/RS-422 transceiver. Available function description: integratedisolatedDC-DCof2.5kVsignalandpowerisolatedRS-485transceiver. Key specifications: isolation withstand voltage2.5kV rms，integratedisoPowerisolatedpower，rate500kbps，±15kV ESDprotection，SOIC-20wide-bodypackage，-40°C~85°C. operating temperature: -40°C~85°C. Certifications/standards: UL 1577, VDE 0884-10, TIA/EIA-485-A, RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "UL 1577",
       "VDE 0884-10",
@@ -15142,10 +15142,10 @@ export const PRODUCT_PARTS = {
   "AD5664RBRMZ-5": {
     "mpn": "AD5664RBRMZ-5",
     "brand": "Analog Devices",
-    "title": "AD5664RBRMZ-5 | Analog Devices 四通道16位数模转换器(DAC) | YIXINOU",
+    "title": "AD5664RBRMZ-5 | Analog Devices quad 16-bit digital-to-analog converter(DAC) | YIXINOU",
     "category": "集成电路(IC) / 数据转换器 / 四通道16位数模转换器(DAC)",
     "categoryHref": "/all-products",
-    "summary": "AD5664RBRMZ-5 是 Analog Devices 的四通道16位数模转换器(DAC)，归属于集成电路(IC) / 数据转换器 / 四通道16位数模转换器(DAC)。已提供功能描述：内置2.5V基准的四通道16位串行输入DAC。主要规格：16位分辨率，4通道电压输出，内置2.5V 5ppm/°C基准源，供电2.7V~5.5V，SPI接口，MSOP-10(RM-10)封装，-40°C~105°C。工作温度：-40°C~105°C。认证/标准：SPI, RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "AD5664RBRMZ-5  is  Analog Devices ofquad 16-bit digital-to-analog converter(DAC)，classified underintegrated circuits(IC) / data converters / quad 16-bit digital-to-analog converter(DAC). Available function description: integrated2.5Vreferenceof four channels16-bitserialinputDAC. Key specifications: 16-bitresolution，4channelsvoltageoutput，integrated2.5V 5ppm/°Creference source ，supply2.7V~5.5V，SPIinterface，MSOP-10(RM-10)package，-40°C~105°C. operating temperature: -40°C~105°C. Certifications/standards: SPI, RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/AD5664RBRMZ-5.jpg",
     "alt": "Analog Devices AD5664RBRMZ-5 四通道16位数模转换器(DAC) product image",
     "imageNote": "图片类型：未找到可靠匹配图片（Logo占位）。本轮检索未取得能同时满足官方来源、该型号/系列对应关系和封装明确性的图片；保留Logo占位，未猜测或伪造来源。",
@@ -15191,7 +15191,7 @@ export const PRODUCT_PARTS = {
         "ADI官方AD5664R规格书明确四通道16位、内置2.5V基准(-5后缀)及MSOP-10封装"
       ]
     ],
-    "about": "AD5664RBRMZ-5 是 Analog Devices 的四通道16位数模转换器(DAC)，归属于集成电路(IC) / 数据转换器 / 四通道16位数模转换器(DAC)。已提供功能描述：内置2.5V基准的四通道16位串行输入DAC。主要规格：16位分辨率，4通道电压输出，内置2.5V 5ppm/°C基准源，供电2.7V~5.5V，SPI接口，MSOP-10(RM-10)封装，-40°C~105°C。工作温度：-40°C~105°C。认证/标准：SPI, RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "AD5664RBRMZ-5  is  Analog Devices ofquad 16-bit digital-to-analog converter(DAC)，classified underintegrated circuits(IC) / data converters / quad 16-bit digital-to-analog converter(DAC). Available function description: integrated2.5Vreferenceof four channels16-bitserialinputDAC. Key specifications: 16-bitresolution，4channelsvoltageoutput，integrated2.5V 5ppm/°Creference source ，supply2.7V~5.5V，SPIinterface，MSOP-10(RM-10)package，-40°C~105°C. operating temperature: -40°C~105°C. Certifications/standards: SPI, RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "SPI",
       "RoHS"
@@ -15234,10 +15234,10 @@ export const PRODUCT_PARTS = {
   "AD8629ARMZ-REEL": {
     "mpn": "AD8629ARMZ-REEL",
     "brand": "Analog Devices",
-    "title": "AD8629ARMZ-REEL | Analog Devices 精密自稳零运算放大器 | YIXINOU",
+    "title": "AD8629ARMZ-REEL | Analog Devices precision auto-zero operational amplifier | YIXINOU",
     "category": "集成电路(IC) / 模拟芯片 / 精密自稳零运算放大器",
     "categoryHref": "/all-products",
-    "summary": "AD8629ARMZ-REEL 是 Analog Devices 的精密自稳零运算放大器，归属于集成电路(IC) / 模拟芯片 / 精密自稳零运算放大器。已提供功能描述：双通道低噪声精密自稳零(零漂移)运放。主要规格：供电2.7V~5.5V，失调电压最大5μV，失调漂移0.005μV/°C，带宽2.5MHz，MSOP-8(RM-8)封装，-40°C~125°C。工作温度：-40°C~125°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "AD8629ARMZ-REEL  is  Analog Devices ofprecision auto-zero operational amplifier，classified underintegrated circuits(IC) / analog ICs / precision auto-zero operational amplifier. Available function description: dual-channellow-noiseprecisionauto-zero(zero-drift)op amplify . Key specifications: supply2.7V~5.5V，offset voltagemaximum5μV，offset drift0.005μV/°C，bandwidth2.5MHz，MSOP-8(RM-8)package，-40°C~125°C. operating temperature: -40°C~125°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/AD8629ARMZ-REEL.jpg",
     "alt": "Analog Devices AD8629ARMZ-REEL 精密自稳零运算放大器 product image",
     "imageNote": "图片类型：未找到可靠匹配图片（Logo占位）。本轮检索未取得能同时满足官方来源、该型号/系列对应关系和封装明确性的图片；保留Logo占位，未猜测或伪造来源。",
@@ -15283,7 +15283,7 @@ export const PRODUCT_PARTS = {
         "ADI官方AD8629ARMZ页面确认双通道低噪声自稳零运放及MSOP-8封装"
       ]
     ],
-    "about": "AD8629ARMZ-REEL 是 Analog Devices 的精密自稳零运算放大器，归属于集成电路(IC) / 模拟芯片 / 精密自稳零运算放大器。已提供功能描述：双通道低噪声精密自稳零(零漂移)运放。主要规格：供电2.7V~5.5V，失调电压最大5μV，失调漂移0.005μV/°C，带宽2.5MHz，MSOP-8(RM-8)封装，-40°C~125°C。工作温度：-40°C~125°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "AD8629ARMZ-REEL  is  Analog Devices ofprecision auto-zero operational amplifier，classified underintegrated circuits(IC) / analog ICs / precision auto-zero operational amplifier. Available function description: dual-channellow-noiseprecisionauto-zero(zero-drift)op amplify . Key specifications: supply2.7V~5.5V，offset voltagemaximum5μV，offset drift0.005μV/°C，bandwidth2.5MHz，MSOP-8(RM-8)package，-40°C~125°C. operating temperature: -40°C~125°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "RoHS"
     ],
@@ -15325,10 +15325,10 @@ export const PRODUCT_PARTS = {
   "MAX96717GTJ/VY+": {
     "mpn": "MAX96717GTJ/VY+",
     "brand": "Analog Devices",
-    "title": "MAX96717GTJ/VY+ | Analog Devices 汽车级GMSL2串行器 | YIXINOU",
+    "title": "MAX96717GTJ/VY+ | Analog Devices automotive-grade GMSL2 serializer | YIXINOU",
     "category": "集成电路(IC) / 接口芯片 / 汽车级GMSL2串行器",
     "categoryHref": "/all-products",
-    "summary": "MAX96717GTJ/VY+ 是 Analog Devices 的汽车级GMSL2串行器，归属于集成电路(IC) / 接口芯片 / 汽车级GMSL2串行器。已提供功能描述：支持CSI-2输入的汽车级6Gbps GMSL2串行器。主要规格：正向链路速率6Gbps(或3Gbps)，MIPI CSI-2输入，同轴/STP输出，TQFN-32-EP(5×5mm)封装，-40°C~105°C。工作温度：-40°C~105°C。认证/标准：AEC-Q100, MIPI CSI-2, RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "MAX96717GTJ/VY+  is  Analog Devices ofautomotive-grade GMSL2 serializer，classified underintegrated circuits(IC) / interface ICs / automotive-grade GMSL2 serializer. Available function description: supportsCSI-2inputofautomotive-grade6Gbps GMSL2serial device . Key specifications:  positive  direction linkchannelsrate6Gbps(or3Gbps)，MIPI CSI-2input，coaxial/STPoutput，TQFN-32-EP(5×5mm)package，-40°C~105°C. operating temperature: -40°C~105°C. Certifications/standards: AEC-Q100, MIPI CSI-2, RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/MAX96717GTJ／VY+.jpg",
     "alt": "Analog Devices MAX96717GTJ/VY+ 汽车级GMSL2串行器 product image",
     "imageNote": "图片类型：未找到可靠匹配图片（Logo占位）。本轮检索未取得能同时满足官方来源、该型号/系列对应关系和封装明确性的图片；保留Logo占位，未猜测或伪造来源。",
@@ -15374,7 +15374,7 @@ export const PRODUCT_PARTS = {
         "ADI/Maxim MAX96717GTJ/VY+产品页确认6Gbps串行器、32-TQFN-EP封装及车规等级"
       ]
     ],
-    "about": "MAX96717GTJ/VY+ 是 Analog Devices 的汽车级GMSL2串行器，归属于集成电路(IC) / 接口芯片 / 汽车级GMSL2串行器。已提供功能描述：支持CSI-2输入的汽车级6Gbps GMSL2串行器。主要规格：正向链路速率6Gbps(或3Gbps)，MIPI CSI-2输入，同轴/STP输出，TQFN-32-EP(5×5mm)封装，-40°C~105°C。工作温度：-40°C~105°C。认证/标准：AEC-Q100, MIPI CSI-2, RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "MAX96717GTJ/VY+  is  Analog Devices ofautomotive-grade GMSL2 serializer，classified underintegrated circuits(IC) / interface ICs / automotive-grade GMSL2 serializer. Available function description: supportsCSI-2inputofautomotive-grade6Gbps GMSL2serial device . Key specifications:  positive  direction linkchannelsrate6Gbps(or3Gbps)，MIPI CSI-2input，coaxial/STPoutput，TQFN-32-EP(5×5mm)package，-40°C~105°C. operating temperature: -40°C~105°C. Certifications/standards: AEC-Q100, MIPI CSI-2, RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "AEC-Q100",
       "MIPI CSI-2",
@@ -15418,10 +15418,10 @@ export const PRODUCT_PARTS = {
   "ADE7880": {
     "mpn": "ADE7880",
     "brand": "Analog Devices",
-    "title": "ADE7880 | Analog Devices 高精度三相电能计量AFE/IC | YIXINOU",
+    "title": "ADE7880 | Analog Devices high-accuracy three-phase energy metering AFE/IC | YIXINOU",
     "category": "集成电路(IC) / 模拟芯片 / 高精度三相电能计量AFE/IC",
     "categoryHref": "/all-products",
-    "summary": "ADE7880 是 Analog Devices 的高精度三相电能计量AFE/IC，归属于集成电路(IC) / 模拟芯片 / 高精度三相电能计量AFE/IC。已提供功能描述：支持谐波分析的高精度多相电能计量IC。主要规格：测量有功/无功/视在电能及各次谐波，有功电能精度0.1%(1000:1动态范围)，LFCSP-40(6×6mm)封装，-40°C~85°C。工作温度：-40°C~85°C。认证/标准：IEC 62053-21/22/23, ANSI C12.20, RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "ADE7880  is  Analog Devices ofhigh-accuracy three-phase energy metering AFE/IC，classified underintegrated circuits(IC) / analog ICs / high-accuracy three-phase energy metering AFE/IC. Available function description: supportsharmonic analysisofhigh-accuracymultiphaseenergy meteringIC. Key specifications: measuresactive/reactive/apparent energyandindividual harmonics，active electrical energyaccuracy0.1%(1000:1dynamic range)，LFCSP-40(6×6mm)package，-40°C~85°C. operating temperature: -40°C~85°C. Certifications/standards: IEC 62053-21/22/23, ANSI C12.20, RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/ADE7880.jpg",
     "alt": "Analog Devices ADE7880 高精度三相电能计量AFE/IC product image",
     "imageNote": "图片类型：未找到可靠匹配图片（Logo占位）。本轮检索未取得能同时满足官方来源、该型号/系列对应关系和封装明确性的图片；保留Logo占位，未猜测或伪造来源。",
@@ -15467,7 +15467,7 @@ export const PRODUCT_PARTS = {
         "ADI官方ADE7880产品页明确高精度三相电能计量IC及谐波测量功能"
       ]
     ],
-    "about": "ADE7880 是 Analog Devices 的高精度三相电能计量AFE/IC，归属于集成电路(IC) / 模拟芯片 / 高精度三相电能计量AFE/IC。已提供功能描述：支持谐波分析的高精度多相电能计量IC。主要规格：测量有功/无功/视在电能及各次谐波，有功电能精度0.1%(1000:1动态范围)，LFCSP-40(6×6mm)封装，-40°C~85°C。工作温度：-40°C~85°C。认证/标准：IEC 62053-21/22/23, ANSI C12.20, RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "ADE7880  is  Analog Devices ofhigh-accuracy three-phase energy metering AFE/IC，classified underintegrated circuits(IC) / analog ICs / high-accuracy three-phase energy metering AFE/IC. Available function description: supportsharmonic analysisofhigh-accuracymultiphaseenergy meteringIC. Key specifications: measuresactive/reactive/apparent energyandindividual harmonics，active electrical energyaccuracy0.1%(1000:1dynamic range)，LFCSP-40(6×6mm)package，-40°C~85°C. operating temperature: -40°C~85°C. Certifications/standards: IEC 62053-21/22/23, ANSI C12.20, RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "IEC 62053-21/22/23",
       "ANSI C12.20",
@@ -15511,10 +15511,10 @@ export const PRODUCT_PARTS = {
   "MAX17601ASA+T": {
     "mpn": "MAX17601ASA+T",
     "brand": "Analog Devices",
-    "title": "MAX17601ASA+T | Analog Devices 高速双通道MOSFET栅极驱动器 | YIXINOU",
+    "title": "MAX17601ASA+T | Analog Devices high-speed dual MOSFET gate driver | YIXINOU",
     "category": "集成电路(IC) / 电源管理芯片 / 高速双通道MOSFET栅极驱动器",
     "categoryHref": "/all-products",
-    "summary": "MAX17601ASA+T 是 Analog Devices 的高速双通道MOSFET栅极驱动器，归属于集成电路(IC) / 电源管理芯片 / 高速双通道MOSFET栅极驱动器。已提供功能描述：4A峰值电流双通道高速低边MOSFET驱动器。主要规格：供电4V~14V，峰值拉/灌电流4A，传播延迟12ns，双通道同相输出，SOIC-8封装，-40°C~125°C。工作温度：-40°C~125°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "summary": "MAX17601ASA+T  is  Analog Devices ofhigh-speed dual MOSFET gate driver，classified underintegrated circuits(IC) / power management IC / high-speed dual MOSFET gate driver. Available function description: 4Apeak currentdual-channelhigh speed lowedgeMOSFETdriver. Key specifications: supply4V~14V， peak source/sink current4A，propagation delay12ns，dual-channelin-phase output，SOIC-8package，-40°C~125°C. operating temperature: -40°C~125°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "img": "/assets/images/MAX17601ASA+T.jpg",
     "alt": "Analog Devices MAX17601ASA+T 高速双通道MOSFET栅极驱动器 product image",
     "imageNote": "图片类型：未找到可靠匹配图片（Logo占位）。本轮检索未取得能同时满足官方来源、该型号/系列对应关系和封装明确性的图片；保留Logo占位，未猜测或伪造来源。",
@@ -15560,7 +15560,7 @@ export const PRODUCT_PARTS = {
         "ADI/Maxim MAX17600-MAX17605系列中17601为双同相4A驱动器，ASA对应SOIC-8封装"
       ]
     ],
-    "about": "MAX17601ASA+T 是 Analog Devices 的高速双通道MOSFET栅极驱动器，归属于集成电路(IC) / 电源管理芯片 / 高速双通道MOSFET栅极驱动器。已提供功能描述：4A峰值电流双通道高速低边MOSFET驱动器。主要规格：供电4V~14V，峰值拉/灌电流4A，传播延迟12ns，双通道同相输出，SOIC-8封装，-40°C~125°C。工作温度：-40°C~125°C。认证/标准：RoHS。库存、价格、MOQ与交期请联系 YIXINOU 询价；页面不虚构未提供的库存或报价。",
+    "about": "MAX17601ASA+T  is  Analog Devices ofhigh-speed dual MOSFET gate driver，classified underintegrated circuits(IC) / power management IC / high-speed dual MOSFET gate driver. Available function description: 4Apeak currentdual-channelhigh speed lowedgeMOSFETdriver. Key specifications: supply4V~14V， peak source/sink current4A，propagation delay12ns，dual-channelin-phase output，SOIC-8package，-40°C~125°C. operating temperature: -40°C~125°C. Certifications/standards: RoHS. For inventory, pricing, MOQ, and lead time, contact YIXINOU for a quotation; this page does not fabricate inventory or pricing that has not been provided. ",
     "standards": [
       "RoHS"
     ],
@@ -15602,12 +15602,12 @@ export const PRODUCT_PARTS = {
   "ADR4525ARZ-R7": {
     "mpn": "ADR4525ARZ-R7",
     "brand": "Analog Devices",
-    "title": "ADR4525ARZ-R7 | Analog Devices 电压基准源 原装现货与规格参数 | YIXINOU",
+    "title": "ADR4525ARZ-R7 | Analog Devices voltage reference Genuine stock and specifications | YIXINOU",
     "metaTitle": "ADR4525ARZ-R7 Analog Devices (ADI) 电压基准源 - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Analog Devices (ADI) ADR4525ARZ-R7 电压基准源 原装芯片现货供应与技术资料。核心规格：输出2.5V、初始精度±0.02%、温漂2ppm/°C、最大输出电流10mA、SOIC-8封装、工作温度-40°C至+125°C；工作温度：-40°C至+125°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 模拟芯片 / 电压基准源",
     "categoryHref": "/all-products",
-    "summary": "ADR4525ARZ-R7 是 Analog Devices (ADI) 推出的高可靠性 电压基准源，归属于 集成电路(IC) / 模拟芯片 / 电压基准源。器件核心功能：超低噪声高精度基准电压源。主要技术规格：输出2.5V、初始精度±0.02%、温漂2ppm/°C、最大输出电流10mA、SOIC-8封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "ADR4525ARZ-R7  is  Analog Devices (ADI) introduced byhigh-reliability voltage reference，classified under integrated circuits(IC) / analog ICs / voltage reference. Core device function: ultra-low-noise high-accuracyvoltage reference. Key technical specifications: output2.5V, initial accuracy±0.02%, temperature drift2ppm/°C, maximum output current10mA, SOIC-8package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/ADR4525ARZ-R7.jpg",
     "alt": "Analog Devices (ADI) ADR4525ARZ-R7 电压基准源 产品图片",
     "imageNote": "图片类型：未找到可靠匹配图片。本轮对Analog Devices (ADI)型号ADR4525ARZ-R7执行检索，暂未取得能同时满足官方来源、该具体型号对应关系和封装明确性的无争议单器件图片；按规范明确标注“未找到可靠匹配图片”并使用Logo占位，绝不使用拼图、堆叠图或非匹配型号虚构来源。",
@@ -15653,7 +15653,7 @@ export const PRODUCT_PARTS = {
         "ADI ADR45xx系列经典2.5V超低噪声电压基准，ARZ代表SOIC-8工业级温度范围，R7为卷带包装"
       ]
     ],
-    "about": "ADR4525ARZ-R7 是 Analog Devices (ADI) 推出的高可靠性 电压基准源，归属于 集成电路(IC) / 模拟芯片 / 电压基准源。器件核心功能：超低噪声高精度基准电压源。主要技术规格：输出2.5V、初始精度±0.02%、温漂2ppm/°C、最大输出电流10mA、SOIC-8封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "ADR4525ARZ-R7  is  Analog Devices (ADI) introduced byhigh-reliability voltage reference，classified under integrated circuits(IC) / analog ICs / voltage reference. Core device function: ultra-low-noise high-accuracyvoltage reference. Key technical specifications: output2.5V, initial accuracy±0.02%, temperature drift2ppm/°C, maximum output current10mA, SOIC-8package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -15697,12 +15697,12 @@ export const PRODUCT_PARTS = {
   "AD5781BRUZ-REEL7": {
     "mpn": "AD5781BRUZ-REEL7",
     "brand": "Analog Devices",
-    "title": "AD5781BRUZ-REEL7 | Analog Devices 数模转换器 (DAC) 原装现货与规格参数 | YIXINOU",
+    "title": "AD5781BRUZ-REEL7 | Analog Devices digital-to-analog converter (DAC) Genuine stock and specifications | YIXINOU",
     "metaTitle": "AD5781BRUZ-REEL7 Analog Devices (ADI) 数模转换器 (DAC) - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Analog Devices (ADI) AD5781BRUZ-REEL7 数模转换器 (DAC) 原装芯片现货供应与技术资料。核心规格：分辨率18位、INL ±0.5 LSB、建立时间1μs、SPI接口、TSSOP-20封装、工作温度-40°C至+125°C；工作温度：-40°C至+125°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 数据转换器 / 数模转换器 (DAC)",
     "categoryHref": "/all-products",
-    "summary": "AD5781BRUZ-REEL7 是 Analog Devices (ADI) 推出的高可靠性 数模转换器 (DAC)，归属于 集成电路(IC) / 数据转换器 / 数模转换器 (DAC)。器件核心功能：18位高精度电压输出DAC。主要技术规格：分辨率18位、INL ±0.5 LSB、建立时间1μs、SPI接口、TSSOP-20封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "AD5781BRUZ-REEL7  is  Analog Devices (ADI) introduced byhigh-reliability digital-to-analog converter (DAC)，classified under integrated circuits(IC) / data converters / digital-to-analog converter (DAC). Core device function: 18-bithigh-accuracyvoltageoutputDAC. Key technical specifications: resolution18-bit, INL ±0.5 LSB, settling time1μs, SPIinterface, TSSOP-20package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/AD5781BRUZ-REEL7.jpg",
     "alt": "Analog Devices (ADI) AD5781BRUZ-REEL7 数模转换器 (DAC) 产品图片",
     "imageNote": "图片类型：未找到可靠匹配图片。本轮对Analog Devices (ADI)型号AD5781BRUZ-REEL7执行检索，暂未取得能同时满足官方来源、该具体型号对应关系和封装明确性的无争议单器件图片；按规范明确标注“未找到可靠匹配图片”并使用Logo占位，绝不使用拼图、堆叠图或非匹配型号虚构来源。",
@@ -15748,7 +15748,7 @@ export const PRODUCT_PARTS = {
         "ADI经典18位精密DAC，BRUZ代表B级精度TSSOP-20无铅封装"
       ]
     ],
-    "about": "AD5781BRUZ-REEL7 是 Analog Devices (ADI) 推出的高可靠性 数模转换器 (DAC)，归属于 集成电路(IC) / 数据转换器 / 数模转换器 (DAC)。器件核心功能：18位高精度电压输出DAC。主要技术规格：分辨率18位、INL ±0.5 LSB、建立时间1μs、SPI接口、TSSOP-20封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "AD5781BRUZ-REEL7  is  Analog Devices (ADI) introduced byhigh-reliability digital-to-analog converter (DAC)，classified under integrated circuits(IC) / data converters / digital-to-analog converter (DAC). Core device function: 18-bithigh-accuracyvoltageoutputDAC. Key technical specifications: resolution18-bit, INL ±0.5 LSB, settling time1μs, SPIinterface, TSSOP-20package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -15792,12 +15792,12 @@ export const PRODUCT_PARTS = {
   "AD9851BRSZRL": {
     "mpn": "AD9851BRSZRL",
     "brand": "Analog Devices",
-    "title": "AD9851BRSZRL | Analog Devices 直接数字频率合成器 (DDS) 原装现货与规格参数 | YIXINOU",
+    "title": "AD9851BRSZRL | Analog Devices direct digital frequency synthesizer (DDS) Genuine stock and specifications | YIXINOU",
     "metaTitle": "AD9851BRSZRL Analog Devices (ADI) 直接数字频率合成器 (DDS) - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Analog Devices (ADI) AD9851BRSZRL 直接数字频率合成器 (DDS) 原装芯片现货供应与技术资料。核心规格：最高时钟180MHz、内置6倍参考时钟倍频器、10位DAC、32位频率调谐字、SSOP-28封装、工作温度-40°C至+85°C；工作温度：-40°C至+85°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 射频与微波芯片 / 直接数字频率合成器 (DDS)",
     "categoryHref": "/all-products",
-    "summary": "AD9851BRSZRL 是 Analog Devices (ADI) 推出的高可靠性 直接数字频率合成器 (DDS)，归属于 集成电路(IC) / 射频与微波芯片 / 直接数字频率合成器 (DDS)。器件核心功能：180MHz CMOS DDS频率合成器。主要技术规格：最高时钟180MHz、内置6倍参考时钟倍频器、10位DAC、32位频率调谐字、SSOP-28封装、工作温度-40°C至+85°C。工作温度范围：-40°C至+85°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "AD9851BRSZRL  is  Analog Devices (ADI) introduced byhigh-reliability direct digital frequency synthesizer (DDS)，classified under integrated circuits(IC) / RF andmicrowaveIC / direct digital frequency synthesizer (DDS). Core device function: 180MHz CMOS DDSfrequency synthesizer. Key technical specifications: maximum clock180MHz, integrated6timesreference-clock multiplier, 10-bitDAC, 32-bitfrequency tuning word, SSOP-28package, operating temperature-40°Cto+85°C. Operating temperature range: -40°Cto+85°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/AD9851BRSZRL.jpg",
     "alt": "Analog Devices (ADI) AD9851BRSZRL 直接数字频率合成器 (DDS) 产品图片",
     "imageNote": "图片类型：未找到可靠匹配图片。本轮对Analog Devices (ADI)型号AD9851BRSZRL执行检索，暂未取得能同时满足官方来源、该具体型号对应关系和封装明确性的无争议单器件图片；按规范明确标注“未找到可靠匹配图片”并使用Logo占位，绝不使用拼图、堆叠图或非匹配型号虚构来源。",
@@ -15843,7 +15843,7 @@ export const PRODUCT_PARTS = {
         "ADI经典DDS芯片AD9851，BRSZ代表SSOP-28无铅工业级封装"
       ]
     ],
-    "about": "AD9851BRSZRL 是 Analog Devices (ADI) 推出的高可靠性 直接数字频率合成器 (DDS)，归属于 集成电路(IC) / 射频与微波芯片 / 直接数字频率合成器 (DDS)。器件核心功能：180MHz CMOS DDS频率合成器。主要技术规格：最高时钟180MHz、内置6倍参考时钟倍频器、10位DAC、32位频率调谐字、SSOP-28封装、工作温度-40°C至+85°C。工作温度范围：-40°C至+85°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "AD9851BRSZRL  is  Analog Devices (ADI) introduced byhigh-reliability direct digital frequency synthesizer (DDS)，classified under integrated circuits(IC) / RF andmicrowaveIC / direct digital frequency synthesizer (DDS). Core device function: 180MHz CMOS DDSfrequency synthesizer. Key technical specifications: maximum clock180MHz, integrated6timesreference-clock multiplier, 10-bitDAC, 32-bitfrequency tuning word, SSOP-28package, operating temperature-40°Cto+85°C. Operating temperature range: -40°Cto+85°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -15887,12 +15887,12 @@ export const PRODUCT_PARTS = {
   "TMP117AIDRVR": {
     "mpn": "TMP117AIDRVR",
     "brand": "Texas Instruments",
-    "title": "TMP117AIDRVR | Texas Instruments 数字温度传感器 原装现货与规格参数 | YIXINOU",
+    "title": "TMP117AIDRVR | Texas Instruments digital temperature sensor Genuine stock and specifications | YIXINOU",
     "metaTitle": "TMP117AIDRVR Texas Instruments (TI) 数字温度传感器 - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Texas Instruments (TI) TMP117AIDRVR 数字温度传感器 原装芯片现货供应与技术资料。核心规格：测温范围-55°C至+150°C、精度±0.1°C(-20°C至+50°C)、16位分辨率、I2C/SMBus接口、WSON-6封装；工作温度：-55°C至+150°C；认证：ASTM E1112、ISO 80601-2-56、RoHS。支持BOM配单与快速询价。",
     "category": "传感器 / 惯性传感器 / 数字温度传感器",
     "categoryHref": "/all-products",
-    "summary": "TMP117AIDRVR 是 Texas Instruments (TI) 推出的高可靠性 数字温度传感器，归属于 传感器 / 惯性传感器 / 数字温度传感器。器件核心功能：高精度数字温度传感器。主要技术规格：测温范围-55°C至+150°C、精度±0.1°C(-20°C至+50°C)、16位分辨率、I2C/SMBus接口、WSON-6封装。工作温度范围：-55°C至+150°C。符合认证/标准：ASTM E1112、ISO 80601-2-56、RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "TMP117AIDRVR  is  Texas Instruments (TI) introduced byhigh-reliability digital temperature sensor，classified under sensor / inertialsensor / digital temperature sensor. Core device function: high-accuracydigital temperature sensor. Key technical specifications: temperature measurement range-55°Cto+150°C, accuracy±0.1°C(-20°Cto+50°C), 16-bitresolution, I2C/SMBusinterface, WSON-6package. Operating temperature range: -55°Cto+150°C. Certifications/standards: ASTM E1112, ISO 80601-2-56, RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/TMP117AIDRVR.jpg",
     "alt": "Texas Instruments (TI) TMP117AIDRVR 数字温度传感器 产品图片",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出TMP117AIDRVR为WSON (DRV), 6 pins；页面提供TI官方DRV封装图片。图片文件通过该官方TI页面所列Image地址下载。",
@@ -15938,7 +15938,7 @@ export const PRODUCT_PARTS = {
         "三级行业受限于列表无温度传感器暂归入传感器大类下最近项，参数确认无误"
       ]
     ],
-    "about": "TMP117AIDRVR 是 Texas Instruments (TI) 推出的高可靠性 数字温度传感器，归属于 传感器 / 惯性传感器 / 数字温度传感器。器件核心功能：高精度数字温度传感器。主要技术规格：测温范围-55°C至+150°C、精度±0.1°C(-20°C至+50°C)、16位分辨率、I2C/SMBus接口、WSON-6封装。工作温度范围：-55°C至+150°C。符合认证/标准：ASTM E1112、ISO 80601-2-56、RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "TMP117AIDRVR  is  Texas Instruments (TI) introduced byhigh-reliability digital temperature sensor，classified under sensor / inertialsensor / digital temperature sensor. Core device function: high-accuracydigital temperature sensor. Key technical specifications: temperature measurement range-55°Cto+150°C, accuracy±0.1°C(-20°Cto+50°C), 16-bitresolution, I2C/SMBusinterface, WSON-6package. Operating temperature range: -55°Cto+150°C. Certifications/standards: ASTM E1112, ISO 80601-2-56, RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "ASTM",
       "E1112",
@@ -15986,12 +15986,12 @@ export const PRODUCT_PARTS = {
   "TMP20AIDCKR": {
     "mpn": "TMP20AIDCKR",
     "brand": "Texas Instruments",
-    "title": "TMP20AIDCKR | Texas Instruments 模拟温度传感器 原装现货与规格参数 | YIXINOU",
+    "title": "TMP20AIDCKR | Texas Instruments analog temperature sensor Genuine stock and specifications | YIXINOU",
     "metaTitle": "TMP20AIDCKR Texas Instruments (TI) 模拟温度传感器 - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Texas Instruments (TI) TMP20AIDCKR 模拟温度传感器 原装芯片现货供应与技术资料。核心规格：测温范围-55°C至+130°C、精度±2.5°C、模拟电压输出(-11.77mV/°C)、供电1.8V至5.5V、SC70-5封装；工作温度：-55°C至+130°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "传感器 / 惯性传感器 / 模拟温度传感器",
     "categoryHref": "/all-products",
-    "summary": "TMP20AIDCKR 是 Texas Instruments (TI) 推出的高可靠性 模拟温度传感器，归属于 传感器 / 惯性传感器 / 模拟温度传感器。器件核心功能：低功耗模拟输出温度传感器。主要技术规格：测温范围-55°C至+130°C、精度±2.5°C、模拟电压输出(-11.77mV/°C)、供电1.8V至5.5V、SC70-5封装。工作温度范围：-55°C至+130°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "TMP20AIDCKR  is  Texas Instruments (TI) introduced byhigh-reliability analog temperature sensor，classified under sensor / inertialsensor / analog temperature sensor. Core device function: low-power analogoutputtemperature sensor. Key technical specifications: temperature measurement range-55°Cto+130°C, accuracy±2.5°C,  analogvoltageoutput(-11.77mV/°C), supply1.8Vto5.5V, SC70-5package. Operating temperature range: -55°Cto+130°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/TMP20AIDCKR.jpg",
     "alt": "Texas Instruments (TI) TMP20AIDCKR 模拟温度传感器 产品图片",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出TMP20AIDCKR为SC70 (DCK), 5 pins；页面提供TI官方DCK封装图片。图片文件通过该官方TI页面所列Image地址下载。",
@@ -16037,7 +16037,7 @@ export const PRODUCT_PARTS = {
         "三级行业受限于列表选项限制，器件型号与SC70-5封装参数准确"
       ]
     ],
-    "about": "TMP20AIDCKR 是 Texas Instruments (TI) 推出的高可靠性 模拟温度传感器，归属于 传感器 / 惯性传感器 / 模拟温度传感器。器件核心功能：低功耗模拟输出温度传感器。主要技术规格：测温范围-55°C至+130°C、精度±2.5°C、模拟电压输出(-11.77mV/°C)、供电1.8V至5.5V、SC70-5封装。工作温度范围：-55°C至+130°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "TMP20AIDCKR  is  Texas Instruments (TI) introduced byhigh-reliability analog temperature sensor，classified under sensor / inertialsensor / analog temperature sensor. Core device function: low-power analogoutputtemperature sensor. Key technical specifications: temperature measurement range-55°Cto+130°C, accuracy±2.5°C,  analogvoltageoutput(-11.77mV/°C), supply1.8Vto5.5V, SC70-5package. Operating temperature range: -55°Cto+130°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -16081,12 +16081,12 @@ export const PRODUCT_PARTS = {
   "TMP275AIDR": {
     "mpn": "TMP275AIDR",
     "brand": "Texas Instruments",
-    "title": "TMP275AIDR | Texas Instruments 数字温度传感器 原装现货与规格参数 | YIXINOU",
+    "title": "TMP275AIDR | Texas Instruments digital temperature sensor Genuine stock and specifications | YIXINOU",
     "metaTitle": "TMP275AIDR Texas Instruments (TI) 数字温度传感器 - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Texas Instruments (TI) TMP275AIDR 数字温度传感器 原装芯片现货供应与技术资料。核心规格：测温范围-40°C至+125°C、精度±0.5°C(-20°C至+100°C)、9至12位可编程分辨率、I2C/SMBus接口、SOIC-8封装；工作温度：-40°C至+125°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "传感器 / 惯性传感器 / 数字温度传感器",
     "categoryHref": "/all-products",
-    "summary": "TMP275AIDR 是 Texas Instruments (TI) 推出的高可靠性 数字温度传感器，归属于 传感器 / 惯性传感器 / 数字温度传感器。器件核心功能：高精度数字温度传感器。主要技术规格：测温范围-40°C至+125°C、精度±0.5°C(-20°C至+100°C)、9至12位可编程分辨率、I2C/SMBus接口、SOIC-8封装。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "TMP275AIDR  is  Texas Instruments (TI) introduced byhigh-reliability digital temperature sensor，classified under sensor / inertialsensor / digital temperature sensor. Core device function: high-accuracydigital temperature sensor. Key technical specifications: temperature measurement range-40°Cto+125°C, accuracy±0.5°C(-20°Cto+100°C), 9to12-bitprogrammableresolution, I2C/SMBusinterface, SOIC-8package. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/TMP275AIDR.jpg",
     "alt": "Texas Instruments (TI) TMP275AIDR 数字温度传感器 产品图片",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出TMP275AIDR为SOIC (D), 8 pins；页面提供TI官方D封装图片。图片文件通过该官方TI页面所列Image地址下载。",
@@ -16132,7 +16132,7 @@ export const PRODUCT_PARTS = {
         "三级行业受限于列表选项限制，TI双线制数字温度传感器标准参数"
       ]
     ],
-    "about": "TMP275AIDR 是 Texas Instruments (TI) 推出的高可靠性 数字温度传感器，归属于 传感器 / 惯性传感器 / 数字温度传感器。器件核心功能：高精度数字温度传感器。主要技术规格：测温范围-40°C至+125°C、精度±0.5°C(-20°C至+100°C)、9至12位可编程分辨率、I2C/SMBus接口、SOIC-8封装。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "TMP275AIDR  is  Texas Instruments (TI) introduced byhigh-reliability digital temperature sensor，classified under sensor / inertialsensor / digital temperature sensor. Core device function: high-accuracydigital temperature sensor. Key technical specifications: temperature measurement range-40°Cto+125°C, accuracy±0.5°C(-20°Cto+100°C), 9to12-bitprogrammableresolution, I2C/SMBusinterface, SOIC-8package. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -16176,12 +16176,12 @@ export const PRODUCT_PARTS = {
   "TMP421AIDCNR": {
     "mpn": "TMP421AIDCNR",
     "brand": "Texas Instruments",
-    "title": "TMP421AIDCNR | Texas Instruments 远程温度传感器 原装现货与规格参数 | YIXINOU",
+    "title": "TMP421AIDCNR | Texas Instruments remote temperature sensor Genuine stock and specifications | YIXINOU",
     "metaTitle": "TMP421AIDCNR Texas Instruments (TI) 远程温度传感器 - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Texas Instruments (TI) TMP421AIDCNR 远程温度传感器 原装芯片现货供应与技术资料。核心规格：1路本地+1路远程二极管测温、精度±1°C、12位分辨率、SMBus/I2C接口、SOT23-8封装、工作温度-40°C至+125°C；工作温度：-40°C至+125°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "传感器 / 惯性传感器 / 远程温度传感器",
     "categoryHref": "/all-products",
-    "summary": "TMP421AIDCNR 是 Texas Instruments (TI) 推出的高可靠性 远程温度传感器，归属于 传感器 / 惯性传感器 / 远程温度传感器。器件核心功能：远程及本地数字温度传感器。主要技术规格：1路本地+1路远程二极管测温、精度±1°C、12位分辨率、SMBus/I2C接口、SOT23-8封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "TMP421AIDCNR  is  Texas Instruments (TI) introduced byhigh-reliability remote temperature sensor，classified under sensor / inertialsensor / remote temperature sensor. Core device function: remoteandlocaldigital temperature sensor. Key technical specifications: 1 local + 1 remote diode temperature measurement temperature , accuracy±1°C, 12-bitresolution, SMBus/I2Cinterface, SOT23-8package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/TMP421AIDCNR.jpg",
     "alt": "Texas Instruments (TI) TMP421AIDCNR 远程温度传感器 产品图片",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出TMP421AIDCNR为SOT-23 (DCN), 8 pins；页面提供TI官方DCN封装图片。图片文件通过该官方TI页面所列Image地址下载。",
@@ -16227,7 +16227,7 @@ export const PRODUCT_PARTS = {
         "三级行业受限于列表选项限制，TI单通道远程测温IC参数准确"
       ]
     ],
-    "about": "TMP421AIDCNR 是 Texas Instruments (TI) 推出的高可靠性 远程温度传感器，归属于 传感器 / 惯性传感器 / 远程温度传感器。器件核心功能：远程及本地数字温度传感器。主要技术规格：1路本地+1路远程二极管测温、精度±1°C、12位分辨率、SMBus/I2C接口、SOT23-8封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "TMP421AIDCNR  is  Texas Instruments (TI) introduced byhigh-reliability remote temperature sensor，classified under sensor / inertialsensor / remote temperature sensor. Core device function: remoteandlocaldigital temperature sensor. Key technical specifications: 1 local + 1 remote diode temperature measurement temperature , accuracy±1°C, 12-bitresolution, SMBus/I2Cinterface, SOT23-8package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -16271,12 +16271,12 @@ export const PRODUCT_PARTS = {
   "TMP75AIDR": {
     "mpn": "TMP75AIDR",
     "brand": "Texas Instruments",
-    "title": "TMP75AIDR | Texas Instruments 数字温度传感器 原装现货与规格参数 | YIXINOU",
+    "title": "TMP75AIDR | Texas Instruments digital temperature sensor Genuine stock and specifications | YIXINOU",
     "metaTitle": "TMP75AIDR Texas Instruments (TI) 数字温度传感器 - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Texas Instruments (TI) TMP75AIDR 数字温度传感器 原装芯片现货供应与技术资料。核心规格：测温范围-40°C至+125°C、精度±1°C(-40°C至+125°C)、9至12位分辨率、I2C/SMBus接口、SOIC-8封装；工作温度：-40°C至+125°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "传感器 / 惯性传感器 / 数字温度传感器",
     "categoryHref": "/all-products",
-    "summary": "TMP75AIDR 是 Texas Instruments (TI) 推出的高可靠性 数字温度传感器，归属于 传感器 / 惯性传感器 / 数字温度传感器。器件核心功能：数字温度传感器与热监控器。主要技术规格：测温范围-40°C至+125°C、精度±1°C(-40°C至+125°C)、9至12位分辨率、I2C/SMBus接口、SOIC-8封装。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "TMP75AIDR  is  Texas Instruments (TI) introduced byhigh-reliability digital temperature sensor，classified under sensor / inertialsensor / digital temperature sensor. Core device function: digital temperature sensorand thermal monitor. Key technical specifications: temperature measurement range-40°Cto+125°C, accuracy±1°C(-40°Cto+125°C), 9to12-bitresolution, I2C/SMBusinterface, SOIC-8package. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/TMP75AIDR.jpg",
     "alt": "Texas Instruments (TI) TMP75AIDR 数字温度传感器 产品图片",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出TMP75AIDR为SOIC (D), 8 pins；页面提供TI官方D封装图片。图片文件通过该官方TI页面所列Image地址下载。",
@@ -16322,7 +16322,7 @@ export const PRODUCT_PARTS = {
         "与列表第8行料号重复，三级行业受限于列表选项限制"
       ]
     ],
-    "about": "TMP75AIDR 是 Texas Instruments (TI) 推出的高可靠性 数字温度传感器，归属于 传感器 / 惯性传感器 / 数字温度传感器。器件核心功能：数字温度传感器与热监控器。主要技术规格：测温范围-40°C至+125°C、精度±1°C(-40°C至+125°C)、9至12位分辨率、I2C/SMBus接口、SOIC-8封装。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "TMP75AIDR  is  Texas Instruments (TI) introduced byhigh-reliability digital temperature sensor，classified under sensor / inertialsensor / digital temperature sensor. Core device function: digital temperature sensorand thermal monitor. Key technical specifications: temperature measurement range-40°Cto+125°C, accuracy±1°C(-40°Cto+125°C), 9to12-bitresolution, I2C/SMBusinterface, SOIC-8package. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -16366,12 +16366,12 @@ export const PRODUCT_PARTS = {
   "TPA3111D1PWPR": {
     "mpn": "TPA3111D1PWPR",
     "brand": "Texas Instruments",
-    "title": "TPA3111D1PWPR | Texas Instruments D类音频功率放大器 原装现货与规格参数 | YIXINOU",
+    "title": "TPA3111D1PWPR | Texas Instruments D type audio power amplifier Genuine stock and specifications | YIXINOU",
     "metaTitle": "TPA3111D1PWPR Texas Instruments (TI) D类音频功率放大器 - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Texas Instruments (TI) TPA3111D1PWPR D类音频功率放大器 原装芯片现货供应与技术资料。核心规格：输出功率10W(8Ω, 12V)、供电8V至26V、效率高达94%、无需外部散热器、HTSSOP-28封装、工作温度-40°C至+85°C；工作温度：-40°C至+85°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 音频与视频芯片 / D类音频功率放大器",
     "categoryHref": "/all-products",
-    "summary": "TPA3111D1PWPR 是 Texas Instruments (TI) 推出的高可靠性 D类音频功率放大器，归属于 集成电路(IC) / 音频与视频芯片 / D类音频功率放大器。器件核心功能：10W单声道D类音频功放。主要技术规格：输出功率10W(8Ω, 12V)、供电8V至26V、效率高达94%、无需外部散热器、HTSSOP-28封装、工作温度-40°C至+85°C。工作温度范围：-40°C至+85°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "TPA3111D1PWPR  is  Texas Instruments (TI) introduced byhigh-reliability D type audio power amplifier，classified under integrated circuits(IC) / audio and video ICs / D type audio power amplifier. Core device function: 10W single-channel D type audio power amplifier . Key technical specifications: output power10W(8Ω, 12V), supply8Vto26V, efficiencyup to94%, no external heatsink required, HTSSOP-28package, operating temperature-40°Cto+85°C. Operating temperature range: -40°Cto+85°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/TPA3111D1PWPR.jpg",
     "alt": "Texas Instruments (TI) TPA3111D1PWPR D类音频功率放大器 产品图片",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出TPA3111D1PWPR为HTSSOP (PWP), 28 pins；页面提供TI官方PWP封装图片。图片文件通过该官方TI页面所列Image地址下载。",
@@ -16417,7 +16417,7 @@ export const PRODUCT_PARTS = {
         "TI TPA3111D1单声道D类功放，PWPR为带散热焊盘的HTSSOP-28卷带包装"
       ]
     ],
-    "about": "TPA3111D1PWPR 是 Texas Instruments (TI) 推出的高可靠性 D类音频功率放大器，归属于 集成电路(IC) / 音频与视频芯片 / D类音频功率放大器。器件核心功能：10W单声道D类音频功放。主要技术规格：输出功率10W(8Ω, 12V)、供电8V至26V、效率高达94%、无需外部散热器、HTSSOP-28封装、工作温度-40°C至+85°C。工作温度范围：-40°C至+85°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "TPA3111D1PWPR  is  Texas Instruments (TI) introduced byhigh-reliability D type audio power amplifier，classified under integrated circuits(IC) / audio and video ICs / D type audio power amplifier. Core device function: 10W single-channel D type audio power amplifier . Key technical specifications: output power10W(8Ω, 12V), supply8Vto26V, efficiencyup to94%, no external heatsink required, HTSSOP-28package, operating temperature-40°Cto+85°C. Operating temperature range: -40°Cto+85°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -16461,12 +16461,12 @@ export const PRODUCT_PARTS = {
   "LT3502AEMS#TRPBF": {
     "mpn": "LT3502AEMS#TRPBF",
     "brand": "Analog Devices",
-    "title": "LT3502AEMS#TRPBF | Analog Devices 降压型开关稳压器 (Buck) 原装现货与规格参数 | YIXINOU",
+    "title": "LT3502AEMS#TRPBF | Analog Devices buck switching regulator (Buck) Genuine stock and specifications | YIXINOU",
     "metaTitle": "LT3502AEMS#TRPBF Analog Devices (ADI/Linear) 降压型开关稳压器 (Buck) - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Analog Devices (ADI/Linear) LT3502AEMS#TRPBF 降压型开关稳压器 (Buck) 原装芯片现货供应与技术资料。核心规格：输入电压3V至40V、输出电流500mA、开关频率2.2MHz、集成内部开关管、MSOP-10封装、工作温度-40°C至+125°C；工作温度：-40°C至+125°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 电源管理芯片 / 降压型开关稳压器 (Buck)",
     "categoryHref": "/all-products",
-    "summary": "LT3502AEMS#TRPBF 是 Analog Devices (ADI/Linear) 推出的高可靠性 降压型开关稳压器 (Buck)，归属于 集成电路(IC) / 电源管理芯片 / 降压型开关稳压器 (Buck)。器件核心功能：500mA 2.2MHz降压稳压器。主要技术规格：输入电压3V至40V、输出电流500mA、开关频率2.2MHz、集成内部开关管、MSOP-10封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "LT3502AEMS#TRPBF  is  Analog Devices (ADI/Linear) introduced byhigh-reliability buck switching regulator (Buck)，classified under integrated circuits(IC) / power management IC / buck switching regulator (Buck). Core device function: 500mA 2.2MHzbuckregulator. Key technical specifications: inputvoltage3Vto40V, output current500mA, switching frequency2.2MHz, integratedwithin external switchingtube, MSOP-10package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/LT3502AEMS#TRPBF.jpg",
     "alt": "Analog Devices (ADI/Linear) LT3502AEMS#TRPBF 降压型开关稳压器 (Buck) 产品图片",
     "imageNote": "图片类型：未找到可靠匹配图片。本轮对Analog Devices (ADI/Linear)型号LT3502AEMS#TRPBF执行检索，暂未取得能同时满足官方来源、该具体型号对应关系和封装明确性的无争议单器件图片；按规范明确标注“未找到可靠匹配图片”并使用Logo占位，绝不使用拼图、堆叠图或非匹配型号虚构来源。",
@@ -16512,7 +16512,7 @@ export const PRODUCT_PARTS = {
         "原Linear Technology经典40V降压DC-DC，AEMS代表10引脚MSOP封装"
       ]
     ],
-    "about": "LT3502AEMS#TRPBF 是 Analog Devices (ADI/Linear) 推出的高可靠性 降压型开关稳压器 (Buck)，归属于 集成电路(IC) / 电源管理芯片 / 降压型开关稳压器 (Buck)。器件核心功能：500mA 2.2MHz降压稳压器。主要技术规格：输入电压3V至40V、输出电流500mA、开关频率2.2MHz、集成内部开关管、MSOP-10封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "LT3502AEMS#TRPBF  is  Analog Devices (ADI/Linear) introduced byhigh-reliability buck switching regulator (Buck)，classified under integrated circuits(IC) / power management IC / buck switching regulator (Buck). Core device function: 500mA 2.2MHzbuckregulator. Key technical specifications: inputvoltage3Vto40V, output current500mA, switching frequency2.2MHz, integratedwithin external switchingtube, MSOP-10package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -16556,12 +16556,12 @@ export const PRODUCT_PARTS = {
   "LTC3784EGN#TRPBF": {
     "mpn": "LTC3784EGN#TRPBF",
     "brand": "Analog Devices",
-    "title": "LTC3784EGN#TRPBF | Analog Devices 多相升压控制器 (Boost) 原装现货与规格参数 | YIXINOU",
+    "title": "LTC3784EGN#TRPBF | Analog Devices multiphase boost controller (Boost) Genuine stock and specifications | YIXINOU",
     "metaTitle": "LTC3784EGN#TRPBF Analog Devices (ADI/Linear) 多相升压控制器 (Boost) - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Analog Devices (ADI/Linear) LTC3784EGN#TRPBF 多相升压控制器 (Boost) 原装芯片现货供应与技术资料。核心规格：输入电压4.5V至60V、输出最高60V、双相交错控制、可编程频率50kHz至900kHz、SSOP-28封装、工作温度-40°C至+125°C；工作温度：-40°C至+125°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 电源管理芯片 / 多相升压控制器 (Boost)",
     "categoryHref": "/all-products",
-    "summary": "LTC3784EGN#TRPBF 是 Analog Devices (ADI/Linear) 推出的高可靠性 多相升压控制器 (Boost)，归属于 集成电路(IC) / 电源管理芯片 / 多相升压控制器 (Boost)。器件核心功能：双相单输出同步升压控制器。主要技术规格：输入电压4.5V至60V、输出最高60V、双相交错控制、可编程频率50kHz至900kHz、SSOP-28封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "LTC3784EGN#TRPBF  is  Analog Devices (ADI/Linear) introduced byhigh-reliability multiphase boost controller (Boost)，classified under integrated circuits(IC) / power management IC / multiphase boost controller (Boost). Core device function:  dual phase single outputsynchronous boostcontroller. Key technical specifications: inputvoltage4.5Vto60V, outputmaximum60V,  dual phaseinterleavedcontrol, programmablefrequency50kHzto900kHz, SSOP-28package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/LTC3784EGN#TRPBF.jpg",
     "alt": "Analog Devices (ADI/Linear) LTC3784EGN#TRPBF 多相升压控制器 (Boost) 产品图片",
     "imageNote": "图片类型：未找到可靠匹配图片。本轮对Analog Devices (ADI/Linear)型号LTC3784EGN#TRPBF执行检索，暂未取得能同时满足官方来源、该具体型号对应关系和封装明确性的无争议单器件图片；按规范明确标注“未找到可靠匹配图片”并使用Logo占位，绝不使用拼图、堆叠图或非匹配型号虚构来源。",
@@ -16607,7 +16607,7 @@ export const PRODUCT_PARTS = {
         "原Linear Technology大功率同步升压控制器，EGN代表SSOP-28封装"
       ]
     ],
-    "about": "LTC3784EGN#TRPBF 是 Analog Devices (ADI/Linear) 推出的高可靠性 多相升压控制器 (Boost)，归属于 集成电路(IC) / 电源管理芯片 / 多相升压控制器 (Boost)。器件核心功能：双相单输出同步升压控制器。主要技术规格：输入电压4.5V至60V、输出最高60V、双相交错控制、可编程频率50kHz至900kHz、SSOP-28封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "LTC3784EGN#TRPBF  is  Analog Devices (ADI/Linear) introduced byhigh-reliability multiphase boost controller (Boost)，classified under integrated circuits(IC) / power management IC / multiphase boost controller (Boost). Core device function:  dual phase single outputsynchronous boostcontroller. Key technical specifications: inputvoltage4.5Vto60V, outputmaximum60V,  dual phaseinterleavedcontrol, programmablefrequency50kHzto900kHz, SSOP-28package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -16651,12 +16651,12 @@ export const PRODUCT_PARTS = {
   "ADUCM320BBCZI": {
     "mpn": "ADUCM320BBCZI",
     "brand": "Analog Devices",
-    "title": "ADUCM320BBCZI | Analog Devices MCU（32位 ARM Cortex-M3） 原装现货与规格参数 | YIXINOU",
+    "title": "ADUCM320BBCZI | Analog Devices MCU (32-bit ARM Cortex-M3) Genuine stock and specifications | YIXINOU",
     "metaTitle": "ADUCM320BBCZI Analog Devices (ADI) MCU（32位 ARM Cortex-M3） - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Analog Devices (ADI) ADUCM320BBCZI MCU（32位 ARM Cortex-M3） 原装芯片现货供应与技术资料。核心规格：内核ARM Cortex-M3(80MHz)、256KB Flash、32KB SRAM、14位1MSPS ADC、12位电压DAC、96引脚CSPBGA封装、工作温度-40°C至+105°C；工作温度：-40°C至+105°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 处理器与控制器 / MCU（32位 ARM Cortex-M3）",
     "categoryHref": "/all-products",
-    "summary": "ADUCM320BBCZI 是 Analog Devices (ADI) 推出的高可靠性 MCU（32位 ARM Cortex-M3），归属于 集成电路(IC) / 处理器与控制器 / MCU（32位 ARM Cortex-M3）。器件核心功能：集成精密模拟前端的32位MCU。主要技术规格：内核ARM Cortex-M3(80MHz)、256KB Flash、32KB SRAM、14位1MSPS ADC、12位电压DAC、96引脚CSPBGA封装、工作温度-40°C至+105°C。工作温度范围：-40°C至+105°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "ADUCM320BBCZI  is  Analog Devices (ADI) introduced byhigh-reliability MCU (32-bit ARM Cortex-M3)，classified under integrated circuits(IC) / processors and controllers / MCU (32-bit ARM Cortex-M3). Core device function: integratedprecision analog before  terminal of32-bitMCU. Key technical specifications: withincoreARM Cortex-M3(80MHz), 256KB Flash, 32KB SRAM, 14-bit1MSPS ADC, 12-bitvoltageDAC, 96pinsCSPBGApackage, operating temperature-40°Cto+105°C. Operating temperature range: -40°Cto+105°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/ADUCM320BBCZI.jpg",
     "alt": "Analog Devices (ADI) ADUCM320BBCZI MCU（32位 ARM Cortex-M3） 产品图片",
     "imageNote": "图片类型：未找到可靠匹配图片。本轮对Analog Devices (ADI)型号ADUCM320BBCZI执行检索，暂未取得能同时满足官方来源、该具体型号对应关系和封装明确性的无争议单器件图片；按规范明确标注“未找到可靠匹配图片”并使用Logo占位，绝不使用拼图、堆叠图或非匹配型号虚构来源。",
@@ -16702,7 +16702,7 @@ export const PRODUCT_PARTS = {
         "ADI专为光模块及工业控制设计的模拟微控制器，BBCZI为96-BGA封装"
       ]
     ],
-    "about": "ADUCM320BBCZI 是 Analog Devices (ADI) 推出的高可靠性 MCU（32位 ARM Cortex-M3），归属于 集成电路(IC) / 处理器与控制器 / MCU（32位 ARM Cortex-M3）。器件核心功能：集成精密模拟前端的32位MCU。主要技术规格：内核ARM Cortex-M3(80MHz)、256KB Flash、32KB SRAM、14位1MSPS ADC、12位电压DAC、96引脚CSPBGA封装、工作温度-40°C至+105°C。工作温度范围：-40°C至+105°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "ADUCM320BBCZI  is  Analog Devices (ADI) introduced byhigh-reliability MCU (32-bit ARM Cortex-M3)，classified under integrated circuits(IC) / processors and controllers / MCU (32-bit ARM Cortex-M3). Core device function: integratedprecision analog before  terminal of32-bitMCU. Key technical specifications: withincoreARM Cortex-M3(80MHz), 256KB Flash, 32KB SRAM, 14-bit1MSPS ADC, 12-bitvoltageDAC, 96pinsCSPBGApackage, operating temperature-40°Cto+105°C. Operating temperature range: -40°Cto+105°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -16746,12 +16746,12 @@ export const PRODUCT_PARTS = {
   "LTC3114EDHC-1#TRPBF": {
     "mpn": "LTC3114EDHC-1#TRPBF",
     "brand": "Analog Devices",
-    "title": "LTC3114EDHC-1#TRPBF | Analog Devices 升降压开关稳压器 (Buck-Boost) 原装现货与规格参数 | YIXINOU",
+    "title": "LTC3114EDHC-1#TRPBF | Analog Devices buck-boost switching regulator (Buck-Boost) Genuine stock and specifications | YIXINOU",
     "metaTitle": "LTC3114EDHC-1#TRPBF Analog Devices (ADI/Linear) 升降压开关稳压器 (Buck-Boost) - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Analog Devices (ADI/Linear) LTC3114EDHC-1#TRPBF 升降压开关稳压器 (Buck-Boost) 原装芯片现货供应与技术资料。核心规格：输入2.2V至40V、输出2.7V至40V、输出电流1A、可编程电流限制、DFN-16(5mm×3mm)封装、工作温度-40°C至+125°C；工作温度：-40°C至+125°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 电源管理芯片 / 升降压开关稳压器 (Buck-Boost)",
     "categoryHref": "/all-products",
-    "summary": "LTC3114EDHC-1#TRPBF 是 Analog Devices (ADI/Linear) 推出的高可靠性 升降压开关稳压器 (Buck-Boost)，归属于 集成电路(IC) / 电源管理芯片 / 升降压开关稳压器 (Buck-Boost)。器件核心功能：40V 1A同步升降压DC-DC转换器。主要技术规格：输入2.2V至40V、输出2.7V至40V、输出电流1A、可编程电流限制、DFN-16(5mm×3mm)封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "LTC3114EDHC-1#TRPBF  is  Analog Devices (ADI/Linear) introduced byhigh-reliability buck-boost switching regulator (Buck-Boost)，classified under integrated circuits(IC) / power management IC / buck-boost switching regulator (Buck-Boost). Core device function: 40V 1Asynchronousbuck-boostDC-DC convert  switch  device . Key technical specifications: input2.2Vto40V, output2.7Vto40V, output current1A, programmablecurrentlimit control , DFN-16(5mm×3mm)package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/LTC3114EDHC-1#TRPBF.jpg",
     "alt": "Analog Devices (ADI/Linear) LTC3114EDHC-1#TRPBF 升降压开关稳压器 (Buck-Boost) 产品图片",
     "imageNote": "图片类型：未找到可靠匹配图片。本轮对Analog Devices (ADI/Linear)型号LTC3114EDHC-1#TRPBF执行检索，暂未取得能同时满足官方来源、该具体型号对应关系和封装明确性的无争议单器件图片；按规范明确标注“未找到可靠匹配图片”并使用Logo占位，绝不使用拼图、堆叠图或非匹配型号虚构来源。",
@@ -16797,7 +16797,7 @@ export const PRODUCT_PARTS = {
         "原Linear Technology宽压同步升降压转换器，EDHC为16引脚DFN封装"
       ]
     ],
-    "about": "LTC3114EDHC-1#TRPBF 是 Analog Devices (ADI/Linear) 推出的高可靠性 升降压开关稳压器 (Buck-Boost)，归属于 集成电路(IC) / 电源管理芯片 / 升降压开关稳压器 (Buck-Boost)。器件核心功能：40V 1A同步升降压DC-DC转换器。主要技术规格：输入2.2V至40V、输出2.7V至40V、输出电流1A、可编程电流限制、DFN-16(5mm×3mm)封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "LTC3114EDHC-1#TRPBF  is  Analog Devices (ADI/Linear) introduced byhigh-reliability buck-boost switching regulator (Buck-Boost)，classified under integrated circuits(IC) / power management IC / buck-boost switching regulator (Buck-Boost). Core device function: 40V 1Asynchronousbuck-boostDC-DC convert  switch  device . Key technical specifications: input2.2Vto40V, output2.7Vto40V, output current1A, programmablecurrentlimit control , DFN-16(5mm×3mm)package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -16841,12 +16841,12 @@ export const PRODUCT_PARTS = {
   "LT3905EUD#TRPBF": {
     "mpn": "LT3905EUD#TRPBF",
     "brand": "Analog Devices",
-    "title": "LT3905EUD#TRPBF | Analog Devices 升压型开关稳压器 (Boost) 原装现货与规格参数 | YIXINOU",
+    "title": "LT3905EUD#TRPBF | Analog Devices boost switching regulator (Boost) Genuine stock and specifications | YIXINOU",
     "metaTitle": "LT3905EUD#TRPBF Analog Devices (ADI/Linear) 升压型开关稳压器 (Boost) - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Analog Devices (ADI/Linear) LT3905EUD#TRPBF 升压型开关稳压器 (Boost) 原装芯片现货供应与技术资料。核心规格：输入2.7V至12V、输出最高60V、集成高压侧APD电流监测、350mA开关管、QFN-16(3mm×3mm)封装、工作温度-40°C至+125°C；工作温度：-40°C至+125°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 电源管理芯片 / 升压型开关稳压器 (Boost)",
     "categoryHref": "/all-products",
-    "summary": "LT3905EUD#TRPBF 是 Analog Devices (ADI/Linear) 推出的高可靠性 升压型开关稳压器 (Boost)，归属于 集成电路(IC) / 电源管理芯片 / 升压型开关稳压器 (Boost)。器件核心功能：APD偏置超低静态电流升压转换器。主要技术规格：输入2.7V至12V、输出最高60V、集成高压侧APD电流监测、350mA开关管、QFN-16(3mm×3mm)封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "LT3905EUD#TRPBF  is  Analog Devices (ADI/Linear) introduced byhigh-reliability boost switching regulator (Boost)，classified under integrated circuits(IC) / power management IC / boost switching regulator (Boost). Core device function: APDbiasultra-low quiescent currentboost voltage  convert  switch  device . Key technical specifications: input2.7Vto12V, outputmaximum60V, integratedhigh-sideAPDcurrentmonitoring, 350mAswitchingtube, QFN-16(3mm×3mm)package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/LT3905EUD#TRPBF.jpg",
     "alt": "Analog Devices (ADI/Linear) LT3905EUD#TRPBF 升压型开关稳压器 (Boost) 产品图片",
     "imageNote": "图片类型：未找到可靠匹配图片。本轮对Analog Devices (ADI/Linear)型号LT3905EUD#TRPBF执行检索，暂未取得能同时满足官方来源、该具体型号对应关系和封装明确性的无争议单器件图片；按规范明确标注“未找到可靠匹配图片”并使用Logo占位，绝不使用拼图、堆叠图或非匹配型号虚构来源。",
@@ -16892,7 +16892,7 @@ export const PRODUCT_PARTS = {
         "专为光通信雪崩光电二极管(APD)偏置设计的升压转换器"
       ]
     ],
-    "about": "LT3905EUD#TRPBF 是 Analog Devices (ADI/Linear) 推出的高可靠性 升压型开关稳压器 (Boost)，归属于 集成电路(IC) / 电源管理芯片 / 升压型开关稳压器 (Boost)。器件核心功能：APD偏置超低静态电流升压转换器。主要技术规格：输入2.7V至12V、输出最高60V、集成高压侧APD电流监测、350mA开关管、QFN-16(3mm×3mm)封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "LT3905EUD#TRPBF  is  Analog Devices (ADI/Linear) introduced byhigh-reliability boost switching regulator (Boost)，classified under integrated circuits(IC) / power management IC / boost switching regulator (Boost). Core device function: APDbiasultra-low quiescent currentboost voltage  convert  switch  device . Key technical specifications: input2.7Vto12V, outputmaximum60V, integratedhigh-sideAPDcurrentmonitoring, 350mAswitchingtube, QFN-16(3mm×3mm)package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -16936,12 +16936,12 @@ export const PRODUCT_PARTS = {
   "LTC3417AIDHC-1#TRPBF": {
     "mpn": "LTC3417AIDHC-1#TRPBF",
     "brand": "Analog Devices",
-    "title": "LTC3417AIDHC-1#TRPBF | Analog Devices 双路降压开关稳压器 (Dual Buck) 原装现货与规格参数 | YIXINOU",
+    "title": "LTC3417AIDHC-1#TRPBF | Analog Devices dual buck switching regulator (Dual Buck) Genuine stock and specifications | YIXINOU",
     "metaTitle": "LTC3417AIDHC-1#TRPBF Analog Devices (ADI/Linear) 双路降压开关稳压器 (Dual Buck) - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Analog Devices (ADI/Linear) LTC3417AIDHC-1#TRPBF 双路降压开关稳压器 (Dual Buck) 原装芯片现货供应与技术资料。核心规格：输入2.25V至5.5V、双路输出(1.5A与1A)、开关频率1.5MHz、DFN-16(5mm×3mm)封装、工作温度-40°C至+125°C；工作温度：-40°C至+125°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 电源管理芯片 / 双路降压开关稳压器 (Dual Buck)",
     "categoryHref": "/all-products",
-    "summary": "LTC3417AIDHC-1#TRPBF 是 Analog Devices (ADI/Linear) 推出的高可靠性 双路降压开关稳压器 (Dual Buck)，归属于 集成电路(IC) / 电源管理芯片 / 双路降压开关稳压器 (Dual Buck)。器件核心功能：双路1.5A/1A同步降压稳压器。主要技术规格：输入2.25V至5.5V、双路输出(1.5A与1A)、开关频率1.5MHz、DFN-16(5mm×3mm)封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "LTC3417AIDHC-1#TRPBF  is  Analog Devices (ADI/Linear) introduced byhigh-reliability dual buck switching regulator (Dual Buck)，classified under integrated circuits(IC) / power management IC / dual buck switching regulator (Dual Buck). Core device function:  dual channels1.5A/1Asynchronous buckregulator. Key technical specifications: input2.25Vto5.5V, dual outputs(1.5Aand1A), switching frequency1.5MHz, DFN-16(5mm×3mm)package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/LTC3417AIDHC-1#TRPBF.jpg",
     "alt": "Analog Devices (ADI/Linear) LTC3417AIDHC-1#TRPBF 双路降压开关稳压器 (Dual Buck) 产品图片",
     "imageNote": "图片类型：未找到可靠匹配图片。本轮对Analog Devices (ADI/Linear)型号LTC3417AIDHC-1#TRPBF执行检索，暂未取得能同时满足官方来源、该具体型号对应关系和封装明确性的无争议单器件图片；按规范明确标注“未找到可靠匹配图片”并使用Logo占位，绝不使用拼图、堆叠图或非匹配型号虚构来源。",
@@ -16987,7 +16987,7 @@ export const PRODUCT_PARTS = {
         "原Linear Technology双通道同步降压稳压器，AIDHC-1为改进版DFN-16封装"
       ]
     ],
-    "about": "LTC3417AIDHC-1#TRPBF 是 Analog Devices (ADI/Linear) 推出的高可靠性 双路降压开关稳压器 (Dual Buck)，归属于 集成电路(IC) / 电源管理芯片 / 双路降压开关稳压器 (Dual Buck)。器件核心功能：双路1.5A/1A同步降压稳压器。主要技术规格：输入2.25V至5.5V、双路输出(1.5A与1A)、开关频率1.5MHz、DFN-16(5mm×3mm)封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "LTC3417AIDHC-1#TRPBF  is  Analog Devices (ADI/Linear) introduced byhigh-reliability dual buck switching regulator (Dual Buck)，classified under integrated circuits(IC) / power management IC / dual buck switching regulator (Dual Buck). Core device function:  dual channels1.5A/1Asynchronous buckregulator. Key technical specifications: input2.25Vto5.5V, dual outputs(1.5Aand1A), switching frequency1.5MHz, DFN-16(5mm×3mm)package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -17031,12 +17031,12 @@ export const PRODUCT_PARTS = {
   "LTC3890EUH#TRPBF": {
     "mpn": "LTC3890EUH#TRPBF",
     "brand": "Analog Devices",
-    "title": "LTC3890EUH#TRPBF | Analog Devices 双路降压控制器 (Dual Buck) 原装现货与规格参数 | YIXINOU",
+    "title": "LTC3890EUH#TRPBF | Analog Devices dual buck controller (Dual Buck) Genuine stock and specifications | YIXINOU",
     "metaTitle": "LTC3890EUH#TRPBF Analog Devices (ADI/Linear) 双路降压控制器 (Dual Buck) - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Analog Devices (ADI/Linear) LTC3890EUH#TRPBF 双路降压控制器 (Dual Buck) 原装芯片现货供应与技术资料。核心规格：输入4V至60V、双路独立输出0.8V至24V、静态电流50μA、QFN-32(5mm×5mm)封装、工作温度-40°C至+125°C；工作温度：-40°C至+125°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 电源管理芯片 / 双路降压控制器 (Dual Buck)",
     "categoryHref": "/all-products",
-    "summary": "LTC3890EUH#TRPBF 是 Analog Devices (ADI/Linear) 推出的高可靠性 双路降压控制器 (Dual Buck)，归属于 集成电路(IC) / 电源管理芯片 / 双路降压控制器 (Dual Buck)。器件核心功能：60V低静态电流双路同步降压控制器。主要技术规格：输入4V至60V、双路独立输出0.8V至24V、静态电流50μA、QFN-32(5mm×5mm)封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "LTC3890EUH#TRPBF  is  Analog Devices (ADI/Linear) introduced byhigh-reliability dual buck controller (Dual Buck)，classified under integrated circuits(IC) / power management IC / dual buck controller (Dual Buck). Core device function: 60Vlowquiescent current dual channelssynchronous buckcontroller. Key technical specifications: input4Vto60V,  dual channelsindependent outputs0.8Vto24V, quiescent current50μA, QFN-32(5mm×5mm)package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/LTC3890EUH#TRPBF.jpg",
     "alt": "Analog Devices (ADI/Linear) LTC3890EUH#TRPBF 双路降压控制器 (Dual Buck) 产品图片",
     "imageNote": "图片类型：未找到可靠匹配图片。本轮对Analog Devices (ADI/Linear)型号LTC3890EUH#TRPBF执行检索，暂未取得能同时满足官方来源、该具体型号对应关系和封装明确性的无争议单器件图片；按规范明确标注“未找到可靠匹配图片”并使用Logo占位，绝不使用拼图、堆叠图或非匹配型号虚构来源。",
@@ -17082,7 +17082,7 @@ export const PRODUCT_PARTS = {
         "原Linear Technology经典60V双路降压控制器，EUH为32引脚QFN封装"
       ]
     ],
-    "about": "LTC3890EUH#TRPBF 是 Analog Devices (ADI/Linear) 推出的高可靠性 双路降压控制器 (Dual Buck)，归属于 集成电路(IC) / 电源管理芯片 / 双路降压控制器 (Dual Buck)。器件核心功能：60V低静态电流双路同步降压控制器。主要技术规格：输入4V至60V、双路独立输出0.8V至24V、静态电流50μA、QFN-32(5mm×5mm)封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "LTC3890EUH#TRPBF  is  Analog Devices (ADI/Linear) introduced byhigh-reliability dual buck controller (Dual Buck)，classified under integrated circuits(IC) / power management IC / dual buck controller (Dual Buck). Core device function: 60Vlowquiescent current dual channelssynchronous buckcontroller. Key technical specifications: input4Vto60V,  dual channelsindependent outputs0.8Vto24V, quiescent current50μA, QFN-32(5mm×5mm)package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -17126,12 +17126,12 @@ export const PRODUCT_PARTS = {
   "LMX2572RHAR": {
     "mpn": "LMX2572RHAR",
     "brand": "Texas Instruments",
-    "title": "LMX2572RHAR | Texas Instruments 宽带频率合成器 (PLL+VCO) 原装现货与规格参数 | YIXINOU",
+    "title": "LMX2572RHAR | Texas Instruments wideband frequency synthesizer (PLL+VCO) Genuine stock and specifications | YIXINOU",
     "metaTitle": "LMX2572RHAR Texas Instruments (TI) 宽带频率合成器 (PLL+VCO) - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Texas Instruments (TI) LMX2572RHAR 宽带频率合成器 (PLL+VCO) 原装芯片现货供应与技术资料。核心规格：输出频率12.5MHz至6.4GHz、集成VCO、归一化PLL噪声底-232dBc/Hz、支持FSK调制、VQFN-40封装、工作温度-40°C至+85°C；工作温度：-40°C至+85°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 时钟与定时芯片 / 宽带频率合成器 (PLL+VCO)",
     "categoryHref": "/all-products",
-    "summary": "LMX2572RHAR 是 Texas Instruments (TI) 推出的高可靠性 宽带频率合成器 (PLL+VCO)，归属于 集成电路(IC) / 时钟与定时芯片 / 宽带频率合成器 (PLL+VCO)。器件核心功能：6.4GHz低功耗宽带射频合成器。主要技术规格：输出频率12.5MHz至6.4GHz、集成VCO、归一化PLL噪声底-232dBc/Hz、支持FSK调制、VQFN-40封装、工作温度-40°C至+85°C。工作温度范围：-40°C至+85°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "LMX2572RHAR  is  Texas Instruments (TI) introduced byhigh-reliability wideband frequency synthesizer (PLL+VCO)，classified under integrated circuits(IC) / clock and timing ICs / wideband frequency synthesizer (PLL+VCO). Core device function: 6.4GHzlow-powerwidebandRF synthesizer. Key technical specifications: outputfrequency12.5MHzto6.4GHz, integratedVCO, normalized PLLnoisefloor-232dBc/Hz, supportsFSK modulation , VQFN-40package, operating temperature-40°Cto+85°C. Operating temperature range: -40°Cto+85°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/LMX2572RHAR.jpg",
     "alt": "Texas Instruments (TI) LMX2572RHAR 宽带频率合成器 (PLL+VCO) 产品图片",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出LMX2572RHAR为VQFN (RHA), 40 pins；页面提供TI官方RHA封装图片。图片文件通过该官方TI页面所列Image地址下载。",
@@ -17177,7 +17177,7 @@ export const PRODUCT_PARTS = {
         "TI高性能低功耗射频PLL，RHAR为VQFN-40封装卷带包装"
       ]
     ],
-    "about": "LMX2572RHAR 是 Texas Instruments (TI) 推出的高可靠性 宽带频率合成器 (PLL+VCO)，归属于 集成电路(IC) / 时钟与定时芯片 / 宽带频率合成器 (PLL+VCO)。器件核心功能：6.4GHz低功耗宽带射频合成器。主要技术规格：输出频率12.5MHz至6.4GHz、集成VCO、归一化PLL噪声底-232dBc/Hz、支持FSK调制、VQFN-40封装、工作温度-40°C至+85°C。工作温度范围：-40°C至+85°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "LMX2572RHAR  is  Texas Instruments (TI) introduced byhigh-reliability wideband frequency synthesizer (PLL+VCO)，classified under integrated circuits(IC) / clock and timing ICs / wideband frequency synthesizer (PLL+VCO). Core device function: 6.4GHzlow-powerwidebandRF synthesizer. Key technical specifications: outputfrequency12.5MHzto6.4GHz, integratedVCO, normalized PLLnoisefloor-232dBc/Hz, supportsFSK modulation , VQFN-40package, operating temperature-40°Cto+85°C. Operating temperature range: -40°Cto+85°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -17221,12 +17221,12 @@ export const PRODUCT_PARTS = {
   "LM1117MPX-ADJ/NOPB": {
     "mpn": "LM1117MPX-ADJ/NOPB",
     "brand": "Texas Instruments",
-    "title": "LM1117MPX-ADJ/NOPB | Texas Instruments LDO（低压差线性稳压器） 原装现货与规格参数 | YIXINOU",
+    "title": "LM1117MPX-ADJ/NOPB | Texas Instruments LDO (low-dropout linear regulator) Genuine stock and specifications | YIXINOU",
     "metaTitle": "LM1117MPX-ADJ/NOPB Texas Instruments (TI) LDO（低压差线性稳压器） - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Texas Instruments (TI) LM1117MPX-ADJ/NOPB LDO（低压差线性稳压器） 原装芯片现货供应与技术资料。核心规格：输出电流800mA、输出电压1.25V至13.8V可调、压差1.2V(800mA时)、SOT-223(4引脚)封装、工作温度0°C至+125°C；工作温度：0°C至+125°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 电源管理芯片 / LDO（低压差线性稳压器）",
     "categoryHref": "/all-products",
-    "summary": "LM1117MPX-ADJ/NOPB 是 Texas Instruments (TI) 推出的高可靠性 LDO（低压差线性稳压器），归属于 集成电路(IC) / 电源管理芯片 / LDO（低压差线性稳压器）。器件核心功能：800mA可调输出低压差稳压器。主要技术规格：输出电流800mA、输出电压1.25V至13.8V可调、压差1.2V(800mA时)、SOT-223(4引脚)封装、工作温度0°C至+125°C。工作温度范围：0°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "LM1117MPX-ADJ/NOPB  is  Texas Instruments (TI) introduced byhigh-reliability LDO (low-dropout linear regulator)，classified under integrated circuits(IC) / power management IC / LDO (low-dropout linear regulator). Core device function: 800mAadjustableoutputlow dropout regulator. Key technical specifications: output current800mA, output voltage1.25Vto13.8Vadjustable,  dropout 1.2V(800mAat), SOT-223(4pins)package, operating temperature0°Cto+125°C. Operating temperature range: 0°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/LM1117MPX-ADJ／NOPB.jpg",
     "alt": "Texas Instruments (TI) LM1117MPX-ADJ/NOPB LDO（低压差线性稳压器） 产品图片",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出LM1117MPX-ADJ/NOPB为SOT-223 (DCY), 4 pins；页面提供TI官方DCY封装图片。图片文件通过该官方TI页面所列Image地址下载。",
@@ -17272,7 +17272,7 @@ export const PRODUCT_PARTS = {
         "TI通用型800mA LDO，MPX代表SOT-223大卷带无铅封装"
       ]
     ],
-    "about": "LM1117MPX-ADJ/NOPB 是 Texas Instruments (TI) 推出的高可靠性 LDO（低压差线性稳压器），归属于 集成电路(IC) / 电源管理芯片 / LDO（低压差线性稳压器）。器件核心功能：800mA可调输出低压差稳压器。主要技术规格：输出电流800mA、输出电压1.25V至13.8V可调、压差1.2V(800mA时)、SOT-223(4引脚)封装、工作温度0°C至+125°C。工作温度范围：0°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "LM1117MPX-ADJ/NOPB  is  Texas Instruments (TI) introduced byhigh-reliability LDO (low-dropout linear regulator)，classified under integrated circuits(IC) / power management IC / LDO (low-dropout linear regulator). Core device function: 800mAadjustableoutputlow dropout regulator. Key technical specifications: output current800mA, output voltage1.25Vto13.8Vadjustable,  dropout 1.2V(800mAat), SOT-223(4pins)package, operating temperature0°Cto+125°C. Operating temperature range: 0°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -17316,12 +17316,12 @@ export const PRODUCT_PARTS = {
   "MAX3232IPWR": {
     "mpn": "MAX3232IPWR",
     "brand": "Texas Instruments",
-    "title": "MAX3232IPWR | Texas Instruments RS-232 收发器 原装现货与规格参数 | YIXINOU",
+    "title": "MAX3232IPWR | Texas Instruments RS-232 transceiver Genuine stock and specifications | YIXINOU",
     "metaTitle": "MAX3232IPWR Texas Instruments (TI) RS-232 收发器 - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Texas Instruments (TI) MAX3232IPWR RS-232 收发器 原装芯片现货供应与技术资料。核心规格：供电3V至5.5V、2驱动器/2接收器、最高数据速率250kbps、±15kV ESD保护、TSSOP-16封装、工作温度-40°C至+85°C；工作温度：-40°C至+85°C；认证：TIA/EIA-232-F、RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 接口芯片 / RS-232 收发器",
     "categoryHref": "/all-products",
-    "summary": "MAX3232IPWR 是 Texas Instruments (TI) 推出的高可靠性 RS-232 收发器，归属于 集成电路(IC) / 接口芯片 / RS-232 收发器。器件核心功能：3V至5.5V双通道RS-232收发器。主要技术规格：供电3V至5.5V、2驱动器/2接收器、最高数据速率250kbps、±15kV ESD保护、TSSOP-16封装、工作温度-40°C至+85°C。工作温度范围：-40°C至+85°C。符合认证/标准：TIA/EIA-232-F、RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "MAX3232IPWR  is  Texas Instruments (TI) introduced byhigh-reliability RS-232 transceiver，classified under integrated circuits(IC) / interface ICs / RS-232 transceiver. Core device function: 3Vto5.5Vdual-channelRS-232transceiver. Key technical specifications: supply3Vto5.5V, 2driver/2receiver, maximumdatarate250kbps, ±15kV ESDprotection, TSSOP-16package, operating temperature-40°Cto+85°C. Operating temperature range: -40°Cto+85°C. Certifications/standards: TIA/EIA-232-F, RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/MAX3232IPWR.jpg",
     "alt": "Texas Instruments (TI) MAX3232IPWR RS-232 收发器 产品图片",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出MAX3232IPWR为TSSOP (PW), 16 pins；页面提供TI官方PW封装图片。图片文件通过该官方TI页面所列Image地址下载。",
@@ -17367,7 +17367,7 @@ export const PRODUCT_PARTS = {
         "TI兼容MAX3232工业级芯片，IPWR为TSSOP-16卷带封装"
       ]
     ],
-    "about": "MAX3232IPWR 是 Texas Instruments (TI) 推出的高可靠性 RS-232 收发器，归属于 集成电路(IC) / 接口芯片 / RS-232 收发器。器件核心功能：3V至5.5V双通道RS-232收发器。主要技术规格：供电3V至5.5V、2驱动器/2接收器、最高数据速率250kbps、±15kV ESD保护、TSSOP-16封装、工作温度-40°C至+85°C。工作温度范围：-40°C至+85°C。符合认证/标准：TIA/EIA-232-F、RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "MAX3232IPWR  is  Texas Instruments (TI) introduced byhigh-reliability RS-232 transceiver，classified under integrated circuits(IC) / interface ICs / RS-232 transceiver. Core device function: 3Vto5.5Vdual-channelRS-232transceiver. Key technical specifications: supply3Vto5.5V, 2driver/2receiver, maximumdatarate250kbps, ±15kV ESDprotection, TSSOP-16package, operating temperature-40°Cto+85°C. Operating temperature range: -40°Cto+85°C. Certifications/standards: TIA/EIA-232-F, RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "TIA/EIA-232-F",
       "RoHS"
@@ -17412,12 +17412,12 @@ export const PRODUCT_PARTS = {
   "REF5040AIDGKR": {
     "mpn": "REF5040AIDGKR",
     "brand": "Texas Instruments",
-    "title": "REF5040AIDGKR | Texas Instruments 电压基准源 原装现货与规格参数 | YIXINOU",
+    "title": "REF5040AIDGKR | Texas Instruments voltage reference Genuine stock and specifications | YIXINOU",
     "metaTitle": "REF5040AIDGKR Texas Instruments (TI) 电压基准源 - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Texas Instruments (TI) REF5040AIDGKR 电压基准源 原装芯片现货供应与技术资料。核心规格：输出4.096V、初始精度±0.1%、温漂8ppm/°C(A级)、噪声3μVpp/V、VSSOP-8(MSOP-8)封装、工作温度-40°C至+125°C；工作温度：-40°C至+125°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 模拟芯片 / 电压基准源",
     "categoryHref": "/all-products",
-    "summary": "REF5040AIDGKR 是 Texas Instruments (TI) 推出的高可靠性 电压基准源，归属于 集成电路(IC) / 模拟芯片 / 电压基准源。器件核心功能：低噪声超低温漂精密电压基准。主要技术规格：输出4.096V、初始精度±0.1%、温漂8ppm/°C(A级)、噪声3μVpp/V、VSSOP-8(MSOP-8)封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "REF5040AIDGKR  is  Texas Instruments (TI) introduced byhigh-reliability voltage reference，classified under integrated circuits(IC) / analog ICs / voltage reference. Core device function: low-noiseultra-lowtemperature driftprecisionvoltage reference. Key technical specifications: output4.096V, initial accuracy±0.1%, temperature drift8ppm/°C(Agrade), noise3μVpp/V, VSSOP-8(MSOP-8)package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/REF5040AIDGKR.jpg",
     "alt": "Texas Instruments (TI) REF5040AIDGKR 电压基准源 产品图片",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出REF5040AIDGKR为VSSOP/MSOP-8 (DGK), 8 pins；页面提供TI官方DGK封装图片。图片文件通过该官方TI页面所列Image地址下载。",
@@ -17463,7 +17463,7 @@ export const PRODUCT_PARTS = {
         "TI REF50xx系列4.096V基准源，AIDGKR为A级精度VSSOP-8封装"
       ]
     ],
-    "about": "REF5040AIDGKR 是 Texas Instruments (TI) 推出的高可靠性 电压基准源，归属于 集成电路(IC) / 模拟芯片 / 电压基准源。器件核心功能：低噪声超低温漂精密电压基准。主要技术规格：输出4.096V、初始精度±0.1%、温漂8ppm/°C(A级)、噪声3μVpp/V、VSSOP-8(MSOP-8)封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "REF5040AIDGKR  is  Texas Instruments (TI) introduced byhigh-reliability voltage reference，classified under integrated circuits(IC) / analog ICs / voltage reference. Core device function: low-noiseultra-lowtemperature driftprecisionvoltage reference. Key technical specifications: output4.096V, initial accuracy±0.1%, temperature drift8ppm/°C(Agrade), noise3μVpp/V, VSSOP-8(MSOP-8)package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -17507,12 +17507,12 @@ export const PRODUCT_PARTS = {
   "UCC24624DR": {
     "mpn": "UCC24624DR",
     "brand": "Texas Instruments",
-    "title": "UCC24624DR | Texas Instruments 同步整流控制器 原装现货与规格参数 | YIXINOU",
+    "title": "UCC24624DR | Texas Instruments synchronous rectifier controller Genuine stock and specifications | YIXINOU",
     "metaTitle": "UCC24624DR Texas Instruments (TI) 同步整流控制器 - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Texas Instruments (TI) UCC24624DR 同步整流控制器 原装芯片现货供应与技术资料。核心规格：工作频率最高400kHz、双通道自动死区控制、支持CCM/DCM、供电4.5V至28V、SOIC-8封装、工作温度-40°C至+125°C；工作温度：-40°C至+125°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 电源管理芯片 / 同步整流控制器",
     "categoryHref": "/all-products",
-    "summary": "UCC24624DR 是 Texas Instruments (TI) 推出的高可靠性 同步整流控制器，归属于 集成电路(IC) / 电源管理芯片 / 同步整流控制器。器件核心功能：双通道LLC谐振同步整流控制器。主要技术规格：工作频率最高400kHz、双通道自动死区控制、支持CCM/DCM、供电4.5V至28V、SOIC-8封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "UCC24624DR  is  Texas Instruments (TI) introduced byhigh-reliability synchronous rectifier controller，classified under integrated circuits(IC) / power management IC / synchronous rectifier controller. Core device function: dual-channel LLC resonant synchronous rectifier controller. Key technical specifications: operating frequencymaximum400kHz, dual-channelautomaticdead timecontrol, supportsCCM/DCM, supply4.5Vto28V, SOIC-8package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/UCC24624DR.jpg",
     "alt": "Texas Instruments (TI) UCC24624DR 同步整流控制器 产品图片",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出UCC24624DR为SOIC (D), 8 pins；页面提供TI官方D封装图片。图片文件通过该官方TI页面所列Image地址下载。",
@@ -17558,7 +17558,7 @@ export const PRODUCT_PARTS = {
         "TI专用于LLC谐振变换器的双路同步整流控制器，DR为SOIC-8封装"
       ]
     ],
-    "about": "UCC24624DR 是 Texas Instruments (TI) 推出的高可靠性 同步整流控制器，归属于 集成电路(IC) / 电源管理芯片 / 同步整流控制器。器件核心功能：双通道LLC谐振同步整流控制器。主要技术规格：工作频率最高400kHz、双通道自动死区控制、支持CCM/DCM、供电4.5V至28V、SOIC-8封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "UCC24624DR  is  Texas Instruments (TI) introduced byhigh-reliability synchronous rectifier controller，classified under integrated circuits(IC) / power management IC / synchronous rectifier controller. Core device function: dual-channel LLC resonant synchronous rectifier controller. Key technical specifications: operating frequencymaximum400kHz, dual-channelautomaticdead timecontrol, supportsCCM/DCM, supply4.5Vto28V, SOIC-8package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -17602,12 +17602,12 @@ export const PRODUCT_PARTS = {
   "LM5122MHX": {
     "mpn": "LM5122MHX",
     "brand": "Texas Instruments",
-    "title": "LM5122MHX | Texas Instruments 同步升压控制器 (Boost) 原装现货与规格参数 | YIXINOU",
+    "title": "LM5122MHX | Texas Instruments synchronous boostcontroller (Boost) Genuine stock and specifications | YIXINOU",
     "metaTitle": "LM5122MHX Texas Instruments (TI) 同步升压控制器 (Boost) - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Texas Instruments (TI) LM5122MHX 同步升压控制器 (Boost) 原装芯片现货供应与技术资料。核心规格：输入电压3V至65V、输出最高100V、支持多相并联、集成2A栅极驱动器、HTSSOP-20封装、工作温度-40°C至+125°C；工作温度：-40°C至+125°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 电源管理芯片 / 同步升压控制器 (Boost)",
     "categoryHref": "/all-products",
-    "summary": "LM5122MHX 是 Texas Instruments (TI) 推出的高可靠性 同步升压控制器 (Boost)，归属于 集成电路(IC) / 电源管理芯片 / 同步升压控制器 (Boost)。器件核心功能：宽输入范围同步升压控制器。主要技术规格：输入电压3V至65V、输出最高100V、支持多相并联、集成2A栅极驱动器、HTSSOP-20封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "LM5122MHX  is  Texas Instruments (TI) introduced byhigh-reliability synchronous boostcontroller (Boost)，classified under integrated circuits(IC) / power management IC / synchronous boostcontroller (Boost). Core device function:  wide inputrangesynchronous boostcontroller. Key technical specifications: inputvoltage3Vto65V, outputmaximum100V, supportsmultiphaseand contact , integrated2Agate driver, HTSSOP-20package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/LM5122MHX.jpg",
     "alt": "Texas Instruments (TI) LM5122MHX 同步升压控制器 (Boost) 产品图片",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出LM5122MHX为HTSSOP (PWP), 20 pins；页面提供TI官方PWP封装图片。图片文件通过该官方TI页面所列Image地址下载。",
@@ -17653,7 +17653,7 @@ export const PRODUCT_PARTS = {
         "TI经典大功率宽压同步升压控制器，MHX为HTSSOP-20卷带封装"
       ]
     ],
-    "about": "LM5122MHX 是 Texas Instruments (TI) 推出的高可靠性 同步升压控制器 (Boost)，归属于 集成电路(IC) / 电源管理芯片 / 同步升压控制器 (Boost)。器件核心功能：宽输入范围同步升压控制器。主要技术规格：输入电压3V至65V、输出最高100V、支持多相并联、集成2A栅极驱动器、HTSSOP-20封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "LM5122MHX  is  Texas Instruments (TI) introduced byhigh-reliability synchronous boostcontroller (Boost)，classified under integrated circuits(IC) / power management IC / synchronous boostcontroller (Boost). Core device function:  wide inputrangesynchronous boostcontroller. Key technical specifications: inputvoltage3Vto65V, outputmaximum100V, supportsmultiphaseand contact , integrated2Agate driver, HTSSOP-20package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -17697,12 +17697,12 @@ export const PRODUCT_PARTS = {
   "LM76005RNPR": {
     "mpn": "LM76005RNPR",
     "brand": "Texas Instruments",
-    "title": "LM76005RNPR | Texas Instruments 降压型开关稳压器 (Buck) 原装现货与规格参数 | YIXINOU",
+    "title": "LM76005RNPR | Texas Instruments buck switching regulator (Buck) Genuine stock and specifications | YIXINOU",
     "metaTitle": "LM76005RNPR Texas Instruments (TI) 降压型开关稳压器 (Buck) - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Texas Instruments (TI) LM76005RNPR 降压型开关稳压器 (Buck) 原装芯片现货供应与技术资料。核心规格：输入电压3.5V至60V、连续输出电流5A、开关频率200kHz至2.2MHz可调、WQFN-30封装、工作温度-40°C至+125°C；工作温度：-40°C至+125°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 电源管理芯片 / 降压型开关稳压器 (Buck)",
     "categoryHref": "/all-products",
-    "summary": "LM76005RNPR 是 Texas Instruments (TI) 推出的高可靠性 降压型开关稳压器 (Buck)，归属于 集成电路(IC) / 电源管理芯片 / 降压型开关稳压器 (Buck)。器件核心功能：60V 5A同步降压电压转换器。主要技术规格：输入电压3.5V至60V、连续输出电流5A、开关频率200kHz至2.2MHz可调、WQFN-30封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "LM76005RNPR  is  Texas Instruments (TI) introduced byhigh-reliability buck switching regulator (Buck)，classified under integrated circuits(IC) / power management IC / buck switching regulator (Buck). Core device function: 60V 5Asynchronous buckvoltage converter. Key technical specifications: inputvoltage3.5Vto60V, continuousoutput current5A, switching frequency200kHzto2.2MHzadjustable, WQFN-30package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/LM76005RNPR.jpg",
     "alt": "Texas Instruments (TI) LM76005RNPR 降压型开关稳压器 (Buck) 产品图片",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出LM76005RNPR为WQFN (RNP), 30 pins；页面提供TI官方RNP封装图片。图片文件通过该官方TI页面所列Image地址下载。",
@@ -17748,7 +17748,7 @@ export const PRODUCT_PARTS = {
         "TI高集成度60V 5A同步降压转换器，RNPR为30引脚WQFN封装"
       ]
     ],
-    "about": "LM76005RNPR 是 Texas Instruments (TI) 推出的高可靠性 降压型开关稳压器 (Buck)，归属于 集成电路(IC) / 电源管理芯片 / 降压型开关稳压器 (Buck)。器件核心功能：60V 5A同步降压电压转换器。主要技术规格：输入电压3.5V至60V、连续输出电流5A、开关频率200kHz至2.2MHz可调、WQFN-30封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "LM76005RNPR  is  Texas Instruments (TI) introduced byhigh-reliability buck switching regulator (Buck)，classified under integrated circuits(IC) / power management IC / buck switching regulator (Buck). Core device function: 60V 5Asynchronous buckvoltage converter. Key technical specifications: inputvoltage3.5Vto60V, continuousoutput current5A, switching frequency200kHzto2.2MHzadjustable, WQFN-30package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -17792,12 +17792,12 @@ export const PRODUCT_PARTS = {
   "INA213AIDCKR": {
     "mpn": "INA213AIDCKR",
     "brand": "Texas Instruments",
-    "title": "INA213AIDCKR | Texas Instruments 电流检测放大器 原装现货与规格参数 | YIXINOU",
+    "title": "INA213AIDCKR | Texas Instruments current-sense amplifier Genuine stock and specifications | YIXINOU",
     "metaTitle": "INA213AIDCKR Texas Instruments (TI) 电流检测放大器 - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Texas Instruments (TI) INA213AIDCKR 电流检测放大器 原装芯片现货供应与技术资料。核心规格：增益50V/V、共模电压-0.3V至26V、供电2.7V至26V、失调电压±100μV、SC70-6封装、工作温度-40°C至+125°C；工作温度：-40°C至+125°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 模拟芯片 / 电流检测放大器",
     "categoryHref": "/all-products",
-    "summary": "INA213AIDCKR 是 Texas Instruments (TI) 推出的高可靠性 电流检测放大器，归属于 集成电路(IC) / 模拟芯片 / 电流检测放大器。器件核心功能：零漂移双向电流分流监控器。主要技术规格：增益50V/V、共模电压-0.3V至26V、供电2.7V至26V、失调电压±100μV、SC70-6封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "INA213AIDCKR  is  Texas Instruments (TI) introduced byhigh-reliability current-sense amplifier，classified under integrated circuits(IC) / analog ICs / current-sense amplifier. Core device function: zero-drift dual  direction currentdifferentialcurrentmonitor. Key technical specifications: gain50V/V, common-modevoltage-0.3Vto26V, supply2.7Vto26V, offset voltage±100μV, SC70-6package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/INA213AIDCKR.jpg",
     "alt": "Texas Instruments (TI) INA213AIDCKR 电流检测放大器 产品图片",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出INA213AIDCKR为SC70 (DCK), 6 pins；页面提供TI官方DCK封装图片。图片文件通过该官方TI页面所列Image地址下载。",
@@ -17843,7 +17843,7 @@ export const PRODUCT_PARTS = {
         "TI INA21x系列50倍增益电流检测放大器，AIDCKR为SC70-6封装"
       ]
     ],
-    "about": "INA213AIDCKR 是 Texas Instruments (TI) 推出的高可靠性 电流检测放大器，归属于 集成电路(IC) / 模拟芯片 / 电流检测放大器。器件核心功能：零漂移双向电流分流监控器。主要技术规格：增益50V/V、共模电压-0.3V至26V、供电2.7V至26V、失调电压±100μV、SC70-6封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "INA213AIDCKR  is  Texas Instruments (TI) introduced byhigh-reliability current-sense amplifier，classified under integrated circuits(IC) / analog ICs / current-sense amplifier. Core device function: zero-drift dual  direction currentdifferentialcurrentmonitor. Key technical specifications: gain50V/V, common-modevoltage-0.3Vto26V, supply2.7Vto26V, offset voltage±100μV, SC70-6package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -17887,12 +17887,12 @@ export const PRODUCT_PARTS = {
   "TPS7A5201RPSR": {
     "mpn": "TPS7A5201RPSR",
     "brand": "Texas Instruments",
-    "title": "TPS7A5201RPSR | Texas Instruments LDO（超低噪声线性稳压器） 原装现货与规格参数 | YIXINOU",
+    "title": "TPS7A5201RPSR | Texas Instruments LDO (ultra-low-noiselinear regulator) Genuine stock and specifications | YIXINOU",
     "metaTitle": "TPS7A5201RPSR Texas Instruments (TI) LDO（超低噪声线性稳压器） - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Texas Instruments (TI) TPS7A5201RPSR LDO（超低噪声线性稳压器） 原装芯片现货供应与技术资料。核心规格：输出电流2A、输出电压0.8V至5.2V可调、噪声4.4μVRMS、压差140mV(2A时)、VQFN-12(2mm×2.5mm)封装、工作温度-40°C至+125°C；工作温度：-40°C至+125°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 电源管理芯片 / LDO（超低噪声线性稳压器）",
     "categoryHref": "/all-products",
-    "summary": "TPS7A5201RPSR 是 Texas Instruments (TI) 推出的高可靠性 LDO（超低噪声线性稳压器），归属于 集成电路(IC) / 电源管理芯片 / LDO（超低噪声线性稳压器）。器件核心功能：2A超低噪声高PSRR低压差稳压器。主要技术规格：输出电流2A、输出电压0.8V至5.2V可调、噪声4.4μVRMS、压差140mV(2A时)、VQFN-12(2mm×2.5mm)封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "TPS7A5201RPSR  is  Texas Instruments (TI) introduced byhigh-reliability LDO (ultra-low-noiselinear regulator)，classified under integrated circuits(IC) / power management IC / LDO (ultra-low-noiselinear regulator). Core device function: 2Aultra-low-noisehighPSRRlow dropout regulator. Key technical specifications: output current2A, output voltage0.8Vto5.2Vadjustable, noise4.4μVRMS,  dropout 140mV(2Aat), VQFN-12(2mm×2.5mm)package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/TPS7A5201RPSR.jpg",
     "alt": "Texas Instruments (TI) TPS7A5201RPSR LDO（超低噪声线性稳压器） 产品图片",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出TPS7A5201RPSR为VQFN (RPS), 12 pins；页面提供TI官方RPS封装图片。图片文件通过该官方TI页面所列Image地址下载。",
@@ -17938,7 +17938,7 @@ export const PRODUCT_PARTS = {
         "TI射频与高速数据转换器供电专用超低噪声LDO"
       ]
     ],
-    "about": "TPS7A5201RPSR 是 Texas Instruments (TI) 推出的高可靠性 LDO（超低噪声线性稳压器），归属于 集成电路(IC) / 电源管理芯片 / LDO（超低噪声线性稳压器）。器件核心功能：2A超低噪声高PSRR低压差稳压器。主要技术规格：输出电流2A、输出电压0.8V至5.2V可调、噪声4.4μVRMS、压差140mV(2A时)、VQFN-12(2mm×2.5mm)封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "TPS7A5201RPSR  is  Texas Instruments (TI) introduced byhigh-reliability LDO (ultra-low-noiselinear regulator)，classified under integrated circuits(IC) / power management IC / LDO (ultra-low-noiselinear regulator). Core device function: 2Aultra-low-noisehighPSRRlow dropout regulator. Key technical specifications: output current2A, output voltage0.8Vto5.2Vadjustable, noise4.4μVRMS,  dropout 140mV(2Aat), VQFN-12(2mm×2.5mm)package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -17982,12 +17982,12 @@ export const PRODUCT_PARTS = {
   "TM4C123GH6PZI7R": {
     "mpn": "TM4C123GH6PZI7R",
     "brand": "Texas Instruments",
-    "title": "TM4C123GH6PZI7R | Texas Instruments MCU（32位 ARM Cortex-M4F） 原装现货与规格参数 | YIXINOU",
+    "title": "TM4C123GH6PZI7R | Texas Instruments MCU (32-bit ARM Cortex-M4F) Genuine stock and specifications | YIXINOU",
     "metaTitle": "TM4C123GH6PZI7R Texas Instruments (TI) MCU（32位 ARM Cortex-M4F） - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Texas Instruments (TI) TM4C123GH6PZI7R MCU（32位 ARM Cortex-M4F） 原装芯片现货供应与技术资料。核心规格：内核ARM Cortex-M4F(80MHz)、256KB Flash、32KB SRAM、2KB EEPROM、双12位ADC、USB OTG/CAN、LQFP-100封装、工作温度-40°C至+85°C；工作温度：-40°C至+85°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 处理器与控制器 / MCU（32位 ARM Cortex-M4F）",
     "categoryHref": "/all-products",
-    "summary": "TM4C123GH6PZI7R 是 Texas Instruments (TI) 推出的高可靠性 MCU（32位 ARM Cortex-M4F），归属于 集成电路(IC) / 处理器与控制器 / MCU（32位 ARM Cortex-M4F）。器件核心功能：Tiva C系列32位微控制器。主要技术规格：内核ARM Cortex-M4F(80MHz)、256KB Flash、32KB SRAM、2KB EEPROM、双12位ADC、USB OTG/CAN、LQFP-100封装、工作温度-40°C至+85°C。工作温度范围：-40°C至+85°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "TM4C123GH6PZI7R  is  Texas Instruments (TI) introduced byhigh-reliability MCU (32-bit ARM Cortex-M4F)，classified under integrated circuits(IC) / processors and controllers / MCU (32-bit ARM Cortex-M4F). Core device function: Tiva Cseries32-bitmicrocontroller. Key technical specifications: withincoreARM Cortex-M4F(80MHz), 256KB Flash, 32KB SRAM, 2KB EEPROM,  dual 12-bitADC, USB OTG/CAN, LQFP-100package, operating temperature-40°Cto+85°C. Operating temperature range: -40°Cto+85°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/TM4C123GH6PZI7R.jpg",
     "alt": "Texas Instruments (TI) TM4C123GH6PZI7R MCU（32位 ARM Cortex-M4F） 产品图片",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出TM4C123G系列微控制器LQFP封装规格；页面提供TI官方LQFP封装图片。图片文件通过该官方TI页面所列Image地址下载。",
@@ -18033,7 +18033,7 @@ export const PRODUCT_PARTS = {
         "TI Tiva C系列经典MCU，PZ代表LQFP-100封装，I代表工业级温度"
       ]
     ],
-    "about": "TM4C123GH6PZI7R 是 Texas Instruments (TI) 推出的高可靠性 MCU（32位 ARM Cortex-M4F），归属于 集成电路(IC) / 处理器与控制器 / MCU（32位 ARM Cortex-M4F）。器件核心功能：Tiva C系列32位微控制器。主要技术规格：内核ARM Cortex-M4F(80MHz)、256KB Flash、32KB SRAM、2KB EEPROM、双12位ADC、USB OTG/CAN、LQFP-100封装、工作温度-40°C至+85°C。工作温度范围：-40°C至+85°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "TM4C123GH6PZI7R  is  Texas Instruments (TI) introduced byhigh-reliability MCU (32-bit ARM Cortex-M4F)，classified under integrated circuits(IC) / processors and controllers / MCU (32-bit ARM Cortex-M4F). Core device function: Tiva Cseries32-bitmicrocontroller. Key technical specifications: withincoreARM Cortex-M4F(80MHz), 256KB Flash, 32KB SRAM, 2KB EEPROM,  dual 12-bitADC, USB OTG/CAN, LQFP-100package, operating temperature-40°Cto+85°C. Operating temperature range: -40°Cto+85°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -18077,12 +18077,12 @@ export const PRODUCT_PARTS = {
   "LTC2245IUH#TRPBF": {
     "mpn": "LTC2245IUH#TRPBF",
     "brand": "Analog Devices",
-    "title": "LTC2245IUH#TRPBF | Analog Devices 模数转换器 (ADC) 原装现货与规格参数 | YIXINOU",
+    "title": "LTC2245IUH#TRPBF | Analog Devices analog-to-digital converter (ADC) Genuine stock and specifications | YIXINOU",
     "metaTitle": "LTC2245IUH#TRPBF Analog Devices (ADI/Linear) 模数转换器 (ADC) - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Analog Devices (ADI/Linear) LTC2245IUH#TRPBF 模数转换器 (ADC) 原装芯片现货供应与技术资料。核心规格：分辨率14位、采样率10MSPS、单电源3V供电、功耗60mW、SNR 74.4dB、QFN-32(5mm×5mm)封装、工作温度-40°C至+85°C；工作温度：-40°C至+85°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 数据转换器 / 模数转换器 (ADC)",
     "categoryHref": "/all-products",
-    "summary": "LTC2245IUH#TRPBF 是 Analog Devices (ADI/Linear) 推出的高可靠性 模数转换器 (ADC)，归属于 集成电路(IC) / 数据转换器 / 模数转换器 (ADC)。器件核心功能：14位 10MSPS低功耗流水线ADC。主要技术规格：分辨率14位、采样率10MSPS、单电源3V供电、功耗60mW、SNR 74.4dB、QFN-32(5mm×5mm)封装、工作温度-40°C至+85°C。工作温度范围：-40°C至+85°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "LTC2245IUH#TRPBF  is  Analog Devices (ADI/Linear) introduced byhigh-reliability analog-to-digital converter (ADC)，classified under integrated circuits(IC) / data converters / analog-to-digital converter (ADC). Core device function: 14-bit 10MSPSlow-powercurrentwaterlineADC. Key technical specifications: resolution14-bit, sampling rate10MSPS, single supply3Vsupply, power consumption60mW, SNR 74.4dB, QFN-32(5mm×5mm)package, operating temperature-40°Cto+85°C. Operating temperature range: -40°Cto+85°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/LTC2245IUH#TRPBF.jpg",
     "alt": "Analog Devices (ADI/Linear) LTC2245IUH#TRPBF 模数转换器 (ADC) 产品图片",
     "imageNote": "图片类型：未找到可靠匹配图片。本轮对Analog Devices (ADI/Linear)型号LTC2245IUH#TRPBF执行检索，暂未取得能同时满足官方来源、该具体型号对应关系和封装明确性的无争议单器件图片；按规范明确标注“未找到可靠匹配图片”并使用Logo占位，绝不使用拼图、堆叠图或非匹配型号虚构来源。",
@@ -18128,7 +18128,7 @@ export const PRODUCT_PARTS = {
         "原Linear Technology 14位高速低功耗ADC，IUH为工业级QFN-32封装"
       ]
     ],
-    "about": "LTC2245IUH#TRPBF 是 Analog Devices (ADI/Linear) 推出的高可靠性 模数转换器 (ADC)，归属于 集成电路(IC) / 数据转换器 / 模数转换器 (ADC)。器件核心功能：14位 10MSPS低功耗流水线ADC。主要技术规格：分辨率14位、采样率10MSPS、单电源3V供电、功耗60mW、SNR 74.4dB、QFN-32(5mm×5mm)封装、工作温度-40°C至+85°C。工作温度范围：-40°C至+85°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "LTC2245IUH#TRPBF  is  Analog Devices (ADI/Linear) introduced byhigh-reliability analog-to-digital converter (ADC)，classified under integrated circuits(IC) / data converters / analog-to-digital converter (ADC). Core device function: 14-bit 10MSPSlow-powercurrentwaterlineADC. Key technical specifications: resolution14-bit, sampling rate10MSPS, single supply3Vsupply, power consumption60mW, SNR 74.4dB, QFN-32(5mm×5mm)package, operating temperature-40°Cto+85°C. Operating temperature range: -40°Cto+85°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -18172,12 +18172,12 @@ export const PRODUCT_PARTS = {
   "LTC4413EDD#TRPBF": {
     "mpn": "LTC4413EDD#TRPBF",
     "brand": "Analog Devices",
-    "title": "LTC4413EDD#TRPBF | Analog Devices 理想二极管控制器 原装现货与规格参数 | YIXINOU",
+    "title": "LTC4413EDD#TRPBF | Analog Devices ideal diode controller Genuine stock and specifications | YIXINOU",
     "metaTitle": "LTC4413EDD#TRPBF Analog Devices (ADI/Linear) 理想二极管控制器 - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Analog Devices (ADI/Linear) LTC4413EDD#TRPBF 理想二极管控制器 原装芯片现货供应与技术资料。核心规格：工作电压2.5V至5.5V、单通道最大连续电流2.6A、导通电阻100mΩ、正向压降28mV、DFN-10(3mm×3mm)封装、工作温度-40°C至+85°C；工作温度：-40°C至+85°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 电源管理芯片 / 理想二极管控制器",
     "categoryHref": "/all-products",
-    "summary": "LTC4413EDD#TRPBF 是 Analog Devices (ADI/Linear) 推出的高可靠性 理想二极管控制器，归属于 集成电路(IC) / 电源管理芯片 / 理想二极管控制器。器件核心功能：双通道2.6A理想二极管。主要技术规格：工作电压2.5V至5.5V、单通道最大连续电流2.6A、导通电阻100mΩ、正向压降28mV、DFN-10(3mm×3mm)封装、工作温度-40°C至+85°C。工作温度范围：-40°C至+85°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "LTC4413EDD#TRPBF  is  Analog Devices (ADI/Linear) introduced byhigh-reliability ideal diode controller，classified under integrated circuits(IC) / power management IC / ideal diode controller. Core device function: dual-channel2.6Aideal diode. Key technical specifications: operatingvoltage2.5Vto5.5V, single-channelmaximumcontinuouscurrent2.6A, conduction channel resistance100mΩ,  positive  direction  voltage buck28mV, DFN-10(3mm×3mm)package, operating temperature-40°Cto+85°C. Operating temperature range: -40°Cto+85°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/LTC4413EDD#TRPBF.jpg",
     "alt": "Analog Devices (ADI/Linear) LTC4413EDD#TRPBF 理想二极管控制器 产品图片",
     "imageNote": "图片类型：未找到可靠匹配图片。本轮对Analog Devices (ADI/Linear)型号LTC4413EDD#TRPBF执行检索，暂未取得能同时满足官方来源、该具体型号对应关系和封装明确性的无争议单器件图片；按规范明确标注“未找到可靠匹配图片”并使用Logo占位，绝不使用拼图、堆叠图或非匹配型号虚构来源。",
@@ -18223,7 +18223,7 @@ export const PRODUCT_PARTS = {
         "原Linear Technology双路集成MOSFET理想二极管，EDD为DFN-10封装"
       ]
     ],
-    "about": "LTC4413EDD#TRPBF 是 Analog Devices (ADI/Linear) 推出的高可靠性 理想二极管控制器，归属于 集成电路(IC) / 电源管理芯片 / 理想二极管控制器。器件核心功能：双通道2.6A理想二极管。主要技术规格：工作电压2.5V至5.5V、单通道最大连续电流2.6A、导通电阻100mΩ、正向压降28mV、DFN-10(3mm×3mm)封装、工作温度-40°C至+85°C。工作温度范围：-40°C至+85°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "LTC4413EDD#TRPBF  is  Analog Devices (ADI/Linear) introduced byhigh-reliability ideal diode controller，classified under integrated circuits(IC) / power management IC / ideal diode controller. Core device function: dual-channel2.6Aideal diode. Key technical specifications: operatingvoltage2.5Vto5.5V, single-channelmaximumcontinuouscurrent2.6A, conduction channel resistance100mΩ,  positive  direction  voltage buck28mV, DFN-10(3mm×3mm)package, operating temperature-40°Cto+85°C. Operating temperature range: -40°Cto+85°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -18267,12 +18267,12 @@ export const PRODUCT_PARTS = {
   "TPS7A8400ARGRR": {
     "mpn": "TPS7A8400ARGRR",
     "brand": "Texas Instruments",
-    "title": "TPS7A8400ARGRR | Texas Instruments LDO（超低噪声线性稳压器） 原装现货与规格参数 | YIXINOU",
+    "title": "TPS7A8400ARGRR | Texas Instruments LDO (ultra-low-noiselinear regulator) Genuine stock and specifications | YIXINOU",
     "metaTitle": "TPS7A8400ARGRR Texas Instruments (TI) LDO（超低噪声线性稳压器） - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Texas Instruments (TI) TPS7A8400ARGRR LDO（超低噪声线性稳压器） 原装芯片现货供应与技术资料。核心规格：输出电流3A、输出0.8V至5.15V可编程(ANY-OUT)、噪声4.4μVRMS、压差180mV(3A时)、VQFN-20封装、工作温度-40°C至+125°C；工作温度：-40°C至+125°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 电源管理芯片 / LDO（超低噪声线性稳压器）",
     "categoryHref": "/all-products",
-    "summary": "TPS7A8400ARGRR 是 Texas Instruments (TI) 推出的高可靠性 LDO（超低噪声线性稳压器），归属于 集成电路(IC) / 电源管理芯片 / LDO（超低噪声线性稳压器）。器件核心功能：3A高精度超低噪声LDO。主要技术规格：输出电流3A、输出0.8V至5.15V可编程(ANY-OUT)、噪声4.4μVRMS、压差180mV(3A时)、VQFN-20封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "TPS7A8400ARGRR  is  Texas Instruments (TI) introduced byhigh-reliability LDO (ultra-low-noiselinear regulator)，classified under integrated circuits(IC) / power management IC / LDO (ultra-low-noiselinear regulator). Core device function: 3Ahigh-accuracyultra-low-noiseLDO. Key technical specifications: output current3A, output0.8Vto5.15Vprogrammable(ANY-OUT), noise4.4μVRMS,  dropout 180mV(3Aat), VQFN-20package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/TPS7A8400ARGRR.jpg",
     "alt": "Texas Instruments (TI) TPS7A8400ARGRR LDO（超低噪声线性稳压器） 产品图片",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出TPS7A8400ARGRR为VQFN (RGR), 20 pins；页面提供TI官方RGR封装图片。图片文件通过该官方TI页面所列Image地址下载。",
@@ -18318,7 +18318,7 @@ export const PRODUCT_PARTS = {
         "TI支持PCB引脚编程输出电压的3A超低噪声LDO"
       ]
     ],
-    "about": "TPS7A8400ARGRR 是 Texas Instruments (TI) 推出的高可靠性 LDO（超低噪声线性稳压器），归属于 集成电路(IC) / 电源管理芯片 / LDO（超低噪声线性稳压器）。器件核心功能：3A高精度超低噪声LDO。主要技术规格：输出电流3A、输出0.8V至5.15V可编程(ANY-OUT)、噪声4.4μVRMS、压差180mV(3A时)、VQFN-20封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "TPS7A8400ARGRR  is  Texas Instruments (TI) introduced byhigh-reliability LDO (ultra-low-noiselinear regulator)，classified under integrated circuits(IC) / power management IC / LDO (ultra-low-noiselinear regulator). Core device function: 3Ahigh-accuracyultra-low-noiseLDO. Key technical specifications: output current3A, output0.8Vto5.15Vprogrammable(ANY-OUT), noise4.4μVRMS,  dropout 180mV(3Aat), VQFN-20package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -18362,12 +18362,12 @@ export const PRODUCT_PARTS = {
   "BQ24130RHLR": {
     "mpn": "BQ24130RHLR",
     "brand": "Texas Instruments",
-    "title": "BQ24130RHLR | Texas Instruments 电池充电管理芯片 原装现货与规格参数 | YIXINOU",
+    "title": "BQ24130RHLR | Texas Instruments battery charging management IC Genuine stock and specifications | YIXINOU",
     "metaTitle": "BQ24130RHLR Texas Instruments (TI) 电池充电管理芯片 - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Texas Instruments (TI) BQ24130RHLR 电池充电管理芯片 原装芯片现货供应与技术资料。核心规格：支持1-3节串联锂电池、最高输入24V、最大充电电流4A、开关频率1.6MHz、VQFN-20封装、工作温度-40°C至+85°C；工作温度：-40°C至+85°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 电源管理芯片 / 电池充电管理芯片",
     "categoryHref": "/all-products",
-    "summary": "BQ24130RHLR 是 Texas Instruments (TI) 推出的高可靠性 电池充电管理芯片，归属于 集成电路(IC) / 电源管理芯片 / 电池充电管理芯片。器件核心功能：1至3节锂电池同步开关充电器。主要技术规格：支持1-3节串联锂电池、最高输入24V、最大充电电流4A、开关频率1.6MHz、VQFN-20封装、工作温度-40°C至+85°C。工作温度范围：-40°C至+85°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "BQ24130RHLR  is  Texas Instruments (TI) introduced byhigh-reliability battery charging management IC，classified under integrated circuits(IC) / power management IC / battery charging management IC. Core device function: 1to3series cellslithium batterysynchronousswitchingcharging device . Key technical specifications: supports1-3series cellsseries contact lithium battery, maximuminput24V, maximum charging current4A, switching frequency1.6MHz, VQFN-20package, operating temperature-40°Cto+85°C. Operating temperature range: -40°Cto+85°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/BQ24130RHLR.jpg",
     "alt": "Texas Instruments (TI) BQ24130RHLR 电池充电管理芯片 产品图片",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出BQ24130RHLR为VQFN (RHL), 20 pins；页面提供TI官方RHL封装图片。图片文件通过该官方TI页面所列Image地址下载。",
@@ -18413,7 +18413,7 @@ export const PRODUCT_PARTS = {
         "TI独立式多节锂电池同步降压充电管理IC，RHLR为VQFN-20封装"
       ]
     ],
-    "about": "BQ24130RHLR 是 Texas Instruments (TI) 推出的高可靠性 电池充电管理芯片，归属于 集成电路(IC) / 电源管理芯片 / 电池充电管理芯片。器件核心功能：1至3节锂电池同步开关充电器。主要技术规格：支持1-3节串联锂电池、最高输入24V、最大充电电流4A、开关频率1.6MHz、VQFN-20封装、工作温度-40°C至+85°C。工作温度范围：-40°C至+85°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "BQ24130RHLR  is  Texas Instruments (TI) introduced byhigh-reliability battery charging management IC，classified under integrated circuits(IC) / power management IC / battery charging management IC. Core device function: 1to3series cellslithium batterysynchronousswitchingcharging device . Key technical specifications: supports1-3series cellsseries contact lithium battery, maximuminput24V, maximum charging current4A, switching frequency1.6MHz, VQFN-20package, operating temperature-40°Cto+85°C. Operating temperature range: -40°Cto+85°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -18457,12 +18457,12 @@ export const PRODUCT_PARTS = {
   "BQ24610RGER": {
     "mpn": "BQ24610RGER",
     "brand": "Texas Instruments",
-    "title": "BQ24610RGER | Texas Instruments 电池充电管理控制器 原装现货与规格参数 | YIXINOU",
+    "title": "BQ24610RGER | Texas Instruments battery charging management controller Genuine stock and specifications | YIXINOU",
     "metaTitle": "BQ24610RGER Texas Instruments (TI) 电池充电管理控制器 - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Texas Instruments (TI) BQ24610RGER 电池充电管理控制器 原装芯片现货供应与技术资料。核心规格：支持1-6节串联锂电池、输入5V至28V、充电电流高达10A、集成动态电源路径管理(DPM)、VQFN-24封装、工作温度-40°C至+85°C；工作温度：-40°C至+85°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 电源管理芯片 / 电池充电管理控制器",
     "categoryHref": "/all-products",
-    "summary": "BQ24610RGER 是 Texas Instruments (TI) 推出的高可靠性 电池充电管理控制器，归属于 集成电路(IC) / 电源管理芯片 / 电池充电管理控制器。器件核心功能：1至6节锂电池同步开关充电控制器。主要技术规格：支持1-6节串联锂电池、输入5V至28V、充电电流高达10A、集成动态电源路径管理(DPM)、VQFN-24封装、工作温度-40°C至+85°C。工作温度范围：-40°C至+85°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "BQ24610RGER  is  Texas Instruments (TI) introduced byhigh-reliability battery charging management controller，classified under integrated circuits(IC) / power management IC / battery charging management controller. Core device function: 1to6series cellslithium batterysynchronousswitchingchargingcontroller. Key technical specifications: supports1-6series cellsseries contact lithium battery, input5Vto28V, charging currentup to10A, integrated drive statepower pathtubelogic(DPM), VQFN-24package, operating temperature-40°Cto+85°C. Operating temperature range: -40°Cto+85°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/BQ24610RGER.jpg",
     "alt": "Texas Instruments (TI) BQ24610RGER 电池充电管理控制器 产品图片",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出BQ24610RGER为VQFN (RGE), 24 pins；页面提供TI官方RGE封装图片。图片文件通过该官方TI页面所列Image地址下载。",
@@ -18508,7 +18508,7 @@ export const PRODUCT_PARTS = {
         "TI大电流多节锂电充电控制器，RGER为VQFN-24封装"
       ]
     ],
-    "about": "BQ24610RGER 是 Texas Instruments (TI) 推出的高可靠性 电池充电管理控制器，归属于 集成电路(IC) / 电源管理芯片 / 电池充电管理控制器。器件核心功能：1至6节锂电池同步开关充电控制器。主要技术规格：支持1-6节串联锂电池、输入5V至28V、充电电流高达10A、集成动态电源路径管理(DPM)、VQFN-24封装、工作温度-40°C至+85°C。工作温度范围：-40°C至+85°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "BQ24610RGER  is  Texas Instruments (TI) introduced byhigh-reliability battery charging management controller，classified under integrated circuits(IC) / power management IC / battery charging management controller. Core device function: 1to6series cellslithium batterysynchronousswitchingchargingcontroller. Key technical specifications: supports1-6series cellsseries contact lithium battery, input5Vto28V, charging currentup to10A, integrated drive statepower pathtubelogic(DPM), VQFN-24package, operating temperature-40°Cto+85°C. Operating temperature range: -40°Cto+85°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -18552,12 +18552,12 @@ export const PRODUCT_PARTS = {
   "BQ51013BRHLR": {
     "mpn": "BQ51013BRHLR",
     "brand": "Texas Instruments",
-    "title": "BQ51013BRHLR | Texas Instruments 无线充电接收器 原装现货与规格参数 | YIXINOU",
+    "title": "BQ51013BRHLR | Texas Instruments wireless charging receiver Genuine stock and specifications | YIXINOU",
     "metaTitle": "BQ51013BRHLR Texas Instruments (TI) 无线充电接收器 - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Texas Instruments (TI) BQ51013BRHLR 无线充电接收器 原装芯片现货供应与技术资料。核心规格：输出功率最高5W、稳压输出5V、集成同步整流器与LDO、动态整流器控制、VQFN-20封装、工作温度-40°C至+125°C；工作温度：-40°C至+125°C；认证：WPC Qi v1.1、RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 电源管理芯片 / 无线充电接收器",
     "categoryHref": "/all-products",
-    "summary": "BQ51013BRHLR 是 Texas Instruments (TI) 推出的高可靠性 无线充电接收器，归属于 集成电路(IC) / 电源管理芯片 / 无线充电接收器。器件核心功能：Qi标准集成无线电源接收器。主要技术规格：输出功率最高5W、稳压输出5V、集成同步整流器与LDO、动态整流器控制、VQFN-20封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：WPC Qi v1.1、RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "BQ51013BRHLR  is  Texas Instruments (TI) introduced byhigh-reliability wireless charging receiver，classified under integrated circuits(IC) / power management IC / wireless charging receiver. Core device function: Qistandardintegratedwireless powerreceiver. Key technical specifications: output powermaximum5W, regulationoutput5V, integratedsynchronous rectification device andLDO,  drive staterectifier device control, VQFN-20package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: WPC Qi v1.1, RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/BQ51013BRHLR.jpg",
     "alt": "Texas Instruments (TI) BQ51013BRHLR 无线充电接收器 产品图片",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出BQ51013BRHLR为VQFN (RHL), 20 pins；页面提供TI官方RHL封装图片。图片文件通过该官方TI页面所列Image地址下载。",
@@ -18603,7 +18603,7 @@ export const PRODUCT_PARTS = {
         "TI符合WPC Qi标准的5W无线充电接收端单芯片解决方案"
       ]
     ],
-    "about": "BQ51013BRHLR 是 Texas Instruments (TI) 推出的高可靠性 无线充电接收器，归属于 集成电路(IC) / 电源管理芯片 / 无线充电接收器。器件核心功能：Qi标准集成无线电源接收器。主要技术规格：输出功率最高5W、稳压输出5V、集成同步整流器与LDO、动态整流器控制、VQFN-20封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：WPC Qi v1.1、RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "BQ51013BRHLR  is  Texas Instruments (TI) introduced byhigh-reliability wireless charging receiver，classified under integrated circuits(IC) / power management IC / wireless charging receiver. Core device function: Qistandardintegratedwireless powerreceiver. Key technical specifications: output powermaximum5W, regulationoutput5V, integratedsynchronous rectification device andLDO,  drive staterectifier device control, VQFN-20package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: WPC Qi v1.1, RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "WPC",
       "Qi",
@@ -18650,12 +18650,12 @@ export const PRODUCT_PARTS = {
   "CC1310F128RGZR": {
     "mpn": "CC1310F128RGZR",
     "brand": "Texas Instruments",
-    "title": "CC1310F128RGZR | Texas Instruments Sub-1GHz 无线微控制器 原装现货与规格参数 | YIXINOU",
+    "title": "CC1310F128RGZR | Texas Instruments Sub-1GHz wireless microcontroller Genuine stock and specifications | YIXINOU",
     "metaTitle": "CC1310F128RGZR Texas Instruments (TI) Sub-1GHz 无线微控制器 - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Texas Instruments (TI) CC1310F128RGZR Sub-1GHz 无线微控制器 原装芯片现货供应与技术资料。核心规格：频段315/433/868/915MHz、ARM Cortex-M3主核(48MHz)+射频核、128KB Flash、20KB SRAM、VQFN-48(7mm×7mm)封装、工作温度-40°C至+85°C；工作温度：-40°C至+85°C；认证：IEEE 802.15.4g、RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 无线连接芯片(SoC) / Sub-1GHz 无线微控制器",
     "categoryHref": "/all-products",
-    "summary": "CC1310F128RGZR 是 Texas Instruments (TI) 推出的高可靠性 Sub-1GHz 无线微控制器，归属于 集成电路(IC) / 无线连接芯片(SoC) / Sub-1GHz 无线微控制器。器件核心功能：SimpleLink Sub-1GHz无线MCU。主要技术规格：频段315/433/868/915MHz、ARM Cortex-M3主核(48MHz)+射频核、128KB Flash、20KB SRAM、VQFN-48(7mm×7mm)封装、工作温度-40°C至+85°C。工作温度范围：-40°C至+85°C。符合认证/标准：IEEE 802.15.4g、RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "CC1310F128RGZR  is  Texas Instruments (TI) introduced byhigh-reliability Sub-1GHz wireless microcontroller，classified under integrated circuits(IC) / wireless connectivity IC(SoC) / Sub-1GHz wireless microcontroller. Core device function: SimpleLink Sub-1GHzwirelessMCU. Key technical specifications: frequency bands315/433/868/915MHz, ARM Cortex-M3main core(48MHz)+RF core, 128KB Flash, 20KB SRAM, VQFN-48(7mm×7mm)package, operating temperature-40°Cto+85°C. Operating temperature range: -40°Cto+85°C. Certifications/standards: IEEE 802.15.4g, RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/CC1310F128RGZR.jpg",
     "alt": "Texas Instruments (TI) CC1310F128RGZR Sub-1GHz 无线微控制器 产品图片",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出CC1310F128RGZR为VQFN (RGZ), 48 pins (7x7mm)；页面提供TI官方RGZ封装图片。图片文件通过该官方TI页面所列Image地址下载。",
@@ -18701,7 +18701,7 @@ export const PRODUCT_PARTS = {
         "TI SimpleLink系列Sub-1GHz SoC，RGZR为7x7mm VQFN-48大封装"
       ]
     ],
-    "about": "CC1310F128RGZR 是 Texas Instruments (TI) 推出的高可靠性 Sub-1GHz 无线微控制器，归属于 集成电路(IC) / 无线连接芯片(SoC) / Sub-1GHz 无线微控制器。器件核心功能：SimpleLink Sub-1GHz无线MCU。主要技术规格：频段315/433/868/915MHz、ARM Cortex-M3主核(48MHz)+射频核、128KB Flash、20KB SRAM、VQFN-48(7mm×7mm)封装、工作温度-40°C至+85°C。工作温度范围：-40°C至+85°C。符合认证/标准：IEEE 802.15.4g、RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "CC1310F128RGZR  is  Texas Instruments (TI) introduced byhigh-reliability Sub-1GHz wireless microcontroller，classified under integrated circuits(IC) / wireless connectivity IC(SoC) / Sub-1GHz wireless microcontroller. Core device function: SimpleLink Sub-1GHzwirelessMCU. Key technical specifications: frequency bands315/433/868/915MHz, ARM Cortex-M3main core(48MHz)+RF core, 128KB Flash, 20KB SRAM, VQFN-48(7mm×7mm)package, operating temperature-40°Cto+85°C. Operating temperature range: -40°Cto+85°C. Certifications/standards: IEEE 802.15.4g, RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "IEEE",
       "802.15.4g",
@@ -18747,12 +18747,12 @@ export const PRODUCT_PARTS = {
   "CC1310F128RHBR": {
     "mpn": "CC1310F128RHBR",
     "brand": "Texas Instruments",
-    "title": "CC1310F128RHBR | Texas Instruments Sub-1GHz 无线微控制器 原装现货与规格参数 | YIXINOU",
+    "title": "CC1310F128RHBR | Texas Instruments Sub-1GHz wireless microcontroller Genuine stock and specifications | YIXINOU",
     "metaTitle": "CC1310F128RHBR Texas Instruments (TI) Sub-1GHz 无线微控制器 - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Texas Instruments (TI) CC1310F128RHBR Sub-1GHz 无线微控制器 原装芯片现货供应与技术资料。核心规格：频段315/433/868/915MHz、ARM Cortex-M3主核(48MHz)+射频核、128KB Flash、20KB SRAM、VQFN-32(5mm×5mm)封装、工作温度-40°C至+85°C；工作温度：-40°C至+85°C；认证：IEEE 802.15.4g、RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 无线连接芯片(SoC) / Sub-1GHz 无线微控制器",
     "categoryHref": "/all-products",
-    "summary": "CC1310F128RHBR 是 Texas Instruments (TI) 推出的高可靠性 Sub-1GHz 无线微控制器，归属于 集成电路(IC) / 无线连接芯片(SoC) / Sub-1GHz 无线微控制器。器件核心功能：SimpleLink Sub-1GHz无线MCU。主要技术规格：频段315/433/868/915MHz、ARM Cortex-M3主核(48MHz)+射频核、128KB Flash、20KB SRAM、VQFN-32(5mm×5mm)封装、工作温度-40°C至+85°C。工作温度范围：-40°C至+85°C。符合认证/标准：IEEE 802.15.4g、RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "CC1310F128RHBR  is  Texas Instruments (TI) introduced byhigh-reliability Sub-1GHz wireless microcontroller，classified under integrated circuits(IC) / wireless connectivity IC(SoC) / Sub-1GHz wireless microcontroller. Core device function: SimpleLink Sub-1GHzwirelessMCU. Key technical specifications: frequency bands315/433/868/915MHz, ARM Cortex-M3main core(48MHz)+RF core, 128KB Flash, 20KB SRAM, VQFN-32(5mm×5mm)package, operating temperature-40°Cto+85°C. Operating temperature range: -40°Cto+85°C. Certifications/standards: IEEE 802.15.4g, RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/CC1310F128RHBR.jpg",
     "alt": "Texas Instruments (TI) CC1310F128RHBR Sub-1GHz 无线微控制器 产品图片",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出CC1310F128RHBR为VQFN (RHB), 32 pins (5x5mm)；页面提供TI官方RHB封装图片。图片文件通过该官方TI页面所列Image地址下载。",
@@ -18798,7 +18798,7 @@ export const PRODUCT_PARTS = {
         "与上同属CC1310F128，RHBR为5x5mm VQFN-32中等封装"
       ]
     ],
-    "about": "CC1310F128RHBR 是 Texas Instruments (TI) 推出的高可靠性 Sub-1GHz 无线微控制器，归属于 集成电路(IC) / 无线连接芯片(SoC) / Sub-1GHz 无线微控制器。器件核心功能：SimpleLink Sub-1GHz无线MCU。主要技术规格：频段315/433/868/915MHz、ARM Cortex-M3主核(48MHz)+射频核、128KB Flash、20KB SRAM、VQFN-32(5mm×5mm)封装、工作温度-40°C至+85°C。工作温度范围：-40°C至+85°C。符合认证/标准：IEEE 802.15.4g、RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "CC1310F128RHBR  is  Texas Instruments (TI) introduced byhigh-reliability Sub-1GHz wireless microcontroller，classified under integrated circuits(IC) / wireless connectivity IC(SoC) / Sub-1GHz wireless microcontroller. Core device function: SimpleLink Sub-1GHzwirelessMCU. Key technical specifications: frequency bands315/433/868/915MHz, ARM Cortex-M3main core(48MHz)+RF core, 128KB Flash, 20KB SRAM, VQFN-32(5mm×5mm)package, operating temperature-40°Cto+85°C. Operating temperature range: -40°Cto+85°C. Certifications/standards: IEEE 802.15.4g, RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "IEEE",
       "802.15.4g",
@@ -18844,12 +18844,12 @@ export const PRODUCT_PARTS = {
   "CC1310F128RSMR": {
     "mpn": "CC1310F128RSMR",
     "brand": "Texas Instruments",
-    "title": "CC1310F128RSMR | Texas Instruments Sub-1GHz 无线微控制器 原装现货与规格参数 | YIXINOU",
+    "title": "CC1310F128RSMR | Texas Instruments Sub-1GHz wireless microcontroller Genuine stock and specifications | YIXINOU",
     "metaTitle": "CC1310F128RSMR Texas Instruments (TI) Sub-1GHz 无线微控制器 - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Texas Instruments (TI) CC1310F128RSMR Sub-1GHz 无线微控制器 原装芯片现货供应与技术资料。核心规格：频段315/433/868/915MHz、ARM Cortex-M3主核(48MHz)+射频核、128KB Flash、20KB SRAM、VQFN-32(4mm×4mm)封装、工作温度-40°C至+85°C；工作温度：-40°C至+85°C；认证：IEEE 802.15.4g、RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 无线连接芯片(SoC) / Sub-1GHz 无线微控制器",
     "categoryHref": "/all-products",
-    "summary": "CC1310F128RSMR 是 Texas Instruments (TI) 推出的高可靠性 Sub-1GHz 无线微控制器，归属于 集成电路(IC) / 无线连接芯片(SoC) / Sub-1GHz 无线微控制器。器件核心功能：SimpleLink Sub-1GHz无线MCU。主要技术规格：频段315/433/868/915MHz、ARM Cortex-M3主核(48MHz)+射频核、128KB Flash、20KB SRAM、VQFN-32(4mm×4mm)封装、工作温度-40°C至+85°C。工作温度范围：-40°C至+85°C。符合认证/标准：IEEE 802.15.4g、RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "CC1310F128RSMR  is  Texas Instruments (TI) introduced byhigh-reliability Sub-1GHz wireless microcontroller，classified under integrated circuits(IC) / wireless connectivity IC(SoC) / Sub-1GHz wireless microcontroller. Core device function: SimpleLink Sub-1GHzwirelessMCU. Key technical specifications: frequency bands315/433/868/915MHz, ARM Cortex-M3main core(48MHz)+RF core, 128KB Flash, 20KB SRAM, VQFN-32(4mm×4mm)package, operating temperature-40°Cto+85°C. Operating temperature range: -40°Cto+85°C. Certifications/standards: IEEE 802.15.4g, RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/CC1310F128RSMR.jpg",
     "alt": "Texas Instruments (TI) CC1310F128RSMR Sub-1GHz 无线微控制器 产品图片",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出CC1310F128RSMR为VQFN (RSM), 32 pins (4x4mm)；页面提供TI官方RSM封装图片。图片文件通过该官方TI页面所列Image地址下载。",
@@ -18895,7 +18895,7 @@ export const PRODUCT_PARTS = {
         "与上同属CC1310F128，RSMR为4x4mm VQFN-32超小封装"
       ]
     ],
-    "about": "CC1310F128RSMR 是 Texas Instruments (TI) 推出的高可靠性 Sub-1GHz 无线微控制器，归属于 集成电路(IC) / 无线连接芯片(SoC) / Sub-1GHz 无线微控制器。器件核心功能：SimpleLink Sub-1GHz无线MCU。主要技术规格：频段315/433/868/915MHz、ARM Cortex-M3主核(48MHz)+射频核、128KB Flash、20KB SRAM、VQFN-32(4mm×4mm)封装、工作温度-40°C至+85°C。工作温度范围：-40°C至+85°C。符合认证/标准：IEEE 802.15.4g、RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "CC1310F128RSMR  is  Texas Instruments (TI) introduced byhigh-reliability Sub-1GHz wireless microcontroller，classified under integrated circuits(IC) / wireless connectivity IC(SoC) / Sub-1GHz wireless microcontroller. Core device function: SimpleLink Sub-1GHzwirelessMCU. Key technical specifications: frequency bands315/433/868/915MHz, ARM Cortex-M3main core(48MHz)+RF core, 128KB Flash, 20KB SRAM, VQFN-32(4mm×4mm)package, operating temperature-40°Cto+85°C. Operating temperature range: -40°Cto+85°C. Certifications/standards: IEEE 802.15.4g, RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "IEEE",
       "802.15.4g",
@@ -18941,12 +18941,12 @@ export const PRODUCT_PARTS = {
   "LT3599EFE#TRPBF": {
     "mpn": "LT3599EFE#TRPBF",
     "brand": "Analog Devices",
-    "title": "LT3599EFE#TRPBF | Analog Devices 多通道LED驱动器 原装现货与规格参数 | YIXINOU",
+    "title": "LT3599EFE#TRPBF | Analog Devices multi-channel LED driver Genuine stock and specifications | YIXINOU",
     "metaTitle": "LT3599EFE#TRPBF Analog Devices (ADI/Linear) 多通道LED驱动器 - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Analog Devices (ADI/Linear) LT3599EFE#TRPBF 多通道LED驱动器 原装芯片现货供应与技术资料。核心规格：输入3.1V至30V、输出最高44V、4路独立恒流源(每路120mA)、3000:1 True Color PWM调光、TSSOP-28(散热焊盘)封装、工作温度-40°C至+125°C；工作温度：-40°C至+125°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 电源管理芯片 / 多通道LED驱动器",
     "categoryHref": "/all-products",
-    "summary": "LT3599EFE#TRPBF 是 Analog Devices (ADI/Linear) 推出的高可靠性 多通道LED驱动器，归属于 集成电路(IC) / 电源管理芯片 / 多通道LED驱动器。器件核心功能：4通道120mA升压型LED驱动器。主要技术规格：输入3.1V至30V、输出最高44V、4路独立恒流源(每路120mA)、3000:1 True Color PWM调光、TSSOP-28(散热焊盘)封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "LT3599EFE#TRPBF  is  Analog Devices (ADI/Linear) introduced byhigh-reliability multi-channel LED driver，classified under integrated circuits(IC) / power management IC / multi-channel LED driver. Core device function: 4channels120mAboostLEDdriver. Key technical specifications: input3.1Vto30V, outputmaximum44V, 4channelsindependentconstant-current source (per channel120mA), 3000:1 True Color PWMdimming, TSSOP-28( heat  thermal thermal pad physical )package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/LT3599EFE#TRPBF.jpg",
     "alt": "Analog Devices (ADI/Linear) LT3599EFE#TRPBF 多通道LED驱动器 产品图片",
     "imageNote": "图片类型：未找到可靠匹配图片。本轮对Analog Devices (ADI/Linear)型号LT3599EFE#TRPBF执行检索，暂未取得能同时满足官方来源、该具体型号对应关系和封装明确性的无争议单器件图片；按规范明确标注“未找到可靠匹配图片”并使用Logo占位，绝不使用拼图、堆叠图或非匹配型号虚构来源。",
@@ -18992,7 +18992,7 @@ export const PRODUCT_PARTS = {
         "原Linear Technology背光与汽车照明多通道LED升压驱动器"
       ]
     ],
-    "about": "LT3599EFE#TRPBF 是 Analog Devices (ADI/Linear) 推出的高可靠性 多通道LED驱动器，归属于 集成电路(IC) / 电源管理芯片 / 多通道LED驱动器。器件核心功能：4通道120mA升压型LED驱动器。主要技术规格：输入3.1V至30V、输出最高44V、4路独立恒流源(每路120mA)、3000:1 True Color PWM调光、TSSOP-28(散热焊盘)封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "LT3599EFE#TRPBF  is  Analog Devices (ADI/Linear) introduced byhigh-reliability multi-channel LED driver，classified under integrated circuits(IC) / power management IC / multi-channel LED driver. Core device function: 4channels120mAboostLEDdriver. Key technical specifications: input3.1Vto30V, outputmaximum44V, 4channelsindependentconstant-current source (per channel120mA), 3000:1 True Color PWMdimming, TSSOP-28( heat  thermal thermal pad physical )package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -19036,12 +19036,12 @@ export const PRODUCT_PARTS = {
   "LTC3546IUFD#TRPBF": {
     "mpn": "LTC3546IUFD#TRPBF",
     "brand": "Analog Devices",
-    "title": "LTC3546IUFD#TRPBF | Analog Devices 双路降压开关稳压器 (Dual Buck) 原装现货与规格参数 | YIXINOU",
+    "title": "LTC3546IUFD#TRPBF | Analog Devices dual buck switching regulator (Dual Buck) Genuine stock and specifications | YIXINOU",
     "metaTitle": "LTC3546IUFD#TRPBF Analog Devices (ADI/Linear) 双路降压开关稳压器 (Dual Buck) - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Analog Devices (ADI/Linear) LTC3546IUFD#TRPBF 双路降压开关稳压器 (Dual Buck) 原装芯片现货供应与技术资料。核心规格：输入2.25V至5.5V、两路输出(3A和1A或并联4A)、频率1MHz至4MHz可调、QFN-28(4mm×5mm)封装、工作温度-40°C至+85°C；工作温度：-40°C至+85°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 电源管理芯片 / 双路降压开关稳压器 (Dual Buck)",
     "categoryHref": "/all-products",
-    "summary": "LTC3546IUFD#TRPBF 是 Analog Devices (ADI/Linear) 推出的高可靠性 双路降压开关稳压器 (Dual Buck)，归属于 集成电路(IC) / 电源管理芯片 / 双路降压开关稳压器 (Dual Buck)。器件核心功能：双路3A/1A高效率同步降压稳压器。主要技术规格：输入2.25V至5.5V、两路输出(3A和1A或并联4A)、频率1MHz至4MHz可调、QFN-28(4mm×5mm)封装、工作温度-40°C至+85°C。工作温度范围：-40°C至+85°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "LTC3546IUFD#TRPBF  is  Analog Devices (ADI/Linear) introduced byhigh-reliability dual buck switching regulator (Dual Buck)，classified under integrated circuits(IC) / power management IC / dual buck switching regulator (Dual Buck). Core device function:  dual channels3A/1Ahigh-efficiencysynchronous buckregulator. Key technical specifications: input2.25Vto5.5V, twochannelsoutput(3Aand1Aorand contact 4A), frequency1MHzto4MHzadjustable, QFN-28(4mm×5mm)package, operating temperature-40°Cto+85°C. Operating temperature range: -40°Cto+85°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/LTC3546IUFD#TRPBF.jpg",
     "alt": "Analog Devices (ADI/Linear) LTC3546IUFD#TRPBF 双路降压开关稳压器 (Dual Buck) 产品图片",
     "imageNote": "图片类型：未找到可靠匹配图片。本轮对Analog Devices (ADI/Linear)型号LTC3546IUFD#TRPBF执行检索，暂未取得能同时满足官方来源、该具体型号对应关系和封装明确性的无争议单器件图片；按规范明确标注“未找到可靠匹配图片”并使用Logo占位，绝不使用拼图、堆叠图或非匹配型号虚构来源。",
@@ -19087,7 +19087,7 @@ export const PRODUCT_PARTS = {
         "原Linear Technology双通道同步降压IC，IUFD为工业级QFN-28封装"
       ]
     ],
-    "about": "LTC3546IUFD#TRPBF 是 Analog Devices (ADI/Linear) 推出的高可靠性 双路降压开关稳压器 (Dual Buck)，归属于 集成电路(IC) / 电源管理芯片 / 双路降压开关稳压器 (Dual Buck)。器件核心功能：双路3A/1A高效率同步降压稳压器。主要技术规格：输入2.25V至5.5V、两路输出(3A和1A或并联4A)、频率1MHz至4MHz可调、QFN-28(4mm×5mm)封装、工作温度-40°C至+85°C。工作温度范围：-40°C至+85°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "LTC3546IUFD#TRPBF  is  Analog Devices (ADI/Linear) introduced byhigh-reliability dual buck switching regulator (Dual Buck)，classified under integrated circuits(IC) / power management IC / dual buck switching regulator (Dual Buck). Core device function:  dual channels3A/1Ahigh-efficiencysynchronous buckregulator. Key technical specifications: input2.25Vto5.5V, twochannelsoutput(3Aand1Aorand contact 4A), frequency1MHzto4MHzadjustable, QFN-28(4mm×5mm)package, operating temperature-40°Cto+85°C. Operating temperature range: -40°Cto+85°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -19131,12 +19131,12 @@ export const PRODUCT_PARTS = {
   "LTC6102CMS8#TRPBF": {
     "mpn": "LTC6102CMS8#TRPBF",
     "brand": "Analog Devices",
-    "title": "LTC6102CMS8#TRPBF | Analog Devices 高压侧电流检测放大器 原装现货与规格参数 | YIXINOU",
+    "title": "LTC6102CMS8#TRPBF | Analog Devices high-side current-sense amplifier Genuine stock and specifications | YIXINOU",
     "metaTitle": "LTC6102CMS8#TRPBF Analog Devices (ADI/Linear) 高压侧电流检测放大器 - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Analog Devices (ADI/Linear) LTC6102CMS8#TRPBF 高压侧电流检测放大器 原装芯片现货供应与技术资料。核心规格：工作电压4V至60V(HV版可达100V)、输入失调电压最大10μV、失调温漂50nV/°C、MSOP-8封装、工作温度0°C至+70°C；工作温度：0°C至+70°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 模拟芯片 / 高压侧电流检测放大器",
     "categoryHref": "/all-products",
-    "summary": "LTC6102CMS8#TRPBF 是 Analog Devices (ADI/Linear) 推出的高可靠性 高压侧电流检测放大器，归属于 集成电路(IC) / 模拟芯片 / 高压侧电流检测放大器。器件核心功能：零漂移精密高压侧电流检测放大器。主要技术规格：工作电压4V至60V(HV版可达100V)、输入失调电压最大10μV、失调温漂50nV/°C、MSOP-8封装、工作温度0°C至+70°C。工作温度范围：0°C至+70°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "LTC6102CMS8#TRPBF  is  Analog Devices (ADI/Linear) introduced byhigh-reliability high-side current-sense amplifier，classified under integrated circuits(IC) / analog ICs / high-side current-sense amplifier. Core device function: zero-drift precisionhigh-side current-sense amplifier. Key technical specifications: operatingvoltage4Vto60V(HVversionup to100V), inputoffset voltagemaximum10μV, offsettemperature drift50nV/°C, MSOP-8package, operating temperature0°Cto+70°C. Operating temperature range: 0°Cto+70°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/LTC6102CMS8#TRPBF.jpg",
     "alt": "Analog Devices (ADI/Linear) LTC6102CMS8#TRPBF 高压侧电流检测放大器 产品图片",
     "imageNote": "图片类型：未找到可靠匹配图片。本轮对Analog Devices (ADI/Linear)型号LTC6102CMS8#TRPBF执行检索，暂未取得能同时满足官方来源、该具体型号对应关系和封装明确性的无争议单器件图片；按规范明确标注“未找到可靠匹配图片”并使用Logo占位，绝不使用拼图、堆叠图或非匹配型号虚构来源。",
@@ -19182,7 +19182,7 @@ export const PRODUCT_PARTS = {
         "原Linear Technology零漂移电流检测放大器，CMS8为商业级MSOP-8封装"
       ]
     ],
-    "about": "LTC6102CMS8#TRPBF 是 Analog Devices (ADI/Linear) 推出的高可靠性 高压侧电流检测放大器，归属于 集成电路(IC) / 模拟芯片 / 高压侧电流检测放大器。器件核心功能：零漂移精密高压侧电流检测放大器。主要技术规格：工作电压4V至60V(HV版可达100V)、输入失调电压最大10μV、失调温漂50nV/°C、MSOP-8封装、工作温度0°C至+70°C。工作温度范围：0°C至+70°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "LTC6102CMS8#TRPBF  is  Analog Devices (ADI/Linear) introduced byhigh-reliability high-side current-sense amplifier，classified under integrated circuits(IC) / analog ICs / high-side current-sense amplifier. Core device function: zero-drift precisionhigh-side current-sense amplifier. Key technical specifications: operatingvoltage4Vto60V(HVversionup to100V), inputoffset voltagemaximum10μV, offsettemperature drift50nV/°C, MSOP-8package, operating temperature0°Cto+70°C. Operating temperature range: 0°Cto+70°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -19226,12 +19226,12 @@ export const PRODUCT_PARTS = {
   "LTC6655BHMS8-1.25#PBF": {
     "mpn": "LTC6655BHMS8-1.25#PBF",
     "brand": "Analog Devices",
-    "title": "LTC6655BHMS8-1.25#PBF | Analog Devices 电压基准源 原装现货与规格参数 | YIXINOU",
+    "title": "LTC6655BHMS8-1.25#PBF | Analog Devices voltage reference Genuine stock and specifications | YIXINOU",
     "metaTitle": "LTC6655BHMS8-1.25#PBF Analog Devices (ADI/Linear) 电压基准源 - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Analog Devices (ADI/Linear) LTC6655BHMS8-1.25#PBF 电压基准源 原装芯片现货供应与技术资料。核心规格：输出1.25V、初始精度±0.025%(B级)、温漂2ppm/°C、0.1Hz至10Hz噪声0.25ppmP-P、MSOP-8封装、工作温度-40°C至+125°C；工作温度：-40°C至+125°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 模拟芯片 / 电压基准源",
     "categoryHref": "/all-products",
-    "summary": "LTC6655BHMS8-1.25#PBF 是 Analog Devices (ADI/Linear) 推出的高可靠性 电压基准源，归属于 集成电路(IC) / 模拟芯片 / 电压基准源。器件核心功能：超低噪声精密带隙电压基准。主要技术规格：输出1.25V、初始精度±0.025%(B级)、温漂2ppm/°C、0.1Hz至10Hz噪声0.25ppmP-P、MSOP-8封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "LTC6655BHMS8-1.25#PBF  is  Analog Devices (ADI/Linear) introduced byhigh-reliability voltage reference，classified under integrated circuits(IC) / analog ICs / voltage reference. Core device function: ultra-low-noise precision bandgapvoltage reference. Key technical specifications: output1.25V, initial accuracy±0.025%(Bgrade), temperature drift2ppm/°C, 0.1Hzto10Hznoise0.25ppmP-P, MSOP-8package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/LTC6655BHMS8-1.25#PBF.jpg",
     "alt": "Analog Devices (ADI/Linear) LTC6655BHMS8-1.25#PBF 电压基准源 产品图片",
     "imageNote": "图片类型：未找到可靠匹配图片。本轮对Analog Devices (ADI/Linear)型号LTC6655BHMS8-1.25#PBF执行检索，暂未取得能同时满足官方来源、该具体型号对应关系和封装明确性的无争议单器件图片；按规范明确标注“未找到可靠匹配图片”并使用Logo占位，绝不使用拼图、堆叠图或非匹配型号虚构来源。",
@@ -19277,7 +19277,7 @@ export const PRODUCT_PARTS = {
         "原Linear Technology顶级低噪声基准源，BHMS8-1.25为1.25V B级高精度MSOP-8封装"
       ]
     ],
-    "about": "LTC6655BHMS8-1.25#PBF 是 Analog Devices (ADI/Linear) 推出的高可靠性 电压基准源，归属于 集成电路(IC) / 模拟芯片 / 电压基准源。器件核心功能：超低噪声精密带隙电压基准。主要技术规格：输出1.25V、初始精度±0.025%(B级)、温漂2ppm/°C、0.1Hz至10Hz噪声0.25ppmP-P、MSOP-8封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "LTC6655BHMS8-1.25#PBF  is  Analog Devices (ADI/Linear) introduced byhigh-reliability voltage reference，classified under integrated circuits(IC) / analog ICs / voltage reference. Core device function: ultra-low-noise precision bandgapvoltage reference. Key technical specifications: output1.25V, initial accuracy±0.025%(Bgrade), temperature drift2ppm/°C, 0.1Hzto10Hznoise0.25ppmP-P, MSOP-8package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -19321,12 +19321,12 @@ export const PRODUCT_PARTS = {
   "AD5593RBCPZ-RL7": {
     "mpn": "AD5593RBCPZ-RL7",
     "brand": "Analog Devices",
-    "title": "AD5593RBCPZ-RL7 | Analog Devices 可配置ADC/DAC混合信号芯片 原装现货与规格参数 | YIXINOU",
+    "title": "AD5593RBCPZ-RL7 | Analog Devices configurable ADC/DAC mixed-signal IC Genuine stock and specifications | YIXINOU",
     "metaTitle": "AD5593RBCPZ-RL7 Analog Devices (ADI) 可配置ADC/DAC混合信号芯片 - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Analog Devices (ADI) AD5593RBCPZ-RL7 可配置ADC/DAC混合信号芯片 原装芯片现货供应与技术资料。核心规格：8路可独立配置为12位ADC、12位DAC或数字GPIO、I2C接口、内部2.5V基准、LFCSP-16(3mm×3mm)封装、工作温度-40°C至+105°C；工作温度：-40°C至+105°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 数据转换器 / 可配置ADC/DAC混合信号芯片",
     "categoryHref": "/all-products",
-    "summary": "AD5593RBCPZ-RL7 是 Analog Devices (ADI) 推出的高可靠性 可配置ADC/DAC混合信号芯片，归属于 集成电路(IC) / 数据转换器 / 可配置ADC/DAC混合信号芯片。器件核心功能：8通道12位可配置ADC/DAC/GPIO。主要技术规格：8路可独立配置为12位ADC、12位DAC或数字GPIO、I2C接口、内部2.5V基准、LFCSP-16(3mm×3mm)封装、工作温度-40°C至+105°C。工作温度范围：-40°C至+105°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "AD5593RBCPZ-RL7  is  Analog Devices (ADI) introduced byhigh-reliability configurable ADC/DAC mixed-signal IC，classified under integrated circuits(IC) / data converters / configurable ADC/DAC mixed-signal IC. Core device function: 8channels12-bitconfigurableADC/DAC/GPIO. Key technical specifications: 8channels can independentconfiguresetis12-bitADC, 12-bitDACordigitalGPIO, I2Cinterface, within external 2.5Vreference, LFCSP-16(3mm×3mm)package, operating temperature-40°Cto+105°C. Operating temperature range: -40°Cto+105°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/AD5593RBCPZ-RL7.jpg",
     "alt": "Analog Devices (ADI) AD5593RBCPZ-RL7 可配置ADC/DAC混合信号芯片 产品图片",
     "imageNote": "图片类型：未找到可靠匹配图片。本轮对Analog Devices (ADI)型号AD5593RBCPZ-RL7执行检索，暂未取得能同时满足官方来源、该具体型号对应关系和封装明确性的无争议单器件图片；按规范明确标注“未找到可靠匹配图片”并使用Logo占位，绝不使用拼图、堆叠图或非匹配型号虚构来源。",
@@ -19372,7 +19372,7 @@ export const PRODUCT_PARTS = {
         "ADI多通道可配置混合信号IO扩展器(I2C接口版，SPI版为AD5592R)"
       ]
     ],
-    "about": "AD5593RBCPZ-RL7 是 Analog Devices (ADI) 推出的高可靠性 可配置ADC/DAC混合信号芯片，归属于 集成电路(IC) / 数据转换器 / 可配置ADC/DAC混合信号芯片。器件核心功能：8通道12位可配置ADC/DAC/GPIO。主要技术规格：8路可独立配置为12位ADC、12位DAC或数字GPIO、I2C接口、内部2.5V基准、LFCSP-16(3mm×3mm)封装、工作温度-40°C至+105°C。工作温度范围：-40°C至+105°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "AD5593RBCPZ-RL7  is  Analog Devices (ADI) introduced byhigh-reliability configurable ADC/DAC mixed-signal IC，classified under integrated circuits(IC) / data converters / configurable ADC/DAC mixed-signal IC. Core device function: 8channels12-bitconfigurableADC/DAC/GPIO. Key technical specifications: 8channels can independentconfiguresetis12-bitADC, 12-bitDACordigitalGPIO, I2Cinterface, within external 2.5Vreference, LFCSP-16(3mm×3mm)package, operating temperature-40°Cto+105°C. Operating temperature range: -40°Cto+105°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -19416,12 +19416,12 @@ export const PRODUCT_PARTS = {
   "LT3795HFE#TRPBF": {
     "mpn": "LT3795HFE#TRPBF",
     "brand": "Analog Devices",
-    "title": "LT3795HFE#TRPBF | Analog Devices LED驱动控制器 原装现货与规格参数 | YIXINOU",
+    "title": "LT3795HFE#TRPBF | Analog Devices LED driver controller Genuine stock and specifications | YIXINOU",
     "metaTitle": "LT3795HFE#TRPBF Analog Devices (ADI/Linear) LED驱动控制器 - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Analog Devices (ADI/Linear) LT3795HFE#TRPBF LED驱动控制器 原装芯片现货供应与技术资料。核心规格：输入4.5V至110V、支持升压/降压/升降压/SEPIC拓扑、集成短路保护与PWM调光、TSSOP-28(散热焊盘)封装、工作温度-40°C至+150°C；工作温度：-40°C至+150°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 电源管理芯片 / LED驱动控制器",
     "categoryHref": "/all-products",
-    "summary": "LT3795HFE#TRPBF 是 Analog Devices (ADI/Linear) 推出的高可靠性 LED驱动控制器，归属于 集成电路(IC) / 电源管理芯片 / LED驱动控制器。器件核心功能：110V多拓扑结构LED驱动控制器。主要技术规格：输入4.5V至110V、支持升压/降压/升降压/SEPIC拓扑、集成短路保护与PWM调光、TSSOP-28(散热焊盘)封装、工作温度-40°C至+150°C。工作温度范围：-40°C至+150°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "LT3795HFE#TRPBF  is  Analog Devices (ADI/Linear) introduced byhigh-reliability LED driver controller，classified under integrated circuits(IC) / power management IC / LED driver controller. Core device function: 110Vmulti-topologyLED driver controller. Key technical specifications: input4.5Vto110V, supportsboost/buck/buck-boost/SEPICtopology, integratedshort-circuit protectionandPWMdimming, TSSOP-28( heat  thermal thermal pad physical )package, operating temperature-40°Cto+150°C. Operating temperature range: -40°Cto+150°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/LT3795HFE#TRPBF.jpg",
     "alt": "Analog Devices (ADI/Linear) LT3795HFE#TRPBF LED驱动控制器 产品图片",
     "imageNote": "图片类型：未找到可靠匹配图片。本轮对Analog Devices (ADI/Linear)型号LT3795HFE#TRPBF执行检索，暂未取得能同时满足官方来源、该具体型号对应关系和封装明确性的无争议单器件图片；按规范明确标注“未找到可靠匹配图片”并使用Logo占位，绝不使用拼图、堆叠图或非匹配型号虚构来源。",
@@ -19467,7 +19467,7 @@ export const PRODUCT_PARTS = {
         "原Linear Technology高压高温LED控制器，HFE代表高温级(-40°C至+150°C)TSSOP-28封装"
       ]
     ],
-    "about": "LT3795HFE#TRPBF 是 Analog Devices (ADI/Linear) 推出的高可靠性 LED驱动控制器，归属于 集成电路(IC) / 电源管理芯片 / LED驱动控制器。器件核心功能：110V多拓扑结构LED驱动控制器。主要技术规格：输入4.5V至110V、支持升压/降压/升降压/SEPIC拓扑、集成短路保护与PWM调光、TSSOP-28(散热焊盘)封装、工作温度-40°C至+150°C。工作温度范围：-40°C至+150°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "LT3795HFE#TRPBF  is  Analog Devices (ADI/Linear) introduced byhigh-reliability LED driver controller，classified under integrated circuits(IC) / power management IC / LED driver controller. Core device function: 110Vmulti-topologyLED driver controller. Key technical specifications: input4.5Vto110V, supportsboost/buck/buck-boost/SEPICtopology, integratedshort-circuit protectionandPWMdimming, TSSOP-28( heat  thermal thermal pad physical )package, operating temperature-40°Cto+150°C. Operating temperature range: -40°Cto+150°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -19511,12 +19511,12 @@ export const PRODUCT_PARTS = {
   "LM1085ISX-3.3/NOPB": {
     "mpn": "LM1085ISX-3.3/NOPB",
     "brand": "Texas Instruments",
-    "title": "LM1085ISX-3.3/NOPB | Texas Instruments LDO（低压差线性稳压器） 原装现货与规格参数 | YIXINOU",
+    "title": "LM1085ISX-3.3/NOPB | Texas Instruments LDO (low-dropout linear regulator) Genuine stock and specifications | YIXINOU",
     "metaTitle": "LM1085ISX-3.3/NOPB Texas Instruments (TI) LDO（低压差线性稳压器） - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Texas Instruments (TI) LM1085ISX-3.3/NOPB LDO（低压差线性稳压器） 原装芯片现货供应与技术资料。核心规格：输出电压3.3V、最大输出电流3A、压差1.3V(3A时)、DDPAK/TO-263-3封装、工作温度-40°C至+125°C；工作温度：-40°C至+125°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 电源管理芯片 / LDO（低压差线性稳压器）",
     "categoryHref": "/all-products",
-    "summary": "LM1085ISX-3.3/NOPB 是 Texas Instruments (TI) 推出的高可靠性 LDO（低压差线性稳压器），归属于 集成电路(IC) / 电源管理芯片 / LDO（低压差线性稳压器）。器件核心功能：3A固定3.3V输出低压差稳压器。主要技术规格：输出电压3.3V、最大输出电流3A、压差1.3V(3A时)、DDPAK/TO-263-3封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "LM1085ISX-3.3/NOPB  is  Texas Instruments (TI) introduced byhigh-reliability LDO (low-dropout linear regulator)，classified under integrated circuits(IC) / power management IC / LDO (low-dropout linear regulator). Core device function: 3Afixed3.3Voutputlow dropout regulator. Key technical specifications: output voltage3.3V, maximum output current3A,  dropout 1.3V(3Aat), DDPAK/TO-263-3package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/LM1085ISX-3.3／NOPB.jpg",
     "alt": "Texas Instruments (TI) LM1085ISX-3.3/NOPB LDO（低压差线性稳压器） 产品图片",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出LM1085ISX-3.3/NOPB为TO-263/DDPAK (KTT), 3 pins；页面提供TI官方KTT封装图片。图片文件通过该官方TI页面所列Image地址下载。",
@@ -19562,7 +19562,7 @@ export const PRODUCT_PARTS = {
         "TI经典3A大电流LDO，ISX为TO-263(D2PAK)表面贴装大卷带包装"
       ]
     ],
-    "about": "LM1085ISX-3.3/NOPB 是 Texas Instruments (TI) 推出的高可靠性 LDO（低压差线性稳压器），归属于 集成电路(IC) / 电源管理芯片 / LDO（低压差线性稳压器）。器件核心功能：3A固定3.3V输出低压差稳压器。主要技术规格：输出电压3.3V、最大输出电流3A、压差1.3V(3A时)、DDPAK/TO-263-3封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "LM1085ISX-3.3/NOPB  is  Texas Instruments (TI) introduced byhigh-reliability LDO (low-dropout linear regulator)，classified under integrated circuits(IC) / power management IC / LDO (low-dropout linear regulator). Core device function: 3Afixed3.3Voutputlow dropout regulator. Key technical specifications: output voltage3.3V, maximum output current3A,  dropout 1.3V(3Aat), DDPAK/TO-263-3package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -19606,12 +19606,12 @@ export const PRODUCT_PARTS = {
   "OPA1642AIDR": {
     "mpn": "OPA1642AIDR",
     "brand": "Texas Instruments",
-    "title": "OPA1642AIDR | Texas Instruments 运算放大器 (JFET输入) 原装现货与规格参数 | YIXINOU",
+    "title": "OPA1642AIDR | Texas Instruments operational amplifier (JFETinput) Genuine stock and specifications | YIXINOU",
     "metaTitle": "OPA1642AIDR Texas Instruments (TI) 运算放大器 (JFET输入) - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Texas Instruments (TI) OPA1642AIDR 运算放大器 (JFET输入) 原装芯片现货供应与技术资料。核心规格：双通道、输入电压噪声5.1nV/√Hz、THD+N 0.00005%、压摆率20V/μs、供电±2.25V至±18V、SOIC-8封装、工作温度-40°C至+85°C；工作温度：-40°C至+85°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 模拟芯片 / 运算放大器 (JFET输入)",
     "categoryHref": "/all-products",
-    "summary": "OPA1642AIDR 是 Texas Instruments (TI) 推出的高可靠性 运算放大器 (JFET输入)，归属于 集成电路(IC) / 模拟芯片 / 运算放大器 (JFET输入)。器件核心功能：双通道低噪声JFET输入音频运放。主要技术规格：双通道、输入电压噪声5.1nV/√Hz、THD+N 0.00005%、压摆率20V/μs、供电±2.25V至±18V、SOIC-8封装、工作温度-40°C至+85°C。工作温度范围：-40°C至+85°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "OPA1642AIDR  is  Texas Instruments (TI) introduced byhigh-reliability operational amplifier (JFETinput)，classified under integrated circuits(IC) / analog ICs / operational amplifier (JFETinput). Core device function: dual-channellow-noiseJFETinputaudio op amplify . Key technical specifications: dual-channel, inputvoltagenoise5.1nV/√Hz, THD+N 0.00005%, slew rate20V/μs, supply±2.25Vto±18V, SOIC-8package, operating temperature-40°Cto+85°C. Operating temperature range: -40°Cto+85°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/OPA1642AIDR.jpg",
     "alt": "Texas Instruments (TI) OPA1642AIDR 运算放大器 (JFET输入) 产品图片",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出OPA1642AIDR为SOIC (D), 8 pins；页面提供TI官方D封装图片。图片文件通过该官方TI页面所列Image地址下载。",
@@ -19657,7 +19657,7 @@ export const PRODUCT_PARTS = {
         "TI SoundPlus系列发烧级双运放，AIDR为SOIC-8封装"
       ]
     ],
-    "about": "OPA1642AIDR 是 Texas Instruments (TI) 推出的高可靠性 运算放大器 (JFET输入)，归属于 集成电路(IC) / 模拟芯片 / 运算放大器 (JFET输入)。器件核心功能：双通道低噪声JFET输入音频运放。主要技术规格：双通道、输入电压噪声5.1nV/√Hz、THD+N 0.00005%、压摆率20V/μs、供电±2.25V至±18V、SOIC-8封装、工作温度-40°C至+85°C。工作温度范围：-40°C至+85°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "OPA1642AIDR  is  Texas Instruments (TI) introduced byhigh-reliability operational amplifier (JFETinput)，classified under integrated circuits(IC) / analog ICs / operational amplifier (JFETinput). Core device function: dual-channellow-noiseJFETinputaudio op amplify . Key technical specifications: dual-channel, inputvoltagenoise5.1nV/√Hz, THD+N 0.00005%, slew rate20V/μs, supply±2.25Vto±18V, SOIC-8package, operating temperature-40°Cto+85°C. Operating temperature range: -40°Cto+85°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -19701,12 +19701,12 @@ export const PRODUCT_PARTS = {
   "LM317AEMPX/NOPB": {
     "mpn": "LM317AEMPX/NOPB",
     "brand": "Texas Instruments",
-    "title": "LM317AEMPX/NOPB | Texas Instruments 线性稳压器 (可调) 原装现货与规格参数 | YIXINOU",
+    "title": "LM317AEMPX/NOPB | Texas Instruments linear regulator (adjustable) Genuine stock and specifications | YIXINOU",
     "metaTitle": "LM317AEMPX/NOPB Texas Instruments (TI) 线性稳压器 (可调) - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Texas Instruments (TI) LM317AEMPX/NOPB 线性稳压器 (可调) 原装芯片现货供应与技术资料。核心规格：输出电流1.5A、输出电压1.25V至37V可调、输出电压容差±1%(A级)、SOT-223(4引脚)封装、工作温度-40°C至+125°C；工作温度：-40°C至+125°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 电源管理芯片 / 线性稳压器 (可调)",
     "categoryHref": "/all-products",
-    "summary": "LM317AEMPX/NOPB 是 Texas Instruments (TI) 推出的高可靠性 线性稳压器 (可调)，归属于 集成电路(IC) / 电源管理芯片 / 线性稳压器 (可调)。器件核心功能：1.5A高精度可调三端正稳压器。主要技术规格：输出电流1.5A、输出电压1.25V至37V可调、输出电压容差±1%(A级)、SOT-223(4引脚)封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "LM317AEMPX/NOPB  is  Texas Instruments (TI) introduced byhigh-reliability linear regulator (adjustable)，classified under integrated circuits(IC) / power management IC / linear regulator (adjustable). Core device function: 1.5Ahigh-accuracyadjustable three-terminal positive regulator. Key technical specifications: output current1.5A, output voltage1.25Vto37Vadjustable, output voltage capacitance drop±1%(Agrade), SOT-223(4pins)package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/LM317AEMPX／NOPB.jpg",
     "alt": "Texas Instruments (TI) LM317AEMPX/NOPB 线性稳压器 (可调) 产品图片",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出LM317AEMPX/NOPB为SOT-223 (DCY), 4 pins；页面提供TI官方DCY封装图片。图片文件通过该官方TI页面所列Image地址下载。",
@@ -19752,7 +19752,7 @@ export const PRODUCT_PARTS = {
         "TI经典三端可调稳压器高精度A级版，EMPX为SOT-223卷带封装"
       ]
     ],
-    "about": "LM317AEMPX/NOPB 是 Texas Instruments (TI) 推出的高可靠性 线性稳压器 (可调)，归属于 集成电路(IC) / 电源管理芯片 / 线性稳压器 (可调)。器件核心功能：1.5A高精度可调三端正稳压器。主要技术规格：输出电流1.5A、输出电压1.25V至37V可调、输出电压容差±1%(A级)、SOT-223(4引脚)封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "LM317AEMPX/NOPB  is  Texas Instruments (TI) introduced byhigh-reliability linear regulator (adjustable)，classified under integrated circuits(IC) / power management IC / linear regulator (adjustable). Core device function: 1.5Ahigh-accuracyadjustable three-terminal positive regulator. Key technical specifications: output current1.5A, output voltage1.25Vto37Vadjustable, output voltage capacitance drop±1%(Agrade), SOT-223(4pins)package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -19796,12 +19796,12 @@ export const PRODUCT_PARTS = {
   "REF3025AIDBZR": {
     "mpn": "REF3025AIDBZR",
     "brand": "Texas Instruments",
-    "title": "REF3025AIDBZR | Texas Instruments 电压基准源 原装现货与规格参数 | YIXINOU",
+    "title": "REF3025AIDBZR | Texas Instruments voltage reference Genuine stock and specifications | YIXINOU",
     "metaTitle": "REF3025AIDBZR Texas Instruments (TI) 电压基准源 - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Texas Instruments (TI) REF3025AIDBZR 电压基准源 原装芯片现货供应与技术资料。核心规格：输出2.5V、初始精度±0.2%、温漂50ppm/°C、静态电流42μA、输出电流25mA、SOT-23-3封装、工作温度-40°C至+125°C；工作温度：-40°C至+125°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 模拟芯片 / 电压基准源",
     "categoryHref": "/all-products",
-    "summary": "REF3025AIDBZR 是 Texas Instruments (TI) 推出的高可靠性 电压基准源，归属于 集成电路(IC) / 模拟芯片 / 电压基准源。器件核心功能：低功耗微小型串联电压基准。主要技术规格：输出2.5V、初始精度±0.2%、温漂50ppm/°C、静态电流42μA、输出电流25mA、SOT-23-3封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "REF3025AIDBZR  is  Texas Instruments (TI) introduced byhigh-reliability voltage reference，classified under integrated circuits(IC) / analog ICs / voltage reference. Core device function: low-powermicro small  type series contact voltage reference. Key technical specifications: output2.5V, initial accuracy±0.2%, temperature drift50ppm/°C, quiescent current42μA, output current25mA, SOT-23-3package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/REF3025AIDBZR.jpg",
     "alt": "Texas Instruments (TI) REF3025AIDBZR 电压基准源 产品图片",
     "imageNote": "图片类型：封装图。TI官方型号页明确列出REF3025AIDBZR为SOT-23 (DBZ), 3 pins；页面提供TI官方DBZ封装图片。图片文件通过该官方TI页面所列Image地址下载。",
@@ -19847,7 +19847,7 @@ export const PRODUCT_PARTS = {
         "TI小体积低功耗电压基准，AIDBZR为SOT-23-3封装"
       ]
     ],
-    "about": "REF3025AIDBZR 是 Texas Instruments (TI) 推出的高可靠性 电压基准源，归属于 集成电路(IC) / 模拟芯片 / 电压基准源。器件核心功能：低功耗微小型串联电压基准。主要技术规格：输出2.5V、初始精度±0.2%、温漂50ppm/°C、静态电流42μA、输出电流25mA、SOT-23-3封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "REF3025AIDBZR  is  Texas Instruments (TI) introduced byhigh-reliability voltage reference，classified under integrated circuits(IC) / analog ICs / voltage reference. Core device function: low-powermicro small  type series contact voltage reference. Key technical specifications: output2.5V, initial accuracy±0.2%, temperature drift50ppm/°C, quiescent current42μA, output current25mA, SOT-23-3package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -19891,12 +19891,12 @@ export const PRODUCT_PARTS = {
   "AD8613AUJZ-REEL7": {
     "mpn": "AD8613AUJZ-REEL7",
     "brand": "Analog Devices",
-    "title": "AD8613AUJZ-REEL7 | Analog Devices 运算放大器 (CMOS) 原装现货与规格参数 | YIXINOU",
+    "title": "AD8613AUJZ-REEL7 | Analog Devices operational amplifier (CMOS) Genuine stock and specifications | YIXINOU",
     "metaTitle": "AD8613AUJZ-REEL7 Analog Devices (ADI) 运算放大器 (CMOS) - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Analog Devices (ADI) AD8613AUJZ-REEL7 运算放大器 (CMOS) 原装芯片现货供应与技术资料。核心规格：单通道、静态电流38μA、带宽400kHz、供电1.8V至5V、轨到轨输入输出、TSOT-23-5封装、工作温度-40°C至+125°C；工作温度：-40°C至+125°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 模拟芯片 / 运算放大器 (CMOS)",
     "categoryHref": "/all-products",
-    "summary": "AD8613AUJZ-REEL7 是 Analog Devices (ADI) 推出的高可靠性 运算放大器 (CMOS)，归属于 集成电路(IC) / 模拟芯片 / 运算放大器 (CMOS)。器件核心功能：微功耗轨到轨输入/输出单运放。主要技术规格：单通道、静态电流38μA、带宽400kHz、供电1.8V至5V、轨到轨输入输出、TSOT-23-5封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "AD8613AUJZ-REEL7  is  Analog Devices (ADI) introduced byhigh-reliability operational amplifier (CMOS)，classified under integrated circuits(IC) / analog ICs / operational amplifier (CMOS). Core device function: micropower consumptionrailtorailinput/output single op amplify . Key technical specifications: single-channel, quiescent current38μA, bandwidth400kHz, supply1.8Vto5V, railtorailinputoutput, TSOT-23-5package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/AD8613AUJZ-REEL7.jpg",
     "alt": "Analog Devices (ADI) AD8613AUJZ-REEL7 运算放大器 (CMOS) 产品图片",
     "imageNote": "图片类型：未找到可靠匹配图片。本轮对Analog Devices (ADI)型号AD8613AUJZ-REEL7执行检索，暂未取得能同时满足官方来源、该具体型号对应关系和封装明确性的无争议单器件图片；按规范明确标注“未找到可靠匹配图片”并使用Logo占位，绝不使用拼图、堆叠图或非匹配型号虚构来源。",
@@ -19942,7 +19942,7 @@ export const PRODUCT_PARTS = {
         "ADI微功耗单通道CMOS运放，AUJZ为5引脚TSOT-23封装"
       ]
     ],
-    "about": "AD8613AUJZ-REEL7 是 Analog Devices (ADI) 推出的高可靠性 运算放大器 (CMOS)，归属于 集成电路(IC) / 模拟芯片 / 运算放大器 (CMOS)。器件核心功能：微功耗轨到轨输入/输出单运放。主要技术规格：单通道、静态电流38μA、带宽400kHz、供电1.8V至5V、轨到轨输入输出、TSOT-23-5封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "AD8613AUJZ-REEL7  is  Analog Devices (ADI) introduced byhigh-reliability operational amplifier (CMOS)，classified under integrated circuits(IC) / analog ICs / operational amplifier (CMOS). Core device function: micropower consumptionrailtorailinput/output single op amplify . Key technical specifications: single-channel, quiescent current38μA, bandwidth400kHz, supply1.8Vto5V, railtorailinputoutput, TSOT-23-5package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -19986,12 +19986,12 @@ export const PRODUCT_PARTS = {
   "LTC6655CHMS8-5#PBF": {
     "mpn": "LTC6655CHMS8-5#PBF",
     "brand": "Analog Devices",
-    "title": "LTC6655CHMS8-5#PBF | Analog Devices 电压基准源 原装现货与规格参数 | YIXINOU",
+    "title": "LTC6655CHMS8-5#PBF | Analog Devices voltage reference Genuine stock and specifications | YIXINOU",
     "metaTitle": "LTC6655CHMS8-5#PBF Analog Devices (ADI/Linear) 电压基准源 - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Analog Devices (ADI/Linear) LTC6655CHMS8-5#PBF 电压基准源 原装芯片现货供应与技术资料。核心规格：输出5.0V、初始精度±0.05%(C级)、温漂5ppm/°C、0.1Hz至10Hz噪声0.25ppmP-P、MSOP-8封装、工作温度-40°C至+125°C；工作温度：-40°C至+125°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 模拟芯片 / 电压基准源",
     "categoryHref": "/all-products",
-    "summary": "LTC6655CHMS8-5#PBF 是 Analog Devices (ADI/Linear) 推出的高可靠性 电压基准源，归属于 集成电路(IC) / 模拟芯片 / 电压基准源。器件核心功能：超低噪声精密带隙电压基准。主要技术规格：输出5.0V、初始精度±0.05%(C级)、温漂5ppm/°C、0.1Hz至10Hz噪声0.25ppmP-P、MSOP-8封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "LTC6655CHMS8-5#PBF  is  Analog Devices (ADI/Linear) introduced byhigh-reliability voltage reference，classified under integrated circuits(IC) / analog ICs / voltage reference. Core device function: ultra-low-noise precision bandgapvoltage reference. Key technical specifications: output5.0V, initial accuracy±0.05%(Cgrade), temperature drift5ppm/°C, 0.1Hzto10Hznoise0.25ppmP-P, MSOP-8package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/LTC6655CHMS8-5#PBF.jpg",
     "alt": "Analog Devices (ADI/Linear) LTC6655CHMS8-5#PBF 电压基准源 产品图片",
     "imageNote": "图片类型：未找到可靠匹配图片。本轮对Analog Devices (ADI/Linear)型号LTC6655CHMS8-5#PBF执行检索，暂未取得能同时满足官方来源、该具体型号对应关系和封装明确性的无争议单器件图片；按规范明确标注“未找到可靠匹配图片”并使用Logo占位，绝不使用拼图、堆叠图或非匹配型号虚构来源。",
@@ -20037,7 +20037,7 @@ export const PRODUCT_PARTS = {
         "原Linear Technology超低噪声基准源，CHMS8-5为5V C级精度MSOP-8封装"
       ]
     ],
-    "about": "LTC6655CHMS8-5#PBF 是 Analog Devices (ADI/Linear) 推出的高可靠性 电压基准源，归属于 集成电路(IC) / 模拟芯片 / 电压基准源。器件核心功能：超低噪声精密带隙电压基准。主要技术规格：输出5.0V、初始精度±0.05%(C级)、温漂5ppm/°C、0.1Hz至10Hz噪声0.25ppmP-P、MSOP-8封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "LTC6655CHMS8-5#PBF  is  Analog Devices (ADI/Linear) introduced byhigh-reliability voltage reference，classified under integrated circuits(IC) / analog ICs / voltage reference. Core device function: ultra-low-noise precision bandgapvoltage reference. Key technical specifications: output5.0V, initial accuracy±0.05%(Cgrade), temperature drift5ppm/°C, 0.1Hzto10Hznoise0.25ppmP-P, MSOP-8package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -20081,12 +20081,12 @@ export const PRODUCT_PARTS = {
   "AD7732BRUZ-REEL7": {
     "mpn": "AD7732BRUZ-REEL7",
     "brand": "Analog Devices",
-    "title": "AD7732BRUZ-REEL7 | Analog Devices 模数转换器 (ADC) 原装现货与规格参数 | YIXINOU",
+    "title": "AD7732BRUZ-REEL7 | Analog Devices analog-to-digital converter (ADC) Genuine stock and specifications | YIXINOU",
     "metaTitle": "AD7732BRUZ-REEL7 Analog Devices (ADI) 模数转换器 (ADC) - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Analog Devices (ADI) AD7732BRUZ-REEL7 模数转换器 (ADC) 原装芯片现货供应与技术资料。核心规格：分辨率24位、2路全差分输入、支持±10V/±5V真双极性输入、通道切换速率最高800Hz、TSSOP-28封装、工作温度-40°C至+105°C；工作温度：-40°C至+105°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 数据转换器 / 模数转换器 (ADC)",
     "categoryHref": "/all-products",
-    "summary": "AD7732BRUZ-REEL7 是 Analog Devices (ADI) 推出的高可靠性 模数转换器 (ADC)，归属于 集成电路(IC) / 数据转换器 / 模数转换器 (ADC)。器件核心功能：双通道24位高吞吐量Σ-Δ ADC。主要技术规格：分辨率24位、2路全差分输入、支持±10V/±5V真双极性输入、通道切换速率最高800Hz、TSSOP-28封装、工作温度-40°C至+105°C。工作温度范围：-40°C至+105°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "AD7732BRUZ-REEL7  is  Analog Devices (ADI) introduced byhigh-reliability analog-to-digital converter (ADC)，classified under integrated circuits(IC) / data converters / analog-to-digital converter (ADC). Core device function: dual-channel24-bithigh-throughputΣ-Δ ADC. Key technical specifications: resolution24-bit, 2channelsfully differential input, supports±10V/±5Vtrue bipolar input, channel switching ratemaximum800Hz, TSSOP-28package, operating temperature-40°Cto+105°C. Operating temperature range: -40°Cto+105°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/AD7732BRUZ-REEL7.jpg",
     "alt": "Analog Devices (ADI) AD7732BRUZ-REEL7 模数转换器 (ADC) 产品图片",
     "imageNote": "图片类型：未找到可靠匹配图片。本轮对Analog Devices (ADI)型号AD7732BRUZ-REEL7执行检索，暂未取得能同时满足官方来源、该具体型号对应关系和封装明确性的无争议单器件图片；按规范明确标注“未找到可靠匹配图片”并使用Logo占位，绝不使用拼图、堆叠图或非匹配型号虚构来源。",
@@ -20132,7 +20132,7 @@ export const PRODUCT_PARTS = {
         "ADI工业PLC专用高压真双极性24位Σ-Δ ADC，BRUZ为TSSOP-28封装"
       ]
     ],
-    "about": "AD7732BRUZ-REEL7 是 Analog Devices (ADI) 推出的高可靠性 模数转换器 (ADC)，归属于 集成电路(IC) / 数据转换器 / 模数转换器 (ADC)。器件核心功能：双通道24位高吞吐量Σ-Δ ADC。主要技术规格：分辨率24位、2路全差分输入、支持±10V/±5V真双极性输入、通道切换速率最高800Hz、TSSOP-28封装、工作温度-40°C至+105°C。工作温度范围：-40°C至+105°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "AD7732BRUZ-REEL7  is  Analog Devices (ADI) introduced byhigh-reliability analog-to-digital converter (ADC)，classified under integrated circuits(IC) / data converters / analog-to-digital converter (ADC). Core device function: dual-channel24-bithigh-throughputΣ-Δ ADC. Key technical specifications: resolution24-bit, 2channelsfully differential input, supports±10V/±5Vtrue bipolar input, channel switching ratemaximum800Hz, TSSOP-28package, operating temperature-40°Cto+105°C. Operating temperature range: -40°Cto+105°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -20176,12 +20176,12 @@ export const PRODUCT_PARTS = {
   "ADR4550ARZ-R7": {
     "mpn": "ADR4550ARZ-R7",
     "brand": "Analog Devices",
-    "title": "ADR4550ARZ-R7 | Analog Devices 电压基准源 原装现货与规格参数 | YIXINOU",
+    "title": "ADR4550ARZ-R7 | Analog Devices voltage reference Genuine stock and specifications | YIXINOU",
     "metaTitle": "ADR4550ARZ-R7 Analog Devices (ADI) 电压基准源 - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Analog Devices (ADI) ADR4550ARZ-R7 电压基准源 原装芯片现货供应与技术资料。核心规格：输出5.0V、初始精度±0.02%、温漂2ppm/°C、最大输出电流10mA、SOIC-8封装、工作温度-40°C至+125°C；工作温度：-40°C至+125°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 模拟芯片 / 电压基准源",
     "categoryHref": "/all-products",
-    "summary": "ADR4550ARZ-R7 是 Analog Devices (ADI) 推出的高可靠性 电压基准源，归属于 集成电路(IC) / 模拟芯片 / 电压基准源。器件核心功能：超低噪声高精度基准电压源。主要技术规格：输出5.0V、初始精度±0.02%、温漂2ppm/°C、最大输出电流10mA、SOIC-8封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "ADR4550ARZ-R7  is  Analog Devices (ADI) introduced byhigh-reliability voltage reference，classified under integrated circuits(IC) / analog ICs / voltage reference. Core device function: ultra-low-noise high-accuracyvoltage reference. Key technical specifications: output5.0V, initial accuracy±0.02%, temperature drift2ppm/°C, maximum output current10mA, SOIC-8package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/ADR4550ARZ-R7.jpg",
     "alt": "Analog Devices (ADI) ADR4550ARZ-R7 电压基准源 产品图片",
     "imageNote": "图片类型：未找到可靠匹配图片。本轮对Analog Devices (ADI)型号ADR4550ARZ-R7执行检索，暂未取得能同时满足官方来源、该具体型号对应关系和封装明确性的无争议单器件图片；按规范明确标注“未找到可靠匹配图片”并使用Logo占位，绝不使用拼图、堆叠图或非匹配型号虚构来源。",
@@ -20227,7 +20227,7 @@ export const PRODUCT_PARTS = {
         "ADI ADR45xx系列5.0V超低噪声电压基准，ARZ为SOIC-8工业级封装"
       ]
     ],
-    "about": "ADR4550ARZ-R7 是 Analog Devices (ADI) 推出的高可靠性 电压基准源，归属于 集成电路(IC) / 模拟芯片 / 电压基准源。器件核心功能：超低噪声高精度基准电压源。主要技术规格：输出5.0V、初始精度±0.02%、温漂2ppm/°C、最大输出电流10mA、SOIC-8封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "ADR4550ARZ-R7  is  Analog Devices (ADI) introduced byhigh-reliability voltage reference，classified under integrated circuits(IC) / analog ICs / voltage reference. Core device function: ultra-low-noise high-accuracyvoltage reference. Key technical specifications: output5.0V, initial accuracy±0.02%, temperature drift2ppm/°C, maximum output current10mA, SOIC-8package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -20271,12 +20271,12 @@ export const PRODUCT_PARTS = {
   "LTC4417CUF#TRPBF": {
     "mpn": "LTC4417CUF#TRPBF",
     "brand": "Analog Devices",
-    "title": "LTC4417CUF#TRPBF | Analog Devices 电源优先级选择器 原装现货与规格参数 | YIXINOU",
+    "title": "LTC4417CUF#TRPBF | Analog Devices power path priority selector Genuine stock and specifications | YIXINOU",
     "metaTitle": "LTC4417CUF#TRPBF Analog Devices (ADI/Linear) 电源优先级选择器 - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Analog Devices (ADI/Linear) LTC4417CUF#TRPBF 电源优先级选择器 原装芯片现货供应与技术资料。核心规格：支持3路输入(2.5V至36V)、自动按优先级切换电源、集成过压/欠压保护、QFN-24(4mm×4mm)封装、工作温度0°C至+70°C；工作温度：0°C至+70°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 电源管理芯片 / 电源优先级选择器",
     "categoryHref": "/all-products",
-    "summary": "LTC4417CUF#TRPBF 是 Analog Devices (ADI/Linear) 推出的高可靠性 电源优先级选择器，归属于 集成电路(IC) / 电源管理芯片 / 电源优先级选择器。器件核心功能：三输入优先级电源路径控制器。主要技术规格：支持3路输入(2.5V至36V)、自动按优先级切换电源、集成过压/欠压保护、QFN-24(4mm×4mm)封装、工作温度0°C至+70°C。工作温度范围：0°C至+70°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "LTC4417CUF#TRPBF  is  Analog Devices (ADI/Linear) introduced byhigh-reliability power path priority selector，classified under integrated circuits(IC) / power management IC / power path priority selector. Core device function:  three inputprioritypower pathcontroller. Key technical specifications: supports3channelsinput(2.5Vto36V), automatic priorityswitchingpower, integratedovervoltage/undervoltageprotection, QFN-24(4mm×4mm)package, operating temperature0°Cto+70°C. Operating temperature range: 0°Cto+70°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/LTC4417CUF#TRPBF.jpg",
     "alt": "Analog Devices (ADI/Linear) LTC4417CUF#TRPBF 电源优先级选择器 产品图片",
     "imageNote": "图片类型：未找到可靠匹配图片。本轮对Analog Devices (ADI/Linear)型号LTC4417CUF#TRPBF执行检索，暂未取得能同时满足官方来源、该具体型号对应关系和封装明确性的无争议单器件图片；按规范明确标注“未找到可靠匹配图片”并使用Logo占位，绝不使用拼图、堆叠图或非匹配型号虚构来源。",
@@ -20322,7 +20322,7 @@ export const PRODUCT_PARTS = {
         "原Linear Technology三路电源优先级选择器，CUF为商业级QFN-24封装"
       ]
     ],
-    "about": "LTC4417CUF#TRPBF 是 Analog Devices (ADI/Linear) 推出的高可靠性 电源优先级选择器，归属于 集成电路(IC) / 电源管理芯片 / 电源优先级选择器。器件核心功能：三输入优先级电源路径控制器。主要技术规格：支持3路输入(2.5V至36V)、自动按优先级切换电源、集成过压/欠压保护、QFN-24(4mm×4mm)封装、工作温度0°C至+70°C。工作温度范围：0°C至+70°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "LTC4417CUF#TRPBF  is  Analog Devices (ADI/Linear) introduced byhigh-reliability power path priority selector，classified under integrated circuits(IC) / power management IC / power path priority selector. Core device function:  three inputprioritypower pathcontroller. Key technical specifications: supports3channelsinput(2.5Vto36V), automatic priorityswitchingpower, integratedovervoltage/undervoltageprotection, QFN-24(4mm×4mm)package, operating temperature0°Cto+70°C. Operating temperature range: 0°Cto+70°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
@@ -20366,12 +20366,12 @@ export const PRODUCT_PARTS = {
   "LTC3260EDE#TRPBF": {
     "mpn": "LTC3260EDE#TRPBF",
     "brand": "Analog Devices",
-    "title": "LTC3260EDE#TRPBF | Analog Devices 电荷泵与双LDO稳压器 原装现货与规格参数 | YIXINOU",
+    "title": "LTC3260EDE#TRPBF | Analog Devices charge pump and dual LDO regulator Genuine stock and specifications | YIXINOU",
     "metaTitle": "LTC3260EDE#TRPBF Analog Devices (ADI/Linear) 电荷泵与双LDO稳压器 - 现货供应/技术规格/RFQ报价 | YIXINOU",
     "metaDescription": "YIXINOU提供 Analog Devices (ADI/Linear) LTC3260EDE#TRPBF 电荷泵与双LDO稳压器 原装芯片现货供应与技术资料。核心规格：输入4.5V至32V、集成100mA反相电荷泵+正负双路50mA低噪声LDO、DFN-14(4mm×3mm)封装、工作温度-40°C至+125°C；工作温度：-40°C至+125°C；认证：RoHS。支持BOM配单与快速询价。",
     "category": "集成电路(IC) / 电源管理芯片 / 电荷泵与双LDO稳压器",
     "categoryHref": "/all-products",
-    "summary": "LTC3260EDE#TRPBF 是 Analog Devices (ADI/Linear) 推出的高可靠性 电荷泵与双LDO稳压器，归属于 集成电路(IC) / 电源管理芯片 / 电荷泵与双LDO稳压器。器件核心功能：低噪声反相电荷泵与双正负LDO。主要技术规格：输入4.5V至32V、集成100mA反相电荷泵+正负双路50mA低噪声LDO、DFN-14(4mm×3mm)封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "summary": "LTC3260EDE#TRPBF  is  Analog Devices (ADI/Linear) introduced byhigh-reliability charge pump and dual LDO regulator，classified under integrated circuits(IC) / power management IC / charge pump and dual LDO regulator. Core device function: low-noiseinverting charge pumpand dual  positive  negative LDO. Key technical specifications: input4.5Vto32V, integrated100mAinverting charge pump+dual positive/negative50mAlow-noiseLDO, DFN-14(4mm×3mm)package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "img": "/assets/images/LTC3260EDE#TRPBF.jpg",
     "alt": "Analog Devices (ADI/Linear) LTC3260EDE#TRPBF 电荷泵与双LDO稳压器 产品图片",
     "imageNote": "图片类型：未找到可靠匹配图片。本轮对Analog Devices (ADI/Linear)型号LTC3260EDE#TRPBF执行检索，暂未取得能同时满足官方来源、该具体型号对应关系和封装明确性的无争议单器件图片；按规范明确标注“未找到可靠匹配图片”并使用Logo占位，绝不使用拼图、堆叠图或非匹配型号虚构来源。",
@@ -20417,7 +20417,7 @@ export const PRODUCT_PARTS = {
         "原Linear Technology专为运放及传感器提供低噪声正负双电源的电荷泵IC"
       ]
     ],
-    "about": "LTC3260EDE#TRPBF 是 Analog Devices (ADI/Linear) 推出的高可靠性 电荷泵与双LDO稳压器，归属于 集成电路(IC) / 电源管理芯片 / 电荷泵与双LDO稳压器。器件核心功能：低噪声反相电荷泵与双正负LDO。主要技术规格：输入4.5V至32V、集成100mA反相电荷泵+正负双路50mA低噪声LDO、DFN-14(4mm×3mm)封装、工作温度-40°C至+125°C。工作温度范围：-40°C至+125°C。符合认证/标准：RoHS。YIXINOU 提供原厂正品货源支持与质量检验，支持实盘库存核验、阶梯报价与技术选型支持。",
+    "about": "LTC3260EDE#TRPBF  is  Analog Devices (ADI/Linear) introduced byhigh-reliability charge pump and dual LDO regulator，classified under integrated circuits(IC) / power management IC / charge pump and dual LDO regulator. Core device function: low-noiseinverting charge pumpand dual  positive  negative LDO. Key technical specifications: input4.5Vto32V, integrated100mAinverting charge pump+dual positive/negative50mAlow-noiseLDO, DFN-14(4mm×3mm)package, operating temperature-40°Cto+125°C. Operating temperature range: -40°Cto+125°C. Certifications/standards: RoHS. YIXINOU provideoriginal-manufacturer sourcing and quality inspection support，supports verification of actual inventory, volume pricingandtechnical selection support. ",
     "standards": [
       "RoHS"
     ],
