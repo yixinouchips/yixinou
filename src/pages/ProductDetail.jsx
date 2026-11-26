@@ -9,6 +9,7 @@ import { ProductJsonLd } from '../Seo';
 import { useConfig } from '../config';
 import { useI18n } from '../i18n';
 import { useReveal, useScrollTop } from '../hooks';
+import { safeAssetUrl } from '../assetUrl';
 
 /**
  * Collapsible section.
@@ -119,7 +120,7 @@ export default function ProductDetail() {
                 </div>
                 <figure className="pd-figure">
                   <img
-                    src={part.img}
+                    src={safeAssetUrl(part.img)}
                     alt={part.alt}
                     width="900"
                     height="900"

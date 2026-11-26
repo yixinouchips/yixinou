@@ -10,6 +10,7 @@ import { ProductsItemList } from '../Seo';
 import { useConfig } from '../config';
 import { useI18n } from '../i18n';
 import { useCanonical, useReveal, useScrollTop } from '../hooks';
+import { safeAssetUrl } from '../assetUrl';
 import { brandLabel } from '../brands';
 import { localeOfPath, withLocale } from '../content';
 import { PER_PAGE, clampPage, pageCountFor, pageNumbers, pageRange, pageSlice } from '../pagination';
@@ -317,7 +318,7 @@ export default function AllProducts() {
                 {pageItems.map((p) => (
                   <li className="al-card" key={p.id}>
                     <Link className="al-card-pic" to={p.href} tabIndex={-1} aria-hidden="true">
-                      <img src={p.img} alt={p.alt} loading="lazy" decoding="async" />
+                      <img src={safeAssetUrl(p.img)} alt={p.alt} loading="lazy" decoding="async" />
                     </Link>
                     <div className="al-card-body">
                       <p className="al-card-brand">{p.brand}</p>

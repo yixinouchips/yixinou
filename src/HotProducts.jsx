@@ -2,6 +2,7 @@ import { Link } from './router';
 import { useConfig } from './config';
 import { useI18n } from './i18n';
 import { useReveal } from './hooks';
+import { safeAssetUrl } from './assetUrl';
 
 /*
  * Curated home-page slots. HOT_PRODUCTS holds ids of published part records rather than
@@ -35,15 +36,15 @@ export default function HotProducts() {
                 <Link
                   aria-label={`${p.mpn}, ${p.title}`}
                   className="pic"
-                  to={`/product/${p.id}`}
+                  to={`/product/${encodeURIComponent(p.id)}`}
                   tabIndex={-1}
                   aria-hidden="true"
                 >
-                  <img src={p.img.replace(/\.(jpg|png)$/i, '.webp')} alt={p.alt} width="240" height="180" loading="lazy" decoding="async" style={{ objectFit: "contain", aspectRatio: "4 / 3" }} />
+                  <img src={safeAssetUrl(p.img).replace(/\.(jpg|png)$/i, '.webp')} alt={p.alt} width="240" height="180" loading="lazy" decoding="async" style={{ objectFit: "contain", aspectRatio: "4 / 3" }} />
                 </Link>
                 <p className="brand">{p.brand}</p>
                 <h4>
-                  <Link to={`/product/${p.id}`}>{p.mpn}</Link>
+                  <Link to={`/product/${encodeURIComponent(p.id)}`}>{p.mpn}</Link>
                 </h4>
               </div>
             </li>

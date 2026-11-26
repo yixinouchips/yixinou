@@ -1,6 +1,7 @@
 import { useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
 import { useConfig } from './config';
+import { safeAssetUrl } from './assetUrl';
 import { CERTIFICATE_METADATA, LOCALES, defaultLocale, localeOfPath, stripLocale, withLocale } from './content';
 
 import { CHIPS32 } from './data/chips32';
@@ -179,7 +180,7 @@ export function ProductJsonLd({ part }) {
     brand: { '@type': 'Brand', name: part.brand },
     category: part.category,
     description: part.summary,
-    image: `${siteUrl}${part.img}`,
+    image: `${siteUrl}${safeAssetUrl(part.img)}`,
     url: `${siteUrl}/product/${encodeURIComponent(part.mpn)}`,
     additionalProperty: part.specs.map(([name, value]) => ({
       '@type': 'PropertyValue',
