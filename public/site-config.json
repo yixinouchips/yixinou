@@ -1175,9 +1175,9 @@
       "keywords": "TMS320F2812PGFQ, Texas Instruments 150 MHz C2000 32-bit DSP with 256 KB Flash and EMIF in LQFP-176, Integrated Circuits (ICS) / Integrated Circuits (ICs) / Embedded Processors and Controllers / Microcontrollers, Texas Instruments datasheet TMS320F281x Digital Signal Processors (tms320f2812-q1), RoHS compliant and REACH compliant, lead-free green package, AEC-Q100 automotive qualification for the Q suffix version, CAN interface compliant with ISO 11898, ESD-sensitive device — handle under ESD-protected conditions, electronic components supplier"
     },
     "/product/TMS320F28335PGFA": {
-      "title": "TMS320F28335PGFA - 150 MHz C2000 32-bit DSP | YIXINOU",
-      "description": "The TMS320F28335PGFA is a Texas Instruments C2000 32-bit digital signal processor with a TMS320C28x core at 150 MHz and a 6. Request a quote from YIXINOU.",
-      "keywords": "TMS320F28335PGFA, Texas Instruments 150 MHz C2000 32-bit DSP with FPU, 512 KB Flash and EMIF in LQFP-176, Integrated Circuits (ICS) / Integrated Circuits (ICs) / Embedded Processors and Controllers / Microcontrollers, Texas Instruments datasheet TMS320F2833x / TMS320F2823x Real-Time Microcontrollers (tms320f28232), RoHS compliant and REACH compliant, lead-free green package, AEC-Q100 automotive grade versions plus applicable IEC 60730 and IEC 60335 appliance safety clauses, CAN interface compliant with ISO 11898, ESD-sensitive device — handle under ESD-protected conditions, electronic components supplier"
+      "title": "TMS320F28335PGFA | Texas Instruments (TI) DSC/MCU（32位 C2000） | YIXINOU",
+      "description": "TMS320F28335PGFA from Texas Instruments (TI): C2000™ 32 位浮点数字信号控制器. Provided specifications: 32 位 C28x+FPU 内核，150MHz，512KB Flash，68KB RAM，16 通道 12 位 ADC，内核 1.9V / IO 3.3V；LQFP-176 (PGF) 封装；工作温度 -40°C~+85°C Package: LQFP-176 (PGF). Request verified stock, price, MOQ and lead time.",
+      "keywords": "TMS320F28335PGFA, Texas Instruments (TI), Processor and controller, DSC/MCU（32位 C2000）, C2000™ 32 位浮点数字信号控制器, 32 位 C28x+FPU 内核，150MHz，512KB Flash，68KB RAM，16 通道 12 位 ADC，内核 1.9V / IO 3.3V；LQFP-176 (PGF) 封装, LQFP-176 (PGF), -40°C~+85°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, IEEE 1149.1 (JTAG)、RoHS"
     },
     "/product/TMS320F28335ZJZA": {
       "title": "TMS320F28335ZJZA - 32-bit C2000 digital signal | YIXINOU",
@@ -1473,6 +1473,301 @@
       "title": "UPD720115K8-711-BAK-A 瑞萨(Renesas) 接口芯片 | YIXINOU",
       "description": "UPD720115K8-711-BAK-A 是 瑞萨(Renesas) 的 USB 2.0 4端口集线器控制器IC，归属于集成电路(IC) / 接口芯片 / USB 集线器控制器 (USB Hub)。本页仅列出当前已提供的型号、分类、功能、规格、工作温度和认证信息；库存、价格、MOQ与交期请联系 YIXINOU 询价。",
       "keywords": "UPD720115K8-711-BAK-A, 瑞萨(Renesas), 集成电路(IC), 接口芯片, USB 集线器控制器 (USB Hub), 支持 USB 2.0/1.1, 内置稳压器, 40引脚 QFN (6x6 mm)"
+    },
+    "/product/PTN5150AHXMP": {
+      "title": "PTN5150AHXMP | NXP USB Type-C CC 逻辑控制器 | YIXINOU",
+      "description": "PTN5150AHXMP from NXP: USB Type-C 配置通道(CC)逻辑芯片. Provided specifications: 供电 2.7V~5.5V，支持 DRP/DFP/UFP，I2C/GPIO 控制；X2QFN-12 封装；工作温度 -40°C~+85°C Package: X2QFN-12. Request verified stock, price, MOQ and lead time.",
+      "keywords": "PTN5150AHXMP, NXP, Interface IC, USB Type-C CC 逻辑控制器, USB Type-C 配置通道(CC)逻辑芯片, 供电 2.7V~5.5V，支持 DRP/DFP/UFP，I2C/GPIO 控制；X2QFN-12 封装, X2QFN-12, -40°C~+85°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, USB Type-C Rev 1.1、RoHS"
+    },
+    "/product/XC95144XL-10TQG100C": {
+      "title": "XC95144XL-10TQG100C | AMD (Xilinx) CPLD | YIXINOU",
+      "description": "XC95144XL-10TQG100C from AMD (Xilinx): 高性能 3.3V 系统内可编程 CPLD. Provided specifications: 144 个宏单元，81 个 I/O，引脚到引脚延迟 10ns，内核电压 3.3V；TQFP-100 封装；工作温度 0°C~+70°C Package: TQFP-100. Request verified stock, price, MOQ and lead time.",
+      "keywords": "XC95144XL-10TQG100C, AMD (Xilinx), Programmable logic device, CPLD, 高性能 3.3V 系统内可编程 CPLD, 144 个宏单元，81 个 I/O，引脚到引脚延迟 10ns，内核电压 3.3V；TQFP-100 封装, TQFP-100, 0°C~+70°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, IEEE 1149.1 (JTAG)、RoHS"
+    },
+    "/product/KXD8DRJJ3T84": {
+      "title": "KXD8DRJJ3T84 | KIOXIA (铠侠) 企业级 NVMe SSD | YIXINOU",
+      "description": "KXD8DRJJ3T84 from KIOXIA (铠侠): 数据中心级 PCIe 5.0 固态硬盘. Provided specifications: 容量 3.84TB，PCIe 5.0 x4 / NVMe 2.0，BiCS TLC 闪存，12V 供电，顺序读 12500MB/s；EDSFF E1.S (9.5mm) 模块；工作温度 0°C~+75°C Package: . Request verified stock, price, MOQ and lead time.",
+      "keywords": "KXD8DRJJ3T84, KIOXIA (铠侠), Memory IC, 企业级 NVMe SSD, 数据中心级 PCIe 5.0 固态硬盘, 容量 3.84TB，PCIe 5.0 x4 / NVMe 2.0，BiCS TLC 闪存，12V 供电，顺序读 12500MB/s；EDSFF E1.S (9.5mm) 模块, , 0°C~+75°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, PCIe 5.0、NVMe 2.0、OCP Datacenter NVMe SSD v2.5、TCG Opal、RoHS"
+    },
+    "/product/S29AL016J70TFI020": {
+      "title": "S29AL016J70TFI020 | Infineon (Spansion) Parallel NOR Flash | YIXINOU",
+      "description": "S29AL016J70TFI020 from Infineon (Spansion): 16Mbit 并行接口 NOR 闪存. Provided specifications: 容量 16Mbit (2Mx8 / 1Mx16)，访问时间 70ns，供电 2.7V~3.6V；TSOP-48 封装；工作温度 -40°C~+85°C Package: TSOP-48. Request verified stock, price, MOQ and lead time.",
+      "keywords": "S29AL016J70TFI020, Infineon (Spansion), Memory IC, Parallel NOR Flash, 16Mbit 并行接口 NOR 闪存, 容量 16Mbit (2Mx8 / 1Mx16)，访问时间 70ns，供电 2.7V~3.6V；TSOP-48 封装, TSOP-48, -40°C~+85°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, JEDEC CFI、RoHS"
+    },
+    "/product/MT40A1G8SA-062E%3AR": {
+      "title": "MT40A1G8SA-062E:R | Micron (美光) DDR4 SDRAM | YIXINOU",
+      "description": "MT40A1G8SA-062E:R from Micron (美光): 8Gbit DDR4 同步动态随机存取存储器. Provided specifications: 容量 8Gbit (1Gx8)，速率 3200MT/s (CL22)，VDD=1.2V；FBGA-78 封装；工作温度 0°C~+95°C (TC) Package: FBGA-78. Request verified stock, price, MOQ and lead time.",
+      "keywords": "MT40A1G8SA-062E:R, Micron (美光), Memory IC, DDR4 SDRAM, 8Gbit DDR4 同步动态随机存取存储器, 容量 8Gbit (1Gx8)，速率 3200MT/s (CL22)，VDD=1.2V；FBGA-78 封装, FBGA-78, 0°C~+95°C (TC), datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, JEDEC JESD79-4 (DDR4)、RoHS"
+    },
+    "/product/IRFR9024NTRPBF": {
+      "title": "IRFR9024NTRPBF | Infineon (IR) P 沟道功率 MOSFET | YIXINOU",
+      "description": "IRFR9024NTRPBF from Infineon (IR): P 沟道 HEXFET 功率场效应管. Provided specifications: VDS=-55V，ID=-11A (25°C)，RDS(on) 最大 175mΩ (@VGS=-10V)；DPAK (TO-252-3) 封装；结温 -55°C~+175°C Package: DPAK (TO-252-3). Request verified stock, price, MOQ and lead time.",
+      "keywords": "IRFR9024NTRPBF, Infineon (IR), MOSFET, P 沟道功率 MOSFET, P 沟道 HEXFET 功率场效应管, VDS=-55V，ID=-11A (25°C)，RDS(on) 最大 175mΩ (@VGS=-10V)；DPAK (TO-252-3) 封装, DPAK (TO-252-3), -55°C~+175°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, RoHS、MSL-1"
+    },
+    "/product/PCA9551D": {
+      "title": "PCA9551D | NXP I2C LED 驱动控制器 | YIXINOU",
+      "description": "PCA9551D from NXP: 8 位 I2C 总线可编程闪烁率 LED 驱动器. Provided specifications: 8 通道开漏输出 (25mA/通道)，供电 2.3V~5.5V，400kHz I2C；SO-16 (SOIC-16) 封装；工作温度 -40°C~+85°C Package: SO-16 (SOIC-16). Request verified stock, price, MOQ and lead time.",
+      "keywords": "PCA9551D, NXP, Interface IC, I2C LED 驱动控制器, 8 位 I2C 总线可编程闪烁率 LED 驱动器, 8 通道开漏输出 (25mA/通道)，供电 2.3V~5.5V，400kHz I2C；SO-16 (SOIC-16) 封装, SO-16 (SOIC-16), -40°C~+85°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, NXP I2C-bus 规范、RoHS"
+    },
+    "/product/HEF4093BP": {
+      "title": "HEF4093BP | NXP (Nexperia) CMOS 施密特触发器逻辑门 | YIXINOU",
+      "description": "HEF4093BP from NXP (Nexperia): 四路 2 输入与非门施密特触发器. Provided specifications: 4 通道 2 输入 NAND 施密特触发，供电 3V~15V；DIP-14 (SOT27-1) 封装；工作温度 -40°C~+85°C Package: DIP-14 (SOT27-1). Request verified stock, price, MOQ and lead time.",
+      "keywords": "HEF4093BP, NXP (Nexperia), Analog IC, CMOS 施密特触发器逻辑门, 四路 2 输入与非门施密特触发器, 4 通道 2 输入 NAND 施密特触发，供电 3V~15V；DIP-14 (SOT27-1) 封装, DIP-14 (SOT27-1), -40°C~+85°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, JEDEC JESD13-B (4000B CMOS)、RoHS"
+    },
+    "/product/BCM59136B0KMLG": {
+      "title": "BCM59136B0KMLG | Broadcom (博通) PoE 供电端控制器 (PSE) | YIXINOU",
+      "description": "BCM59136B0KMLG from Broadcom (博通): 8 通道以太网供电 (PoE) 控制器. Provided specifications: 支持 8 通道 IEEE 802.3af/at/bt PoE 管理，I2C 接口；QFN-56 封装；工作温度 -40°C~+85°C Package: QFN-56. Request verified stock, price, MOQ and lead time.",
+      "keywords": "BCM59136B0KMLG, Broadcom (博通), Power management IC, PoE 供电端控制器 (PSE), 8 通道以太网供电 (PoE) 控制器, 支持 8 通道 IEEE 802.3af/at/bt PoE 管理，I2C 接口；QFN-56 封装, QFN-56, -40°C~+85°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, IEEE 802.3af/at/bt、RoHS"
+    },
+    "/product/CY62157EV30LL-45ZSXIT": {
+      "title": "CY62157EV30LL-45ZSXIT | Infineon (Cypress) 异步 SRAM | YIXINOU",
+      "description": "CY62157EV30LL-45ZSXIT from Infineon (Cypress): 8Mbit 低功耗异步静态随机存储器. Provided specifications: 容量 8Mbit (512Kx16)，访问时间 45ns，供电 2.2V~3.6V，待机电流 2µA(typ)；TSOP-II-44 封装；工作温度 -40°C~+85°C Package: TSOP-II-44. Request verified stock, price, MOQ and lead time.",
+      "keywords": "CY62157EV30LL-45ZSXIT, Infineon (Cypress), Memory IC, 异步 SRAM, 8Mbit 低功耗异步静态随机存储器, 容量 8Mbit (512Kx16)，访问时间 45ns，供电 2.2V~3.6V，待机电流 2µA(typ)；TSOP-II-44 封装, TSOP-II-44, -40°C~+85°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, RoHS"
+    },
+    "/product/IS62WV51216BLL-55TLI-TR": {
+      "title": "IS62WV51216BLL-55TLI-TR | ISSI (芯成) 异步 SRAM | YIXINOU",
+      "description": "IS62WV51216BLL-55TLI-TR from ISSI (芯成): 8Mbit 超低功耗 CMOS 静态随机存储器. Provided specifications: 容量 8Mbit (512Kx16)，访问时间 55ns，供电 2.5V~3.6V；TSOP-II-44 封装；工作温度 -40°C~+85°C Package: TSOP-II-44. Request verified stock, price, MOQ and lead time.",
+      "keywords": "IS62WV51216BLL-55TLI-TR, ISSI (芯成), Memory IC, 异步 SRAM, 8Mbit 超低功耗 CMOS 静态随机存储器, 容量 8Mbit (512Kx16)，访问时间 55ns，供电 2.5V~3.6V；TSOP-II-44 封装, TSOP-II-44, -40°C~+85°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, RoHS"
+    },
+    "/product/RMLV0816BGSB-4S2%23": {
+      "title": "RMLV0816BGSB-4S2# | Renesas (瑞萨) 低功耗异步 SRAM | YIXINOU",
+      "description": "RMLV0816BGSB-4S2# from Renesas (瑞萨): 8Mbit 先进低功耗 SRAM. Provided specifications: 容量 8Mbit (512Kx16)，访问时间 45ns，供电 2.7V~3.6V；TSOP-II-44 封装；工作温度 -40°C~+85°C Package: TSOP-II-44. Request verified stock, price, MOQ and lead time.",
+      "keywords": "RMLV0816BGSB-4S2#, Renesas (瑞萨), Memory IC, 低功耗异步 SRAM, 8Mbit 先进低功耗 SRAM, 容量 8Mbit (512Kx16)，访问时间 45ns，供电 2.7V~3.6V；TSOP-II-44 封装, TSOP-II-44, -40°C~+85°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, RoHS"
+    },
+    "/product/R5F211A1DSP": {
+      "title": "R5F211A1DSP | Renesas (瑞萨) MCU（16位 R8C） | YIXINOU",
+      "description": "R5F211A1DSP from Renesas (瑞萨): R8C/1A 系列 16 位单芯片微控制器. Provided specifications: 16 位 R8C 内核，20MHz 主频，4KB Flash，384B RAM，供电 2.7V~5.5V；LSSOP-20 (20-pin) 封装；工作温度 -20°C~+85°C Package: LSSOP-20 (20-pin). Request verified stock, price, MOQ and lead time.",
+      "keywords": "R5F211A1DSP, Renesas (瑞萨), Processor and controller, MCU（16位 R8C）, R8C/1A 系列 16 位单芯片微控制器, 16 位 R8C 内核，20MHz 主频，4KB Flash，384B RAM，供电 2.7V~5.5V；LSSOP-20 (20-pin) 封装, LSSOP-20 (20-pin), -20°C~+85°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, RoHS"
+    },
+    "/product/LM311D": {
+      "title": "LM311D | Texas Instruments (TI) 电压比较器 | YIXINOU",
+      "description": "LM311D from Texas Instruments (TI): 带选通端的差分电压比较器. Provided specifications: 单通道，响应时间 165ns，供电 ±15V 或单电源 5V~30V，输出集电极开路；SOIC-8 (D) 封装；工作温度 0°C~+70°C Package: SOIC-8 (D). Request verified stock, price, MOQ and lead time.",
+      "keywords": "LM311D, Texas Instruments (TI), Analog IC, 电压比较器, 带选通端的差分电压比较器, 单通道，响应时间 165ns，供电 ±15V 或单电源 5V~30V，输出集电极开路；SOIC-8 (D) 封装, SOIC-8 (D), 0°C~+70°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, RoHS"
+    },
+    "/product/MTFC32GAZAQHD-IT": {
+      "title": "MTFC32GAZAQHD-IT | Micron (美光) eMMC | YIXINOU",
+      "description": "MTFC32GAZAQHD-IT from Micron (美光): 32GB 工业级 eMMC 5.1 嵌入式闪存. Provided specifications: 容量 32GB (256Gbit)，HS400 模式，总线 8 位，VCC 2.7V~3.6V / VCCQ 1.7V~1.95V 或 2.7V~3.6V；VFBGA-153 封装；工作温度 -40°C~+85°C Package: VFBGA-153. Request verified stock, price, MOQ and lead time.",
+      "keywords": "MTFC32GAZAQHD-IT, Micron (美光), Memory IC, eMMC, 32GB 工业级 eMMC 5.1 嵌入式闪存, 容量 32GB (256Gbit)，HS400 模式，总线 8 位，VCC 2.7V~3.6V / VCCQ 1.7V~1.95V 或 2.7V~3.6V；VFBGA-153 封装, VFBGA-153, -40°C~+85°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, JEDEC JESD84-B51 (eMMC 5.1)、RoHS"
+    },
+    "/product/ISL32496EIBZ-T": {
+      "title": "ISL32496EIBZ-T | Renesas (Intersil) RS-485/RS-422 收发器 | YIXINOU",
+      "description": "ISL32496EIBZ-T from Renesas (Intersil): ±60V 故障保护型 5V RS-485/422 收发器. Provided specifications: 全双工，速率 10Mbps，±60V 总线过压保护，±25V 共模范围，供电 4.5V~5.5V；SOIC-14 封装；工作温度 -40°C~+85°C Package: SOIC-14. Request verified stock, price, MOQ and lead time.",
+      "keywords": "ISL32496EIBZ-T, Renesas (Intersil), Interface IC, RS-485/RS-422 收发器, ±60V 故障保护型 5V RS-485/422 收发器, 全双工，速率 10Mbps，±60V 总线过压保护，±25V 共模范围，供电 4.5V~5.5V；SOIC-14 封装, SOIC-14, -40°C~+85°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, TIA/EIA-485-A、TIA/EIA-422-B、IEC 61000-4-2 ESD、RoHS"
+    },
+    "/product/SC18IS602BIPW%2FS8HP": {
+      "title": "SC18IS602BIPW/S8HP | NXP I2C 转 SPI 桥接器 | YIXINOU",
+      "description": "SC18IS602BIPW/S8HP from NXP: I2C 总线至 SPI 主机接口桥接芯片. Provided specifications: I2C 从机(400kHz)转 SPI 主机(最高 1.8MHz)，4 路片选，供电 2.4V~3.6V；TSSOP-16 封装；工作温度 -40°C~+85°C Package: TSSOP-16. Request verified stock, price, MOQ and lead time.",
+      "keywords": "SC18IS602BIPW/S8HP, NXP, Interface IC, I2C 转 SPI 桥接器, I2C 总线至 SPI 主机接口桥接芯片, I2C 从机(400kHz)转 SPI 主机(最高 1.8MHz)，4 路片选，供电 2.4V~3.6V；TSSOP-16 封装, TSSOP-16, -40°C~+85°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, NXP I2C-bus 规范、RoHS"
+    },
+    "/product/M321R8GA0EB2-CCP": {
+      "title": "M321R8GA0EB2-CCP | Samsung (三星) DDR5 RDIMM 内存模组 | YIXINOU",
+      "description": "M321R8GA0EB2-CCP from Samsung (三星): 64GB DDR5-6400 服务器带寄存器内存条. Provided specifications: 容量 64GB (2Rx4)，速率 6400MT/s，CL52，供电 1.1V，支持 ECC；DIMM-288 引脚模组；工作温度 0°C~+85°C Package: . Request verified stock, price, MOQ and lead time.",
+      "keywords": "M321R8GA0EB2-CCP, Samsung (三星), Memory IC, DDR5 RDIMM 内存模组, 64GB DDR5-6400 服务器带寄存器内存条, 容量 64GB (2Rx4)，速率 6400MT/s，CL52，供电 1.1V，支持 ECC；DIMM-288 引脚模组, , 0°C~+85°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, JEDEC JESD79-5 (DDR5)、RoHS"
+    },
+    "/product/SiWG917M111MGTBAR": {
+      "title": "SiWG917M111MGTBAR | Silicon Labs (芯科) Wi-Fi 6 + BLE 5.4 无线 SoC | YIXINOU",
+      "description": "SiWG917M111MGTBAR from Silicon Labs (芯科): SiWx917 超低功耗 Wi-Fi 6 与蓝牙 LE 无线 SoC. Provided specifications: 2.4GHz Wi-Fi 6 (802.11ax) + BLE 5.4，集成 ARM Cortex-M4F，内置 Flash/SRAM，供电 1.85V~3.6V；VFQFN-84 封装；工作温度 -40°C~+85°C Package: VFQFN-84. Request verified stock, price, MOQ and lead time.",
+      "keywords": "SiWG917M111MGTBAR, Silicon Labs (芯科), Wireless connectivity SoC, Wi-Fi 6 + BLE 5.4 无线 SoC, SiWx917 超低功耗 Wi-Fi 6 与蓝牙 LE 无线 SoC, 2.4GHz Wi-Fi 6 (802.11ax) + BLE 5.4，集成 ARM Cortex-M4F，内置 Flash/SRAM，供电 1.85V~3.6V；VFQFN-84 封装, VFQFN-84, -40°C~+85°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, IEEE 802.11ax (Wi-Fi 6)、Bluetooth 5.4、Matter、RoHS"
+    },
+    "/product/MAX30101EFD%2B": {
+      "title": "MAX30101EFD+ | Analog Devices (Maxim) 光学心率与血氧传感器 | YIXINOU",
+      "description": "MAX30101EFD+ from Analog Devices (Maxim): 高灵敏度脉搏血氧仪和心率传感器模块. Provided specifications: 集成红光/红外/绿光 LED、光电探测器及 18 位 ADC，I2C 接口，VDD 1.8V / VLED+ 5.0V；OESIP-14 光学模块封装；工作温度 -40°C~+85°C Package: OESIP-14 光学模块. Request verified stock, price, MOQ and lead time.",
+      "keywords": "MAX30101EFD+, Analog Devices (Maxim), Analog IC, 光学心率与血氧传感器, 高灵敏度脉搏血氧仪和心率传感器模块, 集成红光/红外/绿光 LED、光电探测器及 18 位 ADC，I2C 接口，VDD 1.8V / VLED+ 5.0V；OESIP-14 光学模块封装, OESIP-14 光学模块, -40°C~+85°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, RoHS"
+    },
+    "/product/KLMBG4GEUF-B04Q059": {
+      "title": "KLMBG4GEUF-B04Q059 | Samsung (三星) 车规级 eMMC | YIXINOU",
+      "description": "KLMBG4GEUF-B04Q059 from Samsung (三星): 32GB 车规级 eMMC 5.1 嵌入式闪存. Provided specifications: 容量 32GB，HS400 模式，VCC 2.7V~3.6V / VCCQ 1.7V~1.95V 或 2.7V~3.6V；FBGA-153 封装；工作温度 -40°C~+105°C Package: FBGA-153. Request verified stock, price, MOQ and lead time.",
+      "keywords": "KLMBG4GEUF-B04Q059, Samsung (三星), Memory IC, 车规级 eMMC, 32GB 车规级 eMMC 5.1 嵌入式闪存, 容量 32GB，HS400 模式，VCC 2.7V~3.6V / VCCQ 1.7V~1.95V 或 2.7V~3.6V；FBGA-153 封装, FBGA-153, -40°C~+105°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, JEDEC JESD84-B51 (eMMC 5.1)、AEC-Q100、RoHS"
+    },
+    "/product/MAX32664GWEA%2B": {
+      "title": "MAX32664GWEA+ | Analog Devices (Maxim) 超低功耗生物识别传感器集线器 MCU | YIXINOU",
+      "description": "MAX32664GWEA+ from Analog Devices (Maxim): 集成心率血氧算法的 ARM Cortex-M4F 传感器 Hub. Provided specifications: ARM Cortex-M4F 96MHz，256KB Flash，96KB SRAM，I2C 接口，供电 1.8V；WLP-16 封装；工作温度 -40°C~+85°C Package: WLP-16. Request verified stock, price, MOQ and lead time.",
+      "keywords": "MAX32664GWEA+, Analog Devices (Maxim), Processor and controller, 超低功耗生物识别传感器集线器 MCU, 集成心率血氧算法的 ARM Cortex-M4F 传感器 Hub, ARM Cortex-M4F 96MHz，256KB Flash，96KB SRAM，I2C 接口，供电 1.8V；WLP-16 封装, WLP-16, -40°C~+85°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, RoHS"
+    },
+    "/product/K4FBE3D4HB-KHCL02V": {
+      "title": "K4FBE3D4HB-KHCL02V | Samsung (三星) LPDDR4X SDRAM | YIXINOU",
+      "description": "K4FBE3D4HB-KHCL02V from Samsung (三星): 32Gbit 低功耗双倍数据速率 SDRAM. Provided specifications: 容量 32Gbit (x32 位宽)，速率 4266Mbps，VDDQ 0.6V / VDD2 1.1V / VDD1 1.8V；FBGA-200 封装；工作温度 -25°C~+85°C Package: FBGA-200. Request verified stock, price, MOQ and lead time.",
+      "keywords": "K4FBE3D4HB-KHCL02V, Samsung (三星), Memory IC, LPDDR4X SDRAM, 32Gbit 低功耗双倍数据速率 SDRAM, 容量 32Gbit (x32 位宽)，速率 4266Mbps，VDDQ 0.6V / VDD2 1.1V / VDD1 1.8V；FBGA-200 封装, FBGA-200, -25°C~+85°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, JEDEC JESD209-4B (LPDDR4X)、RoHS"
+    },
+    "/product/AD7682BCPZRL7": {
+      "title": "AD7682BCPZRL7 | Analog Devices (ADI) 16位 SAR ADC | YIXINOU",
+      "description": "AD7682BCPZRL7 from Analog Devices (ADI): 4 通道 16 位 250kSPS PulSAR 模数转换器. Provided specifications: 分辨率 16 位，采样率 250kSPS，4 通道单端/伪差分输入，SPI 接口，供电 2.3V~5.5V；LFCSP-20 (4x4mm) 封装；工作温度 -40°C~+85°C Package: LFCSP-20 (4x4mm). Request verified stock, price, MOQ and lead time.",
+      "keywords": "AD7682BCPZRL7, Analog Devices (ADI), Data converter, 16位 SAR ADC, 4 通道 16 位 250kSPS PulSAR 模数转换器, 分辨率 16 位，采样率 250kSPS，4 通道单端/伪差分输入，SPI 接口，供电 2.3V~5.5V；LFCSP-20 (4x4mm) 封装, LFCSP-20 (4x4mm), -40°C~+85°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, RoHS"
+    },
+    "/product/ADL5385ACPZ-R7": {
+      "title": "ADL5385ACPZ-R7 | Analog Devices (ADI) 正交调制器 | YIXINOU",
+      "description": "ADL5385ACPZ-R7 from Analog Devices (ADI): 30MHz 至 2200MHz 宽带正交调制器. Provided specifications: 频率范围 30MHz~2.2GHz，OIP3 25dBm，P1dB 8dBm，供电 4.75V~5.5V (典型 215mA)；LFCSP-24 (4x4mm) 封装；工作温度 -40°C~+85°C Package: LFCSP-24 (4x4mm). Request verified stock, price, MOQ and lead time.",
+      "keywords": "ADL5385ACPZ-R7, Analog Devices (ADI), RF and microwave IC, 正交调制器, 30MHz 至 2200MHz 宽带正交调制器, 频率范围 30MHz~2.2GHz，OIP3 25dBm，P1dB 8dBm，供电 4.75V~5.5V (典型 215mA)；LFCSP-24 (4x4mm) 封装, LFCSP-24 (4x4mm), -40°C~+85°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, RoHS"
+    },
+    "/product/ATMEGA1284P-AU": {
+      "title": "ATMEGA1284P-AU | Microchip (Atmel) MCU（8位 AVR） | YIXINOU",
+      "description": "ATMEGA1284P-AU from Microchip (Atmel): 8 位 AVR RISC 微控制器. Provided specifications: 8 位 AVR 内核，20MHz 主频，128KB Flash，16KB SRAM，4KB EEPROM，供电 1.8V~5.5V；TQFP-44 封装；工作温度 -40°C~+85°C Package: TQFP-44. Request verified stock, price, MOQ and lead time.",
+      "keywords": "ATMEGA1284P-AU, Microchip (Atmel), Processor and controller, MCU（8位 AVR）, 8 位 AVR RISC 微控制器, 8 位 AVR 内核，20MHz 主频，128KB Flash，16KB SRAM，4KB EEPROM，供电 1.8V~5.5V；TQFP-44 封装, TQFP-44, -40°C~+85°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, IEEE 1149.1 (JTAG)、RoHS"
+    },
+    "/product/LTM4622IY%23PBF": {
+      "title": "LTM4622IY#PBF | Analog Devices (Linear) DC/DC 降压电源模块 (µModule) | YIXINOU",
+      "description": "LTM4622IY#PBF from Analog Devices (Linear): 双路 2.5A 或单路 5A 超薄降压型 µModule 稳压器. Provided specifications: 输入 3.6V~20V，输出 0.6V~5.5V，双路 2.5A / 单路 5A；BGA-25 (6.25x6.25x2.42mm) 封装；工作温度 -40°C~+125°C Package: BGA-25 (6.25x6.25x2.42mm). Request verified stock, price, MOQ and lead time.",
+      "keywords": "LTM4622IY#PBF, Analog Devices (Linear), Power management IC, DC/DC 降压电源模块 (µModule), 双路 2.5A 或单路 5A 超薄降压型 µModule 稳压器, 输入 3.6V~20V，输出 0.6V~5.5V，双路 2.5A / 单路 5A；BGA-25 (6.25x6.25x2.42mm) 封装, BGA-25 (6.25x6.25x2.42mm), -40°C~+125°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, RoHS"
+    },
+    "/product/NT5AD256M16E4-JRI": {
+      "title": "NT5AD256M16E4-JRI | Nanya (南亚科技) DDR4 SDRAM | YIXINOU",
+      "description": "NT5AD256M16E4-JRI from Nanya (南亚科技): 4Gbit 工业级 DDR4 同步动态随机存储器. Provided specifications: 容量 4Gbit (256Mx16)，速率 3200Mbps (CL22)，VDD=1.2V；FBGA-96 封装；工作温度 -40°C~+95°C (TC) Package: FBGA-96. Request verified stock, price, MOQ and lead time.",
+      "keywords": "NT5AD256M16E4-JRI, Nanya (南亚科技), Memory IC, DDR4 SDRAM, 4Gbit 工业级 DDR4 同步动态随机存储器, 容量 4Gbit (256Mx16)，速率 3200Mbps (CL22)，VDD=1.2V；FBGA-96 封装, FBGA-96, -40°C~+95°C (TC), datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, JEDEC JESD79-4 (DDR4)、RoHS"
+    },
+    "/product/LM51551QDSSRQ1": {
+      "title": "LM51551QDSSRQ1 | Texas Instruments (TI) 车规级升压/SEPIC/反激控制器 | YIXINOU",
+      "description": "LM51551QDSSRQ1 from Texas Instruments (TI): 2.2MHz 宽输入非同步升压/SEPIC/反激控制器. Provided specifications: 输入 3.5V~45V (启动低至 2.97V)，频率 100kHz~2.2MHz，带打嗝模式过流保护；WSON-12 (DSS) 封装；工作结温 -40°C~+150°C Package: WSON-12 (DSS). Request verified stock, price, MOQ and lead time.",
+      "keywords": "LM51551QDSSRQ1, Texas Instruments (TI), Power management IC, 车规级升压/SEPIC/反激控制器, 2.2MHz 宽输入非同步升压/SEPIC/反激控制器, 输入 3.5V~45V (启动低至 2.97V)，频率 100kHz~2.2MHz，带打嗝模式过流保护；WSON-12 (DSS) 封装, WSON-12 (DSS), -40°C~+150°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, AEC-Q100 Grade 1、RoHS"
+    },
+    "/product/TPS92623QPWPRQ1": {
+      "title": "TPS92623QPWPRQ1 | Texas Instruments (TI) 车规级线性 LED 驱动器 | YIXINOU",
+      "description": "TPS92623QPWPRQ1 from Texas Instruments (TI): 具有热共享控制的三通道汽车高侧 LED 驱动器. Provided specifications: 3 通道高侧电流源，单通道最高 150mA，输入 4.5V~40V，支持 PWM 调光；HTSSOP-16 (PWP) 封装；工作结温 -40°C~+150°C (环境 -40°C~+125°C) Package: HTSSOP-16 (PWP). Request verified stock, price, MOQ and lead time.",
+      "keywords": "TPS92623QPWPRQ1, Texas Instruments (TI), Power management IC, 车规级线性 LED 驱动器, 具有热共享控制的三通道汽车高侧 LED 驱动器, 3 通道高侧电流源，单通道最高 150mA，输入 4.5V~40V，支持 PWM 调光；HTSSOP-16 (PWP) 封装, HTSSOP-16 (PWP), -40°C~+150°C (环境 -40°C~+125°C), datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, AEC-Q100 Grade 1、RoHS"
+    },
+    "/product/BQ7695202PFBR": {
+      "title": "BQ7695202PFBR | Texas Instruments (TI) 多节电池监控与保护器 (BMS AFE) | YIXINOU",
+      "description": "BQ7695202PFBR from Texas Instruments (TI): 3 节至 16 节串联高精度电池监控器和保护器. Provided specifications: 支持 3S~16S 锂电，16 位/24 位 Δ-Σ ADC，集成高侧充放电 FET 驱动，I2C/SPI/HDQ，最高耐压 85V；TQFP-48 (PFB) 封装；工作温度 -40°C~+85°C Package: TQFP-48 (PFB). Request verified stock, price, MOQ and lead time.",
+      "keywords": "BQ7695202PFBR, Texas Instruments (TI), Power management IC, 多节电池监控与保护器 (BMS AFE), 3 节至 16 节串联高精度电池监控器和保护器, 支持 3S~16S 锂电，16 位/24 位 Δ-Σ ADC，集成高侧充放电 FET 驱动，I2C/SPI/HDQ，最高耐压 85V；TQFP-48 (PFB) 封装, TQFP-48 (PFB), -40°C~+85°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, RoHS"
+    },
+    "/product/BQ79718BQPAPRQ1": {
+      "title": "BQ79718BQPAPRQ1 | Texas Instruments (TI) 车规级 18 节电池监控与均衡器 (BMS AFE) | YIXINOU",
+      "description": "BQ79718BQPAPRQ1 from Texas Instruments (TI): 汽车级 18 节串联高精度电池监控器、均衡器与集成硬件保护器. Provided specifications: 支持 6S~18S 电芯电压检测，内置被动均衡，菊花链通信，支持功能安全；HTQFP-64 (PAP) 封装；工作温度 -40°C~+125°C Package: HTQFP-64 (PAP). Request verified stock, price, MOQ and lead time.",
+      "keywords": "BQ79718BQPAPRQ1, Texas Instruments (TI), Power management IC, 车规级 18 节电池监控与均衡器 (BMS AFE), 汽车级 18 节串联高精度电池监控器、均衡器与集成硬件保护器, 支持 6S~18S 电芯电压检测，内置被动均衡，菊花链通信，支持功能安全；HTQFP-64 (PAP) 封装, HTQFP-64 (PAP), -40°C~+125°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, AEC-Q100、ISO 26262 ASIL-D、RoHS"
+    },
+    "/product/TPS92630QPWPRQ1": {
+      "title": "TPS92630QPWPRQ1 | Texas Instruments (TI) 车规级三通道线性 LED 驱动器 | YIXINOU",
+      "description": "TPS92630QPWPRQ1 from Texas Instruments (TI): 具有模拟和 PWM 调光功能的三通道线性 LED 驱动器. Provided specifications: 3 通道，总输出电流最高 450mA (单通道 150mA)，输入 4.5V~40V，支持模拟/PWM 调光；HTSSOP-16 (PWP) 封装；工作温度 -40°C~+125°C Package: HTSSOP-16 (PWP). Request verified stock, price, MOQ and lead time.",
+      "keywords": "TPS92630QPWPRQ1, Texas Instruments (TI), Power management IC, 车规级三通道线性 LED 驱动器, 具有模拟和 PWM 调光功能的三通道线性 LED 驱动器, 3 通道，总输出电流最高 450mA (单通道 150mA)，输入 4.5V~40V，支持模拟/PWM 调光；HTSSOP-16 (PWP) 封装, HTSSOP-16 (PWP), -40°C~+125°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, AEC-Q100 Grade 1、RoHS"
+    },
+    "/product/SAK-TC234LH-32F200F%20AB": {
+      "title": "SAK-TC234LH-32F200F AB | Infineon (英飞凌) 车规级 MCU（32位 TriCore） | YIXINOU",
+      "description": "SAK-TC234LH-32F200F AB from Infineon (英飞凌): AURIX™ TC23x 系列 32 位单核车规微控制器. Provided specifications: 32 位 TriCore TC1.6P 内核 (带锁步核)，200MHz，2MB Flash，192KB SRAM，供电 3.3V/5V；TQFP-144 封装；工作温度 -40°C~+125°C Package: TQFP-144. Request verified stock, price, MOQ and lead time.",
+      "keywords": "SAK-TC234LH-32F200F AB, Infineon (英飞凌), Processor and controller, 车规级 MCU（32位 TriCore）, AURIX™ TC23x 系列 32 位单核车规微控制器, 32 位 TriCore TC1.6P 内核 (带锁步核)，200MHz，2MB Flash，192KB SRAM，供电 3.3V/5V；TQFP-144 封装, TQFP-144, -40°C~+125°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, AEC-Q100 Grade 1、ISO 26262 ASIL-D、RoHS"
+    },
+    "/product/SAK-TC264DP-40F200N%20BC": {
+      "title": "SAK-TC264DP-40F200N BC | Infineon (英飞凌) 车规级 MCU（32位 TriCore） | YIXINOU",
+      "description": "SAK-TC264DP-40F200N BC from Infineon (英飞凌): AURIX™ TC26xD 系列 32 位双核车规微控制器. Provided specifications: 双核 32 位 TriCore (1 个带锁步)，200MHz，2.5MB Flash，240KB SRAM，支持以太网/CAN；TQFP-144 封装；工作温度 -40°C~+125°C Package: TQFP-144. Request verified stock, price, MOQ and lead time.",
+      "keywords": "SAK-TC264DP-40F200N BC, Infineon (英飞凌), Processor and controller, 车规级 MCU（32位 TriCore）, AURIX™ TC26xD 系列 32 位双核车规微控制器, 双核 32 位 TriCore (1 个带锁步)，200MHz，2.5MB Flash，240KB SRAM，支持以太网/CAN；TQFP-144 封装, TQFP-144, -40°C~+125°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, AEC-Q100 Grade 1、ISO 26262 ASIL-D、RoHS"
+    },
+    "/product/SAK-TC377TP-96F300S%20AA": {
+      "title": "SAK-TC377TP-96F300S AA | Infineon (英飞凌) 车规级 MCU（32位 TriCore） | YIXINOU",
+      "description": "SAK-TC377TP-96F300S AA from Infineon (英飞凌): AURIX™ TC37xTP 系列 32 位三核车规微控制器. Provided specifications: 三核 32 位 TriCore (2 个带锁步)，300MHz，6MB Flash，1.1MB SRAM，100Mbps 以太网/CAN FD；LFBGA-292 封装；工作温度 -40°C~+125°C Package: LFBGA-292. Request verified stock, price, MOQ and lead time.",
+      "keywords": "SAK-TC377TP-96F300S AA, Infineon (英飞凌), Processor and controller, 车规级 MCU（32位 TriCore）, AURIX™ TC37xTP 系列 32 位三核车规微控制器, 三核 32 位 TriCore (2 个带锁步)，300MHz，6MB Flash，1.1MB SRAM，100Mbps 以太网/CAN FD；LFBGA-292 封装, LFBGA-292, -40°C~+125°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, AEC-Q100 Grade 1、ISO 26262 ASIL-D、AUTOSAR 4.2、RoHS"
+    },
+    "/product/SAK-TC387QP-160F300S%20AE": {
+      "title": "SAK-TC387QP-160F300S AE | Infineon (英飞凌) 车规级 MCU（32位 TriCore） | YIXINOU",
+      "description": "SAK-TC387QP-160F300S AE from Infineon (英飞凌): AURIX™ TC38xQP 系列 32 位四核车规微控制器. Provided specifications: 四核 32 位 TriCore (2 个带锁步)，300MHz，10MB Flash，1.5MB SRAM，1Gbps 以太网/CAN FD；LFBGA-292 封装；工作温度 -40°C~+125°C Package: LFBGA-292. Request verified stock, price, MOQ and lead time.",
+      "keywords": "SAK-TC387QP-160F300S AE, Infineon (英飞凌), Processor and controller, 车规级 MCU（32位 TriCore）, AURIX™ TC38xQP 系列 32 位四核车规微控制器, 四核 32 位 TriCore (2 个带锁步)，300MHz，10MB Flash，1.5MB SRAM，1Gbps 以太网/CAN FD；LFBGA-292 封装, LFBGA-292, -40°C~+125°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, AEC-Q100 Grade 1、ISO 26262 ASIL-D、AUTOSAR 4.2、RoHS"
+    },
+    "/product/SAK-TC397XX-256F300S%20BC": {
+      "title": "SAK-TC397XX-256F300S BC | Infineon (英飞凌) 车规级 MCU（32位 TriCore） | YIXINOU",
+      "description": "SAK-TC397XX-256F300S BC from Infineon (英飞凌): AURIX™ TC39xXX 系列 32 位六核车规微控制器. Provided specifications: 六核 32 位 TriCore (4 个带锁步)，300MHz，16MB Flash，6.9MB SRAM，1Gbps 以太网/CAN FD；LFBGA-292 封装；工作温度 -40°C~+125°C Package: LFBGA-292. Request verified stock, price, MOQ and lead time.",
+      "keywords": "SAK-TC397XX-256F300S BC, Infineon (英飞凌), Processor and controller, 车规级 MCU（32位 TriCore）, AURIX™ TC39xXX 系列 32 位六核车规微控制器, 六核 32 位 TriCore (4 个带锁步)，300MHz，16MB Flash，6.9MB SRAM，1Gbps 以太网/CAN FD；LFBGA-292 封装, LFBGA-292, -40°C~+125°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, AEC-Q100 Grade 1、ISO 26262 ASIL-D、AUTOSAR 4.2、RoHS"
+    },
+    "/product/10M08SAU169I7G": {
+      "title": "10M08SAU169I7G | Altera (Intel) FPGA | YIXINOU",
+      "description": "10M08SAU169I7G from Altera (Intel): MAX® 10 系列单电源非易失性 FPGA. Provided specifications: 8K 逻辑单元 (LE)，378Kbit 嵌入式存储，130 个用户 I/O，内置配置闪存与 ADC，单电源 3.3V；UBGA-169 (11x11mm) 封装；工作结温 -40°C~+100°C Package: UBGA-169 (11x11mm). Request verified stock, price, MOQ and lead time.",
+      "keywords": "10M08SAU169I7G, Altera (Intel), Programmable logic device, FPGA, MAX® 10 系列单电源非易失性 FPGA, 8K 逻辑单元 (LE)，378Kbit 嵌入式存储，130 个用户 I/O，内置配置闪存与 ADC，单电源 3.3V；UBGA-169 (11x11mm) 封装, UBGA-169 (11x11mm), -40°C~+100°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, IEEE 1149.1 (JTAG)、RoHS"
+    },
+    "/product/OPA330AIDBVT": {
+      "title": "OPA330AIDBVT | Texas Instruments (TI) 零漂移精密运算放大器 | YIXINOU",
+      "description": "OPA330AIDBVT from Texas Instruments (TI): 单通道 1.8V 35µA 微功耗精密零漂移 CMOS 运放. Provided specifications: 单通道，失调电压 50µV(max)，温漂 0.25µV/°C，增益带宽积 350kHz，静态电流 35µA，供电 1.8V~5.5V；SOT-23-5 (DBV) 封装；工作温度 -40°C~+125°C Package: SOT-23-5 (DBV). Request verified stock, price, MOQ and lead time.",
+      "keywords": "OPA330AIDBVT, Texas Instruments (TI), Analog IC, 零漂移精密运算放大器, 单通道 1.8V 35µA 微功耗精密零漂移 CMOS 运放, 单通道，失调电压 50µV(max)，温漂 0.25µV/°C，增益带宽积 350kHz，静态电流 35µA，供电 1.8V~5.5V；SOT-23-5 (DBV) 封装, SOT-23-5 (DBV), -40°C~+125°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, RoHS"
+    },
+    "/product/TLE9015QU": {
+      "title": "TLE9015QU | Infineon (英飞凌) BMS 隔离通信收发器 | YIXINOU",
+      "description": "TLE9015QU from Infineon (英飞凌): 车规级 UART 转 iso-UART 电池管理系统收发器. Provided specifications: 支持双向菊花链通信，速率 2Mbps，电容/变压器隔离，供电 3.3V~5.5V；PG-TQFP-48 封装；工作温度 -40°C~+125°C Package: PG-TQFP-48. Request verified stock, price, MOQ and lead time.",
+      "keywords": "TLE9015QU, Infineon (英飞凌), Interface IC, BMS 隔离通信收发器, 车规级 UART 转 iso-UART 电池管理系统收发器, 支持双向菊花链通信，速率 2Mbps，电容/变压器隔离，供电 3.3V~5.5V；PG-TQFP-48 封装, PG-TQFP-48, -40°C~+125°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, AEC-Q100、ISO 26262 ASIL-D、RoHS"
+    },
+    "/product/HYG045P03LQ1D": {
+      "title": "HYG045P03LQ1D | HUAYI (华羿微电) P 沟道增强型功率 MOSFET | YIXINOU",
+      "description": "HYG045P03LQ1D from HUAYI (华羿微电): 华羿微电 P 沟道沟槽工艺功率 MOS 管. Provided specifications: VDS=-30V，ID=-70A，RDS(on) 典型 4.5mΩ (@VGS=-10V)；TO-252-2L (DPAK) 封装；工作结温 -55°C~+175°C Package: TO-252-2L (DPAK). Request verified stock, price, MOQ and lead time.",
+      "keywords": "HYG045P03LQ1D, HUAYI (华羿微电), MOSFET, P 沟道增强型功率 MOSFET, 华羿微电 P 沟道沟槽工艺功率 MOS 管, VDS=-30V，ID=-70A，RDS(on) 典型 4.5mΩ (@VGS=-10V)；TO-252-2L (DPAK) 封装, TO-252-2L (DPAK), -55°C~+175°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, RoHS"
+    },
+    "/product/TLV2381IDR": {
+      "title": "TLV2381IDR | Texas Instruments (TI) 微功耗轨到轨运算放大器 | YIXINOU",
+      "description": "TLV2381IDR from Texas Instruments (TI): 单通道 10µA 160kHz 轨到轨输入/输出运算放大器. Provided specifications: 单通道，静态电流 7µA(typ)/10µA(max)，GBW 160kHz，供电 2.7V~16V；SOIC-8 (D) 封装；工作温度 -40°C~+125°C Package: SOIC-8 (D). Request verified stock, price, MOQ and lead time.",
+      "keywords": "TLV2381IDR, Texas Instruments (TI), Analog IC, 微功耗轨到轨运算放大器, 单通道 10µA 160kHz 轨到轨输入/输出运算放大器, 单通道，静态电流 7µA(typ)/10µA(max)，GBW 160kHz，供电 2.7V~16V；SOIC-8 (D) 封装, SOIC-8 (D), -40°C~+125°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, RoHS"
+    },
+    "/product/XM25QU41BUIG": {
+      "title": "XM25QU41BUIG | XMC (武汉新芯) Serial NOR Flash | YIXINOU",
+      "description": "XM25QU41BUIG from XMC (武汉新芯): 4Mbit 1.8V 串行 SPI/Dual/Quad NOR 闪存. Provided specifications: 容量 4Mbit，支持标准/双线/四线 SPI，时钟频率最高 104MHz，供电 1.65V~1.95V；USON-8 (2x3mm) 封装；工作温度 -40°C~+85°C Package: USON-8 (2x3mm). Request verified stock, price, MOQ and lead time.",
+      "keywords": "XM25QU41BUIG, XMC (武汉新芯), Memory IC, Serial NOR Flash, 4Mbit 1.8V 串行 SPI/Dual/Quad NOR 闪存, 容量 4Mbit，支持标准/双线/四线 SPI，时钟频率最高 104MHz，供电 1.65V~1.95V；USON-8 (2x3mm) 封装, USON-8 (2x3mm), -40°C~+85°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, JEDEC JESD216 (SFDP)、RoHS"
+    },
+    "/product/TC4S69F": {
+      "title": "TC4S69F | Toshiba (东芝) 单门非门/反相器 | YIXINOU",
+      "description": "TC4S69F from Toshiba (东芝): 高速 CMOS 单路 3 级缓冲反相器. Provided specifications: 单通道反相器，供电 2V~6V，传输延迟 7ns(typ @5V)；SMV (SOT-25 / SC-74A, 5引脚) 封装；工作温度 -40°C~+85°C Package: SMV (SOT-25 / SC-74A, 5引脚). Request verified stock, price, MOQ and lead time.",
+      "keywords": "TC4S69F, Toshiba (东芝), Analog IC, 单门非门/反相器, 高速 CMOS 单路 3 级缓冲反相器, 单通道反相器，供电 2V~6V，传输延迟 7ns(typ @5V)；SMV (SOT-25 / SC-74A, 5引脚) 封装, SMV (SOT-25 / SC-74A, 5引脚), -40°C~+85°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, JEDEC JESD7-A (74HC)、RoHS"
+    },
+    "/product/QMI8658A": {
+      "title": "QMI8658A | QST (矽睿科技) MEMS 六轴 IMU | YIXINOU",
+      "description": "QMI8658A from QST (矽睿科技): 低噪声宽带宽 6D 惯性测量单元 (带运动协处理器). Provided specifications: 3 轴陀螺仪(±16~±2048°/s) + 3 轴加速度计(±2g~±16g)，1536B FIFO，I3C/I2C/SPI，供电 1.71V~3.6V；LGA-14 (2.5x3.0x0.86mm) 封装；工作温度 -40°C~+85°C Package: LGA-14 (2.5x3.0x0.86mm). Request verified stock, price, MOQ and lead time.",
+      "keywords": "QMI8658A, QST (矽睿科技), Inertial sensor, MEMS 六轴 IMU, 低噪声宽带宽 6D 惯性测量单元 (带运动协处理器), 3 轴陀螺仪(±16~±2048°/s) + 3 轴加速度计(±2g~±16g)，1536B FIFO，I3C/I2C/SPI，供电 1.71V~3.6V；LGA-14 (2.5x3.0x0.86mm) 封装, LGA-14 (2.5x3.0x0.86mm), -40°C~+85°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, MIPI I3C、RoHS"
+    },
+    "/product/HC32L130E8PA": {
+      "title": "HC32L130E8PA | XHSC (小华半导体/华大) MCU（32位 ARM Cortex-M0+） | YIXINOU",
+      "description": "HC32L130E8PA from XHSC (小华半导体/华大): 超低功耗 32 位 ARM Cortex-M0+ 微控制器. Provided specifications: ARM Cortex-M0+ 48MHz，64KB Flash，8KB SRAM，12 位 1Msps ADC，供电 1.8V~5.5V；TSSOP-28 封装；工作温度 -40°C~+85°C Package: TSSOP-28. Request verified stock, price, MOQ and lead time.",
+      "keywords": "HC32L130E8PA, XHSC (小华半导体/华大), Processor and controller, MCU（32位 ARM Cortex-M0+）, 超低功耗 32 位 ARM Cortex-M0+ 微控制器, ARM Cortex-M0+ 48MHz，64KB Flash，8KB SRAM，12 位 1Msps ADC，供电 1.8V~5.5V；TSSOP-28 封装, TSSOP-28, -40°C~+85°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, RoHS"
+    },
+    "/product/TP181A2-CR-S": {
+      "title": "TP181A2-CR-S | 3PEAK (思瑞浦) 零漂移双向电流检测放大器 | YIXINOU",
+      "description": "TP181A2-CR-S from 3PEAK (思瑞浦): 精密零漂移双向电流检测放大器 (增益 100V/V). Provided specifications: 固定增益 100V/V，共模电压 -0.3V~+36V，供电 2.7V~30V，失调电压 10µV(typ)；SC70-6 (SOT-363) 封装；工作温度 -40°C~+125°C Package: SC70-6 (SOT-363). Request verified stock, price, MOQ and lead time.",
+      "keywords": "TP181A2-CR-S, 3PEAK (思瑞浦), Analog IC, 零漂移双向电流检测放大器, 精密零漂移双向电流检测放大器 (增益 100V/V), 固定增益 100V/V，共模电压 -0.3V~+36V，供电 2.7V~30V，失调电压 10µV(typ)；SC70-6 (SOT-363) 封装, SC70-6 (SOT-363), -40°C~+125°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, RoHS"
+    },
+    "/product/HC32L072JATA": {
+      "title": "HC32L072JATA | XHSC (小华半导体/华大) MCU（32位 ARM Cortex-M0+） | YIXINOU",
+      "description": "HC32L072JATA from XHSC (小华半导体/华大): 超低功耗 32 位 ARM Cortex-M0+ 微控制器 (带 USB/CAN). Provided specifications: ARM Cortex-M0+ 48MHz，128KB Flash，16KB SRAM，集成 USB FS 与 CAN 2.0B，供电 1.8V~5.5V；LQFP-48 封装；工作温度 -40°C~+85°C Package: LQFP-48. Request verified stock, price, MOQ and lead time.",
+      "keywords": "HC32L072JATA, XHSC (小华半导体/华大), Processor and controller, MCU（32位 ARM Cortex-M0+）, 超低功耗 32 位 ARM Cortex-M0+ 微控制器 (带 USB/CAN), ARM Cortex-M0+ 48MHz，128KB Flash，16KB SRAM，集成 USB FS 与 CAN 2.0B，供电 1.8V~5.5V；LQFP-48 封装, LQFP-48, -40°C~+85°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, USB 2.0 FS、ISO 11898 (CAN)、RoHS"
+    },
+    "/product/W5500": {
+      "title": "W5500 | WIZnet 全硬件 TCP/IP 以太网控制器 (MAC+PHY) | YIXINOU",
+      "description": "W5500 from WIZnet: 集成全硬件 TCP/IP 协议栈与 10/100M PHY 的以太网芯片. Provided specifications: 支持 8 路独立硬件 Socket，32KB 收发缓存，80MHz SPI 接口，10BaseT/100BaseTX，供电 3.3V (IO 5V 耐压)；LQFP-48 封装；工作温度 -40°C~+85°C Package: LQFP-48. Request verified stock, price, MOQ and lead time.",
+      "keywords": "W5500, WIZnet, Interface IC, 全硬件 TCP/IP 以太网控制器 (MAC+PHY), 集成全硬件 TCP/IP 协议栈与 10/100M PHY 的以太网芯片, 支持 8 路独立硬件 Socket，32KB 收发缓存，80MHz SPI 接口，10BaseT/100BaseTX，供电 3.3V (IO 5V 耐压)；LQFP-48 封装, LQFP-48, -40°C~+85°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, IEEE 802.3 (10/100Base-T)、RoHS"
+    },
+    "/product/TPS5450DDAR": {
+      "title": "TPS5450DDAR | Texas Instruments (TI) 同步/非同步降压 DC/DC 转换器 | YIXINOU",
+      "description": "TPS5450DDAR from Texas Instruments (TI): 5A 宽输入范围 SWIFT™ 降压转换器. Provided specifications: 输入 5.5V~36V，连续输出电流 5A，开关频率 500kHz，内置 110mΩ 高侧 MOSFET；HSOIC-8 PowerPAD (DDA) 封装；工作结温 -40°C~+125°C Package: HSOIC-8 PowerPAD (DDA). Request verified stock, price, MOQ and lead time.",
+      "keywords": "TPS5450DDAR, Texas Instruments (TI), Power management IC, 同步/非同步降压 DC/DC 转换器, 5A 宽输入范围 SWIFT™ 降压转换器, 输入 5.5V~36V，连续输出电流 5A，开关频率 500kHz，内置 110mΩ 高侧 MOSFET；HSOIC-8 PowerPAD (DDA) 封装, HSOIC-8 PowerPAD (DDA), -40°C~+125°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, RoHS"
+    },
+    "/product/FM25Q64AI3-SOB-T-G3": {
+      "title": "FM25Q64AI3-SOB-T-G3 | Fudan Micro (复旦微电) Serial NOR Flash | YIXINOU",
+      "description": "FM25Q64AI3-SOB-T-G3 from Fudan Micro (复旦微电): 64Mbit 3V 串行 SPI/Dual/Quad NOR 闪存. Provided specifications: 容量 64Mbit，支持标准/双线/四线 SPI，时钟最高 104MHz，供电 2.7V~3.6V；SOP-8 (208mil) 封装；工作温度 -40°C~+85°C Package: SOP-8 (208mil). Request verified stock, price, MOQ and lead time.",
+      "keywords": "FM25Q64AI3-SOB-T-G3, Fudan Micro (复旦微电), Memory IC, Serial NOR Flash, 64Mbit 3V 串行 SPI/Dual/Quad NOR 闪存, 容量 64Mbit，支持标准/双线/四线 SPI，时钟最高 104MHz，供电 2.7V~3.6V；SOP-8 (208mil) 封装, SOP-8 (208mil), -40°C~+85°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, JEDEC JESD216 (SFDP)、RoHS"
+    },
+    "/product/ST17H62": {
+      "title": "ST17H62 | Lenze (伦茨科技) 低功耗蓝牙 BLE 5.0 SoC | YIXINOU",
+      "description": "ST17H62 from Lenze (伦茨科技): 超低功耗蓝牙 5.0 无线微控制器系统级芯片. Provided specifications: 32 位 ARM Cortex-M0 内核，支持 BLE 5.0，内置 Flash/SRAM，供电 1.8V~3.6V；QFN-32 封装；工作温度 -40°C~+85°C Package: QFN-32. Request verified stock, price, MOQ and lead time.",
+      "keywords": "ST17H62, Lenze (伦茨科技), Wireless connectivity SoC, 低功耗蓝牙 BLE 5.0 SoC, 超低功耗蓝牙 5.0 无线微控制器系统级芯片, 32 位 ARM Cortex-M0 内核，支持 BLE 5.0，内置 Flash/SRAM，供电 1.8V~3.6V；QFN-32 封装, QFN-32, -40°C~+85°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, Bluetooth 5.0 (BLE)、RoHS"
+    },
+    "/product/%CF%80220N61": {
+      "title": "π220N61 | 2Pai Semi (荣湃半导体) 双向 I2C 数字隔离器 | YIXINOU",
+      "description": "π220N61 from 2Pai Semi (荣湃半导体): 基于 iDivider® 技术的低功耗双向 I2C 数字隔离器. Provided specifications: 2 通道双向开漏 (SDA/SCL)，速率最高 2Mbps，隔离耐压 3kVrms/5kVrms，供电 3.0V~5.5V；SOIC-16W 封装；工作温度 -40°C~+125°C Package: SOIC-16W. Request verified stock, price, MOQ and lead time.",
+      "keywords": "π220N61, 2Pai Semi (荣湃半导体), Isolator, 双向 I2C 数字隔离器, 基于 iDivider® 技术的低功耗双向 I2C 数字隔离器, 2 通道双向开漏 (SDA/SCL)，速率最高 2Mbps，隔离耐压 3kVrms/5kVrms，供电 3.0V~5.5V；SOIC-16W 封装, SOIC-16W, -40°C~+125°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, UL 1577、VDE 0884-11、RoHS"
+    },
+    "/product/ADBMS1818ASWAZ-RL": {
+      "title": "ADBMS1818ASWAZ-RL | Analog Devices (ADI) 18 节多电芯电池监控器 (BMS AFE) | YIXINOU",
+      "description": "ADBMS1818ASWAZ-RL from Analog Devices (ADI): 带菊花链接口的 18 节串联电池监控器. Provided specifications: 测量多达 18 节串联电池电压，总测量误差 <3.0mV，内置 16 位 Δ-Σ ADC 与被动均衡，双线 isoSPI；LQFP-64 (带裸露焊盘 SW-64-2) 封装；工作温度 -40°C~+85°C Package: LQFP-64 (带裸露焊盘 SW-64-2). Request verified stock, price, MOQ and lead time.",
+      "keywords": "ADBMS1818ASWAZ-RL, Analog Devices (ADI), Power management IC, 18 节多电芯电池监控器 (BMS AFE), 带菊花链接口的 18 节串联电池监控器, 测量多达 18 节串联电池电压，总测量误差 <3.0mV，内置 16 位 Δ-Σ ADC 与被动均衡，双线 isoSPI；LQFP-64 (带裸露焊盘 SW-64-2) 封装, LQFP-64 (带裸露焊盘 SW-64-2), -40°C~+85°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, ISO 26262、RoHS"
+    },
+    "/product/IS42S16160J-6TLI": {
+      "title": "IS42S16160J-6TLI | ISSI (芯成) SDRAM | YIXINOU",
+      "description": "IS42S16160J-6TLI from ISSI (芯成): 256Mbit 3.3V 同步动态随机存取存储器. Provided specifications: 容量 256Mbit (16Mx16，4 Banks)，时钟频率 166MHz (CL3)，供电 3.0V~3.6V；TSOP-II-54 封装；工作温度 -40°C~+85°C Package: TSOP-II-54. Request verified stock, price, MOQ and lead time.",
+      "keywords": "IS42S16160J-6TLI, ISSI (芯成), Memory IC, SDRAM, 256Mbit 3.3V 同步动态随机存取存储器, 容量 256Mbit (16Mx16，4 Banks)，时钟频率 166MHz (CL3)，供电 3.0V~3.6V；TSOP-II-54 封装, TSOP-II-54, -40°C~+85°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, JEDEC JESD21-C (SDRAM)、RoHS"
+    },
+    "/product/LTC6820HMS%23PBF": {
+      "title": "LTC6820HMS#PBF | Analog Devices (Linear) isoSPI 隔离通信接口收发器 | YIXINOU",
+      "description": "LTC6820HMS#PBF from Analog Devices (Linear): 单双绞线双向隔离 SPI 通信接口芯片. Provided specifications: 速率最高 1Mbps，支持长达 100 米双绞线变压器隔离，供电 2.7V~5.5V，待机电流 2µA；MSOP-16 封装；工作温度 -40°C~+125°C Package: MSOP-16. Request verified stock, price, MOQ and lead time.",
+      "keywords": "LTC6820HMS#PBF, Analog Devices (Linear), Isolator, isoSPI 隔离通信接口收发器, 单双绞线双向隔离 SPI 通信接口芯片, 速率最高 1Mbps，支持长达 100 米双绞线变压器隔离，供电 2.7V~5.5V，待机电流 2µA；MSOP-16 封装, MSOP-16, -40°C~+125°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, AEC-Q100、ISO 26262、RoHS"
+    },
+    "/product/CW1143ALFS": {
+      "title": "CW1143ALFS | Cellwise (赛微微电) 多串锂电池保护 IC | YIXINOU",
+      "description": "CW1143ALFS from Cellwise (赛微微电): 11~14 节串联锂电池全功能保护芯片. Provided specifications: 支持 11~14 串锂离子/铁锂电池过充/过放/过流/短路/温度保护及均衡；SSOP-28 封装；工作温度 -40°C~+85°C Package: SSOP-28. Request verified stock, price, MOQ and lead time.",
+      "keywords": "CW1143ALFS, Cellwise (赛微微电), Power management IC, 多串锂电池保护 IC, 11~14 节串联锂电池全功能保护芯片, 支持 11~14 串锂离子/铁锂电池过充/过放/过流/短路/温度保护及均衡；SSOP-28 封装, SSOP-28, -40°C~+85°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, RoHS"
+    },
+    "/product/LSD4BT-E92ALSP001": {
+      "title": "LSD4BT-E92ALSP001 | Lierda (利尔达) 低功耗蓝牙 (BLE) 通信模块 | YIXINOU",
+      "description": "LSD4BT-E92ALSP001 from Lierda (利尔达): 利尔达 E92 系列低功耗蓝牙模块. Provided specifications: 频段 2402~2480MHz，发射功率 4dBm，支持 BLE 5.0/5.3，外接天线接口，供电 1.8V~3.6V；SMD 邮票孔模块；工作温度 -40°C~+85°C Package: . Request verified stock, price, MOQ and lead time.",
+      "keywords": "LSD4BT-E92ALSP001, Lierda (利尔达), Wireless connectivity SoC, 低功耗蓝牙 (BLE) 通信模块, 利尔达 E92 系列低功耗蓝牙模块, 频段 2402~2480MHz，发射功率 4dBm，支持 BLE 5.0/5.3，外接天线接口，供电 1.8V~3.6V；SMD 邮票孔模块, , -40°C~+85°C, datasheet, price, quote, in stock, MOQ, lead time, authorized distributor, replacement, original genuine, Bluetooth SIG、SRRC/FCC/CE、RoHS"
     }
   },
   "layout": {
